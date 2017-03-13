@@ -1,0 +1,3398 @@
+﻿ 
+ 
+ 
+   
+        
+      
+      
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+  
+ 
+ 
+ 
+ 
+                                             33  
+ 
+                                    Fully COLLATED 
+ 
+                                      June 22, 2004 
+ 
+ 
+                                        Written by 
+                                      Ronald D. Moore 
+ 
+ 
+ 
+ 
+                                      Episode #T1801 
+ 
+ 
+             BATTLESTAR GALACTICA
+
+
+
+                                        "33"
+
+
+                                  Episode #T1801
+
+
+
+                                      Written by
+
+                                  Ronald D. M oore
+
+
+
+                                    Fully  Collated
+
+                                   June 22, 2004 
+
+
+
+
+
+
+EXECUTIVE PRODUCERS: Ronald D. Moore
+
+                              David Eick
+
+CO-EXEC PRODUCER: Toni Graphia
+
+PRODUCED BY: Harvey Frand
+
+DIRECTOR: M ichael Rymer
+
+
+
+
+
+Copyright   2004 Stanford Pictures Inc & Point of View Prods.  This material is the property of 
+
+Stanford Pictures Inc & Point of View Prods and is intended and restricted solely for use by its 
+
+personnel.  Distribution or disclosure of the material to unauthorized persons is prohibited.  The 
+
+sale, copying or reproduction of this material in any form is also prohibited.                  BATTLESTAR GALACTICA
+
+
+                                        "33"
+
+                                  Episode # T1801
+
+
+                                REVIS IO N HIS TO RY
+
+
+
+    DATECOLORPAGES
+
+
+  4/2/04 White 1-62
+
+
+4/12/04 Full Blue 1-55
+
+
+  4/13/04 PINK Rev 8, 10, 12, 14, 18, 19, 21, 
+
+                                                          21A, 21B, 23, 24, 26, 27-28, 
+
+                                                          33, 35, 38, 39, 42, 44, 45, 
+
+                                                          47, 48, 49, 50
+
+
+  4/16/04 YELLOW Rev 2, 3, 5, 7, 8, 10, 12, 12A, 13, 
+
+                                                          15, 18, 19, 20, 21, 21A, 21B, 
+
+                                                          22, 23, 24, 29, 30, 32, 33, 43, 
+
+                                                          48, 49, 50, 50A, 51, 52, 53
+
+
+  4/19/04 GREEN Rev 18, 23, 29, 30, 33, 45 
+
+
+
+ 5/10/04 GOLDENROD Rev 3, 3A, 4, 4A                  BATTLESTAR GALACTICA
+
+
+                                        "33"
+
+                                  Episode #T1801
+
+
+                               Fully Collated 6/22/04
+
+
+                                        CAST
+
+
+Commander William Adama
+
+President Laura Roslin
+
+Cap t Lee Adama
+
+Lt Kara Thrace
+
+Col Saul Tigh
+
+Gaius Baltar
+
+Chief Galen Ty rol
+
+Lt Sharon Valerii
+
+Number Six
+
+
+Billy
+
+Crashdown
+
+Dualla
+
+Gaeta
+
+Helo
+
+Pilot (only on PA)
+
+Socinus
+
+Cally                        BATTLESTAR GALACTICA
+
+
+                                        "33"
+                                    Episode #T1801
+
+                               Fully Collated 6/22/04 
+
+                                        S ETS
+
+
+BATTLES TAR GALACTICA CAPRICA
+
+Colonial One Interiors
+
+Colonial One - Office Baltar's House
+
+CIC
+
+Adama's Quarters Exteriors
+
+Corridors Forest
+
+Hangar Deck
+
+Officers' Head
+
+Pilots' Ready  Room
+
+
+SPACE
+
+Interiors
+
+Raptor
+
+Sharon's Raptor
+
+Kara's Viper
+
+Lee's Vip er
+
+Exteriors
+
+Galactica
+
+Caprica
+
+Civilian Ship s
+
+Colonial One
+
+Olympic Carrier
+
+Cylon Ships
+
+Vip ers
+
+Raptors                                         33 
+
+
+                                      TEASER
+
+    FADE IN:
+
+    INT. BALTAR S HOUSE - DAY11
+
+    BALTAR sits in a chair, gazing out at the water and the 
+    morning light from the serene comfort of his living room, a 
+  cup of coffee on the side table next to him, CLASSICAL MUSIC 
+    playing softly in the b.g.  We might notice that the sky is 
+    just a little brighter than it should be, the colors in the 
+    house a little more vibrant.  In fact, all of his 
+    surroundings seem a little too sharp, too crisp to the eye.  
+
+    NUMBER SIX lounges on a chaise nearby, watching him.
+
+                                NUMBER SIX
+                  God has a plan for you, Gaius.  He 
+                  has a plan for everything and 
+                  everyone.
+
+    Baltar never takes his eyes off the view.
+
+                                LEE (PRELAP)
+                  All Vipers -- hold position.  
+
+    EXT. SPACE - VIPERS22
+
+    A SQUADRON of Galactica s VIPERS are taking up positions in a 
+    defensive formation.  In the far b.g., GALACTICA and the RAG-
+  TAG FLEET can be seen in their own defensive formation 
+    (Galactica deployed to cover the civilian ships).
+
+    INT. LEE S VIPER33
+
+  Lee sits in his cockpit, looking tense and worn.  
+
+                                LEE
+                  Twenty seconds to mark.
+
+    He s watching a DIGITAL CLOCK counting down the seconds:  
+    19... 18... 17...
+
+    INT. BALTAR S HOUSE - DAY44
+
+  Six watches Baltar.  Once again, we re struck by the visual 
+    keys of Baltar s House -- something about this environment is 
+  not quite right, not quite real.
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    2.
+
+    CONTINUED:44
+
+
+                                NUMBER SIX
+                  Gaius?  Are you even listening to 
+                  me?
+
+    INT. GALACTICA - CIC55
+
+    ADAMA is staring at a CLOCK hanging on a bulkhead.  The 
+    SECOND HAND is sweeping up toward the hour.  TIGH, GAETA, 
+    DUALLA at their stations.  Everyone watching clocks (digital 
+    & analog) or their watches.  The mood is tense.  Dualla 
+    operates her console by rote, her face a mask of exhaustion.
+
+                                DUALLA
+                  Sir, Jump 237 underway.  Fifty-
+                  three ships have Jumped, ten still 
+                  reporting trouble with their FTL 
+                  drives.  Including Colonial One.
+
+                                ADAMA
+                  We re getting slower...
+
+                                GAETA
+                  Fifteen seconds.  
+
+    Tigh blinks red-rimmed eyes and tries to focus.
+
+                                TIGH 
+                  Maybe this time...
+
+    Adama never takes his eyes from the clock:  10...9...8...  
+
+    INT. BALTAR S HOUSE - DAY66
+
+    Baltar now standing at the window, calmly sipping his tea.
+
+                                NUMBER SIX
+                  You have to believe in something.
+
+                                BALTAR
+                  I believe in the beauty of a well 
+                  constructed formula.  The elegance 
+                  of a complex argument.  Rational 
+                  problems solved through rational 
+                  means.  Not some large invisible 
+                  man in the sky controlling the 
+                  flights of birds and the lives of 
+                  men.  A rational universe.  
+                  Explained through rational means.  '33' Fully Collated - 6/22/04    3.
+
+
+
+    EXT. SPACE - COLONIAL ONE77
+
+  The transport ship in amid the rest of the civilian ships.  
+    Several of the other civilian ships JUMP AWAY, leaving 
+    Colonial One and a few others.
+
+    INT. COLONIAL ONE - OFFICE88
+
+    LAURA sitting in what has now been transformed into a crude 
+    Oval Office.  BILLY is on the phone and various AIDES are in 
+    their seats.  Like on Galactica, everyone here is exhausted, 
+    stressed, and watching a digital clock counting down the 
+    seconds:  7... 6... 5...  
+
+                                LAURA
+                  Cutting it a little close this 
+                  time, aren t we, Billy?
+
+                                BILLY
+                        (listening to phone)
+                  Pilot says he s had to reboot the 
+                  FTL computer again.
+
+    Laura looks around the cabin at the tense and scared faces.  
+  She tries to put on a confident smile for them.
+
+    INT. BALTAR S HOUSE - DAY99
+
+  Six sidles up to Baltar, slips an arm around his waist, 
+    nuzzles his neck.
+
+                                NUMBER SIX
+                  I love you.  That s not rational.
+
+                                BALTAR
+                  You re not rational.  You re also 
+                  not really here.
+
+    INT. GALACTICA - HANGAR DECK1010
+
+    TYROL and his DECK GANG are standing by, watching a wall 
+    CLOCK as the final seconds tick down.  The fatigue and 
+    exhaustion are all too evident here as well.  CALLY is  *
+    standing next to TYROL.  She s mentally burnt, strung-out,  *
+    right on the edge. *
+
+                                CALLY *
+                  Why is it always thirty-three  *
+                  minutes?  Why isn t it thirty-four?   *
+                  Or thirty-five?  Or fifty-five?  Or  *
+                  sixty-seven or seventy-eight...? *
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    3A.
+
+    CONTINUED:1010
+
+
+                                TYROL *
+                  Cally. *
+
+                                CALLY *
+                  Yeah? *
+
+                                TYROL *
+                  It s gonna be alright. *
+
+    Cally pulls herself back, nods.  They resume watching the  *
+    clock:  4... 3... *
+
+    INT. BALTAR S HOUSE - DAY1111
+
+    Baltar is kissing Six s neck, unbuttoning her blouse, losing 
+    himself in the eroticism of this woman in his arms.  She 
+    smiles indulgently.  '33' Fully Collated - 6/22/04    4.
+
+
+
+    INT. KARA S VIPER1212
+
+    Kara is in her Viper, waiting along with the rest of the 
+    squadron in space.  She slaps her arms, shakes her head, 
+    tries to get bodily awake and ready.  
+
+                                KARA *
+                  How many times is this?  Have we  *
+                  passed two hundred yet? *
+
+                                                                INTERCUT WITH: *
+
+    INT. LEE S VIPER12A12A *
+
+                                LEE *
+                  Try two thirty-seven. *
+
+                                KARA *
+                  Two thirty-seven?  You re telling  *
+                  me I missed number two hundred? *
+
+                                LEE *
+                  That s what I m telling you.  What,  *
+                  were you planning something  *
+                  special? *
+
+                                KARA *
+                  Just like to keep track of these  *
+                  things.  Two hundred was such a  *
+                  nice round number.  Now I gotta  *
+                  wait for three hundred. *
+
+                                LEE *
+                  Don t even joke about that. *
+
+    Kara looks at her digital WATCH:  2... 1... *
+
+    INT. BALTAR S HOUSE - DAY1313
+
+    Baltar has Six on the chaise and begins to make love to her.  
+  She pulls back, looks at him with regret.
+
+                                NUMBER SIX
+                  Time s up.
+
+1414QUICK CUTS:  
+
+  The digital clocks all around the fleet register ZERO and the 
+    analog second hands all reach the hour mark--  '33' Fully Collated - 6/22/04    4A.
+
+
+
+    EXT. SPACE1515
+
+    Hold a beat on the empty starfield... then a CYLON BASE SHIP 
+  JUMPS into view.  It LAUNCHES MISSILES immediately.
+
+    CLOSE ON BALTAR
+
+    Eyes closed.  His eyes fly OPEN at the sound of the Pilot s 
+    VOICE coming over the P.A.:
+
+                                PILOT (P.A.) 
+                  Ladies and gentlemen...
+
+                                                                          REVEAL:
+
+    INT. COLONIAL ONE - OFFICE1616
+
+    Baltar is sitting in a chair at the rear of the cabin.
+
+                                PILOT (P.A.)
+                  I m afraid the Cylons have appeared 
+                  again.  However, our FTL drive is 
+                  now working and we will Jump 
+                  momentarily.
+
+    Baltar rubs his face with his hands.  Unlike the way he 
+    looked in his house, here Baltar looks like hell; a man right 
+  on the edge of his ability to take the stress and pressure 
+  and fatigue.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    5.
+
+    CONTINUED:1616
+
+
+    Number Six leans into frame.  We begin to realize that she is 
+  the one constant in his mind -- a phantom that slides easily 
+    back and forth between the calm sedate world of the house he 
+    used to live in and the chaotic world of life in the rag-tag 
+    fleet.
+
+    INT. GALACTICA - CIC1717
+
+  The dradis console shows enemy blips and ALARMS are going off 
+    around the ship.  There s just the slightest pause of 
+    resignation as everyone realizes that it s happened again.  
+    Tigh s exhaustion and disappointment is palpable -- Adama is 
+    just as tired as everyone else, but his mind is already 
+    moving on and he goes to Tigh with an encouraging tone:
+
+                                ADAMA
+                      (to Tigh)
+                  Not this time -- but maybe the 
+                  next.  I ve got an idea for the 
+                  next cycle...
+
+  The CIC becomes a beehive of activity once again.  PILOT 
+    CHATTER coming in, officers and enlisted scurrying about.  
+    Tigh watches his crew perform their tasks -- his temper is 
+    short, not tolerant of mistakes in this situation.  He 
+    quickly spots an error on one of the consoles, taps the 
+    display over the shoulder of the unfortunate Lieutenant.
+
+                                TIGH
+                  Watch the ammo hoists for the main 
+                  guns -- you ve got a red light 
+                  right there.
+
+  The ship is ROCKED by an explosion.
+
+                                DUALLA
+                      (to headset)
+                  Hit on the starboard bow.  Away the 
+                  damage control parties.  
+
+                                GAETA
+                  Basestar is launching raiders.
+
+                                DUALLA
+                  Colonial One ready to Jump!
+
+    OMITTED1818
+
+    OMITTED1919  '33' Fully Collated - 6/22/04    6.
+
+
+
+    EXT. SPACE - VIPERS2020
+
+  Lee and the rest of the Vipers kick in their burners and leap 
+    forward.
+
+                                LEE (WIRELESS)
+                  You know the drill, people.  
+                  Scatter formation, keep em off the 
+                  civies and don t stray beyond the 
+                  recovery line.
+
+  NEW ANGLE - THE CYLONS
+
+    Cylon fighters are swooping in toward the Vipers.  Some 
+    LAUNCH NUCLEAR MISSILES.
+
+                                LEE (WIRELESS) (cont d)
+                  Inbound nukes!
+
+    INT. COLONIAL ONE - OFFICE2121
+
+    Baltar is trying to hold it together in his chair while Six 
+    strokes his hair lovingly.
+
+                                BALTAR
+                  Five days now.  There are limits... 
+                to the human body.  The human mind.  
+                  Tolerances you can t push beyond.  
+                  Those are facts.  Provable facts.  
+                  There are limits.
+
+    EXT. SPACE - CYLONS & VIPERS2222
+
+  The Vipers and the Cylons are blazing away at each other -- 
+    some Vipers trying to keep the Raiders at bay and others 
+    concentrating on the nuclear missiles while Galactica engages 
+  the Basestar.
+
+    COLONIAL ONE
+
+  And the rest of the civilian FLEET Jump away, leaving only 
+    Galactica and her Vipers to face the Cylons.
+
+    INT. CIC2323
+
+  As before.
+
+                                GAETA
+                  All civilian ships away -- 
+                  including Colonial One.  
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    7.
+
+    CONTINUED:2323
+
+
+                                ADAMA
+                  Recover fighters.  Stand-by to 
+                  Jump.
+
+    EXT. SPACE - COLONIAL ONE2424
+
+    JUMPS into view -- the other civilian ships are in the b.g. 
+    which has a PLANET nearby (or some other unique feature to 
+    distinguish it from the area of space they just left).
+
+    INT. COLONIAL ONE - OFFICE2525
+
+    Baltar blinks for a beat.  Lets out a long sigh --
+
+    INT. BALTAR S HOUSE - DAY2626
+
+  -- and Baltar is sitting in his chair, letting out that same 
+    long sigh.  The transition between the reality of Colonial 
+  One and the hyper-real environment of the house is abrupt, 
+  but Baltar is unfazed.  He s calm here, at ease with himself 
+  and the world.  Number Six watches from the chaise.
+
+  EXT. SPACE - GALACTICA2727
+
+  The last few Vipers are making combat landings on the 
+    Galactica.
+
+  INT. CIC2828
+
+    Dualla looks up from her console.
+
+                                DUALLA
+                  All fighters aboard.
+
+                                ADAMA
+                  Execute Jump.
+
+    EXT. SPACE - GALACTICA2929
+
+  The ship JUMPS, leaving the Cylons to shoot at nothing...
+
+    OMITTED3030
+
+    INT. CIC3131
+
+    Gaeta looks over his console.
+
+                                GAETA
+                  Jump 237 complete. 
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    8.
+
+    CONTINUED:3131
+
+
+                                DUALLA
+                  All civilian ships are present and 
+                  accounted for, sir.
+
+                                TIGH
+                  Start the clock.
+
+    Gaeta opens the faceplate of the clock on the wall and spins 
+  the minute hand back to three minutes before the half-hour 
+    mark and picks up a handset.
+
+                                GAETA 
+                      (to handset)
+                  Attention:  Clock has started.  
+                  Thirty-three minutes -- mark.
+
+    QUICK CUTS:
+
+  -- LEE RESETS HIS WATCH.3232
+
+  -- KARA RESETS HER WATCH.3333
+
+  -- TYROL RESETS THE CLOCK ON THE HANGAR DECK BULKHEAD.3434
+
+    INT. BALTAR S HOUSE - DAY3535
+
+    Baltar takes Six into his arms.
+
+                                NUMBER SIX
+                  You know you re not safe.
+
+                                BALTAR
+                  Of course not.  The Cylons will 
+                  follow us again -- as they have the 
+                  last two hundred and thirty-seven 
+                  times.
+
+  He begins taking her clothes off.
+
+                                NUMBER SIX
+                  You re right, you know.  There are 
+                  limits.  Eventually, you ll make a 
+                  mistake, and then--
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    9.
+
+    CONTINUED:3535
+
+
+                                BALTAR
+                  -- and then you will kill us all.  
+                  Yes, yes, I know.  But not for 
+                  another... thirty-three minutes.
+
+  As he takes her down onto the bed, CAMERA DROPS OFF on a 
+    CLOCK, ticking away in the serenity of the house...
+
+                                                                        FADE OUT.
+
+
+                                  END OF TEASER  '33' Fully Collated - 6/22/04    10.
+
+
+                                      ACT ONE
+
+    FADE IN:
+
+    EXT. SPACE - CAPRICA3636
+
+  The planet as seen from orbit.  Thick CLOUDS have engulfed 
+    much of the atmosphere.
+
+    SUPER:             Cylon Occupied Caprica
+
+    EXT. CAPRICA - FOREST - DAY3737
+
+    A MAN is running through the forest -- he s hobbled by an 
+    injury as he crashes through the woods. 
+
+  TWO CYLON CENTURIANS (the mechanistic types) are crashing 
+    through the trees -- chasing the man.
+
+  The Man dives/falls over a log or deadfall and as he rolls 
+  over we see that it s HELO (Sharon Valerii s flight officer 
+  she was forced to leave behind in the pilot) and he doesn t 
+  look too good.  It s cold out here, his breath forming vapor 
+  in the air, but Helo s sweating and having trouble breathing -
+    - radiation sickness starting to set in.
+
+  Helo blinks as beads of sweat trickle down his forehead and 
+  into his eyes and looks back --
+
+  -- the Cylons are charging toward his position.
+
+  Helo grabs a DETONATOR REMOTE and DOUBLE-CLICKS the trigger:
+
+    A CLAYMORE EXPLODES directly in front of the Cylons, blowing 
+    them off their feet.
+
+  The woods are silent except for the smoldering, crackling 
+    sounds of the destroyed Cylons.
+
+    Helo gets up, catches his breath, begins to cautiously limp 
+  out into the open --
+
+  -- Moments later, he s standing over the Cylons -- one 
+    completely destroyed and inert, the other still mechanically 
+    jerking and whirring, trying to REPAIR its shattered body.
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    11.
+
+    CONTINUED:3737
+
+
+    Helo looks down at the Cylon for a beat, then resets his 
+    handweapon and aims it at the Cylon s head.
+
+  Pulls the trigger.
+
+    EXPLOSION --
+
+                                                                          CUT TO:
+
+    A CLOCK
+
+  The minute hand now at quarter til the hour.  REVEAL the 
+  clock hanging on the wall of:
+
+  INT. GALACTICA - OFFICERS  HEAD3838
+
+    PILOTS are scurrying in and out of the washroom, some 
+    throwing water on their faces, others making a quick dash in 
+  and out of the toilet stalls -- everyone looking frayed and 
+    burnt out.
+
+    Kara Thrace has her head completely under a faucet, drowning 
+  her hair and face in the water, her flight suit peeled down 
+  to her waist.  Lee Adama steps in through the hatch, still in 
+  his flight suit.
+
+                                LEE
+                  Two minutes to pre-launch brief, 
+                  people.  Two minutes.
+
+  The pilots pick up the pace, start zipping flight suits and 
+    stumbling out the door.  Lee takes a spot at a sink near 
+  Kara, pulls a toothbrush from a zippered pocket, wets it, 
+    begins to savagely brush his teeth -- more rote than hygiene.  
+  Kara roughly towels off, pulls up her flight suit.
+
+                                KARA
+                  I d like a transfer, sir.
+
+                                LEE
+                  All transfers in writing, please.
+
+  Kara heads for the hatch.
+
+                                KARA
+                  I ll go find a pen.  '33' Fully Collated - 6/22/04    12.
+
+
+
+    INT. ADAMA S QUARTERS/CORRIDOR3939
+
+    Adama is in the head, SHAVING and talking to Tigh, who s 
+    scribbling notes on a piece of paper and scarfing down a few 
+    bites of Adama s untouched food in between sentences.
+
+                                ADAMA
+                  Divide the fleet into six groups.  
+                  They Jump to six different 
+                    coordinates... 
+
+    Adama CUTS himself with the razor -- BLOOD trickles down his 
+    throat for a moment.
+
+                                TIGH
+                  Right...?
+
+    Adama looks on the blood on his neck for a moment, sleep 
+    deprivation and fatigue causing him to lose focus for a 
+    moment.
+
+                                ADAMA
+                  Then Jump two more times... fourth 
+                  Jump, everyone rendezvous back at a 
+                  common set of coordinates... 
+
+                                TIGH
+                  Twenty-four Jumps to plot -- we re 
+                  breaking our humps calculating one 
+                  Jump every thirty-three minutes. 
+
+    Adama grabs his jacket and comes out of the head, sees Tigh 
+    eating his food.
+
+                                TIGH (cont d)
+                  You eating this...?
+
+                                ADAMA
+                  Not anymore.
+
+    Adama heads for the door, Tigh right with him.   They EXIT to 
+  the Corridor.
+
+                                TIGH 
+                  Damned civilian crews.  Half of 
+                  them don t begin Jump prep until 
+                  five minutes before the mark.
+
+                                ADAMA
+                  Takes us ten minutes to calculate 
+                  Jump coordinates.  Another five to 
+                  program the computers.  
+                                (MORE)
+
+
+                                                                            (CONTINUED)'33' Fully Collated - 6/22/04    12A.
+
+    CONTINUED:3939
+                                ADAMA (cont'd)
+                  Three to run the checklists, four 
+                  to balance the fuel mixture...
+
+    Adama glances at his watch --  '33' Fully Collated - 6/22/04    13.
+
+
+
+    CLOSE ON WRISTWATCH
+
+    Ticking away.  REVEAL:
+
+    INT. CORRIDOR - COMM OFFICE4040
+
+  The watch is on the wrist of Dualla and she s standing in a 
+    LONG LINE of Deck Hands who are waiting outside the tiny OFF-
+    SHIP COMMUNICATIONS OFFICE.  The Corridor itself is filled 
+  with BOXES, mislaid items, stray pieces of paper -- no one s 
+  had a chance or energy to police the spaces in days.
+
+    SOCINUS and a couple of deckhands man the Comm Office, now 
+    crammed with sheets of paper, photos and lists.  The deck 
+  hands are working the phones inside the office, while the 
+  Petty Officer mans the door.  
+
+  The man ahead of Dualla leaves and now she s at the head of 
+  the line.  She hands Socinus a piece of paper with names and 
+    descriptions scrawled in neat lines.  He quickly goes over 
+  the list.
+
+                                SOCINUS
+                  Colony?
+
+                                DUALLA
+                  Saggitaron.
+                        (beat)
+                  How many have --
+
+                                SOCINUS
+                  Five thousand two hundred fifty-one 
+                  survivors from Saggitaron last 
+                  count.   
+
+    Dualla brings out a STACK of SNAPSHOTS -- faces of her family 
+  and friends.
+
+                                SOCINUS (cont d)
+                  We can t transmit photos yet, so 
+                  you can either leave them with us 
+                  or put em on the Board.  
+
+    Dualla eyes the stacks and piles of photos and lists filling 
+  the office and decides to keep them.
+
+    INT. PILOTS  READY ROOM4141
+
+  Lee at the CAG podium, finishing the pre-launch brief to his 
+    PILOTS -- including Kara and SHARON VALERII.  
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    14.
+
+    CONTINUED:4141
+
+
+                                LEE
+                  ... combat landings expected again 
+                  to be the order of the day, so 
+                  double-check your undercarriage 
+                  before launch.  Questions?
+
+  No one says a word.  The fatigue in the room is palpable.
+
+                                LEE (cont d)
+                  Then good luck and be careful out 
+                  there.
+
+    Kara reacts to that last line --  Be careful out there?   The 
+    pilots gather up their plotting boards and head for the 
+    hatch.  As they pass out the door, each of them TOUCHES a 
+    PHOTO taped to the wall --
+
+    CLOSE ON PHOTO
+
+    Which shows a COLONIAL SOLDIER with his back to the camera, 
+    standing on a ROOFTOP, looking out over a CITY.  Dark clouds 
+  of SMOKE rise up from the city.  A Colonial FLAG ripples in 
+  the breeze above his head.
+
+    Each pilot s hand comes into frame and touches the image, as 
+    they go out the door and to war.
+
+    INT. CORRIDOR - MEMORIAL WALL4242
+
+    A long, impromptu memorial board now covers the walls of a 
+    section of Corridor.  It s plastered with PHOTOS, 
+    descriptions of loved ones, small drawings, tributes, etc.  
+    Galactica CREWMEMBERS are gathered here putting up photos, 
+    touching the faces of missing loved ones, praying, or just 
+    staring at the faces. 
+
+    It s the sheer number of the faces that hits Dualla in the 
+    chest.  It takes her a beat before she gathers herself and 
+    moves to find a spot to put her photos among the many...
+
+                                MAN S VOICE
+                        (prelap)
+                  Boomer?
+
+    INT. RAPTOR - HANGAR DECK4343
+
+    Sharon is going over the pre-flight checklist in the pilot s 
+    seat of her Raptor.  CRASHDOWN (20s) her new flight officer 
+  is in the back area.  
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    15.
+
+    CONTINUED:4343
+
+
+                                CRASHDOWN
+                  Heard the latest?  Cylons look like 
+                  us now.
+                        (reading checklist)
+                  Primary fuel?
+
+    Sharon doesn t react to the idea of the Cylons looking human.  
+    It s just another rumor to her.  There s a distinct chill in 
+  her attitude toward Crashdown.  
+
+                                SHARON
+                  Primary fuel:  8932 KRG.  
+
+    Tyrol steps into the cabin.
+
+                                CRASHDOWN
+                  Marine told one of the spooks in 
+                  crypto we marooned a PR guy back on 
+                  Ragnar because the XO thought he 
+                  was a Cylon.  
+
+                                SHARON
+                  You know what?  I don t give a 
+                  frak.  Red light on the number four 
+                  thruster.  Go make a visual ID.  
+                  See if it s blocked.
+
+                                CRASHDOWN
+                  Right.  
+
+    Crashdown EXITS the cabin.  Sharon keeps working as Tyrol 
+    leans over her shoulder, pretends to be interested in 
+    something on the control panel.
+
+                                TYROL
+                  Little rough on your ECO if you ask 
+                  me.
+
+                                SHARON
+                  He s not my ECO, he s some refugee 
+                  from the Triton I ve been saddled 
+                  with and I didn t ask you.
+
+                                TYROL
+                        (gently)
+                  Helo s gone, Sharon...
+
+                                SHARON
+                  I didn t ask you that either.
+
+    Tyrol heads for the door.  Just before he leaves:
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    16.
+
+    CONTINUED: (2)4343
+
+
+                                SHARON (cont d)
+                  Sorry.
+
+    Tyrol appreciates it, but knows it s time to leave anyway.  
+    Sharon struggles to focus on her job.
+
+    INT. COLONIAL ONE - OFFICE4444
+
+    Laura is at her desk, which has become the center of gravity 
+  in the makeshift Oval Office.  Billy goes to her with a stack 
+  of message slips and a PACKAGE.  Several other AIDES are also 
+  in the cabin and there s a continuous flow of PEOPLE in and 
+  out -- this is a busy workspace.   
+
+                                BILLY 
+                        (re: paper)
+                  Update on the headcount, Madame 
+                  President.
+
+    Laura takes it, reacts in disappointment.
+
+                                LAURA
+                  How d we drop three hundred?
+
+                                BILLY
+                        (hands her another paper)
+                  Some overcounts, some deaths from 
+                  wounds, a few missing during the 
+                  last attack.
+
+    Laura goes to a small piece of BOARD that s been roughly 
+    mounted on one bulkhead.   The board has a number on it:  
+    50,298.  She rubs off the last few digits and corrects it 
+    with a GREASE PENCIL to 49,978.  She looks at the number for 
+    a long beat, then tries to refocus on something else.
+
+                                LAURA
+                  What s in the package?
+
+                                BILLY
+                  It s a gift.  From the captain of 
+                  one of the ships.  There s a 
+                  note...  
+
+    Laura unwraps the package while Billy reads the note.
+
+                                BILLY (cont d)
+                        (reads)
+                   President Roslin, please accept 
+                  this on behalf of the people of 
+                  Aerilon.  
+                                (MORE)
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    17.
+
+    CONTINUED:4444
+                                BILLY (cont d)
+                  It was taken on the capitol of our 
+                  colony during the attack. 
+
+    Inside the package, Laura finds a framed copy of the same 
+    PHOTO we saw in the Pilots  Ready Room earlier.  Below the 
+    photo is a small inscription:   Lest We Forget  
+
+    Laura stares at the photo of the anonymous soldier, the smoke 
+  and the flag as silence falls in the cabin. 
+
+    FIND Baltar and Number Six in their own seats.  Six runs a 
+    finger over his earlobe.
+
+                                NUMBER SIX
+                  Do you want children, Gaius?
+
+    INT. BALTAR S HOUSE - DAY4545
+
+    Baltar smokes a thin cigar, Six at his side.
+
+                                BALTAR
+                  Let me think about that -- uh, no.
+
+                                NUMBER SIX
+                  Procreation is one of God s 
+                  commandments.
+
+                                BALTAR
+                  Well, maybe someday he ll bless you 
+                  with a lovely little walking 
+                  toaster of your very own.
+
+                                NUMBER SIX
+                  I want us to have a child, Gaius.
+
+                                BALTAR
+                  You can t be serious -- what was 
+                  that?
+
+    INT. COLONIAL ONE - OFFICE45A45A
+
+    Baltar sits forward in his chair -- no sign of Six.
+
+                                BALTAR 
+                  I m sorry.  Excuse me for 
+                  interrupting -- what did you just 
+                  say?
+
+                                BILLY
+                  Oh.  I was just telling the 
+                  President that a Doctor...
+                        (checks paper)
+                                (MORE)
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    18.
+
+      CONTINUED:45A45A
+                                BILLY (cont'd)
+                  ... Amarak has requested to speak 
+                  to her.  
+
+    Baltar s heart skips a beat at the name. 
+
+                                BALTAR 
+                  Doctor Amarak.  I see.
+
+                                LAURA
+                  You know him?
+
+  Six appears again next to Baltar.
+
+                                NUMBER SIX
+                      (to Baltar)
+                  Have you always been able to 
+                  multitask like this?
+
+                                BALTAR
+                  He worked with me at the Ministry 
+                  of Defense.
+
+                                BILLY
+                        (off message slip)
+                  Says he has uncovered  important 
+                  information regarding how the 
+                  Cylons were able to defeat Colonial 
+                  defenses. 
+
+                                NUMBER SIX
+                  I was always a little worried he 
+                  was on to us.
+
+                                BALTAR
+                  Perhaps I should talk to him.
+
+                                BILLY
+                  I think he only wants to speak 
+                  directly with the President.  
+                  Sounded urgent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    19.
+
+    CONTINUED: (2)45A45A
+
+
+                                NUMBER SIX
+                  It must be very, very important.  
+                  Maybe something about a certain 
+                  traitor in the President s inner 
+                  circle.
+
+                                LAURA
+                        (checks watch)
+                  All right -- not enough time before 
+                  the next Jump.  Get him aboard 
+                  during the next cycle.
+
+  Six leans into Baltar.
+
+                                NUMBER SIX
+                  I d say you have a serious problem.
+
+  OFF Baltar s worried expression...
+
+                                                                        FADE OUT.
+
+
+    SCENES OMITTED46-6346-63
+
+
+                                END OF ACT ONE  '33' Fully Collated - 6/22/04    20.
+
+
+                                      ACT TWO
+
+    FADE IN:
+
+6464INT. CORRIDORS 
+
+    Tigh and Dualla are walking with Adama as he makes his way 
+    toward his quarters.  Dualla is handing Adama papers to sign 
+  on a clipboard, which she then takes from him as he signs.
+
+                                DUALLA
+                  Deck log...
+
+                                TIGH
+                  Gaeta s working on your multi-Jump 
+                  idea.  He s worried we don t have 
+                  enough cartographic information...
+
+                                DUALLA 
+                  Fuel report...
+
+                                TIGH
+                  Keeps talking about Jumping into 
+                  the middle of a star...
+
+                                DUALLA
+                  DC...
+
+                                ADAMA
+                  Worries me too. 
+                        (off paper)
+                  Twelve more cases of nervous 
+                  exhaustion.  That makes...
+                        (checks)
+                  Sixty-one total.  Ten suicides.
+                      (to Tigh)
+                  Have the docs start pumping em full 
+                  of stimulants and sending em back 
+                  on the line.  Pilots too.  Rotating 
+                  injections.  One pilot out of every 
+                  three, every other cycle.
+
+                                TIGH
+                  That s gonna come back and bite us 
+                  on the ass.
+
+                                DUALLA
+                  Munitions...
+
+                                ADAMA
+                  We ve got too much work and not 
+                  enough people to do it.
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    21.
+
+    CONTINUED:6464
+
+
+                                DUALLA
+                  Fuel report...
+
+                                ADAMA
+                  I ve already signed one of these, 
+                D.
+
+                                DUALLA
+                  Yes, sir.  Sorry, sir.
+                        (hands him another one)
+                  Comm traffic -- two from the 
+                  President.
+
+    They ve arrived outside Adama s quarters.  He glances at his 
+    watch.
+
+                                ADAMA
+                  This my ten minutes or yours?
+
+                                TIGH
+                  Yours, I took ten last time.
+
+                                ADAMA
+                  See you two in Combat.
+
+  Adama turns down one Corridor and Tigh and Dualla head down 
+    another Corridor.
+
+                                DUALLA
+                  I believe this was your turn, sir.
+
+                                TIGH
+                  If the Old Man s so tired he can t 
+                  remember, then it s his turn.
+
+    INT. HANGAR DECK64A64A
+
+    Kara is doing a preflight walk-around of her Viper, looking 
+  up under the undercarriage, checking inside the turbines, 
+    etc. while Lee looks on.  They re both mentally and 
+    physically fried, barely able to think beyond what s right in 
+    front of them.
+
+                                LEE
+                  You see the note from the XO?
+
+                                KARA
+                  I saw it.  No way.  
+
+                                LEE
+                  Kara...
+
+
+
+
+                                                                            (CONTINUED)'33' Fully Collated - 6/22/04    21A.
+
+      CONTINUED:64A64A
+
+
+                                KARA
+                  I don t fly with stims.  They blunt 
+                  your reflexes, reaction time...
+
+                                LEE
+                  C mon, Kara, gimme a break here.  
+                  Just get the shot, all right?  
+
+    Kara turns on Lee.
+
+                                KARA
+                  Why are we arguing about this?
+
+                                LEE
+                  I have no idea.
+
+                                KARA 
+                  Neither do I.  You re the CAG -- 
+                  act like one.
+
+                                LEE
+                  What the hell s that mean?
+
+                                KARA
+                  It means you re still acting like 
+                  you re everyone s best friend.  No.  
+                  We re not friends, you re the CAG.  
+                   Be careful out there?   No.  Our 
+                  job isn t to be careful, it s to 
+                  shoot Cylons outta the frakking 
+                  sky.   Good hunting  is what you 
+                  say to us.  And now, one of your 
+                  idiot pilots is acting like a child 
+                  and refusing to get her shot.  So 
+                  she either says  Yes, sir  and 
+                  obeys the order or you smack her in 
+                  the mouth and then drag her sorry 
+                  ass down to Sickbay and get the 
+                  frakking pills.
+
+  Lee just stares at her for a minute, then he feels a slight 
+    grin form on his face.
+
+                                LEE
+                  Glad I m not working for you.
+
+                                KARA
+                  Damn right you re glad.
+
+                                LEE
+                  So do I have to smack you in the 
+                  mouth, Lieutenant?
+
+
+
+                                                                            (CONTINUED)'33' Fully Collated - 6/22/04    21B.
+
+    CONTINUED: (2)64A64A
+
+
+                                KARA
+                  No, sir.  I ll go get my pills, 
+                  sir.
+
+  Lee holds out his hand -- the PILLS are in it.  She gives him 
+    a look, then dry-swallows them.
+
+                                KARA (cont d)
+                  Thank you, sir.
+
+                                LEE
+                  Carry on.
+
+  Lee heads out of the hangar.
+
+    INT. ADAMA S QUARTERS6565
+
+    Adama is asleep in his rack -- then the sound-powered PHONE 
+    WHISTLES.  He picks it up by long-honed instinct.
+
+                                ADAMA
+                  Adama.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    22.
+
+    CONTINUED:6565
+
+
+                                GAETA (PHONE)
+                  Sorry to disturb you, sir.  I ve 
+                  got the President for you.
+
+                                ADAMA
+                  Put her through.
+
+    There s a few beats of electronic clicking, and Adama nearly 
+    falls asleep in those few seconds before --
+
+                                LAURA (PHONE)
+                  Commander?
+                        (beat)
+                  Commander Adama?
+
+    Adama s eyes fly open and he forces himself to sit up.
+
+                                ADAMA
+                  Yes, Madame President.
+
+                                                                        INTERCUT:
+
+    INT. COLONIAL ONE - OFFICE6666
+
+    A PHONE has been jerry-rigged near one of the windows, and 
+    Laura is on the phone, while Billy and several others look 
+  on.
+
+                                LAURA
+                  You get my message?
+
+    Adama still has them in his hand.
+
+                                ADAMA
+                  I m a little behind...
+
+                                LAURA
+                  We have a problem.  One vessel, 
+                  the...
+
+  She can t remember and snaps her fingers quickly --
+
+                                BILLY
+                        (sotto)
+                  The Tauranian Traveler.
+
+                                LAURA
+                          (overlapping)
+                  The Tauranian Traveler is saying 
+                  they want to break away from the 
+                  fleet and make a run for it on 
+                  their own.
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    23.
+
+    CONTINUED:6666
+
+
+                                ADAMA
+                  Okay.
+
+                                LAURA
+                  Okay?  Without your protection, 
+                  they won t have a chance.
+
+                                ADAMA
+                  If any captain out there thinks his 
+                  ship can do better on its own, I m 
+                  not going to stand in his way.
+
+    Laura s eyes go to the grease pencil number on the bulkhead:  
+    49,317.  The soldier PHOTO is also now hanging on the 
+    bulkhead directly above that number.   
+
+                                LAURA
+                  I m concerned about our numbers.
+
+                                ADAMA
+                  Numbers...
+
+                                LAURA
+                  There re nine hundred people on 
+                  that ship.  Survival of the race 
+                  mandates increasing our numbers.  
+                  That takes priority over anyone s 
+                  wish to go their own way.
+
+                                ADAMA
+                  Let s cut to the chase here.  You 
+                  want me to board that ship and take 
+                  over.
+
+                                LAURA
+                        (can t believe I m saying 
+                        this)
+                  Yes, I do.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    24.
+
+    CONTINUED: (2)6666
+
+
+                                ADAMA
+                        (bites)
+                  Boarding parties are armed.  You 
+                  understand?  If there s resistance, 
+                  my people will be forced to defend 
+                  themselves.  I think this is a bad 
+                  time to start shooting civilians.
+
+    Laura is stung by his tone and the statement itself, but she 
+    bites back a tart response.
+
+                                LAURA 
+                  Thank you, Commander.  I ll be in 
+                  touch.
+
+                                ADAMA
+                  One more thing-- you should 
+                  consider transferring to Galactica.  
+                  Your ship s FTL is unreliable and--
+
+                                LAURA
+                  Thank you, but I m staying here.
+
+    Laura hangs up.
+
+    Adama SLAMS the phone back in its cradle.  Lies down.  A 
+    beat, then he grabs the phone, resets the dial and rings CIC.
+
+                                GAETA (PHONE)
+                  Combat?
+
+                                ADAMA
+                  Launch the alert fighters.  Tell 
+                  them to make three close passes by 
+                  the Tauranian Traveler.
+
+                                GAETA (PHONE)
+                  Three close passes by Tauranian 
+                  Traveler, aye, sir.  Any message to 
+                  her captain?
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    25.
+
+    CONTINUED: (3)6666
+
+
+                                ADAMA
+                  He ll get the message.  Thank you, 
+                  Lieutenant.
+
+                                                                          CUT TO:
+
+    EXT. CAPRICA - FOREST - DAY6767
+
+    Helo grimaces as he inserts a SYRINGE NEEDLE into a vein and 
+    pushes the plunger.  He finishes the dose and checks the 
+    label on the syringe BOX.  Amid the small printing and 
+    instructions, we can read the heading: ANTI-RADIATION DOSAGE.
+
+  He puts the syringe back in the box and slips it into one of 
+  his flight suit pockets.  
+
+    Helo looks up --
+
+    HELO S POV - LONG SHOT - NUMBER SIX
+
+  Far in the distance, Number Six is standing in the trees.
+
+    HELO
+
+    Freezes.  He doesn t recognize her, of course, nor does he 
+    have any idea that the Cylons now look like human beings.  
+  All he knows is that there s someone standing out there in 
+  the woods and if they haven t seen him yet, they definitely 
+  will if he makes a sudden move.  His hand slowly, slowly 
+    begins to reach for his handweapon, just in case.  Helo 
+    suddenly becomes aware of something else.  He doesn t turn 
+  his head, but we see...
+
+  ... a CYLON CENTURIAN standing right behind Helo, its weapons 
+  at the ready.
+
+  They have him.
+
+                                                                        FADE OUT.
+
+
+                                END OF ACT TWO  '33' Fully Collated - 6/22/04    26.
+
+
+                                    ACT THREE
+
+    FADE IN:
+
+    OMITTED6868
+
+    INT. CIC6969
+
+    Adama, Tigh, Dualla, Gaeta at their positions.
+
+                                GAETA
+                  Jump 239 complete.  
+
+    Gaeta resets the clock.
+
+                                DUALLA
+                  All civilian ships present and 
+                  uh... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)'33' Fully Collated - 6/22/04    27-28.
+
+    CONTINUED:6969
+
+
+  She frowns at the console, rechecks something.
+
+                                DUALLA (cont d)
+                  Strike my last.  One civilian ship 
+                  missing and unaccounted for.
+
+                                TIGH
+                  Which one?
+
+                                DUALLA
+                        (working)
+                  Olympic Carrier -- commercial 
+                  passenger vessel.
+
+                                ADAMA
+                  Were they left behind?
+
+                                DUALLA
+                        (flips through pages of 
+                        log)
+                  I think I accounted for all 
+                  civilian ships before we Jumped...
+
+                                TIGH
+                  You think?  Did you or didn t you?
+
+                                DUALLA
+                  They--they re not logged in.  They 
+                  might have been left behind, sir.
+
+                                ADAMA
+                  How many people?
+
+                                DUALLA
+                        (checks)
+                  1,345 souls, sir.
+
+                                TIGH
+                  You re telling me we left over 
+                  thirteen hundred people to die at 
+                  the hands of the Cylons.
+
+                                GAETA
+                  It may not be her fault, sir.  They 
+                  may have simply made a navigational 
+                  error and Jumped to the wrong 
+                  coordinates or the Cylons could ve 
+                  destroyed them before anyone Jumped 
+                  or--
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    29.
+
+    CONTINUED: (2)6969
+
+
+                                TIGH
+                  Or fifty other things that may have 
+                  happened.  The point is we don t 
+                  know what the hell did happen.
+
+  The last words are loud enough to bring action in the CIC to 
+    a grinding halt.  Everyone freezes as Tigh looks around.
+
+                                TIGH (cont d)
+                  Yes, we re tired.  Yes, there s no 
+                  relief.  Yes, the Cylons keep 
+                  coming at us time after time, after 
+                  time and yes, we re still expected 
+                to do our jobs.  
+
+  The silence in CIC is deafening.  Adama watches the faces of 
+  his people, gauging the reaction, letting Tigh s reprimand 
+    sink in, then he steps forward and lets his calmer voice take 
+    over.
+
+                                ADAMA
+                  We make mistakes and people die.  
+                  And there aren t many people left.
+                        (beat)
+                  Carry on.
+
+    INT. COLONIAL ONE - OFFICE7070
+
+    Laura watches Billy update the board -- 47,972.  She stares 
+  at the number, tries not to let it get to her, but the burden 
+  is there nonetheless.  REVEAL Baltar sitting nearby.  
+    Finally, Laura is ready to move on.
+
+                                LAURA 
+                  Okay.  Next crisis?
+
+                                BILLY
+                  Want to go over your list of calls?
+
+                                LAURA
+                  Yes.  But first -- why isn t that 
+                  Doctor on board yet?
+
+                                BILLY
+                  Doctor Amarak?  Oh... 
+                        (checks paperwork)
+                  He was on the Olympic carrier.  '33' Fully Collated - 6/22/04    30.
+
+
+
+    INT. BALTAR S HOUSE - DAY7171
+
+    Baltar sits up in his chair, puzzled and disturbed.  Number 
+  Six walks by him.
+
+                                NUMBER SIX
+                  God is watching over you, Gauis.  
+
+    Baltar is thrown, rattled by the strange coincidence.  
+
+                                BALTAR
+                  The universe is a vast and complex 
+                  system.  Coincidental and 
+                  serendipitous events are bound to 
+                  occur, indeed they are to be 
+                  expected.
+
+                                NUMBER SIX
+                  Doctor Amarak posed a threat to 
+                  you.  Now he s gone.  Logic says 
+                  there s a connection.
+
+                                BALTAR
+                  A connection, maybe.  But not God.  
+                  There is no God or gods -- singular 
+                  or plural.  No invisible men or 
+                  women taking a personal interest in 
+                  the fortunes of Gaius Baltar.  
+
+                                NUMBER SIX
+                  Be careful.  That which God gives, 
+                  he can also take away.
+
+    Baltar reaches out a hand, grabs the hem of her outfit.
+
+                                BALTAR
+                  We have another half hour -- shall 
+                  we?
+
+                                NUMBER SIX
+                  Not this time, Gaius.  This time s 
+                  going to be different.
+
+                                                                    DISSOLVE TO:  '33' Fully Collated - 6/22/04    31.
+
+
+
+    EXT. SPACE - THE FLEET7272
+
+    Including Galactica and Colonial One.  The ships are in 
+    formation and barely moving.
+
+    EXT. SPACE - VIPERS7373
+
+    Hanging in space, ready for the Cylons to appear.
+
+    INT. HANGAR DECK7474
+
+    Tyrol and his deck hands are watching the clock.
+
+    INT. COLONIAL ONE - OFFICE7575
+
+    Laura, her aides, Billy and Baltar waiting in the b.g.
+
+    INT. CIC7676
+
+    Everyone watching the clock as the second hand sweeps toward 
+  the hour mark:  5... 4... 
+
+                                TIGH
+                  Maybe this time...
+
+    3... 2... 1....zero.
+
+  And nothing happens.
+
+    A long, quiet beat passes.  People exchange looks.
+
+                                ADAMA
+                  Dradis?
+
+                                GAETA
+                  No enemy contacts.
+
+    Adama watches the clock as the hand keeps sweeping around.
+
+                                TIGH
+                        (sotto)
+                  What do you think?
+
+                                ADAMA
+                  I think we wait..
+
+                                                                    DISSOLVE TO:
+
+    INT. CIC7777
+
+    Later.  The clock now shows that 45 minutes have passed.  
+    Adama is pacing, thinking.    
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    32.
+
+    CONTINUED:7777
+
+
+                                ADAMA
+                  Get me the president.
+
+    INT. COLONIAL ONE - OFFICE7878
+
+    Moments later, Laura is on the phone with Adama.
+
+                                LAURA
+                  Why this time -- something you did?
+
+                                                                        INTERCUT:
+
+    INT. CIC7979
+
+    Adama on the phone with Laura.
+
+                                ADAMA
+                  No.  We ve been working on a new 
+                  plan, but didn t have time to 
+                  implement it yet.
+
+                                LAURA
+                  We lost a ship last Jump -- the 
+                  Olympic Carrier.  Could that have 
+                  something to do with it?
+
+                                ADAMA
+                  Possibly...
+
+    A long beat on both ends of the phone as each of them tries 
+  to think straight, but fatigue is making them feel like 
+    they re both wading through rivers of mud.
+
+                                LAURA 
+                  You there?
+
+                                ADAMA
+                  Yeah, I m here.
+
+                                LAURA
+                  I can t believe this is really 
+                  over.  
+
+                                ADAMA
+                  No.  Can t let our guard down yet.
+
+                                LAURA
+                  So what do we do?  I ve got people 
+                  on the verge of collapse over here.
+
+    Adama glances around the strained, exhausted faces in CIC.
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    33.
+
+    CONTINUED:7979
+
+
+                                ADAMA
+                  I know what you mean.
+                        (beat)
+                  We ll go to Condition Two.  
+
+  He catches Tigh s eye as he says it, and Tigh nods agreement.
+
+                                ADAMA (cont d)
+                  Each ship keeps the first watch on 
+                  alert.  Other watches go below, get 
+                  some rest.  Two hours later, second 
+                  watch relieves first watch and so 
+                  on.  Every ship has to be prepared 
+                  to Jump immediately if the Cylons 
+                  do show up -- but we take advantage 
+                  of the time and let people get some 
+                  rest.
+
+                                LAURA
+                  Okay.  And how long do we stay at 
+                  Condition Two?
+
+                                ADAMA
+                  Until I m satisfied they re not 
+                  coming.
+
+    Beat.
+
+                                ADAMA (cont d)
+                  It s a military decision.
+
+                                LAURA
+                  I know.  You re right.  It is and I 
+                  defer to your judgement.  And 
+                  please thank your people for me.  
+                  Let them know how much I appreciate 
+                  everything they re doing.
+
+    Adama is caught a little off-stride.
+
+                                ADAMA
+                  I will.  And thank you... Madame 
+                  President.
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    34.
+
+    CONTINUED: (2)7979
+
+
+    They both hang-up.  Adama nods at Tigh, who grabs the 
+    handset.
+
+                      TIGHADAMA
+      (into handset)(to Dualla)
+    Attention.  Set Condition Two Contact Apollo.  Tell him to 
+    throughout the ship.  First set a combat patrol around 
+    watch remains at action the fleet and order his other 
+    stations.  Division Officers pilots to land.
+    dismiss other personnel 
+    below.
+
+    EXT. SPACE - VIPERS & RAPTOR8080
+
+  Lee Adama s fighter in f.g., the rest of his squadron in the 
+    b.g.
+
+                                LEE (WIRELESS)
+                  All right, people...
+
+    INT. LEE S VIPER8181
+
+  Lee in the cockpit.
+
+                                LEE
+                  ... you heard the order.  Starbuck,  
+                  Boomer, form up with me, we ll fly 
+                  the first CAP.   I want everyone 
+                  else back on Galactica and in their 
+                  racks.  Three hour rotation.  
+                  Winger, T-Bone, and Wedge, you ll 
+                  be second team.  Formal debriefs 
+                  are TBD and I ll post the rest of 
+                  the CAP schedule when I get back.
+
+    That s it, then Lee looks out at the fighters and Raptors of 
+  his squadron, knows there are weary pilots in all of them.
+
+                                LEE (cont d)
+                  I, uh... I don t want to... make a 
+                  speech here or something, but... 
+                  the past five days--well, you ve 
+                  all done a helluva job.  I m proud 
+                  of you.  
+                        (beat)
+                  Apollo out.
+
+    EXT. SPACE - VIPERS & RAPTORS8282
+
+  All the Vipers and Raptors break away and head back toward 
+  the Galactica, except for Apollo, Starbuck and Boomer, which 
+    form up together as a three-ship unit.
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    35.
+
+    CONTINUED:8282
+
+
+                                PILOTS (WIRELESS)
+                  Roger that, Apollo... Going home!..  
+                  Last one aboard cleans the ready 
+                  room... Thank you, Apollo!... Etc.
+
+    INT. KARA S VIPER8383
+
+    Kara pilots her Viper over toward Lee.
+
+                                KARA
+                  Not that I m not honored by being 
+                  chosen to sit in this cockpit for 
+                  the next three hours, but...
+
+                                LEE (WIRELESS)
+                  Why you?  
+
+                                                                        INTERCUT:
+
+    INT. LEE S VIPER8484
+
+  Lee in his cockpit.
+
+                                LEE
+                  Take a guess.
+
+                                KARA
+                  Because I m on drugs?
+
+                                LEE
+                  You got it.  This patrol is 100% 
+                  stimulated.
+
+                                CRASHDOWN (WIRELESS)
+                  Anyone else feel like they ve got 
+                  frakking ants crawling behind their 
+                  eyeballs?
+
+                                LEE
+                   bout you, Boomer?  Doc tells me 
+                  you re holding up better than 
+                  anyone in the squadron.
+
+                                                                        INTERCUT:  '33' Fully Collated - 6/22/04    36.
+
+
+
+    INT. SHARON S RAPTOR8585
+
+    Sharon and Crashdown sitting side by side.
+
+                                SHARON
+                  I m tired like everyone else.  
+
+                                LEE
+                  Never seem it.
+
+                                KARA
+                  That s  cause she s a Cylon.
+
+                                SHARON
+                  You re just going to make me come 
+                  over there and kick your ass aren t 
+                  you?
+
+                                KARA
+                  Ho, ho...
+
+                                LEE
+                  Okay, okay.  Let s set up a patrol 
+                  before someone gets hurt.  Follow 
+                  me.
+
+    EXT. SPACE - VIPERS & RAPTOR8686
+
+  The three ships begin to fly around the ships of the fleet 
+    together.
+
+                                                                    DISSOLVE TO:
+
+    OMITTED8787
+
+    OMITTED8888
+
+    OMITTED8989
+
+    OMITTED9090
+
+    OMITTED9191
+
+    OMITTED9292
+
+    OMITTED9393
+
+    INT. COLONIAL ONE - OFFICE9494
+
+    Laura is struggling not to fall asleep with Billy at the 
+    desk.  They re the only ones still awake.
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    37.
+
+    CONTINUED:9494
+
+
+                                LAURA
+                        (hands him paper)
+                  Fuel reallocation orders...
+                        (suppressing yawn)
+                  The refinery ship will have to work 
+                  overtime...
+
+                                BILLY
+                  It s been almost three hours.  May 
+                  I suggest...
+
+                                LAURA
+                  Sleep.  I know.  I must look like 
+                  hell...
+
+                                BILLY
+                  Yes, ma am.  Uh... I mean...
+
+                                LAURA
+                  Forget it.  So who s first on my 
+                  list when I wake up?
+
+                                BILLY
+                        (knows this is delicate)
+                  I ve scheduled a, uh... medical 
+                  appointment with a Doctor from 
+                  Caprica.
+                        (sotto)
+                  He doesn t know about the cancer.
+
+    Laura glances around the cabin -- everyone else is asleep.
+
+                                LAURA
+                  Cancel the appointment.
+
+                                BILLY
+                  Madame President--
+
+                                LAURA
+                  Cancel the appointment, Billy.
+
+                                BILLY
+                  Yes, ma am.
+
+    Laura looks at him, lets the anger ebb from her voice.
+
+                                LAURA
+                  I appreciate the thought, but we 
+                  have to be very, very careful about 
+                  this.   About who knows and when 
+                  they know.
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    38.
+
+    CONTINUED: (2)9494
+
+
+                                BILLY
+                  Yes, ma am.
+
+    Laura nods and heads into the back.
+
+    INT. CIC9595
+
+    Tigh checks his watch as he comes over to Adama.
+
+                                TIGH
+                  Almost ready to call the second watch.
+
+                                ADAMA
+                  You go below with the first watch.  
+                  Get some rack time.
+
+                                TIGH
+                  Yes, sir.  Three solids in the rack 
+                  does sound awfully sweet right 
+                  about now.  But... truth is this 
+                  whole damned thing has me 
+                  feeling... well, more alive than I 
+                  have in years...
+
+                                ADAMA
+                  Good to see it -- especially 
+                  without that cup in your hand.  
+                  But... I do think some people on 
+                  this ship would like you to feel a 
+                  little... less alive these days.
+
+                                TIGH
+                  Ahhh -- if the crew doesn t hate 
+                  the XO, then he s not doing his 
+                  job.  Besides, gotta make the Old 
+                  Man look good.
+
+                                ADAMA
+                  I always look good.  Seriously -- 
+                  One thing to push a crew, another 
+                  to break them.   
+
+    Suddenly there s an ALARM from the dradis console.
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    39.
+
+    CONTINUED:9595
+
+
+                                GAETA 
+                  Dradis contact.  One ship.  Bearing 
+                  398 carom 120... getting a 
+                  recognition signal... it s the 
+                  Olympic Carrier.
+
+                                TIGH
+                  Thank the Gods...
+
+    Relief floods through CIC -- except Adama isn t relieved.  He 
+    stares at the blip on the dradis console for a long beat.
+
+                                ADAMA
+                  Action stations.
+                      (to Dualla)
+                  Send the fleet to Condition One.
+
+    Everyone scrambles as the ship goes to Action Stations.
+
+                                ADAMA (cont d)
+                  I want all Vipers manned and ready, 
+                  but keep em in the tubes for now.  
+                  Mister Gaeta... restart the clock.  
+                  Thirty-three minutes.
+
+    Tigh suddenly realizes what Adama s thinking.
+
+                                TIGH
+                        (sotto)
+                  Hope you re wrong.
+
+                                ADAMA
+                  So do I.
+
+    CLOSE ON THE CLOCK
+
+    Ticking away...
+
+                                                                        FADE OUT.
+
+
+                                END OF ACT THREE  '33' Fully Collated - 6/22/04    40.
+
+
+                                    ACT FOUR
+
+    FADE IN:
+
+    INT. BALTAR S HOUSE9696
+
+    Baltar is pacing, agitated.  No refuge from the pressure for 
+  him even in this refuge in his mind. 
+
+                                BALTAR
+                  How can this be?  If they were left 
+                  behind, why didn t the Cylons 
+                  destroy them?  And why are they 
+                  showing up now?
+
+                                NUMBER SIX
+                  It s God s punishment for your lack 
+                of faith.
+
+                                BALTAR
+                  A more logical and useful 
+                  explanation please.
+
+                                NUMBER SIX
+                  All right.  The Olympic Carrier has 
+                  been infiltrated by Cylon agents.  
+                  They ve been tracking the ship all 
+                  along.
+
+    Baltar reacts in surprise, but it makes sense.
+
+                                BALTAR
+                  Then that means...
+
+                                NUMBER SIX
+                  Logically, in order for you to 
+                  survive, the Olympic Carrier should 
+                  be destroyed.
+
+    EXT. SPACE - OLYMPIC CARRIER & VIPERS9797
+
+    Apollo and Starbuck s VIPERS head toward the OLYMPIC CARRIER, 
+    a large transport ship (distinct from Colonial One).  
+    Boomer s RAPTOR follows the Vipers at a discreet distance.  
+
+                                SHARON (WIRELESS)
+                  Olympic Carrier, Olympic Carrier, 
+                  this is Raptor 478, callsign 
+                  Boomer.  I have you in visual 
+                  contact.   Please acknowledge on 
+                  this channel.  Over.   '33' Fully Collated - 6/22/04    41.
+
+
+
+    INT. RAPTOR9898
+
+    Sharon and Crashdown watching the approaching transport.
+
+                                MAN S VOICE (WIRELESS)
+                  Raptor 478, this is Olympic 
+                  Carrier.  We have you in visual 
+                  contact.  
+
+  INT. CIC9999
+
+  The ship is at Condition One -- every post manned and ready.  
+    Everyone is listening to the distant wireless transmissions.
+
+                                MAN S VOICE (WIRELESS)
+                  Thank the Lords of Kobol!  You 
+                  don t know how relieved we are to 
+                  see you!
+
+                                SHARON (WIRELESS)
+                  Roger that, Olympic Carrier.  Can 
+                  you explain your whereabouts?
+
+                                MAN S VOICE (WIRELESS)
+                We had trouble with our FTL drive.   
+                  Took us almost three hours to fix.
+
+                                ADAMA
+                      (to Dualla)
+                  Have Boomer ask them how they 
+                  escaped from the Cylons.
+
+  INT. COLONIAL ONE - OFFICE100100
+
+    Everyone listening to the wireless transmissions on the 
+    speaker phone.
+
+                                SHARON (WIRELESS)
+                  Olympic Carrier/Boomer.  I ve been 
+                  directed to ask how you escaped 
+                  from the Cylons. 
+
+                                MAN S VOICE (WIRELESS)
+                  You got me.  They were closing in 
+                on us when the rest of you were 
+                  Jumping -- I thought we were goners 
+                -- then they just... broke off.  
+                  Left us alone.  Someone must ve 
+                  been watching out for us. 
+
+                                SHARON (WIRELESS)
+                  Roger that.  
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    42.
+
+      CONTINUED:100100
+
+
+                                MAN S VOICE (WIRELESS) 
+                  One other thing, Boomer.  I ve got 
+                  a Doctor Amarak on board who claims 
+                he has an urgent matter to discuss 
+                  with the President.  He s been 
+                  driving me crazy...
+
+    Baltar s blood pressure goes through the roof, he quickly 
+    moves to Laura even as the radio conversation continues:
+
+                    BALTARSHARON (WIRELESS)
+        (urgent)Olympic Carrier, can you be 
+    Madame President... we have more specific?  
+  to cut off all communication 
+    with that ship.
+
+                                LAURA
+                  What?  Why?
+
+                    BALTARMAN S VOICE (WIRELESS)
+  The Cylons let them survive.  I m afraid I can t.  He says 
+    Don t you see?  They ve been he knows something about a 
+    tracking that ship all along.  traitor in our midst and he s 
+    There s probably a Cylon unwilling to share any more 
+    agent among them right now.than that.
+
+                                BALTAR
+                        (quick, urgent)
+                  Madame President --  I strongly 
+                  recommend cutting off all wireless 
+                  contact immediately.  They might 
+                  attempt to use a broadcast signal 
+                  to insert another virus into our 
+                  computer systems.
+
+    Laura looks at him -- and there s a difficult moment here 
+    where Laura has to decide whether or not to trust Baltar.  
+  She gauges his reaction and correctly reads his desperation 
+  and concern -- but doesn t realize the motivation for his 
+    genuine worry is actually self-preservation.
+
+                                LAURA
+                  Commander Adama, are you on the 
+                  line?
+
+                                ADAMA (PHONE)
+                  Yes, I am.  And I m inclined to 
+                  agree with Dr. Baltar. 
+
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    43.
+
+    CONTINUED: (2)100100
+
+
+                                LAURA
+                  Good.  So am I.  
+
+                                BILLY
+                        (sotto, to Baltar)
+                  Thank the gods you re with us.
+
+                                BALTAR
+                  God has nothing to do with it.
+
+    INT. SHARON S RAPTOR101101
+
+    Sharon and Crashdown at their positions.
+
+                                DUALLA (WIRELESS)
+                    Boomer/Galactica.  You are ordered 
+                  to jam Olympic Carrier s 
+                    transmissions.  No further voice 
+                  contact with Olympic Carrier is 
+                  authorized.
+
+                                SHARON
+                  Roger that, Galactica.
+
+  She looks to Crashdown, who sets to work.
+
+                                DUALLA (WIRELESS)
+                    Boomer/Galactica.  You are ordered 
+                to send Olympic Carrier the 
+                  following message by signal light.  
+                  Message begins:  Maintain present 
+                  position.  Do not -- repeat -- do 
+                  not approach fleet until further 
+                  notice.  Message ends.
+
+    Crashdown moves to a console and begins tapping a button.
+
+  EXT. SPACE - RAPTOR102102
+
+    A SIGNAL LIGHT begins FLASHING a message to the transport.
+
+    OMITTED103103
+
+  INT. COLONIAL ONE - OFFICE104104
+
+  Laura is grim as she talks to Adama on the speaker phone.
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    44.
+
+      CONTINUED:104104
+
+
+                                LAURA
+                  I m afraid I have to agree with 
+                  Doctor Baltar s analysis.   
+
+                                                                INTERCUT WITH:
+
+    INT. CIC - SAME104A104A
+
+    Adama on the phone
+
+                                ADAMA
+                  So do I.  The ship is a threat to 
+                  us and we have to eliminate that 
+                  threat.
+
+    EXT. SPACE - VIPERS, RAPTOR & OLYMPIC CARRIER105105
+
+  The Olympic Carrier is continuing to head toward the fleet, 
+    even as the Raptor FLASHES signals to it.
+
+    INT. KARA S VIPER106106
+
+    Kara is watching the transport with concern.
+
+                                KARA
+                  They re not getting the message, 
+                  Apollo.
+
+    INT. LEE S VIPER107107
+
+  Lee getting concerned as well.
+
+                                LEE
+                  I see it.  Boomer -- break wireless 
+                  silence on my authority.  Warn them 
+                  to stop their engines immediately.
+
+    INT. SHARON S RAPTOR108108
+
+    Sharon keys her mic.
+
+                                SHARON
+                  Olympic Carrier, Olympic Carrier -- 
+                  you are ordered to stop your 
+                  engines immediately.  Acknowledge.
+
+    INT. CIC/COLONIAL ONE - INTERCUT - RESUME109109
+
+    Adama and Laura are still on the phone.
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    45.
+
+      CONTINUED:109109
+
+
+                                ADAMA
+                  I suggest we evacuate the 
+                  passengers then destroy the ship.
+
+                                LAURA
+                  Solves the problem if they re 
+                  tracking the ship.  What if they re 
+                  tracking one of the passengers?
+
+                                ADAMA
+                  Then we ll deal with that on the 
+                  next cycle.  Right now, we have to 
+                  get as many people as possible off 
+                  that ship.
+
+    OMITTED110110
+
+  EXT. SPACE - VIPERS, RAPTOR & OLYMPIC CARRIER111111
+
+  The two Vipers are weaving and wagging their wings in front 
+  of the Olympic Carrier, trying to get them to stop.
+
+                                SHARON (WIRELESS)
+                  Olympic Carrier -- you are ordered 
+                to stop your engines.  Acknowledge!
+
+    INT. LEE S VIPER112112
+
+  Lee in the cockpit.
+
+                                LEE
+                  Starbuck -- fire a burst across 
+                  their bow.  Boomer -- let Galactica 
+                  know we ve got a problem out here.
+
+    INT. CIC/COLONIAL ONE - INTERCUT - RESUME113113
+
+  As before.
+
+                                LAURA
+                  All right.  But we should 
+                  quarantine the passengers -- if 
+                  there s a Cylon agent among them, 
+                  we need to isolate them and--
+
+  In the CIC, Dualla looks up from her console and gets Adama s 
+    attention.
+
+
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    46.
+
+      CONTINUED:113113
+
+
+                                DUALLA
+                  Commander -- message from Boomer.  
+                  Olympic Carrier is continuing on 
+                  course directly for us, refusing 
+                  all orders to stop.
+
+    EXT. SPACE - VIPERS, RAPTOR & OLYMPIC CARRIER114114
+
+    Kara s Viper FIRES a VOLLEY across the bows of the Olympic 
+    Carrier, which shows no sign of slowing down or altering 
+    course.
+
+                                SHARON (WIRELESS)
+                  Olympic Carrier -- if you do not 
+                  alter course, we will be forced to 
+                  disable your engines.  Acknowledge!
+
+115115INT. CIC 
+
+  As before.
+
+                                ADAMA
+                  Order the fleet to execute Jump 
+                  240.  Bring us about -- put us 
+                  between that ship and the fleet.
+
+                                GAETA
+                  Commander.
+
+    Adama turns, sees Gaeta looking up -- he follows Gaeta s eyes 
+  to -- the CLOCK is reaching the hour mark.  The second it 
+    does -- there s an ALARM on a dradis console.
+
+                                GAETA (cont d)
+                  Dradis contact -- strike that, 
+                  multiple contacts...
+                        (beat)
+                  It s the Cylons.  
+
+    EXT. SPACE - THE CYLONS116116
+
+  Two BASESTARS and hundreds of FIGHTERS are careening toward 
+  us.
+
+    EXT. SPACE - VIPERS, RAPTOR & OLYMPIC CARRIER117117
+
+    Lee s Viper swoops in close to the Olympic Carrier.
+
+                                SHARON (WIRELESS)
+                  The Cylons are on an intercept 
+                  course -- they ll be in weapons 
+                  range in less than two minutes.  '33' Fully Collated - 6/22/04    47.
+
+
+
+    INT. LEE S VIPER118118
+
+  Lee looks around for the (unseen) Cylons, then looks out his 
+    canopy --
+
+    LEE S POV
+
+  The FACES of the civilian PASSENGERS are pressed against the 
+    windows, looking right at him.
+
+  An ALARM goes off in his cockpit.
+
+    INT. SHARON S RAPTOR119119
+
+  The same ALARM goes off in her cockpit.
+
+    INT. CIC120120
+
+  The same ALARM goes off in here -- Dualla reacts in shock.
+
+                                DUALLA
+                  Radiological alarm.  
+
+                                TIGH
+                  From where?
+
+                                DUALLA
+                        (works)
+                  The Olympic Carrier.  They ve got 
+                  nukes on board.
+
+    Stunned reactions.
+
+                                ADAMA
+                  Get me the President.
+
+    INT. COLONIAL ONE - OFFICE - SECONDS LATER121121
+
+    Laura on the phone with Adama.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    48.
+
+      CONTINUED:121121
+
+
+                                LAURA
+                  They have... over thirteen hundred 
+                  innocent people on board...
+
+                                ADAMA
+                  No choice now.  Them or us.  
+
+    BALTAR & SIX
+
+  In their own private world nearby.  Baltar is freaking out.
+
+                                BALTAR
+                  She has to do it.  She has to.  
+                  They ll be here any minute.
+
+                                NUMBER SIX
+                  It s not her decision, Gaius.  It s 
+                  God s choice.  He wants you to 
+                  repent.  Repent of your sins and 
+                  accept his true love and you will 
+                  be saved.
+
+                                LAURA
+                  Self-defense is one thing.  But 
+                  this... it s murder.
+
+                                ADAMA
+                  Killing is killing, Madame 
+                  President.  The labels only matter 
+                  to the living.  The dead are just 
+                  as dead.
+
+    Laura still hesitates -- Baltar can barely breathe.
+
+                                BALTAR
+                  I... repent.
+
+    Laura takes a beat, makes her choice.
+
+                                LAURA
+                  Do it.
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    49.
+
+    CONTINUED: (2)121121
+
+
+  She hangs up the phone and Adama hangs up on his end.  We 
+    register the weight of the decision on their faces...
+
+                                                                          CUT TO:
+
+  EXT. SPACE - VIPERS, RAPTOR & OLYMPIC CARRIER122122
+
+  The Vipers are shadowing the transport as it careens toward 
+  the Galactica and the other civilian ships.
+
+                                SHARON (WIRELESS)
+                We have new orders.  We re directed 
+                  to... destroy the Olympic Carrier 
+                  and then return to Galactica.
+
+    INT. KARA S VIPER123123
+
+    Kara looks over at the transport, hesitates.
+
+                                KARA
+                  It s a civilian ship...
+
+  INT. LEE S VIPER124124
+
+  Lee looks at those faces in the transport window, oblivious 
+  to their fate.... he makes the decision
+
+                                LEE
+                  Cylons ll be here any second.  If 
+                  we re going to do it, let s do it.  
+                  Starbuck, form up with me.  We ll 
+                  make one pass from astern.
+
+    OMITTED125125
+
+    EXT. SPACE - THE VIPERS126126
+
+    Peel away together and sweep around toward the rear of the 
+    transport.
+
+    INT. LEE S VIPER127127
+
+  As he lines up the transport ship in front of the nose of his 
+    Viper.
+
+                                LEE
+                  Fire on my mark...  '33' Fully Collated - 6/22/04    50.
+
+
+
+    INT. KARA S VIPER128128
+
+  She lines up the Transport.
+
+    INT. RAPTOR129129
+
+    Sharon watches the tragedy unfolding before her.
+
+    INT. CIC129A129A
+
+    Everyone watching the Vipers approaching the Transport ship 
+  on the dradis display.
+
+    INT. LEE S VIPER130130
+
+  Lee can see the defenseless ship looming larger in his 
+    gunsight.  Lee bears down and does what must be done.
+
+                                LEE
+                  Mark.
+
+    Quick cuts:
+
+  -- KARA S FACE.131131
+
+  -- SHARON S FACE.132132
+
+  -- LEE S FACE.133133
+
+  -- LEE S FINGER FINALLY PULLING THE TRIGGER.134134
+
+  -- KARA S FINGER PULLING THE TRIGGER.135135
+
+  EXT. SPACE - VIPERS & OLYMPIC CARRIER136136
+
+  The Vipers FIRE at the transport ship and it is DESTROYED.
+
+  -- The reality of what they ve just done weighs on the faces 
+  of Lee, Kara, and Sharon for a long beat.
+
+  INT. COLONIAL ONE - OFFICE136AA136AA
+
+    Baltar is looking out the window -- the LIGHT from the o.c. 
+    explosion dying down on his face.
+
+  INT. LEE S VIPER136A136A
+
+  Lee is still stunned.
+
+                                SHARON (WIRELESS)
+                  Cylons are getting close, Apollo.
+
+
+
+
+                                                                            (CONTINUED)'33' Fully Collated - 6/22/04    50A.
+
+    CONTINUED:136A136A
+
+
+                                LEE
+                  Roger that.  Let s go home.  '33' Fully Collated - 6/22/04    51.
+
+
+
+    EXT. SPACE - VIPERS & RAPTOR136B136B
+
+  The Vipers swing around and the Raptor joins up with them as 
+    they head for the distant Galactica.
+
+                                                                        FADE OUT.
+
+    FADE IN:
+
+    EXT. SPACE - THE FLEET137137
+
+    Cruising safely in space.
+
+    INT. COLONIAL ONE - OFFICE138138
+
+    Laura sitting at her desk, staring at the board:  47,972.  
+    Billy is sitting across from her with a stack of messages.  
+  He waits a long beat, then:
+
+                                BILLY
+                  Madame President...?
+
+  It takes Laura a moment to break away from her thoughts.
+
+                                LAURA
+                  I m sorry.  What were you saying?
+
+                                BILLY
+                  Nothing that can t wait.
+
+    Laura nods absently, looks back at the number.
+
+                                BILLY (cont d)
+                  Two days.  No Cylons.  At least, 
+                  you know it was the right choice...
+
+                                LAURA
+                  Yes.  The right choice.   
+                        (beat)
+                  I d like some time alone, please.
+
+                                BILLY
+                  Yes, Madame President.
+
+    Stay with Laura as Billy heads for the door. There s a long 
+    beat before she realizes that Billy hasn t left -- he s 
+    standing on the threshold of the doorway, a message slip in 
+  his hand.
+
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    52.
+
+      CONTINUED:138138
+
+
+                                LAURA
+                  What is it?
+
+                                BILLY
+                  The headcount...?
+
+                                LAURA
+                  Subtract how many?
+
+                                BILLY
+                  You can add one.  Baby was born on 
+                  the Rising Star.  A, uh... boy.
+
+    Billy EXITS.  Laura then reaches out, wipes off the last 
+    digit -- changes it to a 3.  It s a small thing, but somehow 
+  it matters.  
+
+    INT. BALTAR S HOUSE - DAY139139
+
+    Baltar in bed with Six.  He rolls off of her.
+
+                                BALTAR
+                  That... was just what I needed.
+
+                                NUMBER SIX
+                  Sex is a celebration of God s love.
+
+                                BALTAR
+                  Yes.  Yes, I can see that now.
+
+  She smiles at him and gives him a kiss.  He rolls back on the 
+    pillows -- and from the look on his face, we can see he s no 
+    more serious about his latest pledge of spiritual fealty than 
+    anything else.
+
+    INT. PILOTS  READY ROOM140140
+
+  The Ready Room is empty except for Lee, who is updating the 
+    pilot status board with a grease pencil when Adama ENTERS.
+
+                                LEE
+                  Sir.
+
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    53.
+
+      CONTINUED:140140
+
+
+                                ADAMA
+                  Captain.
+
+    Adama stands next to him, looks over the board.  Lee is 
+    clearly troubled, has trouble making eye contact.
+
+                                ADAMA (cont d)
+                  It had to be done.
+
+                                LEE
+                  Greater good.  Survival of the 
+                  race.  Yeah.  I know.  I ll have a 
+                  full report for you this afternoon.
+
+  Lee keeps working, and Adama doesn t know how to reach out to 
+  his son in this moment.  
+
+                                ADAMA
+                  I gave the order, son.  It s my 
+                  responsibility.  
+
+                                LEE
+                  I pulled the trigger.  That s mine.
+
+  Lee goes back to work and finally Adama EXITS.
+
+                                                                          CUT TO:
+
+    EXT. CAPRICA - FOREST - DAY141141
+
+    Helo is lying on the ground, his hands and feet bound behind 
+  his back, his head covered with a canvas BAG.  A woman s HAND 
+    reaches into frame and touches him -- he starts, tenses -- 
+  she reaches up and gently pulls the bag off his head.  Helo 
+    gasps for air in the chilly forest and sees -- NUMBER SIX 
+    looking down at him with curious eyes.
+
+                                NUMBER SIX
+                  Are you alive?
+
+    Helo blinks, isn t sure he heard her right.
+
+                                NUMBER SIX (cont d)
+                  Are you alive?
+
+  At something of a loss, Helo falls back on his training:
+
+                                HELO
+                  Agathon, Karl C.  Lieutenant, 
+                  junior grade, Colonial Fleet.  PK-
+                  789-9348-
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    54.
+
+      CONTINUED:141141
+
+
+                                NUMBER SIX
+                  I know who you are, Helo.  It s all 
+                  right.  I m a friend.
+
+  She leans down, SNAPS his restraints quickly and easily.  He 
+    tries to jump up, but his legs fail him and he goes down.
+
+                                NUMBER SIX (cont d)
+                  Your legs are asleep.
+
+  Helo rubs his legs as she stands over him.
+
+                                NUMBER SIX (cont d)
+                  Are you alive?
+
+                                HELO
+                  Yes...
+
+                                NUMBER SIX
+                  Prove it.
+
+  She reaches down, tips his head up towards her, leans in to 
+    kiss him -- EXPLOSION.
+
+    Number Six collapses on the ground, a BLOODY WOUND in the 
+    middle of her back.  Helo looks up in shock to see-- SHARON 
+    VALERII standing in the forest, the weapon still smoking in 
+  her hand.
+
+                                HELO
+                  Sharon!
+
+    Sharon runs toward him, grabs his arm, yanks him to his feet.
+
+                                SHARON
+                        (urgent)
+                  Can you walk?
+
+                                HELO
+                  Yeah-yeah, I think so.  What are 
+                  you doing here, I thought--
+
+                                SHARON
+                  Not now, it s not safe here.  Let s 
+                  move, Mister.
+
+  Her weapon at the ready, her head constantly looking for 
+    threats in any direction, Sharon leads Helo into the forest.
+
+
+
+
+
+
+                                                                            (CONTINUED)  '33' Fully Collated - 6/22/04    55.
+
+    CONTINUED: (2)141141
+
+
+  NEW ANGLE
+
+    While one version of Number Six lies on the forest floor, 
+    ANOTHER Number Six and a Cylon Centurian calmly watch Helo 
+  and Sharon run off into the forest.
+
+                                                                        FADE OUT.
+
+
+                                END OF ACT FOUR

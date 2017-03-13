@@ -1,0 +1,3362 @@
+﻿Executive Producer: Graham Yost
+Executive Producer: Sarah Timberman 
+Executive Producer: Carl Beverly 
+Executive Producer: Michael Dinner 
+
+Director: Jon Avnet
+
+
+
+
+
+
+
+
+
+
+
+                                  JUSTIFIED
+
+                                        Ep. 106
+
+                                        "BLOWBACK"
+
+                                            by
+                                  Benjamin Cavell
+
+
+
+
+
+
+                            FIRST PRODUCTION DRAFT (FULL WHITE)12/08/09
+                            FULL BLUE DRAFT12/11/09
+                            REVISED PINK12/16/09
+                            FULL YELLOW DRAFT12/28/09
+                            REVISED GREEN  1/05/10
+                            REVISED GOLD    1/08/10
+                                    REVISED SCENE: 3
+
+
+
+
+                         2010 Sony Pictures Television 
+No portion of this script may be performed or reproduced by any means, or 
+quoted or published in any medium without prior written consent of         
+                          SONY PICTURES TELEVISION, INC. 
+          * 10202 W. Washington Boulevard * Culver City, CA 90232 *                                         JUSTIFIED
+
+    ___________________________________________________
+
+                                      "BLOWBACK"
+
+
+                                  Revision History
+
+Draft/Revision ColorDatePages
+
+FULL WHITE PROD. DRAFT12/08/09Full Script
+
+FULL BLUE DRAFT12/11/09Full Script
+
+REVISED PINK12/16/09Title, Cast, Set, 3, 5, 5A, 6, 7, 38, 38A, 
+                                                  39-45, 46
+
+FULL YELLOW DRAFT12/28/09Full Script
+
+REVISED GREEN1/05/10Title, Set, Cast, 18, 23, 23A, 23B, 23C, 
+                                                  23D, 23E, 23F, 33, 33A, 34, 36, 36A
+
+REVISED GOLD1/08/10Title, Cast, Set, 1, 2, 3, 4EPISODE 106 - "BLOWBACK" (REVISED GOLD) - 1/08/10
+    
+                                        JUSTIFIED
+                                        Episode 106
+                                      "BLOWBACK"
+   
+                                       CAST LIST  
+
+RAYLAN GIVENSTIM OLYPHANT
+ART MULLENNICK SEARCY 
+AVA CROWDER  JOELLE CARTER
+TIM GUTTERSON JACOB PITTS
+RACHEL BROOKS ERICA TAZEL
+WINONA HAWKINSNATALIE ZEA
+GARY HAWKINSWILLIAM RAGSDALE
+BOYD CROWDERWALTON GOGGINS
+BO CROWDERM.C. GAINEY
+AUSA DAVID VASQUEZRICK GOMEZ
+CAL WALLACEW. EARL BROWN
+WYNN DUFFY/STRANGE MANJERE BURNS
+  STEVENSONFREDRIC LEHNE
+RECEPTIONIST
+LAURIE SLADEKIERSTEN LYONS
+GUARD #1DAVID HALEY
+GUARD #2
+PORTERCHRIS STACY
+
+
+
+
+US MARSHALS (NON-SPEAKING)
+CROWDER'S LAWYER (NON-SPEAKING IN THIS EPISODE)
+PRISON GUARDS (NON-SPEAKING)
+TAC TEAM MEMBERS (NON-SPEAKING)
+EMTS (NON-SPEAKING)EPISODE 106     "BLOWBACK" (REVISED GOLD)   1/08/10
+    
+                                        JUSTIFIED
+                                        Episode 106
+                                      "BLOWBACK"
+   
+                                       SET LIST  
+
+  INTERIORSEXTERIORS
+
+GARY AND WINONA'S HOUSE -BIG SANDY FEDERAL PENITENTIARY -
+    MAIN (fFRONT DOOR)PARKING LOT
+    HALLRAYLAN'S MOTEL ROOM 
+        HALL/KITCHENLEXINGTON STREET 
+    KITCHEN
+COURTHOUSE -
+    HALLWAY
+LEXINGTON COFFEE SHOP
+BIG SANDY FEDERAL PENITENTIARY -
+    VISITOR'S MEETING ROOM
+MARSHAL'S OFFICE -
+    ART'S OFFICE
+    BULLPEN
+    LOCKER ROOM 
+    HOLDING CELL 
+  ENTRY AREA 
+    CONFERENCE ROOM 
+CHICKEN SHACK 
+
+
+
+
+                                          ON TV/MONITORS:
+                                          VIDEO FEED OF LOCKER ROOM (Hj12/C14)
+
+
+
+SCENESSCRIPT DAYS
+1-20DAY 1 
+21DAY 2
+
+
+
+
+
+
+
+* DENOTES NEW/CHANGE                                          TEASER
+
+      OMITTED11
+
+      OMITTED22
+
+      INT. LEXINGTON COFFEE SHOP - DAY33
+
+      AVA sits alone, picks at a wedge of cherry pie.  When a man *
+      sits down across from her, she looks up with the beginnings *
+      of a loving smile -- only to discover her former father-in-*
+      law, BO CROWDER.  Yeah, the lion is out of his cage.  He s *
+      grinning, but everything about him radiates menace.*
+
+                                  BO*
+                    What s wrong, daughter-in-law?  You *
+                    look like you just walked over your *
+                    own grave. *
+
+      Ava stares, in shock, but unwilling to let Bo see it.*
+
+                                  AVA*
+                    Bo.  What rock did you crawl out *
+                    from under?*
+
+                                  BO*
+                    I figured Givens would a told you I *
+                    was getting out, seeing s how he s *
+                    the one got my sentence cut by *
+                      eighty-seven days and a wake-up.*
+                          (off Ava s puzzled look)*
+                    By taking down Sheriff Hunter?  All *
+                    the cases got made by that lying *
+                    son of a bitch re now liable to be *
+                    reopened.  U.S. Attorney decided *
+                    anybody s got less than six months *
+                    left on his sentence isn t worth *
+                    retrying.  Gave us all early *
+                    release.  God bless America.*
+                          (beat)*
+                      I understand you had your own run-*
+                    in with the Sheriff, almost got you *
+                    killed.  He s lucky I got out, *
+                    because I swear, if I d seen him *
+                    inside, he d ve paid.  In blood.*
+
+      Ava just looks at him. *
+
+
+
+
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    2.
+
+        CONTINUED:33
+
+                                  BO (CONT D)*
+                    See, even with Bowman dead and gone *
+                    -- especially with Bowman gone -- I *
+                    think of you as my responsibility.  *
+
+                                  AVE*
+                    Don t.  I can take care of myself.*
+
+                                  BO*
+                          (re: Bowman)*
+                    Come to think of it, I guess you *
+                    can.  Speaking of which, how s a *
+                    bitty thing like you eat pie for *
+                    lunch, and still manage to keep all *
+                    your curves in the right places?*
+
+      Without asking, he pulls Ava s plate over to himself and uses *
+      his fork to take a big bite of the pie.*
+
+                                  BO (CONT D)*
+                    The pie you get in prison is *
+                    better n you might think, just *
+                    requires a little imagination.  But *
+                    it simply cannot compare to a nice, *
+                    warm, sticky piece of homemade.*
+
+      Bo takes another bite of pie, stares at Ava. *
+
+                                  RAYLAN (O.S.)*
+                    Time to go, old man.*
+
+      Bo and Ava look up to find Raylan standing beside the table.*
+
+                                  BO*
+                          (to Raylan)*
+                    Howdy, Marshal.  Glad you could *
+                    join us.*
+
+                                    RAYLAN*
+                    I m not joining you.  You were *
+                    leaving.*
+
+                                  BO*
+                    Just telling my daughter-in-law how *
+                    the thing that separates the pie *
+                    you get inside from a piece like *
+                    this here is the smell.  *
+                          (picks up plate, inhales *
+                            deeply)*
+                    Mmm-mmm -- girl, I think I m gonna *
+                    have to lick your plate. *
+
+        *
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    3.
+
+      CONTINUED: (2)33
+
+      Raylan grabs the plate and puts a forceful hand on Bo s *
+      shoulder.    *
+
+                                    RAYLAN*
+                    You gonna walk out of here, or is *
+                    this going to have to go a *
+                    different way?  *
+
+      Bo s not smiling anymore.  He looks down at Raylan s hand on *
+      his shoulder.  *
+
+                                  BO*
+                    Last time a guy put a hand on me *
+                    that way, I beat him till his eyes *
+                    bled. *
+                          (the smile returns)*
+                    Guess it s a good thing for both of *
+                    us I m not a convict anymore. *
+                          (beat) *
+                    Now, if you ll excuse me, I m late *
+                    for a sitdown with my lawyer.  *
+
+                                    RAYLAN*
+                          (not buying it)*
+                    Your lawyer.*
+
+      Bo nods toward the coffee shop s door, where a well-dressed *
+      MAN (40s), whom we ll indeed come to know as the Crowders  *
+      lawyer, stands watching them.  The lawyer HOLDS UP a *
+      distinctive FOLDER.  *
+
+                                  BO*
+                          (to Ava)*
+                    Great to see you, honey.*
+                          (to Raylan)*
+                    You take care, Marshal.*
+
+      Bo walks over to the door, shakes hands with his lawyer, *
+      walks outside with him.  Raylan sits down across from Ava.*
+
+                                    RAYLAN*
+                    You all right?*
+
+                                  AVA*
+                    I m fine. *
+
+                                    RAYLAN*
+                    I don t suppose now would be a good *
+                    time to revisit our conversation *
+                    about getting you out of Kentucky? *
+
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    4.
+
+      CONTINUED: (3)33
+
+                                  AVA*
+                    I m not made of glass, Raylan. *
+                    Besides, who s gonna mess with me *
+                    when I ve got the A-number-one *
+                      gunfighter in the whole U.S. *
+                    Marshals Service watching my back?*
+
+                                    RAYLAN*
+                    I m watching every part of you.*
+
+                                                                          FADE OUT.*
+
+
+                                    END OF TEASER                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    5.
+
+
+                                        ACT ONE
+
+      OMITTED44
+
+      INT. MARSHAL S OFFICE - BULLPEN - DAYA5A5
+
+      Raylan enters the bullpen, notices a pair of uniformed PRISON 
+      GUARDS lounging outside the closed door of the holding cell.  
+      One of them is TAPPING on the observation window the way a 
+      kid might tap on the glass of an aquarium, trying to get a 
+      rise out of the fish inside.  
+
+      Art stands outside his office, shoots the shit with AUSA 
+      DAVID VASQUEZ.  
+
+                                  ART
+                          (seeing Raylan s approach)
+                    Speak of the devil.
+
+                                  RAYLAN
+                    Devil appears.
+
+      Raylan and Vasquez shake hands. 
+
+                                    VASQUEZ
+                    You were right about Owen Carnes 
+                    not offing himself.
+
+                                  RAYLAN
+                    Didn t take a genius to read that 
+                    one.
+
+                                  ART
+                      Obviously.
+
+      Raylan shoots Art a look.
+
+                                  RAYLAN
+                          (to Vasquez)
+                    Those prison guards with you?
+
+                                    VASQUEZ
+                    Sorry?
+
+                                  RAYLAN
+                    I thought maybe you d decided to 
+                    skip over your inquiry, haul me 
+                    straight off to the clink. 
+
+                                    VASQUEZ
+                    I didn t think of that.  What an 
+                    idiot I am.  
+                          (re: guards)
+                                  (MORE)
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    5A.
+
+      CONTINUED:A5A5
+                                    VASQUEZ (CONT'D)
+                    That s a whole other headache.  You 
+                    ever hear of Cal Wallace?
+
+                                  RAYLAN
+                    It might ring a bell.
+
+                                    VASQUEZ
+                    Legendary  problem inmate,  long 
+                    history of noncompliance.  He s 
+                    here to fight a Court order to 
+                    transfer him to a Supermax. 
+
+                                  ART
+                    David just came by to say he has a 
+                    few other meetings before ours.  
+
+                                    VASQUEZ
+                    Figure they won t take more than a 
+                    couple hours or so, then we ll 
+                    finally have our sitdown.  End of 
+                    day okay?
+
+                                  RAYLAN
+                    Fine by me.  
+
+                                  ART
+                    You all right to use my office?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    6.
+
+      CONTINUED: (2)A5A5
+
+                                    VASQUEZ
+                    Don t see why not. Give you home-
+                    field.
+                          (shakes Raylan s hand)
+                    Good to see you again, Deputy.
+
+      Vasquez starts off, turns back.
+
+                                    VASQUEZ (CONT D)
+                    Are you going to have FLEOA lawyer 
+                    with you?
+
+                                  RAYLAN
+                    It s just an interview.
+
+                                    VASQUEZ
+                    Oh, I know, but I ve done a number 
+                    of these.  Some people have a union 
+                    lawyer present, some don t.  
+                    Totally up to you.  You don t have 
+                    to decide this second.  Think about 
+                    it.  See you later.
+
+      Art and Raylan watch Vasquez walk away.  They share a look.  
+
+                                  ART
+                    Do you want a lawyer?
+
+                                  RAYLAN
+                    Until twenty seconds ago, I didn t 
+                    think I needed one.
+
+                                  ART
+                    Your call.
+
+                                  RAYLAN
+                    I figure I m okay if I ve got you 
+                    there.  
+
+      Art nods at his office, heads there, Raylan with him.
+
+                                  ART
+                    Why don t we go over what you re 
+                    gonna say, make sure we re dotting 
+                    all the Ts.
+
+                                  RAYLAN
+                    The fact you re worried scares the 
+                    shit out of me.  
+
+      They move together into--                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    7.
+
+
+      INT. MARSHAL S OFFICE - ART S OFFICE - CONTINUOUSB5B5
+
+      Raylan and Art enter.
+
+                                  ART
+                    I m not worried.  I just want to 
+                    make sure Vasquez leaves here 
+                    knowing the Bucks and Boyd Crowder 
+                    shootings were Kosher as chicken 
+                    soup.   Cause if not, next step s 
+                      depositions and the grand jury, 
+                    which, in addition to the jeopardy 
+                    it would put your career in, might 
+                    also add up to one hell of a pain 
+                    in the balls for your Chief.
+                          (beat)
+                    Let s start with Tommy Bucks.  Walk 
+                    me through it.
+
+      OMITTED55
+
+      OMITTED66
+
+      INT. WINONA AND GARY S HOUSE - HALL - DAY77
+
+      WINONA arrives home.  She s carrying a sheaf of papers and a 
+      black bag full of her steno equipment.  She heads for her 
+      bedroom, puts her hand on the doorknob... and then stops.  
+      She turns around, keeps walking toward the kitchen at the end 
+      of the hall.
+
+      INT. WINONA AND GARY S HOUSE - HALL/KITCHEN - CONTINUOUS88
+
+      Winona sees a STRANGE MAN, 30s, sitting at her kitchen table 
+      in a way that (if we ve been paying attention) may echo 
+      Raylan s similarly uninvited appearance at the same table 
+      toward the end of the Pilot.
+
+      Winona GASPS, drops her stack of papers.  The Man stands up 
+      quickly, holding his hands up, trying to appear as 
+      nonthreatening as possible.
+
+                                    STRANGE MAN
+                          (genuinely concerned)
+                    Mrs. Hawkins, I m so sorry to have 
+                    startled you.  I assumed Mr. 
+                    Hawkins had told you to expect me.
+                                  (MORE)
+
+
+
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    8.
+
+        CONTINUED:88
+                                    STRANGE MAN (CONT'D)
+                          (pulls out a business 
+                            card)
+                    My name is Wynn Duffy. 
+
+      Winona eyes Wynn Duffy warily, but his unaggressive manner, 
+      coupled with his having known her name and the fact he s 
+      wearing a suit and holding a briefcase, is enough to keep her 
+      from running and/or Macing him.  She reaches out, takes the 
+      card. 
+
+                                  WINONA
+                          (reading from the card)
+                     Home Security Consultant. 
+
+                                    STRANGE MAN/WYNN DUFFY
+                    Mr. Hawkins hasn t mentioned 
+                    anything?
+
+                                  WINONA
+                    Must have slipped his mind.
+
+                                  DUFFY
+                          (launching into rapid-fire 
+                            sales patter)
+                    Not surprising given the number of 
+                    things he has on his mind -- the 
+                    safety of his family, for instance.  
+                    Mrs. Hawkins, I can offer you and 
+                    your husband the peace of mind that 
+                    only comes with knowing your 
+                    personal security situation is 
+                    under control. 
+
+      Winona s not scared anymore, but she doesn t buy a word of 
+      this.
+
+                                  WINONA
+                    None of which explains what you re 
+                    doing in my house.
+
+                                  DUFFY
+                    Well, ma am, in order to upgrade 
+                    your security situation, I first 
+                    have to assess your security 
+                      situation.
+
+                                  WINONA
+                    Mr. Duffy, what are you doing here?
+
+
+
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    9.
+
+      CONTINUED: (2)88
+
+                                  DUFFY
+                          (ignoring her)
+                    And just because it s your 
+                     physical security  we re working 
+                    to safeguard, that doesn t mean all 
+                    our solutions have to be physical. 
+                    The average citizen has no idea how 
+                    much the quality of their personal 
+                    security is determined by the way 
+                    they treat people, whether they 
+                    live up to their obligations. 
+
+                                  WINONA
+                    I ll ask you once more--
+
+                                  DUFFY
+                    And also by the security of their 
+                     personal information  -- which 
+                    doesn t just mean bank passwords or 
+                    social security numbers.  With one 
+                    phone call, I was able to discover 
+                    that the deposition you were 
+                    scheduled to work this afternoon 
+                    had been cancelled, letting me know 
+                    that you d likely be home early and 
+                    home alone.  Imagine what a genuine 
+                    predator might have been able to do 
+                    with that information.
+
+                                  WINONA
+                    Or I could call the police.
+
+                                  DUFFY
+                    The police?  The police are a 
+                      janitorial service that comes to 
+                    clean up your blood after you ve 
+                    been murdered.  But if you want to 
+                    trust them to handle your security 
+                    needs... 
+
+                                  WINONA
+                    No, I mean now.  I mean I could 
+                    call the police now, if you refuse 
+                    to get out of my house.
+
+                                  DUFFY
+                    Mrs. Hawkins -- you haven t asked 
+                    me to get out of your house.
+
+                                  WINONA
+                    Well, I m asking now.
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    10.
+
+      CONTINUED: (3)88
+
+                                  DUFFY
+                    That s fine.  I understand personal 
+                    security can be an emotionally 
+                    charged issue.
+
+      He picks up his briefcase, heads for the back door.
+
+                                  DUFFY (CONT D)
+                    I hope you ll let Mr. Hawkins know 
+                    I was here -- tell him I didn t 
+                    forget.
+
+      He leaves.  Winona closes the door behind him, throws the 
+      dead bolt.  Off Winona standing frozen in her kitchen, 
+      staring at the closed door--
+
+                                                                          BACK TO:
+
+      INT. MARSHAL S OFFICE - ART S OFFICE - DAY99
+
+      Art is still running Raylan through his dress rehearsal.
+
+                                  ART
+                    So you walk in, he s already alone, 
+                    sitting by himself in the corner, 
+                    nothing but ocean behind him?
+
+                                  RAYLAN
+                    That a problem?
+
+                                  ART
+                    Just seems like he made it easy for 
+                    you.
+
+                                  RAYLAN
+                          (getting testy)
+                    Didn t feel that way when he was 
+                    drawing down on me.
+
+      In the b.g., through the glass, the guards escort prisoner 
+      CAL WALLACE, in leg irons and handcuffs, to the locker room.
+
+                                  ART
+                    All I meant is he did you a favor 
+                    sitting there by himself, no one 
+                    behind him. 
+
+                                  RAYLAN
+                    And here I forgot to thank him.  
+                    You know anybody carries a gun for 
+                    a living who doesn t sit with their 
+                    back to the wall?
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    11.
+
+        CONTINUED:99
+
+                                  ART
+                    What if he d been eating with 
+                    someone? 
+
+                                  RAYLAN
+                    If there was someone else at the 
+                    table, I wouldn t ve sat down.
+
+                                  ART
+                    Meaning when you sat down, you were 
+                    already planning to shoot him.
+
+      They stare at each other for a moment while that sinks in.
+
+                                  ART (CONT D)
+                    You get what I m saying, Raylan?  
+                    We have a letter-of-the-law, spirit-
+                      of-the-law problem: guy pulls 
+                    first, gives you no choice but to 
+                    put him down.  Which is fine unless 
+                    it looks like you maneuvered him 
+                    into giving you no choice.
+
+                                  RAYLAN
+                          (gets it)
+                    So, you want me to tell Vasquez I 
+                    don t think in  what ifs. 
+
+                                  ART
+                          (yes)
+                    Don t let him bait you into 
+                      speculating, let your smart mouth 
+                    talk you into a jackpot.  I ever 
+                    tell you what my daddy said about 
+                    lawyers?  He said,  Treat lawyers 
+                    like mushrooms: feed  em shit and 
+                    keep  em in the dark. 
+
+                                  RAYLAN
+                    You sure that was your daddy? 
+                    Could ve sworn I heard it in a 
+                    movie.
+
+                                  ART
+                    Where you think they got it?
+                          (smiles)
+                    Point is, Vasquez may be all right, 
+                    but you still don t give him any 
+                    more than you have to.  You let 
+                    Bucks s history as a maggot, plus 
+                    all the witnesses saw him go for 
+                    his piece, do your talking. 
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    12.
+
+      CONTINUED: (2)99
+
+      They re startled by a COMMOTION from the main room -- THUDS, 
+      GRUNTS, ND SHOUTING ( Knife, knife, knife!   Drop it!  
+       Bullshit, you drop it! ). 
+
+      Raylan s out of his chair like a shot.  Art follows into--
+
+      INT. MARSHAL S OFFICE - BULLPEN - CONTINUOUS1010
+
+      Mayhem near the entrance to the locker room.  Through the 
+      door we can see one of the prison guards (call him Guard #2 -- 
+      the one we saw earlier tapping on the holding cell s 
+      observation window) on the floor, bleeding from the nose, 
+      apparently unconscious.  The other guard (Guard #1) is being 
+      used as a human shield by Wallace. 
+
+      Several ND MARSHALS as well as RACHEL and TIM have drawn 
+      their weapons and are SCREAMING orders and threats at 
+      Wallace. 
+
+      Wallace SHOUTS back at them, brandishes a shiv at the neck of 
+      his hostage.  He kicks the locker room door shut.
+
+      Off Raylan and Art taking in the situation -- 
+
+                                                                          FADE OUT.
+
+
+                                  END OF ACT ONE                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    13.
+
+
+                                        ACT TWO
+
+      INT. MARSHAL S OFFICE - LOCKER ROOM - DAYA11A11
+
+      Wallace pushes his hostage (Guard #1) away from him, then 
+      quickly goes to Guard #2, moaning on the floor, and puts his 
+      shiv to the man s eye.
+
+                                    WALLACE
+                          (to Guard #2)
+                    Don t move.
+                          (to Guard #1)
+                    Do what I say or I pop his eye.
+
+      INT. MARSHAL S OFFICE - BULLPEN - CONTINUOUS1111
+
+      Art backs the Marshals up.  
+
+                                  ART
+                    I want those weapons back in their 
+                    holsters right now and I don t want 
+                    to see them again till I say 
+                      otherwise.
+                          (to a couple ND Marshals)
+                    Evacuate the civilians, then seal 
+                    the office.  
+                          (to Rachel)
+                    Call Washington, tell them we need 
+                    a SOG team.
+
+      As Rachel moves off, Art notices Vasquez has returned and is 
+      standing just inside the main door.  This is the last thing 
+      Art has the time to deal with at the moment.
+
+                                  ART (CONT D)
+                    Mr. Vasquez--
+
+                                    VASQUEZ
+                          (cutting him off)
+                    They told me the situation when 
+                    they pulled me out of my meeting.  
+                    You need anything from my office, 
+                    just let me know. 
+
+      They hear metal scraping sounds from inside the locker room.  
+      Art moves back toward the locker room door, where Raylan is 
+      still standing.  
+
+      Vasquez drifts over to the desk at which Rachel is on the 
+      phone.
+
+
+
+
+
+                                                                              (CONTINUED)              EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    13A.
+
+      CONTINUED:1111
+
+                                  RACHEL
+                    In case you re wondering why we 
+                    haven t already gone in--
+
+                                    VASQUEZ
+                    I m not wondering anything.
+
+      At the locker room door, Art motions for Raylan to follow him 
+      to the holding cell.
+
+                                  ART
+                          (quietly)
+                    Wallace looks like he s about to 
+                    execute one of those guards, put 
+                    him down.
+
+      Raylan nods, lets his right hand drop to his belt.  But 
+      Raylan can t help but see...
+
+      Vasquez, standing near Rachel.  Art sees Raylan looking at 
+      Vasquez.
+
+                                  ART (CONT D)
+                    Ignore him.  You have to pull, you 
+                    pull.
+
+      They walk into...                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    14.
+
+
+      INT. MARSHAL S OFFICE - HOLDING CELL - CONTINUOUSA12A12
+
+      Art and Raylan enter.  Art goes up to the mirror/window.  
+      They can only kind of see in through the mirror, see motion, 
+      Guard #1 moving the lockers.
+
+                                  ART
+                    There s still a way for you to step 
+                    back from the cliff here, Wallace -- 
+                    you let those boys go and I ll 
+                      personally see to it there s no 
+                      retribution. 
+
+      INT. MARSHAL S OFFICE - LOCKER ROOM - CROSSCUTB12B12
+
+      Wallace has handcuffed Guard #2 and is unlocking his own leg-
+      irons.  Guard #1 is moving lockers (hence the metal scraping 
+      sound) into position in front of the two windows and two 
+      doors.
+
+                                  ART
+                    Depending on how bad that one boy s 
+                    hurt, I might even be able to keep 
+                    you out of the SHU.
+
+                                    WALLACE
+                    Who are you?
+
+                                  ART
+                    Chief Deputy Art Mullen.
+
+                                    WALLACE
+                    You re the boss, huh?  Well, do me 
+                    a favor, bossman -- quit blowing 
+                    smoke up my ass, before I decide to 
+                    bite through one of these 
+                      shitbirds  Adam s apples just to 
+                    spit blood in your face.
+
+      Raylan takes a look at Vasquez, figures what the hell, steps 
+      up closer to the glass.  
+
+                                  RAYLAN
+                    Chief s just trying to get this 
+                    situation resolved before the Tac 
+                    Team arrives, steals all the credit 
+                    for bringing you out of there.
+
+                                    WALLACE
+                    Won t be my first time dealing with 
+                    a Tac Team.
+
+
+
+
+                                                                              (CONTINUED)              EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    14A.
+
+        CONTINUED:B12B12
+
+                                    WALLACE (CONT D)
+                          (to Raylan)
+                    You re the shooter?
+
+      Raylan is thrown -- is Wallace referring to his reputation 
+      re: Tommy Bucks, etc?
+
+                                    WALLACE (CONT D)
+                    He brought you in to ghost me if 
+                    things go any further south?
+
+                                  RAYLAN
+                    Chief s a good shot himself.  He 
+                    taught firearms--
+
+                                    WALLACE
+                    But you re better.
+
+                                  RAYLAN
+                    I am.
+
+      Art looks at Raylan.  Raylan shrugs -- it s the truth.
+
+      Guard #1 has finished moving the lockers.
+
+                                    WALLACE
+                          (to Guard #1)
+                    On the floor, face down, cuff your 
+                    hands behind your back.
+
+      Guard #1 complies.
+
+      With both guards down and cuffed, Wallace is free to move.  
+      He gets up.  Through the narrow strip of glass not blocked by 
+      a locker, he can see Art and Raylan in the holding cell.
+
+                                    WALLACE (CONT D)
+                          (to Raylan)
+                    I ll talk to you.  I know why 
+                    you re here.  No illusions.  
+                     Sides, I never much cared for 
+                    bosses.
+                          (to Art)
+                    Go run your command post or what 
+                    have you.
+
+
+
+
+
+
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    15.
+
+      CONTINUED: (2)B12B12
+
+      Art gives Raylan a look -- you keep talking.  Raylan nods.  
+      Art exits into...
+
+      INT. MARSHAL S OFFICE - BULLPEN - CONTINUOUS - CROSSCUTC12C12
+
+      Art goes to Tim and Rachel.  Vasquez is standing with them.
+
+                                  ART
+                          (to Rachel)
+                    Get me everything on Wallace.
+                          (to Tim)
+                    Get us some eyes in there.
+
+      Tim and Rachel move off.  Art looks at Vasquez.
+
+                                  ART (CONT D)
+                    Let s be clear.  Deputy Givens will 
+                    try to talk Wallace out of there.  
+                    But I have told him, if Wallace 
+                    makes a move to kill, he s to take 
+                    him out if he can.  My order.
+
+                                    VASQUEZ
+                    Chief, you have me all wrong.  I 
+                    don t give a shit if Deputy Givens 
+                    shoots Cal Wallace.
+
+                                  ART
+                    But you do give a shit that he 
+                    killed a low-life like Tommy Bucks.
+
+                                    VASQUEZ
+                    Like the rest of the world I m 
+                    delighted Tommy Bucks is dead.  But 
+                    didn t the circumstances give you 
+                    pause?
+
+      Art has no answer to that.
+
+D12D12INT. MARSHAL S OFFICE - HOLDING CELL/LOCKER ROOM -    
+      CROSSCUT
+
+      Throughout the following, Wallace goes through the guards  
+      belts and the lockers, looking for anything he can use -- 
+      telescoping batons, socks to gag the guards, clothes to pad 
+      himself up.
+
+                                    WALLACE
+                          (re: Vasquez)
+                    That little guy in the suit some 
+                    kind of big bossman?  He wasn t 
+                    here when the hacks were walking me 
+                    to the men s room. 
+
+
+
+                                                                              (CONTINUED)              EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    15A.
+
+        CONTINUED:D12D12
+
+                                  RAYLAN
+                    You eyeball everything, huh. 
+
+                                    WALLACE
+                    I do.  I saw how just now, before 
+                    you tagged in, you kept looking out 
+                    at that little guy, like you had to 
+                    ask his permission.  
+
+                                  RAYLAN
+                    He s an Assistant US Attorney.  
+                    He s investigating a couple of my 
+                      shootings.
+
+                                    WALLACE
+                     A couple of your shootings ?  
+                    Guess I was onto something calling 
+                    you  shooter .
+                          (beat)
+                    That why you didn t put me down at 
+                    the jump?  You wanted to resolve 
+                    this without shooting, prove 
+                    something to the AUSA?
+
+                                  RAYLAN
+                    You were moving and dragging that 
+                    poor guard.  No better than 50/50 I 
+                    coulda put you down before you cut 
+                    him.  Besides, the object of this 
+                    exercise is everyone lives.
+
+                                    WALLACE
+                    You think you can pull that off?
+
+                                  RAYLAN
+                    They pay me to try.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    16.
+
+      CONTINUED: (2)D12D12
+
+                                    WALLACE
+                    You gonna get my list of demands?  
+                    Promise me a helicopter, plane, 
+                    suitcase full of cash?
+
+                                  RAYLAN
+                    These days, you can t even use the 
+                        I ll-get-you-a-plane line as a 
+                    bluff.   Cause even the bone-
+                    dumbest hostage taker s gotta know 
+                    there s no way we re gonna put them 
+                    in a plane just to save a few 
+                    lives.  Not when they know the Air 
+                    Force will shoot down a passenger 
+                    jet just to stop it getting taken 
+                    over.
+
+                                    WALLACE
+                    So what s your play?  You planning 
+                    to run that bullshit where you 
+                    exchange yourself for the hostages? 
+
+                                  RAYLAN
+                    Hell, no.  Actually, I was just 
+                    thinking how happy I am not to have 
+                    been the one with the shiv at my 
+                    neck.  How d you get it in here, by 
+                    the way? 
+
+                                    WALLACE
+                    Keestered it.
+
+                                  RAYLAN
+                    Keestered it?  That can t ve been 
+                    too comfortable.
+                          (beat)
+                    And now I m really happy not to 
+                    have it pressed against my face.                 EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    17.
+
+
+      OMITTEDE12E12
+
+      INT. MARSHAL S OFFICE - CONFERENCE ROOM - CROSSCUTFf12Ff12
+
+      Tim is on a chair, feeding a snake camera through a ceiling 
+      panel.
+
+F12F12INT. MARSHAL S OFFICE - HOLDING CELL/LOCKER ROOM -   
+      CONTINUOUS
+
+      Wallace gags the guards with socks.  
+
+                                    WALLACE
+                    Got the crustiest ones I could 
+                    find.  Enjoy.
+
+      He starts putting on clothes, layering himself up. 
+
+                                    WALLACE (CONT D)
+                    You have much experience with this 
+                    kind of thing?  Talking down a 
+                      barricaded suspect?
+
+                                  RAYLAN
+                    Not really.
+
+                                    WALLACE
+                    Well, you re doing fine so far. 
+                    You ve  established a rapport with 
+                    the subject.   Now you ll have to 
+                       determine whether the subject is 
+                      emotionally disturbed  -- any 
+                    thoughts on that?
+
+                                  RAYLAN
+                    I d say at the moment he seems to 
+                    be about the most emotionally 
+                    stable person in the room -- 
+                    although he did sit around all 
+                    morning with a shiv up his ass.
+
+                                    WALLACE
+                    Which brings us to the sixty-four-
+                      thousand-dollar question:  Is the 
+                    situation negotiable?  Has the 
+                    subject expressed the desire to 
+                    live?  Has he expressed needs or 
+                    demands and are those demands 
+                    realistic and achievable?   Told 
+                    you I ve done this before.
+                          (beat)
+                                  (MORE)
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    18.
+
+        CONTINUED:F12F12
+                                    WALLACE (CONT'D)
+                    See, the problem you have, Marshal, 
+                    is I m doing four consecutive life 
+                    sentences and no parole board in 
+                    its right mind is ever gonna put me 
+                    back on the street. 
+
+                                  RAYLAN
+                    So, as part of  establishing a 
+                    rapport with the subject  am I 
+                    supposed to weep with him over all 
+                    the unsympathetic parole boards 
+                    refuse to release him back into 
+                    society when he clearly poses it no 
+                    further danger?
+
+                                    WALLACE
+                    Nah.  I wouldn t put me back on the 
+                    street, either.  I just want to 
+                    save us some time, let you know 
+                    there s nothing you can offer me.
+
+                                  RAYLAN
+                    Sure.  What do you get for the man 
+                    who has everything?
+                          (beat)
+                    Thing is, no one who s not 
+                       emotionally disturbed  takes 
+                    hostages unless he wants something.
+
+                                    WALLACE
+                    Tell you what, Marshal -- you 
+                    figure out what that might be, you 
+                    let me know.
+
+                                  RAYLAN
+                    That s not how this works, me 
+                    guessing at the key to your heart.  
+                    In my experience -- and I know I 
+                    haven t been through as many of 
+                    these things as you -- but in my 
+                      experience, you ask for what you 
+                    want and I try to get it.
+
+      Wallace SLAMS the door in his face.  Out of the corner of his 
+      eye, Raylan sees Rachel motioning him into the conference 
+      room.  He drifts over to her.            EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    19-22.
+
+
+        OmittedGg12Gg12
+
+      OMITTEDG12G12
+
+        OMITTEDHh12Hh12
+
+      INT. MARSHAL S OFFICE - CONFERENCE ROOM - CONTINUOUSH12H12
+
+      Rachel shows Raylan photos of Wallace s tattoos, points to 
+      one in particular -- of a tattoo on Wallace s chest: just the 
+      name Simone.
+
+                                  RACHEL
+                          (re: the photo)
+                    You get her name in ink, she s 
+                    gotta be someone special.
+
+      INT. MARSHAL S OFFICE - BULLPEN - CONTINUOUSH12H12
+
+      Raylan KNOCKS on the locker room door.
+
+                                  RAYLAN
+                          (through the door)
+                    Who s Simone?...  Mr. Wallace!... 
+                    Who is she?
+
+                                    WALLACE
+                    How do you know about Simone?
+
+                                  RAYLAN
+                    I saw photos of your tattoos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    23.
+
+        CONTINUED:H12H12
+
+                                    WALLACE
+                    She s my daughter.
+
+                                  RAYLAN
+                    Where is she?
+
+                                    WALLACE
+                    I don t know.  With her mother I 
+                    guess.
+
+                                  RAYLAN
+                    You miss her?
+
+                                    WALLACE
+                    What do you think?  I haven t seen 
+                    her since she was three.  Most 
+                    beautiful little girl in the world.
+
+                                  RAYLAN
+                    How old is she now?
+
+                                    WALLACE
+                    Uh... fifteen?
+
+                                  RAYLAN
+                    Would you like to see her?
+
+                                    WALLACE
+                    Could you do that?
+
+                                  RAYLAN
+                    We could try.
+
+                                    WALLACE
+                    Man, that would be great.  It d 
+                    also be a miracle, considering the 
+                    Simone on my chest is for David 
+                    Simone, the enforcer for the 
+                    Wizards and the first man I killed.
+                          (beat)
+                    I ain t got no daughter.  Sorry for 
+                    screwing with you.  Couldn t 
+                    resist.  Nice try, though.
+                          (beat)
+                    The other problem we re gonna keep 
+                    bumping against is whatever you 
+                    promise me -- improve my 
+                      conditions, get me some extra yard 
+                    time, job in the kitchen, what have 
+                    you -- I m not gonna believe it.  
+                    We all know how this hearing s 
+                    gonna go.  I m headed for super-
+                    max.  
+                                  (MORE)
+
+
+                                                                              (CONTINUED)              EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    23A.
+
+      CONTINUED: (2)H12H12
+                                    WALLACE (CONT'D)
+                    I got no reason to expect the 
+                    assholes there are gonna be any 
+                    better than these assholes.
+
+      He gives Guard #2 a vicious kick in the ribs.  The guard 
+      GROANS through his gag. 
+
+                                    WALLACE (CONT D)
+                    Get their rocks off turning men 
+                    into animals. Take away your toilet 
+                    paper, make you wait a week for a 
+                    shower, lock you down and feed you 
+                     juke cakes  -- you know what a 
+                     juke cake  is, Marshal? 
+
+                                  RAYLAN
+                    I m guessing it s not pleasant.
+
+                                    WALLACE
+                    It s when the guards dump 
+                      everything from your tray into a 
+                    blender, then put that in the oven, 
+                    cook it like a casserole, burn it 
+                    black on both sides.
+
+                                  RAYLAN
+                    Screwing with you.
+
+                                    WALLACE
+                    Right.  So what I do, I screw with 
+                     em back.  Pretend the  juke cake  
+                    is fried chicken from Prince s Hot 
+                    in Nashville, make sure the guards 
+                    can hear me licking my fingers. 
+
+                                  RAYLAN
+                    I do love fried chicken.  Can t 
+                    recall ever having any in 
+                      Nashville, though.  They call it 
+                    Prince s Hot  cause it s spicy?
+
+                                    WALLACE
+                    You take one bite of Prince s, you 
+                    start sweating like a whore in 
+                    church. 
+
+                                  RAYLAN
+                    Best fried chicken I ever had was 
+                    the takeaway from Joe s Stone Crab 
+                    in Miami.  You believe that?  A 
+                    Kentucky boy has to go all the way 
+                    to Florida to find his favorite?
+
+
+
+
+                                                                              (CONTINUED)              EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    23B.
+
+      CONTINUED: (3)H12H12
+
+                                    WALLACE
+                    Well, I can t say I ever made it 
+                    down to Florida, so I don t feel 
+                    qualified to judge.  I will say I 
+                    find it tough to swallow the idea 
+                    that the best chicken could be 
+                    served by a place with  crab  in 
+                    its name. 
+
+                                  RAYLAN
+                          (after a beat)
+                    That the reason you pulled all this 
+                    -- screw with the guys who screw 
+                    with you?
+
+                                    WALLACE
+                          (shrugs)
+                    Maybe I m planning to cut the 
+                    throats of the guys who screw with 
+                    me.
+
+                                  RAYLAN
+                    If you were gonna do that you 
+                    would ve done it already.
+
+                                    WALLACE
+                    I still got time.
+                          (beat)
+                    I was actually looking forward to 
+                    coming here for the hearing.  Few 
+                    days with a change of scenery.  I d 
+                    at least enjoy the drive.  
+                          (nods at guards)
+                    But they made sure it was shit.  Up 
+                    at three.  Cold eggs for breakfast.  
+                    Travel in a van with no windows.  
+                    Get here, they tap on the glass 
+                    like I m a monkey in the zoo.  
+
+      Out of the corner of his eye, Raylan sees Art motion to him 
+      in the bullpen.
+
+                                  RAYLAN
+                    Excuse me a sec.
+
+      Raylan walks out.
+
+      INT. MARSHAL S OFFICE - ART S OFFICE - CONTINUOUSHj12Hj12
+
+      Raylan joins Art, Tim and Rachel, Vasquez a few feet away.  
+      Tim has a monitor showing the video feed from a wide-angle 
+      lens from the ceiling.  We see Wallace continuing his 
+      preparations.   
+
+
+
+                                                                              (CONTINUED)              EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    23C.
+
+        CONTINUED:Hj12Hj12
+
+      Art hands Raylan an earbud and Raylan puts it in.  As they 
+      talk, Raylan writes something on a piece of paper.
+
+                                  ART
+                    Closest SOG team is four hours 
+                    away, so we had to call in the 
+                    locals.  They re about fifteen 
+                    minutes out.
+
+                                  RAYLAN
+                    Lexington SWAT? 
+
+                                  ART
+                          (yes)
+                    You know how they ll play it?
+
+                                  RAYLAN
+                    If they re like the Tac guys I ve 
+                    dealt with everywhere I ve been, 
+                    I m guessing they re not too big on 
+                    talking.
+
+                                  ART
+                          (agrees)
+                    Once they get here, there s only 
+                    one way this goes.
+
+                                  RAYLAN
+                    I think there s still a chance to 
+                    end this with no one getting dead.
+
+                                  ART
+                    You ve got fifteen minutes.
+
+                                  RAYLAN
+                    Any way we can get some fried 
+                    chicken in here?
+
+                                  ART
+                          (incredulous)
+                    Fried chicken.
+
+                                  RAYLAN
+                          (yes)
+                    As spicy as you can find.
+
+                                  ART
+                    And you honestly think that s gonna 
+                    get him out of there?
+
+
+
+
+
+
+                                                                              (CONTINUED)              EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    23D.
+
+      CONTINUED: (2)Hj12Hj12
+
+                                    VASQUEZ
+                          (to Art)
+                    It might if he s looking for a way 
+                    out of this that doesn t require 
+                    him to admit he s scared to die.
+
+                                  RAYLAN
+                          (to Art)
+                    Worth a shot.
+
+                                  ART
+                          (hands Tim $50)
+                    Go get it.
+
+                                    VASQUEZ
+                          (to Raylan)
+                    Anything my office can do?
+
+                                  RAYLAN
+                    Wallace claims mistreatment.
+
+                                    VASQUEZ
+                    Probably true.  He s a violent 
+                    asshole.  A cycle gets started, 
+                    it s hard to stop.
+
+                                  RAYLAN
+                    So there s nothing your office can 
+                    do.
+
+                                    VASQUEZ
+                    Probably not.
+
+      Raylan starts out.
+
+                                    VASQUEZ (CONT D)
+                    For what it s worth, if you have to 
+                    put him down, no one from my office 
+                    will be second-guessing you.  
+
+                                  RAYLAN
+                    For what it s worth.
+
+                                    VASQUEZ
+                    Time out on everything else.
+
+      INT. MARSHAL S OFFICE - BULLPEN - CONTINUOUSHk12Hk12
+
+      Raylan situates himself outside the locker room door.
+
+                                  RAYLAN
+                    Wallace.                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    23E.
+
+
+      INT. MARSHAL S OFFICE - LOCKER ROOM - CROSSCUTHL12HL12
+
+                                    WALLACE
+                    Let me guess.  Tac Team s on it s 
+                    way.  You got fifteen minutes to 
+                    end this peaceably.
+
+                                  RAYLAN
+                    You heard?
+
+                                    WALLACE
+                    Even if I didn t, I know the drill.
+
+                                  RAYLAN
+                    So I guess you also heard I sent 
+                    out for some chicken. 
+
+                                    WALLACE
+                    Fried chicken?
+
+                                  RAYLAN
+                          (you bet your ass)
+                    All that Prince s talk was making 
+                    my mouth water.  You come out of 
+                    there, I d be happy to share it 
+                    with you.
+
+                                    WALLACE
+                    You really think a box of chicken s 
+                    gonna smooth all this over?
+                          (beat)
+                    Bet the bossman just about shit 
+                    when you told him you were bringing 
+                    in lunch.
+                          (beat)
+                    You like having a boss?
+
+                                  RAYLAN
+                    Can t say I think about it all that 
+                    much.
+
+                                    WALLACE
+                    I had a boss once, back when I was 
+                      roughnecking just after I left high 
+                    school.  Ended up braining him with 
+                    a piece of that heavy chain we used 
+                    to use to trip pipe?  And when I 
+                    say I brained him, I mean you could 
+                    actually see brain coming out his 
+                    nose.   
+
+
+
+
+
+                                                                              (CONTINUED)              EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    23F.
+
+        CONTINUED:HL12HL12
+
+                                  RAYLAN
+                    I thought you said you were doing 
+                    four life sentences -- you get the 
+                    other three for prison murders?
+
+                                    WALLACE
+                    Nah, I only did forty-two months 
+                    for the foreman -- you believe that 
+                    old boy didn t die?  Although I 
+                    don t think he s much of a 
+                      conversationalist anymore.
+
+                                                                            CUT TO:                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    24.
+
+
+      INT. WINONA AND GARY S HOUSE - KITCHEN - DAY1212
+
+      Winona sits at the kitchen table in the same chair Wynn Duffy 
+      used.  The papers she dropped earlier are still strewn all 
+      over the floor.
+
+      We hear (O.S.) the SOUND OF THE FRONT DOOR OPENING AND THEN 
+      CLOSING.
+
+                                  GARY (O.S.)
+                          (calling)
+                    Honey?  Winona?
+
+                                  WINONA
+                    In the kitchen.
+
+      Gary appears in the kitchen doorway.  He s frazzled, sweating 
+      a little.
+
+                                  GARY
+                    I can t remember the last time you 
+                    called to ask me to come home early 
+                    -- I thought maybe your father had 
+                    another heart attack.
+
+                                  WINONA
+                          (calmly)
+                    Your friend was here.
+
+      Gary looks down at the papers scattered on the floor.
+
+                                  GARY
+                    What happened?  
+
+                                  WINONA
+                    You don t want to know which 
+                    friend?
+
+                                  GARY
+                    Sorry.  Who was it?
+
+                                  WINONA
+                    Wynn Duffy.
+
+                                  GARY
+                    Who s that?
+
+                                  WINONA
+                    He said he knew you.
+
+                                  GARY
+                    Not ringing any bells.
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    25.
+
+      CONTINUED:1212
+
+                                  WINONA
+                    When I got home he was sitting 
+                    right here.
+
+                                  GARY
+                    Inside the house?
+
+                                  WINONA
+                    Right here at the table.  Almost 
+                    gave me a heart attack.  That s 
+                    when I dropped the papers.
+
+                                  GARY
+                    Jesus, did you call the cops?
+
+                                  WINONA
+                          (shaking her head)
+                    Said he was here to  test our home 
+                    security situation.   Said you 
+                    wanted his recommendations for ways 
+                    to make us better protected.
+
+                                  GARY
+                    I wanted them?  I don t even know 
+                    the guy.
+
+                                  WINONA
+                    Yeah, so you said.
+
+                                  GARY
+                    So he was, what, trying to sell you 
+                    an alarm system?
+
+                                  WINONA
+                    I don t know -- we didn t get that 
+                    far.  I told him to leave.
+
+                                  GARY
+                    Probably a junkie looking for a 
+                    quick score, breaks in here  cause 
+                    he can tell nobody s home, shits a 
+                    brick when he hears your key hit 
+                    the lock, comes up with the 
+                     security consultant  thing on the 
+                    fly. 
+
+                                  WINONA
+                    He wasn t a junkie.
+
+                                  GARY
+                    Oh, no? 
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    26.
+
+      CONTINUED: (2)1212
+
+                                  WINONA
+                    Junkies usually don t have business 
+                    cards.
+
+      Winona shows Gary Wynn Duffy s card.
+
+                                  GARY
+                    Huh.  Well, this is new one.  
+                    Breaking into someone s home to get 
+                    them to buy an alarm system.
+
+                                  WINONA
+                    He wasn t here for that.
+
+                                  GARY
+                    Then what was he here for?
+
+                                  WINONA
+                    He was sending a message.
+
+                                  GARY
+                    What kind of message?
+
+                                  WINONA
+                    How long are you planning to keep 
+                    going with this?
+
+                                  GARY
+                    With what?  Someone s running some 
+                    kind of scam--
+
+                                  WINONA
+                    He knew our names, Gary.
+
+                                  GARY
+                    He could ve found an old checkbook 
+                    or something before you came in.
+
+                                  WINONA
+                    He knew about us.  He knew where I 
+                    work.
+
+                                  GARY
+                    Which he gets from pay-stubs or 
+                    whatever.  Maybe he snooped in our 
+                    trash.  We should get a shredder--
+
+                                  WINONA
+                    You know, everything else might 
+                    have some simple explanation, but 
+                    the one thing that doesn t scan is 
+                    you re not concerned about me, what 
+                    could have happened. 
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    27.
+
+      CONTINUED: (3)1212
+
+                                  GARY
+                          (sweet)
+                    Is that what this is about -- you 
+                    think I don t care what happens to 
+                    you?
+
+                                  WINONA
+                    No, I know you do.  And I know the 
+                    reason you re not concerned about 
+                    what that man might have done to me 
+                    is you know he wasn t here for 
+                    that.  Because you know what he was 
+                    here for.
+
+                                  GARY
+                    Jesus Christ -- guess the Third 
+                    Degree s what I deserve for 
+                    marrying a marshal s wife.
+
+                                  WINONA
+                    You know why I didn t call the 
+                    cops?  Because I know you re into 
+                    something with some bad people.
+                    And I know Duffy s one of them. 
+
+                                  GARY
+                    How do you know something that 
+                    isn t true?
+
+                                  WINONA
+                    I read some of your emails and I 
+                    got some names.
+
+                                  GARY
+                    Oh, my God!  You little snoop!
+
+                                  WINONA
+                    You were acting so weird, so 
+                    scared, and when I asked you what 
+                    was wrong you said nothing.
+
+                                  GARY
+                    Because there s nothing going on!
+
+                                  WINONA
+                    Gary, Wynn Duffy was one of the 
+                    names I found.
+
+                                  GARY
+                    You know how many emails I get each 
+                    day?  How many I send?  
+                                  (MORE)
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    28.
+
+      CONTINUED: (4)1212
+                                  GARY (CONT'D)
+                    And I deal with home security firms 
+                    all the time.  I m supposed to 
+                    remember every name?
+
+                                  WINONA
+                    You were so wound up.
+
+                                  GARY
+                    You read the papers?  You see 
+                    what s going on with real estate in 
+                    this country?  Of course I was 
+                    wound up!
+
+      They sit in silence for a moment.  Then Gary thinks of 
+      something.
+
+                                  GARY (CONT D)
+                    Hold on...  This is why your ex-
+                    husband came to threaten me!
+
+                                  WINONA
+                    Raylan came to see you?
+
+                                  GARY
+                    Don t pretend you didn t send him.
+
+                                  WINONA
+                    I didn t!  
+
+                                  GARY
+                    He just decided on his own to come 
+                    see me.
+
+                                  WINONA
+                          (beat)
+                    I asked him to run those names.
+
+                                  GARY
+                    Oh, for God s sake.
+
+                                  WINONA
+                    I was scared!
+                          (beat)
+                    When was this?
+
+                                  GARY
+                    Few weeks ago.  Walked right into 
+                    my office.  Started off all 
+                    pleasant, apologizing for breaking 
+                    in that night.  Then he puts the 
+                    hammer down, says if I get you 
+                    mixed up in anything he ll shoot 
+                    me, or words to that effect.
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    29.
+
+      CONTINUED: (5)1212
+
+                                  WINONA
+                    I swear I had nothing to do with 
+                    that.  
+                          (beat)
+                    Why didn t you tell me sooner?  
+
+                                  GARY
+                    Because I don t like talking about 
+                    your ex-husband.  He strikes me as 
+                    somewhat unbalanced.
+
+      Winona just looks at Gary.  Gary matches her look.
+
+                                  GARY (CONT D)
+                    What?
+
+                                  WINONA
+                    Or maybe you didn t tell me about 
+                    Raylan because there is something 
+                    going on.
+
+                                  GARY
+                    Okay.  That s enough.
+
+      Gary starts out.  Winona grabs him.
+
+                                  WINONA
+                    Gary, please just tell me what s 
+                    happening so we can handle it 
+                    together.
+
+                                  GARY
+                    I hope before our next 
+                      interrogation you ll at least read 
+                    me my rights.
+
+      He storms out of the kitchen, heads for the front door. 
+      Winona stands, but doesn t go after him.
+
+                                  WINONA
+                    Gary, please--
+
+                                  GARY (O.S.)
+                    Sorry I couldn t be more help, 
+                    Officer.
+
+      We hear (O.S.) the SOUND OF THE FRONT DOOR OPENING.
+
+                                  GARY (CONT D)
+                    Or should I say,  Marshal. 
+
+      The DOOR SLAMS (O.S.).  Winona is left alone.            EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    30-32.
+
+
+      OMITTEDA13A13
+
+      INT. MARSHAL S OFFICE - BULLPEN - DAY1313
+
+      Raylan still stands just outside the closed doorway of the 
+      locker room. 
+
+                                    WALLACE
+                    You know I worked as a security 
+                    guard for a while -- one of those 
+                    big office towers in Memphis.  My 
+                    daddy got me the gig.  
+
+      INT. MARSHAL S OFFICE - LOCKER ROOM - CROSSCUTA14A14
+
+      Wallace has laid out all the gear he needs -- batons, some 
+      mace, the shiv.
+
+                                    WALLACE
+                    He worked for that outfit thirty 
+                    years, sitting on his ass, signing 
+                    for deliveries, checking IDs, 
+                    anytime somebody asked him what he 
+                    did he d say he was  in law 
+                      enforcement. 
+
+                                  RAYLAN
+                    My daddy used to grift people out 
+                    of their welfare checks.
+
+      Just then, THE TAC TEAM, in bulky assault vests, helmets, 
+      bags of weapons, enters the bullpen, led by STEVENSON.  
+
+      Wallace hears the commotion.  
+
+                                    WALLACE
+                    That the Tac Team?
+
+      Raylan says nothing.
+
+                                    WALLACE (CONT D)
+                    Now we get to the fun part.
+
+      Off Raylan, frustrated-- 
+
+                                                                          FADE OUT.
+
+
+                                  END OF ACT TWO
+
+      OMITTEDB14B14                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    33.
+
+
+                                      ACT THREE
+
+      OMITTED1414
+
+      INT. MARSHAL S OFFICE - ART S OFFICE - DAYC14C14
+
+      The Tac Team is in the bullpen, getting ready.  
+
+      Art huddles with Stevenson, the Tac-Team commander, and 
+      Stevenson s SECOND-IN-COMMAND.  They look both at the video 
+      feed and a hand-drawn floorplan.
+
+                                  ART
+                    Windows here and here, 
+                      shatterproof.  Doors here and here.  
+                    Simple wood.  He s got  em all 
+                    blocked with lockers.
+
+                                  STEVENSON
+                          (to his 2nd-in-command)
+                    For starters, he doesn t need to 
+                    see.
+
+      His 2nd heads out into the bullpen. 
+
+                                  ART
+                    We need ten minutes.
+
+                                  STEVENSON
+                    For what?
+
+                                  ART
+                    We re waiting for something, might 
+                    diffuse the situation.
+
+      Stevenson looks at Art -- what?
+
+                                  ART (CONT D)
+                    One of Wallace s complaints is 
+                    food.  Deputy Givens thought if we 
+                    brought him some fried chicken it 
+                    might do the trick.
+
+                                  STEVENSON
+                    You think he pulled a shiv out of 
+                    his ass because he wanted lunch?
+
+                                  ART
+                    There s also the thought that it 
+                    might not be a bad idea to give 
+                    Wallace an out that let s him save 
+                    face.
+
+
+
+
+                                                                              (CONTINUED)              EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    31A.
+
+        CONTINUED:C14C14
+
+                                  STEVENSON
+                    My experience, trying to appease 
+                    the bad guy gives him the 
+                      advantage.  The Israelis don t even 
+                    talk anymore before they go 
+                    tactical.  Longer we wait, more 
+                    likely one of my boys gets hurt.  
+
+                                  ART
+                    But if my boy stops you having to 
+                    assault, there s a chance nobody 
+                    gets hurt.
+
+                                  STEVENSON
+                    Sorry, Chief.  Your boy s got maybe 
+                    two minutes before my door-kickers 
+                    are set.  Then we re going in -- 
+                    over him, through him, however he 
+                    wants it.  
+
+                                    VASQUEZ
+                    You can t give him a couple extra 
+                    minutes?   
+                          (off Stevenson s look)
+                    David Vasquez.  I m with the US 
+                      Attorney s office.
+
+                                  STEVENSON
+                      Congratulations. 
+                          (to Art and Vasquez)
+                    Look, gentlemen, due respect -- any 
+                    time my boys are involved in a 
+                      situation, I need to have full 
+                    tactical command.  You have a 
+                    problem with that, all you do is 
+                    say the word, we ll get out of your 
+                    hair, you can resolve it any way 
+                    you see fit. 
+                          (off their silence)
+                    Didn t think so.  Two minutes.
+
+      Stevenson heads out to join his team.  Vasquez pulls his 
+      cell, dials.
+
+                                    VASQUEZ
+                          (into cell)
+                    It s me.  Get me anything you can 
+                    on Lexington SWAT.              EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    31B.
+
+
+      INT. CHICKEN SHACK - DAYAa15Aa15
+
+      Tim enters to find PORTER, 40, filling a big bag with buckets 
+      of chicken.
+
+                                  TIM
+                    Hey.
+                          (off paper)
+                    I need 24 pieces, spiciest you 
+                    have.
+
+                                  PORTER
+                    We re closed.
+
+                                  TIM
+                    I m here.
+
+                                  PORTER
+                    We re lunch only.  We close at two. 
+
+                                  TIM
+                    I just need--
+
+                                  PORTER
+                    I shut down the broiler.
+
+                                  TIM
+                          (re: buckets of chicken)
+                    What s that?
+
+                                  PORTER
+                    Last order.  For delivery.
+
+                                  TIM
+                    I ll take it.
+
+                                  PORTER
+                    No, you won t.  
+
+                                  TIM
+                    How much?
+
+                                  PORTER
+                    Not for sale.
+
+                                  TIM
+                    How much to change your mind?
+
+                                  PORTER
+                    Get out of my store.
+
+
+
+
+
+                                                                              (CONTINUED)              EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    31C.
+
+        CONTINUED:Aa15Aa15
+
+                                  TIM
+                          (badges him)
+                    I m a Deputy U.S. Marshal and I 
+                    need that chicken.
+
+                                  PORTER
+                    Go somewhere else.
+
+                                  TIM
+                    I don t have time.
+
+                                  PORTER
+                    Then I guess you re shit out of 
+                    luck.
+
+                                  TIM
+                    I am officially requisitioning that 
+                    chicken.
+
+                                  PORTER
+                    What?  You can t do that.
+
+                                  TIM
+                    We requisition cars all the time.  
+                     Get out of the car!   
+
+                                  PORTER
+                    You can t requisition chicken!
+
+                                  TIM
+                    I have a badge, a gun and no 
+                    patience and I am taking the 
+                    chicken.
+
+                                  PORTER
+                    This is bullshit!
+
+      Tim grabs the chicken, throws down the $50 bill.
+
+                                  TIM
+                    If that doesn t cover it, send an 
+                    invoice to the courthouse.
+
+      Tim heads out.
+
+                                  PORTER
+                    This is an abuse of Federal power!
+
+                                  TIM
+                    Keep it up, and when your grandma 
+                    goes before the death panel, I ll 
+                    tell  em to yank the plug.
+
+
+
+
+                                                                              (CONTINUED)              EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    31D.
+
+      CONTINUED: (2)Aa15Aa15
+
+      Out goes Tim with the chicken.
+
+      INT. MARSHAL S OFFICE - HOLDING CELL - CONTINUOUSA15A15
+
+      Two Tac Team men enter quickly, stay close to the wall, out 
+      of Wallace s sight.  One goes below the window.  The two men 
+      unfold a big square of black duvateen and quickly pull it up 
+      over the window/mirror and tape it to the wall.
+
+B15B15INT. MARSHAL S OFFICE - CONFERENCE ROOM/LOCKER ROOM - 
+      CROSSCUT
+
+      Wallace sees the window to the holding cell go dark.
+
+                                    WALLACE
+                    Guess they don t want me to see 
+                    what they re doing.
+
+      Raylan is now in the conference room, sitting at the table.  
+      Two Tac Team members cover the window into the locker room.
+
+                                  RAYLAN
+                    Looks like it.
+
+                                    WALLACE
+                    They got a camera?
+
+                                  RAYLAN
+                    Would I tell you?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    34.
+
+        CONTINUED:B15B15
+
+      Wallace starts to get ready for battle, pulling on a hoodie, 
+      putting things in the pockets, eyeing the guards.
+
+                                    WALLACE
+                    Time for you to step off, cowboy.
+
+                                  RAYLAN
+                    I m waiting.
+
+                                    WALLACE
+                    For what?  You find my old grade 
+                    school English teacher?
+
+                                  RAYLAN
+                    Is she with your daughter?
+
+      Wallace smirks -- that s funny.
+
+                                  RAYLAN (CONT D)
+                    Like I told you, I m waiting for my 
+                    chicken.
+
+      Two more Tac Team members enter the conference room, get set.  
+      One goes below the window, ready to pull down the duvateen, 
+      while the others get ready with MP5s/assorted CQB weapons.
+
+      INT. MARSHAL S OFFICE - HOLDING CELL - SAME TIMEC15C15
+
+      A similar configuration of Tac Team men, ready to take out 
+      the glass.
+
+      EXT. LEXINGTON STREET - DAYDd15Dd15
+
+      Tim is running with the bag of chicken.
+
+      INT. MARSHAL S OFFICE - BULLPEN - SAME TIMED15D15
+
+      Two Tac Team members stand by the door, one with a door-
+      breaching shotgun and the other with a Taser.
+
+                                  STEVENSON
+                          (whispers into mic)
+                    Going in ninety.
+
+E15E15INT. MARSHAL S OFFICE - CONFERENCE ROOM/LOCKER ROOM - 
+      CROSSCUT
+
+                                    WALLACE
+                    They all set?
+
+
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    35.
+
+        CONTINUED:E15E15
+
+                                  RAYLAN
+                    You wanna tell me how getting your 
+                    head caved in by a Tac Team screws 
+                    the guys who screw with you?
+
+                                    WALLACE
+                    When they do you like they done me -
+                    - tell you for the rest of your 
+                    life you don t get to choose when 
+                    to sleep, when to eat, laugh, shit, 
+                    talk -- they do you like that, 
+                    you re screwing with them just by 
+                    staying alive.
+
+                                  RAYLAN
+                    Sounds like another reason to give 
+                    this up.
+
+                                  STEVENSON (V.O.)
+                          (over Raylan s earbud)
+                    Sixty.
+
+      Wallace blows out some ragged breaths, sounding almost like a 
+      snarling animal -- he s obviously psyching himself up to slit 
+      the guards  throats as soon as the Tac Team hits the door. 
+      The guards look fucking terrified.
+
+                                    WALLACE
+                    Sooner or later, only way you can 
+                    prove you re alive is to show you 
+                    have the freedom to decide when you 
+                    die.
+                          (re: the guards)
+                    Besides, Marshal, you know these 
+                    two ll be dead long before my head 
+                    gets caved.
+
+                                  RAYLAN
+                    I know if I see you moving to slit 
+                    throats, I ll ghost you myself.
+
+                                    WALLACE
+                    Through a closed door?  On a 
+                      quickdraw?  Nobody s that good.
+
+                                  RAYLAN
+                    If it was easy, anybody could do 
+                    it.
+
+                                    WALLACE
+                    You sure you wanna go for your gun 
+                    in front of your U.S. Attorney 
+                    friend?
+
+
+
+                                                                              (CONTINUED)              EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    35A.
+
+      CONTINUED: (2)E15E15
+
+                                  RAYLAN
+                    You ve been talking to me a while.  
+                    You think, it comes to it, I give a 
+                    shit what he thinks?
+
+      INT. STAIRS - DAYF15F15
+
+      Tim runs up stairs with the bag of chicken.
+
+G15G15INT. MARSHAL S OFFICE - BULLPEN/CONFERENCE ROOM/LOCKER    
+      ROOM - SAME TIME
+
+                                  STEVENSON (V.O.)
+                          (over earbud)
+                    Thirty.
+
+                                  RAYLAN
+                    You know, I read once that people 
+                    in unpleasant circumstances stay 
+                    alive not because they think 
+                    things ll get better, but because 
+                    they want to see how their story 
+                    turns out.  
+
+                                    WALLACE
+                    I know how my story turns out.
+
+                                  STEVENSON (V.O.)
+                          (over earbud)
+                    Twenty.
+
+                                  RAYLAN
+                    Come on, Cal.  Turn over the shiv 
+                    and see what I got coming for you.  
+
+                                  STEVENSON (V.O.)
+                          (over earbud)
+                    Ten.
+
+      Tim runs into the bullpen with the chicken.
+
+                                  ART
+                          (to Stevenson)
+                    Wait.
+
+      Stevenson shakes his head.
+
+                                  STEVENSON 
+                          (over earbud)
+                    In five.
+
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    36.
+
+        CONTINUED:G15G15
+
+      Vasquez steps up to Stevenson and whispers something in his 
+      ear.  Stevenson freezes.  Beat. 
+
+                                  STEVENSON (CONT D)
+                          (into mike)
+                    Hold.
+
+      In the conference room, Raylan looks as Tim enters with the 
+      bag of chicken, a bottle of Jim Beam and two plastic cups.  
+      Tim leaves.
+
+                                  RAYLAN
+                    Hey, Wallace.  See what I got here?
+
+      Wallace peers out of the locker room, sees Raylan unpacking 
+      the chicken.
+
+                                  RAYLAN (CONT D)
+                      Twenty-four-piece, extra-spicy.  
+                    Think I saw some greens.  
+                          (looks in bag)
+                      Cornbread.  Potato wedges.
+
+      Raylan takes a bite.
+
+                                    WALLACE
+                    What d they, crumble up some 
+                      tranquilizers into it?
+
+                                  RAYLAN
+                    I sure hope not.
+                          (beat)
+                    No one s trying to play you for a 
+                    fool here, Wallace.  Way this 
+                    works, you hand me your weapon, we 
+                    sit together and have a meal like a 
+                    couple of human beings, then I walk 
+                    you out, make sure no one gets 
+                    nervous and decides to pop you.
+
+      Silence.  Raylan takes another bite.
+
+                                  RAYLAN (CONT D)
+                    Don t know if it s as good as 
+                    Prince s, but it s hot.
+
+      Silence.
+
+                                  RAYLAN (CONT D)
+                    You got what, three more days in 
+                    your hearings?  Tell you what -- 
+                    every day you re here, I ll get you 
+                    a chicken dinner.  
+                                  (MORE)
+
+
+                                                                              (CONTINUED)              EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    36A.
+
+      CONTINUED: (2)G15G15
+                                  RAYLAN (CONT D)
+                    Or whatever you want, you want 
+                    something else.  You can eat alone 
+                    or we can shoot the shit.  Your 
+                    call.
+
+      Silence.
+
+      Stevenson gives Art an impatient look, keys his mike.
+
+                                  STEVENSON
+                    In ten.
+
+      SERIES OF ECU SHOTS:  Tac Team members take aim.  Fingers on 
+      triggers.  Get their feet set.  
+
+      Raylan takes a hit of Jim Beam.
+
+                                  RAYLAN
+                    Whew!  If that don t cool it off 
+                    and heat it up at the same time.
+
+                                  STEVENSON
+                    Five.
+
+      And then...
+
+      ...there s a scraping sound from inside the locker room.
+
+      Raylan holds up his hand.
+
+      Stevenson sees Raylan s hand.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    37.
+
+      CONTINUED: (3)G15G15
+
+                                  STEVENSON (V.O.) (CONT D)
+                          (over earbud)
+                    Hold.
+
+      The scraping stops.  Beat.  Then the door from the locker 
+      room into the conference room opens three inches.  A HAND 
+      appears.  Holding the shiv.
+
+      Raylan grabs the wastebasket, holds it out.
+
+      Wallace drops the shiv, which THUNKS against the bottom of 
+      the wastebasket.  Raylan passes Wallace a drumstick wrapped 
+      in a napkin.
+
+                                  RAYLAN
+                    Use the napkin.  You don t want to 
+                    touch food with that hand, where 
+                    it s been.
+
+      Wallace s hand withdraws with the chicken.  He takes a bite.  
+      Evaluates.
+
+                                    WALLACE
+                    It s no Prince s.  But it ll do in 
+                    a pinch.  Any shot at some of that 
+                    Jim Beam?  
+
+                                  RAYLAN
+                    Two cups aren t just for me.
+
+      Raylan pours more bourbon into the two cups, hands a cup to 
+      Wallace.
+
+                                                                    MATCH CUT TO:
+
+      OMITTED1515
+
+      INT. MARSHAL S OFFICE - ART S OFFICE - DAYA16A16
+
+      Three cups click together.  Raylan, Art and Vasquez are 
+      having a drink.  In the bullpen, Stevenson talks to ND TAC 
+      GUYS as they head out. 
+
+                                  ART
+                          (toasting)
+                    To bumps, bruises, a couple cracked 
+                    ribs and no one dead.  
+
+      They drink.
+
+                                  RAYLAN
+                    The bourbon sealed it.
+
+
+
+
+                                                                              (CONTINUED)              EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    37A.
+
+        CONTINUED:A16A16
+
+                                    VASQUEZ
+                          (to Art)
+                    Bet you re glad to have finally 
+                    found an actual professional use 
+                    for your office bottle.  
+
+                                  ART
+                    I don t know what you re talking 
+                    about.  I was as surprised as 
+                    anyone to find it in my desk.
+
+                                    VASQUEZ
+                    Probably left here by the cleaning 
+                    staff.
+
+                                  ART
+                    Or teenagers.
+
+                                  RAYLAN
+                    Hopped-up kids on a joy ride to 
+                    Hell.
+
+      Stevenson enters.
+
+                                  STEVENSON
+                    Hope I m not interrupting.
+
+                                  ART
+                    We can find another glass.
+
+                                  STEVENSON
+                    Some other time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    38.
+
+      CONTINUED: (2)A16A16
+
+                                  RAYLAN
+                    I want to thank you for holding.
+
+                                  STEVENSON
+                          (eyeing Vasquez)
+                    Your AUSA friend s pretty 
+                      persuasive.
+
+                                  ART
+                    It true what you said about the 
+                    Israelis?
+
+                                  STEVENSON
+                    No idea.  It s true I said it.
+                          (beat)
+                    I m happy anytime a situation can 
+                    be resolved peacefully.  Next time, 
+                    though, I d appreciate it if you d 
+                    get out of the way, let me and my 
+                    men do their jobs.
+
+                                  ART
+                    If this ever happens again, I 
+                    really suck at my job.
+
+      Stevenson shrugs, heads out.  Art, Raylan and Vasquez watch 
+      as he follows his men out.
+
+                                  ART (CONT D)
+                    What did you say to him?
+
+                                    VASQUEZ
+                    I said I hoped the lawsuit against 
+                    his department didn t go Federal.
+
+                                  ART
+                    What lawsuit?
+
+                                    VASQUEZ
+                    Damned if I know.  I asked my 
+                    office if there was anything, but 
+                    they didn t get back in time.
+                          (shrugs)
+                    I figured there s always some kind 
+                    of lawsuit against a department.
+
+      The room quiets.  Talk of lawsuits brings them back to why 
+      they were supposed to get together.
+
+                                  RAYLAN
+                    When s our time-out up?
+
+
+
+
+                                                                              (CONTINUED)              EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    38A.
+
+      CONTINUED: (3)A16A16
+
+                                    VASQUEZ
+                    We don t have to do this today.
+
+                                  ART
+                    Not a bad idea.  Take a rain check. 
+
+                                  RAYLAN
+                    I d rather get it over with.
+
+      Looks fly between Art and Raylan.  Art looks at him -- you re 
+      sure?  Raylan nods.  Art nods to Vasquez.
+
+                                    VASQUEZ
+                    Okay.  Just have to grab my 
+                      briefcase.
+
+      Vasquez heads out to the bullpen.  
+
+                                  ART
+                    Well, I sure as hell owe you one.  
+                    This had gone another way -- 
+                    violent hostage stand-off inside a 
+                    Marshals Office?  Let s just say it 
+                    could ve been a real black eye. You 
+                    managed to get us out of it so 
+                    quietly I doubt it ll even make the 
+                    papers.  
+
+                                  RAYLAN
+                    My sole purpose, my guiding 
+                      principle, was to try to protect 
+                    your reputation.  
+
+                                  ART
+                    And I appreciate it.  
+
+      They see Vasquez heading back with his briefcase.
+
+                                  ART (CONT D)
+                    Remember -- no  what ifs,  no 
+                     would haves. 
+
+                                  RAYLAN
+                    Just the facts, ma am.
+
+      Vasquez enters Art s office, sets his briefcase down on the 
+      desk.  He s much less jovial than he was moments ago.  
+
+                                    VASQUEZ
+                    You mind if I record?  Just for my 
+                    own recollection; better than 
+                    having someone take notes.
+
+
+
+
+                                                                              (CONTINUED)              EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    38B.
+
+      CONTINUED: (4)A16A16
+
+      Off their nods/shrugs, Vasquez opens his briefcase, takes out 
+      a digital audio recorder.
+
+                                    VASQUEZ (CONT D)
+                          (into the recorder)
+                    Deputy Marshal Raylan Givens. 
+                    Initial post-shooting interview. 
+                    Also present, Chief Deputy Art 
+                    Mullen.
+
+      Vasquez again reaches into his briefcase, pulls out the 
+      distinctive RED FOLDER we saw Bo Crowder s lawyer holding in 
+      the Teaser. 
+
+      Vasquez hesitates a second, gives Raylan an odd look, then he 
+      fans out the contents of the folder onto Art s desk: PHOTOS 
+      of Raylan and Ava together (and obviously together).
+
+                                    VASQUEZ (CONT D)
+                    Deputy Givens, how would you 
+                      characterize your relationship with 
+                    Ava Crowder?
+
+      Off Raylan and Art--
+
+                                                                          FADE OUT.
+
+
+                                  END OF ACT THREE            EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    39-45.
+
+
+      OMITTED1616
+
+      OMITTEDA17A17
+
+      OMITTED1717
+
+      OMITTED1818
+
+      OMITTED1919                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    46.
+
+
+                                        ACT FOUR
+
+      INT. MARSHAL S OFFICE - ART S OFFICE - DAY2020
+
+      Some time has passed.  The digital recorder s still running. 
+      The photos of Raylan and Ava are still spread out across the 
+      desk.  Raylan looks guilty and frustrated.  Art looks 
+        disappointed and somehow older than we ve ever seen him.
+
+                                  RAYLAN
+                          (re: the photos)
+                    Where did you get those?
+
+                                    VASQUEZ
+                    Does it matter?  
+
+                                  RAYLAN
+                    One of your  meetings  today happen 
+                    to be with Bo Crowder and his 
+                    lawyer? 
+                          (off Vasquez s silence)
+                    Whatever Ava and I have been doing 
+                    together, you ve gotta know any 
+                    jury is gonna take our word over 
+                    Boyd s.
+
+                                    VASQUEZ
+                          (re: the photos)
+                    Do you honestly not see the story 
+                    Boyd Crowder s attorney will put 
+                    together from these?  The day 
+                    before you ride back into town, Ms. 
+                    Crowder decides to ventilate her 
+                    husband with a hunting rifle.  Then 
+                    a few days after that, she stands 
+                    by -- holding a Marshals-Service 
+                    shotgun, I believe -- while you 
+                    shoot Boyd Crowder in the very same 
+                    house, same room, same damn chair 
+                    where his brother died.
+                          (beat)
+                    He ll strongly suggest you began 
+                    your relationship before your 
+                      reassignment. 
+                          (takes a breath before he 
+                            drops his bombshell)
+                    Which is why we re going to have to 
+                    release Boyd Crowder. 
+
+
+
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    47.
+
+      CONTINUED:2020
+
+      For a moment, Raylan is too stunned to move.
+
+                                  RAYLAN
+                    Release him?
+
+                                    VASQUEZ
+                    We have no evidence linking him to 
+                    the bank robberies; the witness in 
+                    the church bombing failed to 
+                    identify him. 
+
+                                  ART
+                    Maybe one of his boys will flip on 
+                    him for the banks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    48.
+
+      CONTINUED: (2)2020
+
+                                    VASQUEZ
+                    Given the life expectancy of guys 
+                    in the federal prison system who 
+                    snitch on Aryan-underground 
+                    leaders, I wouldn t hold my breath. 
+                    Which means the only viable charges 
+                    against Mr. Crowder would be for 
+                    the kidnapping of Ms. Crowder and 
+                    the attempted murder of a Federal 
+                    officer, both of which are 
+                      predicated on the testimony of Ms. 
+                    Crowder and Deputy Givens.  Now 
+                    that the two of them have been 
+                      compromised as witnesses, who s to 
+                    say Mr. Crowder was at his sister-
+                    in-law s house that night for any 
+                    reason other than to have dinner?
+
+                                  RAYLAN
+                    You must be kidding.
+
+                                    VASQUEZ
+                    I wish I was.
+
+      The three of them sit in silence for a few seconds.
+
+                                  RAYLAN
+                          (to Vasquez, sounding 
+                            defeated)
+                    Chief Mullen didn t know anything 
+                    about Ava and me.
+
+                                  ART
+                    Raylan--
+
+                                  RAYLAN
+                          (cutting him off)
+                    He didn t know anything.  He warned 
+                    me to stay clear of her.  I lied 
+                    every time he asked me about her.
+
+                                    VASQUEZ
+                    Well, then, Chief Mullen will have 
+                    to decide whether he wants to bring 
+                      disciplinary action, call in your 
+                    Internal Affairs.
+
+                                  ART
+                    So, what happens now?
+
+
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    49.
+
+      CONTINUED: (3)2020
+
+                                    VASQUEZ
+                    What happens now is Boyd pleads to 
+                    a minor gun charge, gets sentenced 
+                    to time served, then he walks and 
+                    we pray he doesn t decide to sue.
+
+      Vasquez turns off the digital recorder, starts to pack up his 
+      photos.
+
+                                    VASQUEZ (CONT D)
+                    Deputy Givens, my advice to you is 
+                    to stay the hell away from him.  
+                    And from Ms. Crowder.
+
+      Vasquez gathers his belongings, heads for the door.  When 
+      he s gone, Raylan and Art haven t moved.
+
+                                  RAYLAN
+                    Art--
+
+      Art cuts him off, stands to go.
+
+                                  ART
+                    Do me a favor -- steer clear of me 
+                    for a while.
+
+      EXT. BIG SANDY FEDERAL PENITENTIARY - PARKING LOT - DAY2121
+
+      Boyd Crowder, free at last, walks out through the main gate. 
+      Bo stands just outside the wall beside an idling car, waits 
+      for his son.  Boyd reaches his father, who claps a bear hug 
+      on him.  They have an exchange that we don t hear because 
+      we re watching from some distance away. 
+
+      PULL BACK to REVEAL we ve been seeing the scene from Raylan s 
+      P.O.V..  He stands on the far side of the prison parking lot, 
+      chews a toothpick, watches Boyd and Bo. 
+
+      Boyd spots Raylan, says something to his father, heads over. 
+      Bo watches as Boyd crosses the parking lot.
+
+                                  BOYD
+                    You come to welcome me back into 
+                    free society?  That s awful white 
+                    of you, Raylan.
+
+
+
+
+
+
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    50.
+
+      CONTINUED:2121
+
+                                  RAYLAN
+                          (re: the  white  comment)
+                    I thought you left all that master-
+                    race bullshit behind.
+
+                                  BOYD
+                    It s just an expression, Raylan. 
+                    Nothing to do with skin.
+
+                                  RAYLAN
+                    Since we re on the subject, though, 
+                    of your... ah...  conversion,  
+                    there s a question that s been 
+                    eating at me.
+
+                                  BOYD
+                    Glad to hear it --  The seeking is 
+                    the goal and the search is the 
+                    answer. 
+
+                                  RAYLAN
+                    My question is why the born-again 
+                    Boyd Crowder would allow himself to 
+                    be released unjustly from having to 
+                    do penance for his crimes. 
+
+                                  BOYD
+                    I myself struggled with this very 
+                    question until I realized this turn 
+                    of events is nothing short of a 
+                    miracle.  It s God s will that I 
+                    walk free and who am I -- who are 
+                    any of us -- to fight God s will?  
+                    My ministry has gone as far as it 
+                    can inside those prison walls -- 
+                    much as it pains me to say, there 
+                    are men in there whose souls are 
+                    simply beyond my power to save.  My 
+                    mission now is to cast off the 
+                    shackles of my incarceration, go 
+                    forth into the land and spread His 
+                    word, just as Jesus instructed His 
+                    Apostles.
+
+                                  RAYLAN
+                    Boyd, you know it s not a miracle 
+                    that s gotten you out.  I m the one 
+                    who s allowed you to be unleashed 
+                    upon on the world.  And I m the one 
+                    who s gonna find a way to put you 
+                    back in a cage.  
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    51.
+
+      CONTINUED: (2)2121
+
+                                  BOYD
+                          (terrifyingly calm)
+                    Raylan, I hope you know I can t 
+                    allow anything to stand in the way 
+                    of my divine calling.
+
+                                  RAYLAN
+                    Good luck with that.
+
+                                  BOYD
+                    Why, thank you, Raylan.
+
+                                  RAYLAN
+                    But I have to wonder, what s it 
+                    going to be like, the first bank 
+                    you see with questionable security 
+                    and a good getaway route.  You 
+                    gonna be able to resist the 
+                      temptation?  Not a lot of 
+                      temptation on the inside.
+
+                                  BOYD
+                    You haven t believed a word I ve 
+                    said.  You think all my talk of God 
+                    is just me working some angle.
+
+                                  RAYLAN
+                    Boyd, the only thing I know for 
+                    sure, you robbed banks and blew 
+                    shit up and murdered at least one 
+                    man.  You remember Jared, don t 
+                    you?  The one you shot in the back 
+                    of the head on Tates Creek Bridge?
+
+      Boyd glances back at his father, who is still watching them 
+      from beside the idling car.  He s been joined now by the 
+      car s driver, who stands in the open driver s side door, also 
+      watching -- we recognize the driver as Bo s lawyer, the man 
+      we saw in the Teaser.
+
+                                  BOYD
+                    I must leave you now, Raylan, to be 
+                    restored to the bosom of my family. 
+                          (beat)
+                    I ll continue to pray that one day 
+                    I m able to bring you peace.
+
+      Raylan watches as Boyd walks back to his father, shakes hands 
+      with the lawyer, slides into the backseat of the car.  Before 
+      Bo ducks into the car, he and Raylan LOCK EYES for a long 
+      moment -- there s a storm coming.
+
+
+
+
+                                                                              (CONTINUED)                EPISODE 106 - "BLOWBACK" - GOLD REVISIONS - 1/08/10    52.
+
+      CONTINUED: (3)2121
+
+      As the car pulls away, carrying Boyd back to  the bosom of 
+      his family,  Raylan is left standing alone in the empty 
+      prison parking lot. 
+
+      Raylan s cell phone VIBRATES.  He pulls it out of his pocket, 
+      looks at the display screen.  The CALL IS FROM AVA. 
+
+      Instead of answering, Raylan just puts the phone back in his 
+      pocket as we-- 
+
+                                                                          FADE OUT.
+
+
+                                  END OF EPISODE

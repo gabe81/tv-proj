@@ -1,0 +1,39 @@
+1,     EXT STREET ALONG PARK  NIGHT                                   ,243
+2,     EXT DOORWAY  NIGHT                                               ,73
+3,     EXT METROPOLIS STREET  NIGHT                                     ,133
+4,     EXT AROUND THE CORNER  NIGHT                                     ,204
+5,     INT THE CHURCH SUBTERRANEAN LAIR  DAY                          ,53
+6,     INT SENIORS OFFICE  DAY                                         ,148
+7,    INT DAILY PLANET  DAY                                           ,175
+8,    INT CHURCH UNDERGROUND LAIR  SENIORS OFFICE  DAY              ,135
+9,    INT PLANET  DAY                                                 ,178
+10,    EXT A BASEBALL DIAMOND  DAY                                     ,33
+11,    EXT COSTMART  DAY                                               ,469
+12,    INT CLARKS APARTMENT  NIGHT                               X,49
+13,    INT LOIS APARTMENT  NIGHT                                      ,103
+14,    INT FLEABAG HOTEL  ROOM  NIGHT                                 ,37
+15,    INT CHURCH SUBTERRANEAN LAIR  NIGHT                             ,39
+16,    EXT METROPOLIS STREET  DAY                                    ,31
+17,    INT LOIS APARTMENT  DAY                                        ,42
+18,    INT LOIS APARTMENT  DAY                                        ,23
+19,    EXT PHILADELPHIA NUCLEAR POWER PLANT DAY                         ,5
+20,    INT POWER PLANT  DAY                                            ,8
+21,    INT LOIS APARTMENT  DAY                                        ,22
+22,    EXT SKY OVER METROPOLIS  DAY                                    ,8
+23,    INT LOIS APARTMENT  DAY                                        ,10
+24,    EXT SKY OVER METROPOLIS  DAY                                    ,8
+25,    INT LOIS APARTMENT  DAY                                        ,78
+26,    EXT METROPOLIS ART MUSEUM  COURTYARD  DAY                      ,60
+27,    INT DAILY PLANET  PERRYS OFFICE  DAY                          ,61
+28,    INT LOIS APARTMENT  DAY                                      ,31
+29,    INT CLARKS APARTMENT  DAY                                   X,32
+30,    INT LOIS APARTMENT  DAY   ,60
+31,    INT CLARKS APARTMENT  DAY                                   X,19
+32,    EXT MUSEUM OF ART  COURTYARD  DAY                              ,159
+33,    EXT MUSEUM COURTYARD  CONTINUOUS                                ,335
+34,    EXT COSTMART  DAY                                               ,68
+35,    INT CHURCH UNDERGROUND LAIR  OFFICE  NIGHT                   ,18
+36,    INT DAILYPLANET  NIGHT                                         ,25
+37, A  INT ELEVATOR  NIGHT                                         A   ,28
+38,  B INT PLANET LOBBY  NIGHT                                     B   ,36
+39,    EXT WHITE FOG  NIGHT                                            ,9

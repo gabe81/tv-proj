@@ -1,0 +1,50 @@
+1,  INT  STOREROOM  DAY                                     ,209
+2,   EXT SKY OVER ATLANTIC OCEAN  SUNSETDAY                     ,5
+3,   INT JET  MAIN CABIN                                         ,134
+4,A  EXT  STREET OUTSIDE STOREROOM  SUNSET  DAY               A ,8
+5,   INT CAR  SUNSETDAY  INTERCUT                              ,38
+6,   INT DAILY PLANET  LOBBY  DAY                           ,130
+7,   INT DAILY PLANET  PIT  DAY                                 ,109
+8,   INT DAILY PLANET  PIT  LATER  DAY                         ,89
+9,   EXT LUTHORS PENTHOUSE BALCONY  DAY                         ,70
+10,A INT LUTHORS OFFICE  CONTINUOUS  DAY                     A,54
+11,  INT DAILY PLANET  PIT  DAY                                ,164
+12,  INT DAILY PLANET  PIT  LATER  DAY                        ,181
+13,  INT DAILY PLANET  PIT  DAY                            ,6
+14,  INT PERRYS OFFICE  SAME TIME  DAY ,133
+15,  INT DAILY PLANET  ELEVATORS  MOMENTS LATER                ,157
+16,  INT DAILY PLANET  PERRYS OFFICE  DAY                     ,61
+17,  INT DAILY PLANET  LOBBY  DAY                              ,96
+18,  EXT  KENT FARM  NIGHT  ESTABLISHING                  ,4
+19,  INT KENT FARM  KITCHEN  NIGHT                             ,97
+20,  INT DAILY PLANET  PIT  DAY                            ,51
+21,  INT DAILY PLANET  PRINTING PLANT  DAY                     ,78
+22,  INT DAILY PLANET  PIT  DAY                                ,53
+23,  EXT STREET IN FRONT OF DAILY PLANET  DAY                   ,58
+24,  EXT DAILY PLANET BUILDING  LATE DAY                        ,107
+25,  EXT DAILY PLANET  DAY                                  ,33
+26,  EXT SIDEWALK CAFE  DAY                                     ,167
+27,  INT LUTHORS PENTHOUSE  DAY                                ,129
+28,  INT LUTHOR NETWORK NEWS LNN  DAY                         ,102
+29,  EXT PARK OUTSIDE LUTHOR NEWS NETWORK  DAY                  ,82
+30,  EXT CONSTRUCTION SITE  NIGHT                           ,135
+31,  INT LOIS LANES APARTMENT  NIGHT                           ,90
+32,  INT INN  LOIS OFFICE  DAY                            ,85
+33,  INT LNN NEWS STATION  STUDIO  DAY                         ,39
+34,  INT METROPOLIS YOUTH DETENTION CENTER  DAY                 ,75
+35,  EXT RESTAURANT SALOME  NIGHT  ESTABLISHING           ,5
+36,  INT RESTAURANT HALLWAY  PUBLIC PHONE  NIGHT               ,235
+37,  EXT  RESTAURANT SALOME  NIGHT                              ,38
+38,  EXT LEX TOWER  LOIS POV  NIGHT                           ,11
+39,  INT LUTHORS PENTHOUSE  NIGHT                             ,59
+40,  INT LUTHORS PENTHOUSE  NIGHT  LUTHOR REMEMBERS           ,16
+41,  INT LUTHORS PENTHOUSE  SCENE CONTINUES  NIGHT            ,7
+42,  INT LUTHORS PENTHOUSE  DAY  LUTHOR REMEMBERS             ,10
+43,  INT LUTHORS PENTHOUSE  SCENE CONTINUES  NIGHT            ,7
+44,  INT LIMO  NIGHT  LUTHOR REMEMBERS                         ,6
+45,  INT LUTHORS PENTHOUSE  SCENE CONTINUES  NIGHT            ,33
+46,  INT LOIS APARTMENT  NIGHT  LOIS REMEMBERS                ,8
+47,  INT LUTHORS PENTHOUSE  SCENE CONTINUES  NIGHT            ,11
+48,  EXT LEX LUTHORS BALCONY  SAME TIME                        ,7
+49,  EXT THE NORTH POLE                                          ,9
+50,  INT LUTHORS PENTHOUSE  SAME TIME                          ,7

@@ -1,0 +1,3687 @@
+notes:
+
+To pop everything into place...
+
+use Courier 10 (or 10 characters per inch)
+
+set top margin at 0.4", bottom margin at 0.4" (or minimums)
+left margin at 1", right margin at .25 (or minimum)
+   (I had to tell the program I was using legal paper)
+
+page breaks in hard copy indicated by ---page break---
+
+regular tabs, hard returns and right flushes are used 
+to position things to look as much like original as possible
+
+sometimes the formatting changes slightly (as in the numbers at the
+end of the lines), but I'm going to keep consistent because it's
+easier
+
+logo on front page will be noted when used but not included here
+
+as this may be sent in .txt, originally underlined words will 
+look like   _this_
+
+NOTES: on front page LOIS & CLARK is in large, bold, underline
+The New Adventures of Superman is in not so large, italics
+"The Ides of Metropolis" is in same size font, not italicized
+EPISODE 14, Written by: Deborah Joy LeVine, Directed by: 
+     Phil Sgriccia (and) WARNER BROS. TELEVISION are 
+     somewhat smaller, all caps
+all other text on first page is in courier 10 
+
+NOTES:
+page 2 "Bailiff's" has 's but it's not a possessive word; in original
+page 3 "Jonathan walks back up toward the entry 
+     area of his apartment" it isn't "his" apartment but CK's; 
+     in original.
+page 44:  Generator had a capital G in line 
+     "Generator room of Harrison's..." in original
+page 49:  Lois quotes 'Beware the Ides of March?' and original
+     has "?" inside quote.
+
+                         _LOIS AND CLARK_
+                 The New Adventures of Superman
+
+
+                    "The Ides of Metropolis"
+                           EPISODE 14
+
+                         Prod. 0455314
+
+
+                          Written by:
+                       Deborah Joy LeVine
+
+
+                          Directed by:
+                         Phil Sgriccia
+
+
+
+
+
+
+
+
+WARNER BROS. TELEVISION                   Production Draft
+                                          Dec. 7, 1353
+                                          BLUE Full 12/13/93
+                                          Pink Rev. 12/14/93
+                                          Yellow R. 12/14/93
+                                          Green R. 12/15/93
+
+                       ---page break---
+                           _LOIS & CLARK_
+
+                     "_The Ides of Metropolis_"
+
+                       Blue Rev., 12/13/93
+
+                               _CAST_
+
+CLARK KENT/SUPERMAN
+
+LOIS LANE
+
+PERRY WHITE
+
+JIMMY OLSEN
+
+MARTHA KENT
+
+JONATHAN
+
+LEX LUTHOR
+_______________________________________________________________
+
+EUGENE LADERMAN          *
+
+DETECTIVE BETTY REED     
+
+HENRY HARRISON
+
+LENA HARRISON
+
+NIGEL
+
+JUDGE
+
+BEN THE BAILIFF
+
+TECHNICIAN               *
+
+BODYBUILDER
+
+TRAINER
+
+NEWSCASTER
+
+MISS BIRD
+                       ---page break---
+                           _LOIS & CLARK_
+
+                     "_The Ides of Metropolis_"
+
+                             _LOCATIONS_
+
+_INTERIORS_:                             _EXTERIORS_:
+
+Daily Planet                             Metropolis Courthouse
+    The Pit
+    Conference Room                      Harritech Company
+    Perry's Office
+    Coffee Room                          M.U.T.
+
+Metropolis Courthouse
+    Courthouse
+    Corridor
+    Small Room
+
+Clark's Apartment
+
+Lois Lane's Jeep
+
+Lois' Apartment
+    Kitchen
+    Living Room
+    Bedroom
+
+Harritech Computer Company
+    Office
+    Bunker
+    Trash Compactor Room
+
+Luthor's Penthouse
+    Study
+    Balcony
+
+Gym/Weightroom
+
+M.U.T Laboratory
+
+Hotel Lobby (Video)
+
+                       ---page break---
+                           _LOIS & CLARK_
+
+                     "_The Ides of Metropolis_"
+
+                         Blue Rev. 12/13/93
+
+                             _CHRONOLOGY_
+
+                   SC.   1 - 4      DAY 1
+
+                   SC.   5 - 8B     NIGHT 1    *
+
+                   SC.   9 - 15     DAY 2
+
+                   SC.  16 - 21     DAY 3
+
+                   SC.  22 - 31     NIGHT 3
+
+                   SC.  32 - 34     DAY 4
+
+                   SC.  35 - 37     NIGHT 4
+
+                   SC.  38 - 42     DAY 5
+
+                   SC.  43 - 46     NIGHT 5
+
+                   SC.  47 - 58     DAY 6
+
+                   SC.  59 - 72     NIGHT 6
+
+                   SC.  73          DAY 7      *
+
+                   SC.  74 - 77     NIGHT 7    *
+
+                       ---page break---
+
+
+
+
+                             _LOIS & CLARK_
+
+                    _The New Adventures of Superman_
+
+                       "_The Ides of Metropolis_"
+
+                               _TEASER_
+
+FADE IN:
+
+ 1  INT. METROPOLIS COURTROOM - (DAY #1)
+
+    We are TIGHT on the horrified face of EUGENE LAD a          (X)
+    slight mm whose pale skin reflects the many hours spent 
+    in front of a computer, but who, now, @ just heard his 
+    fate read aloud.  The distorted face and echoed voice of
+    the JUDGE is like a nightmare...
+
+                       JUDGE
+             To the charge of murder in the first
+             degree: guilty.
+
+    The courtroom buzzes.  In the front row, a familiar face.
+    LOIS LANE stares at Eugene who looks to her for solace.     (X)
+    There is another face, unfamiliar, but who we will later 
+    come to know as DETECTIVE BETTY REED.  A female Tommy Lee
+    Jones, Reed, all smiles, nods to her Deputy sitting beside
+    her.
+
+                       JUDGE (CONT'D)
+             Mr. Laderman, before this court
+             imposes sentence, do you have
+             anything to say?
+
+                       EUGENE                                   (X)
+                   (voice shaking)
+             I'm innocent.
+
+If the Judge has any mercy, he does not show it.
+
+                       JUDGE
+             It is the decision of this court that              (X)
+             Eugene Laderman be immediately                     (X)
+             transported to the Metropolis Maximum
+             Security Prison to begin serving a
+             term of life without the possibility
+             of parole.
+
+Two Bailiffs appear behind Eugene, take him away. Eugene        (X)
+looks back into the courtroom audience at Lois, now
+standing, watching as he disappears behind a door.
+
+                                      WIPE TO:
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93     2.
+
+
+ 2  INT. COURTROOM CORRIDOR - LATER                             2
+
+    Lois argues with one of the Bailiff's (BEN) outside the
+    closed door to a room.  Note: There is no door knob...
+    just a computerized keypad.
+
+                       LOIS
+             Don't tell me what the rules are,
+             Ben. I've broken every one of then
+             before.
+
+                       BEN
+             I can't let you in there, Lois.
+
+                       LOIS
+             But you _know_ me. I've been covering
+             this trial for months.  I just want
+             to get a statement.
+
+                       BEN
+             It's against the...
+
+                       LOIS
+                   (trying a new tack)
+             You a football fan?
+
+                       BEN
+             Depends on where I'm sitting.
+
+Lois reaches in her bag, takes out two tickets.
+
+                       LOIS
+             How about the fifty yard line?
+
+                       BEN
+             Ten minutes.
+
+Ben knows the combination to the keypad, punches it in.
+The door opens and they step inside.
+
+
+ 3  INT. SMALL ROOM IN COURTHOUSE - THEIR POV                   3
+
+    Empty.
+
+ 4  LOIS AND BEN                                                4
+
+    exchange a glance as we...
+
+                                          WIPE TO:
+
+
+ 5  INT. CLARK KENT'S APARTMENT - (NIGHT #1)                    5
+
+    From the starless night and into the darkened apartment,
+    _FLIES_ SUPERMAN.  He _LANDS_, only to see the shadow of a  (X)
+    large man wielding a flashlight.                            (X)
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Yellow Rev.     12/14/93   3.
+
+
+ 5  CONTINUED:                                                  5
+
+    Superman _SUPERSPEEDS_ to his supposed burglar, spins him 
+    around.  Whoops...
+
+                       SUPERMAN
+             Dad!  Don't scare me like that!
+
+                       JONATHAN
+             Scare _you_? How'd you like to be
+             tackled by Superman?
+
+                       SUPERMAN
+             Sorry. What happened to the lights?
+
+                       JONATHAN
+             I don't know. Fuse must have blown.                (X)
+
+superman throws i breaker switch at the fuse box and the
+lights come on.  When he gets a better look at his Dad, he
+sees that something's definitely rotten in Smallville.
+
+                       SUPERMAN
+             Have a seat.  I'll just go change.
+
+JONATHAN walks over to the sofa. By the time he sits
+down, CLARK exits his bedroom in a T-shirt and jeans.
+
+                       CLARK
+             Everything okay at home?
+
+                       JONATHAN
+             No.  Son...
+                   (long beat)
+             I think your Mom's having an
+             affair with a younger man.
+
+                       CLARK
+             Dad, don't be ridiculous.
+
+                       JONATHAN
+             What an I going to do? How can I
+             compete?  The guy's forty-seven.  He               (X)
+             doesn't need glasses.  He can see his              (X)
+             toes.  To top it off: he's an
+             artist.
+
+                       CLARK
+             Dad, Mom would never...
+
+                       JONATHAN
+             Take a look at this. I found it in
+             the barn, covered up.
+
+Jonathan walks back up toward the entry area of his
+apartment, brings down a covered painting.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93     4.
+
+
+ 5  CONTINUED:  (2)                                             5
+
+                       JONATHAN (CONT'D)
+             He painted her.  If this isn't
+             proof...
+
+                       CLARK
+             Dad, you said he was an artist.
+             There's nothing wrong with him 
+             painting her portrait.
+
+                       JONATHAN
+             In the nude?
+
+We are on Clark's face when Jonathan uncovers the 
+painting.  Clark's eyes widen as he stares...
+
+                       CLARK
+             Mom?
+
+and we...
+
+                                          FADE OUT:
+
+                         _END OF TEASER_
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93     5.
+
+
+                         _ACT ONE_
+
+
+FADE IN:
+
+ 6  INT. COURTROOM CORRIDOR - NIGHT                             6
+
+    The courtroom staffers are still buzzing over Eugene's      (X)
+    escape.  Cops are everywhere.  Lois, Ban standing next to
+    her, is being questioned by Detective Reed.
+
+                       DETECTIVE REED
+             And when the door opened...
+
+                       LOIS
+             He was gone.
+
+    A TECHNICIAN with a note pad walks up to them.              (X)
+
+                       TECHNICIAN                               (X)
+
+             He accessed the code number from the               (X)
+             central courtroom computer.  And the               (X)
+             evidence room was broken into.  A gun              (X)
+             is missing.                                        (X)
+
+                       BEN
+             Detective Reed, I don't think that...
+
+                       DETECTIVE REED
+             You don't _think_, period.  I'll be
+             mentioning the fact that you opened
+             the door for Ms. Lane in my report.
+
+                       LOIS
+             It wasn't his fault.  I... made him
+             do it.
+
+                       DETECTIVE REED
+             He wasn't following procedure.
+                   (beat, to Lois)
+             You're free to go. For now.
+
+                       LOIS
+                   (caustically)
+             Thank you.
+
+Lois looks at Ben, shrugs her apology, and we're...
+
+
+ 7  EXT. COURTHOUSE - NIGHT                                       7
+
+    Lois' jeep is parked right in front, in a "no parking"
+    zone.  She grabs the ticket from the windshield, opens the
+    door, gets in.
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Yellow Rev.     12/14/93   6.
+
+
+ 8  INT. LOIS LANE'S JEEP - CONTINUOUS                          8
+
+    Lois starts up the car, looks in her rear view mirror... 
+    then whirls around to see Eugene Laderman sitting in the 
+    back seat.  Eugene is in shadow, but the gun he's holding 
+    is quite visible.
+
+                       EUGENE
+             Drive.
+
+                       LOIS
+             Eugene! What are you doing?
+
+                       EUGENE
+             Just... drive.
+
+
+8A  EXT. COURTHOUSE - NIGHT                                    8A
+
+    The jeep pulls out from the curb into a nearby alley,
+    stops.
+
+
+8B  INT. LOIS LANE'S JEEP - CONTINUOUS                         8B
+
+                       LOIS
+             Eugene, this isn't going to work.
+             Everyone's looking for you.
+
+                       EUGENE
+             I said drive.
+
+                       LOIS
+             I know what you said, Eugene. Now
+             give me that gun before you get into
+             even more trouble.
+
+    Eugene starts to tremble, hands Lois the gun.
+
+                       EUGENE
+             I never would have...
+
+                       LOIS
+             I know you wouldn't.
+
+                       EUGENE
+             Ms. Lane. You're the only one I can
+             turn to.
+                   (desperate)
+             You know all the evidence against me               (X)
+             was circumstantial.  You know I
+             didn't kill Henry Harrison.
+
+    And the look on Lois' face tells us she does know.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93     7.
+
+
+8B CONTINUED:                                                  8B
+
+                       LOIS
+             Eugene, I believe you're innocent.                 (X)
+             But you're also an escaped felon now,
+             'armed and dangerous.'  What are you
+             going to do?
+
+                       EUGENE                                   (X)
+             I don't know except... I have to see
+             Lena.  Something's wrong.  She didn't              (X)
+             look at me during the trial, she                   (X)
+             never visited me in jail.                          (X)
+
+                       LOIS
+             Eugene, you were just convicted of                 (X)
+             killing her husband.
+
+                       EUGENE                                   (X)
+             But she loves ma!  And I love her.                 (X)
+             Please.  I have to talk to her.  Help              (X)
+             me.
+
+    On Lois, torn, we...
+
+                                          WIPE TO:
+
+ 9  INT. CLARK KENT'S APARTMENT - EARLY MORNING - (DAY #2)      9
+
+    Jonathan, apron on, is busy in the kitchen, when Clark,
+    sleepy-eyed, enters from the bedroom.
+
+                       CLARK
+             Dad?  It's five-thirty.
+
+                       JONATHAN
+             Oh, sorry.  Guess I'm used to getting
+             up with the chickens.
+
+                       CLARK
+             Couch okay?
+
+                       JONATHAN
+             Oh sure, fine.
+                   (the truth)
+             Guess I'm also not used to sleeping
+             without your mother.
+
+    Clark pats his father on the shoulder.
+
+                       CLARK
+             So... what's for breakfast?
+
+                       JONATHAN
+             Ham 'n eggs, hashbrowns... you want
+             some hotcakes, too?
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93     8.
+
+
+ 9  CONTINUED:                                                  9
+
+                       CLARK
+             Uh, no. I think this will do nicely.
+
+    Jonathan picks up the skillet, then immediately sets it 
+    down.  The handle is red hot.  He shakes his hand, looks 
+    around...
+
+                       JONATHAN
+             Where's your pot holder?
+
+                       CLARK
+             Never needed one.
+
+    Clark picks up the red hot skillet, empties the food onto 
+    the plates.  Jonathan brings the plates over to the table 
+    and the men sit.  Jonathan stares at his food, not making 
+    a move to sat.
+
+                       CLARK (CONT'D)
+             Dad, it's going to be okay.  I 
+             promise.
+                   (sore subject)
+             Are you sure you don't want me to
+             call Mom?
+
+                       JONATHAN
+             She knows where I am.
+
+                       CLARK
+             What'd she say when you left?
+
+                       JONATHAN
+             we had a big fight.
+
+                       CLARK
+             About the painting?
+
+                       JONATHAN
+             And...
+
+                       CLARK
+             Did you ask her... I mean, if there
+             was anything... ?
+
+                       JONATHAN
+             Not in so many words.
+                   (miserable)
+             I couldn't ask her.
+
+    Just then, the phone RINGS.  Clark moves to pick it up.
+
+                       CLARK
+             Hello?
+                   (beat, loudly)
+             Hi, Mom!  I'm fine, how're you?
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Pink Rev.     12/14/93     9.
+
+
+ 9  CONTINUED: (2)                                              9
+
+    Jonathan leaps from the table, stands beside Clark.
+
+                       CLARK (CONT'D)
+                   (into phone)
+             Yeah, he's fine. We're having
+             breakfast.  When?  Oh.  Okay, that'll
+             be great.  See you then.  Bye, Mom.
+
+    Clark hangs up.
+
+                       JONATHAN
+             Well? What'd she say?
+
+                       CLARK
+             Not much.  Said she wanted to talk to
+             you in person.  She's coming in.
+
+                       JONATHAN
+                   (brightening)
+             Tonight?
+
+                       CLARK
+             No.  The day after tomorrow.
+
+                       JONATHAN
+                   (sagging)                                    (X)
+             Probably doesn't want to miss her                  (X)
+             life drawing class.                                (X)
+
+    Off of Clark, we...                                         (X)
+
+                                          WIPE TO:
+
+
+10  INT. DAILY PLANET - CONFERENCE ROOM - DAY                    10
+
+    We start CLOSE on today's Daily Planet Headline:
+    "Convicted Killer Escapes." There are head shots of
+    Eugene Laderman, Henry Harrison, and Lena Harrison.  When
+    we PULL BACK we see PERRY, Lois, Clark, JIMMY and other
+    staffers around the table.  Lois is nervously distracted.
+
+                       PERRY
+             Lois, you doing a follow-up on Eugene
+             Laderman's escape?
+                   (no response)
+             Lois?  You with us?
+
+                       LOIS
+             On it, Chief.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)   Yellow Rev.     12/14/93   10.
+
+
+10  CONTINUED:                                                 10
+
+                       CLARK
+                   (leaning in to bar)
+             Bummed out over the verdict?
+
+                       LOIS
+                   (on her soapbox)
+             The man is innocent.  He's no more a               (X)
+             killer than I an.                                  (X)
+
+                       PERRY
+             Man signed a confession, didn't be?
+
+                       LOIS
+             He was under duress when he signed                 (X)
+             it, didn't even have his attorney
+             present.
+
+                       CLARK
+             Lois, the guy shot his boss, then set
+             fire to the room to try and hide the
+             evidence.
+
+                       JIMMY
+             Fingerprints on the gun.  His clothes
+             had Harrison's blood on them.  Not to
+             mention that he and Harrison's wife
+             were 'doing the deed.'
+
+                       LOIS
+             Jimmy, it's okay to have an affair
+             when your husband is a brutal
+             sociopath.
+
+                       CLARK
+             No, it's not.  It's not okay.
+                   (in his own world)
+             Assuming it's true.
+
+                       PERRY
+             What's true?
+
+                       CLARK
+             That they're having an affair.
+
+    This is somewhat confusing to all of them.  Clark 
+    obviously has more on his mind than Eugene Laderman.
+
+                       PERRY
+             Well, you know, when Priscilla left
+             Elvis, February '72, she went 
+             straight into the arms of her Karate
+             instructor, Mike Stone, also married
+             at the time.  The King was devastated --
+             he was the one who introduced
+             Priscilla to Mike a year before.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)   Yellow Rev.     12/14/93    11.
+
+
+10  CONTINUED:  (2)                                            10
+
+                       LOIS
+                   (upset)
+             Chief, forgive me, but I am not in
+             the mood for another Elvis yarn.
+             Besides, what does Elvis Presley have
+             to do with an innocent mm fighting
+             for his life?
+
+                       PERRY
+                   (pause, hurt)
+             You're not in the mood for an Elvis
+             yarn?
+
+                       LOIS
+                   (patiently)
+             Chief, Eugene and Lena...
+
+                       JIMMY
+             Speak of the devil..
+
+Jimmy nods toward the pit and Lois turns to see LENA
+HARRISON enter.  Lena is an extremely attractive woman in
+her late-forties.
+
+                                          DISSOLVE TO:
+
+
+11  INT. DAILY PLANET - CONFERENCE ROOM - LATER                11
+
+    Lois and Clark sit facing Lena.
+
+                       LENA
+             I'm very worried. I haven't heard
+             from him.
+
+    Lena takes Lois' hand.
+
+                       LENA (CONT'D)
+             Jack wrote to me, told me how much he              (X)
+             trusted you.  You were the only one                (X)
+             who believed in him.                               (X)
+
+    Lois and Clark exchange a look.
+
+                       LOIS
+             What can we do for you?
+
+                       LENA
+             They'll find him.  They'll track his
+             down and kill him.  Please write
+             something in the paper.  I know he'll
+             read it.  Tell him that if he really
+             loves me he'll turn himself in.
+             There's the appeal... there's always
+             hope.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93     12.
+
+
+11  CONTINUED:                                                 11
+
+    Lena breaks down in tears.
+
+                       CLARK
+             Mrs. Harrison, I know this must be
+             very difficult for you...
+
+                       LENA
+             My husband was a violent and cruel
+             man.  There were nights, so many
+             nights, that I thought... God
+             forgive me... if only he were dead,                (X)
+             then Eugene and I...                               (X)
+                   (beat)
+             He did it for me.  And when I think
+             about him, out there, alone,
+             hunted... I hope he's all right.
+
+    Perry opens the door, sticks his head in.
+
+                       PERRY
+             Uh Lois?  Can I see you outside for
+             a moment?
+
+    Lena stands, wipes away her tears.
+
+                       LENA
+             I have to be going anyway.
+
+                       LOIS
+             We'll write the story.
+
+                       LENA
+             Thank you.
+
+    Lena exits.  Perry, Lois and Clark wait a moment before
+    they venture out into the pit.
+
+
+12  INT. DAILY PLANET - PIT - CONTINUOUS                       12
+
+    Perry, Lois and Clark enter the pit. Clark walks toward     (X)
+    the coffee room.  Lois notices a woman, back to us,         (X)
+    sitting on her desk, watching Lena exit.  When she stands   (X)
+    and turns around we see that it's Detective Reed. Lois
+    takes a gulp, walks up to her.
+
+                       LOIS
+             Detective Reed.
+
+                       DETECTIVE REED
+             Ms. Lane.
+                   (nodding toward the
+                    elevators)
+             Lena Harrison have anything
+             interesting to say?
+
+                                          CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)   Yellow Rev.     12/14/93    13.
+
+
+12  CONT                                                       12
+
+                       LOIS
+             She's worried about Eugene.  She
+             wants us to write an article telling
+             him to turn himself in.
+
+                       DETECTIVE REED
+             Good idea.
+                   (beat)
+             We've been tailing her since last
+             night.
+
+                       LOIS
+             No sign of Eugene?
+
+                       DETECTIVE REED
+             The fugitive is still at large.
+
+                       PERRY
+             Is there something specific we can
+             help you with, Detective?
+
+                       DETECTIVE REED
+             Well, no, not really.  It just seemed              (X)
+             to me that during the trial, Ms. Lane
+             and the escaped felon, became,
+             well... friendly-like.
+
+                       LOIS
+             I'm a journalist.  I covered the
+             trial.
+
+                       DETECTIVE REED
+             Yes.  And, of course, I'm _not_ a
+             journalist, but it did seen to me
+             that your articles seemed slanted
+             toward proclaiming his innocence.
+
+    No response from Lois or Perry.  Reed continues.
+
+                       DETECTIVE REED (CONT'D)
+             I was wondering if you might have any
+             information as to the whereabouts of
+             Mr. Laderman.
+                   (beat, pointedly)
+             He hasn't called you, has he?
+
+                       LOIS
+                   (it's not a lie)
+             No.  He hasn't called me.
+
+                       DETECTIVE REED
+             Well, just in case, if you do hear
+             from him, give _me_ a call, will you?
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93    14.
+
+
+12  CONTINUED:  (2)                                            12
+
+    Detective Reed hands Lois her card, then turns to exit,
+    turns back.
+
+                       DETECTIVE REED (CONT'D)
+             Don't worry, Ms. Lane.  I brought him
+             in once, I'll do it again.  Dead or
+             alive.
+
+    Lois stares nervously after her as she exits.  None of
+    this is lost on Perry.
+
+                                          WIPE TO:
+
+13  INT. DAILY PLANET - PIT - LATER                            13
+
+    Clark walks innocently by Lois' desk.  Lois grabs him by
+    the sleeve, drags him off to a quiet spot.  Their 
+    conversation is rapid-fire.
+
+                       LOIS
+             _Tell_ _me_ _the_ _biggest_ _secret_ _you_ _have_.
+
+                       CLARK
+             What?
+
+                       LOIS
+             Tell me the biggest secret you have.
+             Something you'd never reveal to a
+             living soul.
+
+                       CLARK
+             Why?
+
+                       LOIS
+             Because I'm about to tell you the
+             biggest one _I_ have, and I need 
+             blackmail material.
+
+                       CLARK
+             I can't.
+
+                       LOIS
+             Spill it.
+
+                       CLARK
+             Okay.
+                   (a tough admission)
+             The truth is... my mother might be
+             having an affair with a younger man.
+
+                       LOIS
+                   (without a blink)
+             Not big enough.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)   Yellow Rev.     12/14/93    15.
+
+
+13  CONTINUED:                                                 13
+
+                       CLARK
+             What?!  My Mon and Dad have been
+             married for thirty years.
+
+                       LOIS
+             Okay, okay.  What I'm about to tell
+             you cannot be repeated.  Swear it.
+
+                       CLARK
+             I swear,
+
+                       LOIS
+             On the lives of your future
+             grandchildren.
+
+                       CLARK
+             Hit me.
+
+                       LOIS
+             And no matter what I tell you, you
+             can't do anything about it.
+
+                       CLARK
+             Got it.
+
+                       LOIS
+                   (deep breath)
+             Eugene Laderman is hiding out in my
+             apartment.
+
+    Clark looks at her, takes a beat, then walks over to his
+    desk, picks up the phone, hands it to Lois.                 (X)
+
+                       LOIS (CONT'D)
+             What are you doing?                                (X)
+
+                       CLARK
+             You are calling the police.  Or _I_                (X)
+             will.
+
+    Lois grabs the phone out of his hand, slams it down.
+
+                       LOIS
+             You swore!
+
+                       CLARK
+             Lois...
+
+                       LOIS
+             On your future grandchildren!
+
+                       CLARK
+             Lois, you can't make me swear to
+             something that's illegal.
+                       (more)
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)   Yellow Rev.     12/14/93   15A.
+
+
+13  CONTINUED  (2)                                             13
+
+                       CLARK (Cont'd)
+                   (beat)
+             You're harboring a fugitive.
+                       (MORE)
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)   Yellow Rev.     12/14/93    16.
+
+
+13  CONTINUED:  (3)                                            13
+
+                       CLARK (CONT'D)
+             A murderer.  The man is dangerous.
+             He killed Harrison.  He could kill you.
+
+                       LOIS
+             He's innocent.
+
+                       CLARK
+             He was tried and convicted by a jury
+             of his peers.
+
+                       LOIS
+                   (disgusted)
+             Oh, leave the truth and justice stuff
+             to Superman, will you?
+
+    A stalemate.  Then...
+
+                       LOIS (CONT'D)
+             I shouldn't have told you in the
+             first place, but... I'm your partner,
+             right?
+
+                       CLARK
+             When it's convenient for you, yes.
+
+                       LOIS
+             Come to my apartment.  Talk to him.
+             If you still feel that he's a
+             murderer... then you can call the
+             police.
+                   (beat)
+             Deal?
+
+    On Clark, unsure, but acquiescing by the second, we...
+
+                                          WIPE TO:
+
+
+14  INT. LOIS LANE'S APARTMENT - DAY                           14
+
+    Eugene sits on Lois' sofa facing Lois and Clark.  Clark is
+    unsympathetic, asking pointed questions.
+
+                       CLARK
+             You were heard having an argument the              (X)
+             day before he was killed.
+
+                       EUGENE
+             That's true, but...
+
+                       CLARK
+             And you admit that you hated him.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)   Yellow Rev.     12/14/93    14.
+
+
+14  CONTINUED:                                                 14
+
+                       EUGENE
+             It was the way he treated Lena.                    (X)
+
+                       CLARK
+             You Were having an affair with his
+             Wife.
+
+                       EUGENE
+             It wasn't an affair.  We were in
+             love, but Lena didn't want to
+             consummate it until...                             (X)
+
+                       CLARK
+             You killed him?
+
+                       EUGENE
+             No.  Until she left him.                           (X)
+                   (beat)
+             You didn't know him. Lena would come
+             to work with bruises on bar.
+
+                       LOIS
+             Tell Clark about Henry.                            (X)
+
+                       EUGENE
+             He developed his own software and                  (X)
+             started his own company after he got
+             fired from LexComp.
+
+                       CLARK
+             He worked for Lex Luthor?
+
+                       EUGENE
+                   (nodding)
+             For twenty years. He was fired a
+             month before he was eligible to
+             retire with a full pension.
+                   (beat)
+             His company wasn't making it. That's               (X)
+             what I think drove Henry crazy.                    (X)
+
+                       LOIS
+             What do you mean, crazy?
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)   Yellow Rev.     12/14/93   18.
+
+
+14  CONTINUED:  (2)                                            14
+
+                       EUGENE
+             He was a loose cannon.  One day I                  (X)
+             found a program he was working on...               (X)
+             the Ides Of Metropolis.  When he                   (X)
+             discovered that I'd seen it he went                (X)
+             berserk, threatening me, threatening               (X)
+             Lena.                                              (X)
+
+                       CLARK
+             Why did Lena testify as a witness for              (X)
+             the prosecution?
+
+                       EUGENE
+             She was subpoenaed.  She had to tell               (X)
+             the truth. And the truth was there
+             was no way she could prove I _didn't_              (X)
+             kill bar husband.                                  (X)
+
+                       CLARK
+             She thinks you did it. She said so
+             today.
+
+                       EUGENE
+                   (shocked)
+             You saw Lena?
+
+                       LOIS
+                   (nodding)
+             She came to the Planet.
+                   (beat)
+             It's a good thing you didn't go to
+             her house last night -- she's being
+             tailed by the police.
+
+    Eugene looks stricken.  Lois stands.
+
+                       LOIS (CONT'D)
+             I'll make some coffee.
+
+    Clark follows Lois into the kitchen.
+
+
+15  LOIS AND CLARK IN KITCHEN AREA                             15
+
+    Clark moves to the phone, hands it to Lois.                 (X)
+
+                       CLARK
+             Make the call.                                     (X)
+
+                       LOIS
+             Clark, I can't do that!                            (X)
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)   Yellow Rev.     12/14/93   14.
+
+
+15  CONTINUED:                                                 15
+
+                       CLARK
+             Lois!  We had a deal.  I haven't
+             heard a single thing that makes me
+             feel he's less guilty or less of a
+             threat to you.
+
+                       LOIS
+             Clark.  Please.  I'm sure about this.
+
+                       CLARK
+             You're always sure.
+
+                       LOIS
+             Two days.  Give me forty-eight hours.
+             The man's going to prison for life.
+
+    Clark is torn.  When he turns around, Eugene is standing 
+    behind him.  He has a terribly pained expression on his
+    face.
+
+                       LOIS (CONT'D)
+             Eugene... what is it?
+
+                       EUGENE
+             Lena told you that I killed Henry?
+
+                       LOIS
+             She said you did it for her.
+
+    Eugene turns away.  Lois and Clark exchange a look.  Lois
+    thinks about something for a minute, then walks around to
+    face Eugene.
+
+                       LOIS                                     (X)
+             Eugene, I think you better tell us                 (X)
+             the truth.
+
+                       EUGENE
+             Lena was right about one thing.  I
+             did do it for her.
+
+                       LOIS
+             You killed Harrison?
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93     20.
+
+
+15  CONTINUED:  (2)                                            15
+
+                       EUGENE                                   (X)
+             No. I originally confessed, then
+             later, refused to take the stand to
+             protect bar.
+
+                       CLARK
+             Lena?
+
+                       EUGENE                                   (X)
+             Yes.  She's the one who did it.  She
+             killed her husband.
+
+    On Lois and Clark, now very confused we...
+
+                                          FADE OUT:
+
+                         _END ACT ONE_
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93     21.
+
+
+                             _ACT TWO_
+
+
+    FADE IN:
+
+16  INT. DAILY PLANET - COFFEE ROOM - (DAY #3)                 16
+
+    Lois sits with Clark, having a cup of coffee. Jimmy
+    enters, drops some files in front of her.
+
+                       JIMMY
+             Transcripts from the trial, DA's
+             depositions, forensic reports...
+             more to come, computer's on the
+             blink.
+
+                       LOIS
+             Thanks, Jimmy.  Nice work.
+                   (beat)
+             Stay on Lena today, all right?
+
+    Jimmy nods. Lois looks at Clark, arms folded across his
+    chest.  He's obdurate.
+
+                       CLARK
+             I'm sorry. I can't help the way I                  (X)
+             feel.  Just because Eugene _said_ Lena             (X)
+             killed her husband, doesn't mean she               (X)
+             _did_.
+
+                       LOIS
+             Clark Kent... since when did you
+             become such a cynic?
+                   (beat)
+             I'm usually the one saying 'hogwash.'
+             What happened to that bright-eyed
+             bushy-tailed Kansas boy I once knew?
+
+                       JIMMY
+             Maybe he's been hanging around 'Mad
+             Dog' Lane too much.
+
+    Jimmy laughs at his own joke, but Lois is not amused.  He
+    tip-toes off.
+
+                       LOIS
+             Or, maybe... he found out that his
+             perfect little world isn't so
+             perfect.... how's your Dad?
+
+                       CLARK
+             Okay.  I hope.
+
+                       LOIS
+             You know my Mom and Dad got divorced
+             when I was a teenager.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93     22.
+
+
+16  CONTINUED:                                                 16
+
+                       CLARK
+             How'd you take it?
+
+                       LOIS
+             I pretended that it didn't bother me.
+             A lot of the girls I went to school
+             with came from broken homes.
+                   (beat)
+             But, it did.  Bother me.  Affected
+             me.  More than I thought.
+
+                       CLARK
+             Lois, I'm worried about you.  I'm                  (X)
+             uncomfortable with Eugene staying in               (X)
+             your apartment.
+
+                       LOIS
+             I'm not going to turn him in.  Not
+             now.
+                   (beat)
+             Lena Harrison is guilty and I intend
+             to prove it.
+
+                       CLARK
+             I'm with you.
+                   (checking his watch)
+             For the next 34 hours.
+
+                                          WIPE TO:
+
+17  EXT. HARRITECH COMPUTER COMPANY - DAY - TO ESTABLISH       17
+
+    A large building on the outskirts of the city.
+
+
+18  INT. HARRITECH - DAY
+
+    Lois and Clark interview Harrison's personal assistant,
+    MISS BIRD.  Bird is a career secretary, loyal to the end.
+
+                       MISS BIRD
+             No one knew Mr. Harrison better than
+             I did.  I was his personal secretary
+             for fifteen years.
+                   (beat)
+             He was a genius, you know.
+
+                       LOIS
+             We've interviewed several people who
+             also say he was a tyrant.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)   Yellow Rev.     12/14/93     23.
+
+
+18  CONTINUED:                                                 18
+
+                       MISS BIRD
+                   (defending)
+             He had a company to run.  It wasn't 
+             easy, starting his own line of
+             software.  And then, to find out that
+             Lena and Eugene were... he didn't
+             deserve to be two-timed.
+
+                       LOIS
+             There was some evidence that
+             indicated Harrison was abusive toward
+             his wife.
+
+                       MISS BIRD
+             Nonsense.  He loved her.  He would
+             never touch a hair on her head.  In
+             his will, he left her everything.
+             All the stock...
+
+                       LOIS
+             The debts...
+
+                       MISS BIRD
+             That's not fair.  All these                        (X)
+             accusations against Mr. Harrison.
+             He's not here to defend himself.
+
+                       CLARK
+                   (pointedly, to Lois)
+             No, he's not.
+
+                       MISS BIRD
+             Henry Harrison had a heart of gold.
+             one morning he found a homeless man                (X)
+             sleeping in the generator room.  He                (X)
+             got him a cot.  Brought him food.                  (X)
+             Does that sound like a monster to                  (X)
+             you?
+
+                       LOIS
+             Where is this homeless man now?  We'd
+             like to talk to him.
+
+                       MISS BIRD
+             I don't know.  Since the murder... I
+             suppose I can't blame him for not
+             wanting to sleep in that room
+             anymore.
+
+                       LOIS
+             Well, thank you for your time.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93    24.
+
+
+18  CONTINUED:  (2)                                            18
+
+                       MISS BIRD
+             You're welcome... I'm just                         (X)
+             straightening up... we're closing the              (X)
+             doors tonight.                                     (X)
+                   (beat)                                       (X)
+             Look, I know it's part of your job to
+             dig around looking for new angles on               (X)
+             stories, but... Eugene Laderman                    (X)
+             killed Mr. Harrison.  That's the real
+             truth.
+
+    Lois and Clark exchange a look at as we...
+
+                                          WIFE TO:
+
+
+19  INT. LUTHOR'S PENTHOUSE STUDY - DAY                        19
+
+    LUTHOR is on his balcony, skeet shooting.  NIGEL stands by
+    his side.
+
+                       LUTHOR
+             Pull!
+
+    Nigel launches a clay pigeon into the air, and Luthor
+    shoots.
+
+    IN THE AIR
+
+    The clay pigeon shatters to dust.
+
+                       NIGEL
+             Excellent shot.
+
+    An intercom buzzer sounds from Luthor's desk.  Nigel goes
+    to answer it, then returns.
+
+                       NIGEL (CONT'D)
+             Ms. Lane and Mr. Kent are here, sir.
+
+                       LUTHOR
+             Have then come in.
+
+    Nigel moves through the study to open the door and admit
+    Lois and Clark, who are shown through to the balcony.
+    Luthor launches another pigeon, shoots.  Again, the clay
+    pigeon shatters.  Clark walks to the edge of the balcony,
+    looks down.
+
+                       CLARK
+             What happens if you miss?
+
+                       LUTHOR
+             Interesting question, Mr. Kent.
+             Let's see.
+                       (more)
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS   (#14)  Yellow Rev.     12/14/93    25.
+
+
+19  CONTINUED:                                                 19
+
+                       LUTHOR (Cont'd)
+             This clay pigeon weighs two ounces.
+             We are on the one hundred and
+             twentieth floor, approximately
+             fifteen hundred feet above street
+             level.  Considering the G force and
+             the speed... if the object hit the 
+             pavement, or some hapless passer-by,
+             it would make contact at about two
+             hundred miles per hour.  My guess is
+             that it would, unfortunately, kill
+             him or her, instantly.
+                   (beat, with a smile)
+             I never miss.
+
+    Luthor puts down his shotgun, walks over to Lois, kisses
+    her on the cheek.
+
+                       LUTHOR (CONT'D)
+             So nice to see you again, Lois.
+
+                       LOIS
+             Nice to see you, Lex.
+
+    Clark rolls his eyes at the interplay; Luthor leads then
+    inside, motions for them to sit.
+
+                       LUTHOR
+             Please.
+
+                       CLARK
+             About Henry Harrison...
+
+                       LUTHOR
+             Yes, when I received your call, I
+             requested that the head of LexComp
+             personnel pull his file.
+                   (handing it to them)
+             I'm afraid there's not much there to
+             help you.
+
+                       LOIS
+             Did you know him personally?
+
+                       LUTHOR
+             Oh, yes.  He was quite an ambitious
+             and talented man when I hired him.
+             Great thinker.  Ahead of his time.
+
+                       CLARK
+             Is it true he was fired only a month               (X)
+             before he was eligible to retire on                (X)
+             a full pension?
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93    26.
+ 
+
+19  CONTINUED:  (2)                                            19
+
+                       LUTHOR
+             Yes.  When we downsized the company
+             during the recession, hundreds of
+             employees were forced out.
+                   (beat)
+             We made every effort to relocate
+             them.  But Henry decided he wanted to
+             be his own boss.  Shame about the
+             murder... have they caught the man
+             yet?
+
+                       LOIS
+             No, not yet.
+
+                       LUTHOR
+                   (intuitively)
+             Lois... is there some doubt in your
+             mind as to the man's guilt?
+
+                       LOIS
+             Yes.  A great deal of doubt.
+
+    Luthor considers this for a moment.  Lois and Clark stand.
+
+                       LOIS (CONT'D)
+             Thanks for your help.
+
+    Lois and Clark start to leave.
+
+                       LOIS (CONT'D)
+             Lex, have you ever heard of a
+             software program called 'The Ides of
+             Metropolis?' Something Harrison was
+             working on.
+
+                       LUTHOR
+             Ides of Metropolis?  No, I haven't.
+                   (beat)
+             Sorry I couldn't have been of greater
+             assistance.
+
+    As soon as Lois and Clark have exited his office, Luthor
+    turns to Nigel.
+
+                       LUTHOR (CONT'D)
+             Are our technicians at LexComp still
+             having those same problems... the
+             computers running slow?
+
+                       NIGEL
+             I believe so, sir.
+
+                       LUTHOR
+             Hmmmm.  You'd better get me LexComp
+             internal security.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93     27.
+
+
+19  CONTINUED:  (3)                                            19
+
+                       LOIS (PRE-LAP)
+             I don't believe it.
+
+                                          WIPE TO:
+
+
+20  INT. DAILY PLANET - PIT - DAY                              20
+
+    Lois, Clark, and Jimmy are watching a video tape.
+
+
+21  ON VIDEO TAPE 21
+
+    Lena moves through the lobby area of a hotel.  Jimmy and
+    the camera are momentarily distracted by a gorgeous pair
+    of legs in a mini-skirt, then the lens whips back to
+    follow Lena once more.
+
+                       LOIS (O.S.)
+             How'd you get this?  And what about
+             Reed?  Weren't her men tailing Lena
+             as wall?
+
+                       JIMMY (O.S.)
+             Two guys in a car in front of the
+             hotel.  Some stakeout.
+
+    Lena walks toward the elevators. Suddenly, a man wearing
+    a trench coat and a hat, his face hidden, falls in step
+    behind her.  Just before the elevator doors open, Lena and
+    the man kiss.
+
+                       LOIS (O.S.)
+                   (triumphant)
+             So much for the grieving widow.
+
+    Jimmy turns off the machine, turns to face Lois and Clark.
+
+                       JIMMY
+             What now?
+
+    On Lois and Clark, unsure, we...
+
+                                          CUT TO:
+
+
+22  INT. GYM - (NIGHT 13)                                      22
+
+    Clark and his Dad, in their sweats, enter the gym.  It's
+    a happening place -- men and women on treadmills,
+    steppers, a "Cardio Funk" class going on in the
+    background.
+
+                       CLARK
+             Dad, are you sure you want to do
+             this?
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)   Yellow Rev.     12/14/93   28.
+
+
+22  CONTINUED:                                                 22
+
+                       JONATHAN
+             I've got to get back in shape.  Get
+             back to the mm your mother married.
+
+                       CLARK
+             Dad, I think getting in shape is a
+             good idea, but you're doing it for
+             the wrong reasons.  Now, if you want
+             to feel better, that's one thing, but
+             Mon loves you just the way you are.
+
+    A young woman (TRAINER) approaches them.  Her amazing body  (X)
+    is evident in a jogbra, tights and g-string.
+
+                       TRAINER
+                   (to Jonathan)
+             First time?
+
+                       CLARK
+             Thanks anyway, but I pretty much know
+             my way around the gym.
+
+                       JONATHAN
+             _I_ could use a few... pointers.
+
+    On Jonathan's appreciative gaze, we...                      (X)
+
+                                          CUT TO:               (X)
+
+
+23  WEIGHT ROOM - LATER                                        23
+
+    Clark leads Jonathan toward the military press machine.     (X)
+
+                       CLARK
+             Okay. Just a few light reps, then                  (X)
+             we'll hit the showers.
+
+    Clark turns Jonathan to face away from the weight stack
+    and is about to sit him down on the bench when a large,
+    thick hand clamps on his shoulder.
+
+                                          (CONTINUED)
+
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93     29.
+
+
+23  CONTINUED:                                                 23
+
+                       BODYBUILDER (O.S.)
+             That's my machine.
+
+    Clark turns to see an oversized musclehead looming over
+    them.  The BODYBUILDER is an arrogant jerk.
+
+                       CLARK
+             I didn't see anyone using it.
+
+                       BODYBUILDER
+             Everyone knows I use this machine at
+             this time every day, so buzz off four-
+             eyes and take grampa with you.
+
+                       JONATHAN
+             Come on, son.
+
+                       CLARK
+             No, dad, we'll wait.
+
+                       BODYBUILDER
+             Might be a while.  Once I a
+             pumping, it's hard to stop.
+
+                       CLARK
+             Really.
+
+    The bodybuilder gives a mighty push up on the bar:
+    nothing.  He looks at Clark, his flush part embarrassment,
+    part exertion.  He tries again, straining, straining,
+    still nothing...
+
+
+24  CLOSE ON WEIGHT STACK                                      24
+
+    Clark rests the tip of one finger on top of the stack.
+
+
+25  THE BODYBUILDER                                            25
+
+    releases the bar, panting.  Furious, he stands up.
+
+                       BODYBUILDER
+             Stinking machine's broken.
+
+                       CLARK
+             Really.
+                   (beat)
+             Go ahead, Dad.  Show him how it's
+             done.
+
+    At Clark's urging, Jonathan takes the bodybuilder's place.
+    A small crowd has gathered, including the gorgeous
+    Trainer.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)   Yellow Rev.     12/14/93   30.
+
+
+25  CONTINUED:                                                 25
+
+                       CLARK
+             That's right.  Put your hands on the
+             grips.  Take a breath in, and, as you
+             exhale, push up.
+
+    The bodybuilder SNORTS derisively.  But, to everyone's
+    including Jonathan's surprise, he lifts with ease.  He
+    continues to lift and lower, seemingly without effort.
+
+
+26  CLOSE ON WEIGHT STACK                                      26
+
+    Clark has a fingertip under the bottom weight.
+
+
+27  JONATHAN                                                   27
+
+    continues lifting.  Finally, Clark puts his hand on his
+    father's arm.
+
+                       CLARK
+             That's enough.
+                   (to the bodybuilder)
+             Once he starts pumping, it's hard to
+             stop.
+
+    Jonathan stands, stretches.  Clark starts to lead him 
+    away.
+
+                       TRAINER
+             Oh, Jonathan...
+
+    They stop to stare at her.
+
+                       TRAINER (CONT'D)
+             Would you like to... spot me?
+
+    Jonathan looks at Clark, shrugs, sucks in his gut and goes
+    off with the trainer as we...
+
+                                          WIPE TO:
+
+
+28  INT. LOIS' APARTMENT - NIGHT                                 28
+
+    Lois and Clark enter.  Lois is surprised, and a little
+    rattled to see Eugene hard at work on her home computer.
+
+                       EUGENE
+             I've straightened out your files,                  (X)
+             Lois.  Gave you a simpler directory.               (X)
+
+                       LOIS
+             You... those were personal files,
+             Eugene.  I had a password.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)   Yellow Rev.     12/14/93   31.
+
+
+28  CONTINUED:                                                 28
+
+                       EUGENE
+             I know.  Superman.
+                   (beat)
+             Wasn't too tough to figure out.
+
+    Lois is too embarrassed to look at Clark. She shifts into
+    reporter gear.
+
+                       LOIS
+             Eugene, let's go over what happened                (X)
+             the day Harrison died.                             (X)
+
+                       EUGENE
+             Well, like I said, I found this now
+             program he was working on. It wasn't
+             in the regular files, but I figured
+             out his security bypass pretty
+             quickly...
+
+                       LOIS
+             About the fight...
+
+                       EUGENE
+             Henry asked me how much of the                     (X)
+             program I'd seen. Suddenly he was                  (X)
+             screaming at me, saying that I had                 (X)
+             stolen his wife and now the 'Ides Of
+             Metropolis.'
+                   (beat)
+             I started yelling back at him.  I                  (X)
+             said I'd kill him if he hurt Lena                  (X)
+             again.                                             (X)
+
+                       CLARK
+             So, Lena came to your apartment...                 (X)
+
+                       EUGENE
+                   (nods)
+             I told her about the fight and she
+             said she was going to the office, to
+             have it out with him.  When she
+             didn't come back, I got worried, went
+             to the office.
+
+                       LOIS
+             You smelled something burning, went
+             into the generator room.  That's when
+             you found him...
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)   Yellow Rev.     12/14/93   32.
+
+
+28  CONTINUED  (2)                                             28
+
+    Just then, a KNOCK on the door.  Clark X-RAYS through the   (X)
+    door to see Detective Reed and her Deputy standing
+    outside.
+
+                       CLARK
+             It's Reed.
+
+                       LOIS
+             How do you know?
+
+                       CLARK
+                   (covering)
+             It was a police... kind... of...                   (X)
+             knock.
+
+                       LOIS
+             Quick. In the bedroom.
+
+    Clark leads Eugene into the bedroom. Lois answers the
+    door.  Indeed, it is Detective Reed and two cops. She
+    enters, walks past Lois, looking around.
+
+                       DETECTIVE REED
+             I have a warrant to search the
+             premises.
+
+                       LOIS
+             My apartment? Are you crazy?
+
+                       DETECTIVE REED
+             I don't think so, Ms. Lane.  Call me
+             wild, call me crazy, but I have a
+             hunch that you're hiding something...
+             or someone.
+
+    She nods to her Deputies... who fan out to cover the
+    apartment.  Reed looks at Lois.
+
+                       DETECTIVE REED (CONT'D)
+             Why don't you just have a seat on the
+             couch.  This won't hurt much, and 
+             it'll be over real soon.
+
+    Lois, tensing, sits on the couch.
+
+
+29  INT. LOIS LANE'S BEDROOM - SAME TIME                       29
+
+    The Deputies enter the room.  No one there.  They move to
+    the window; drapes are drawn and window locked shut.
+
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)   Yellow Rev.    12/14/93   32A.
+
+
+30  EXT. LOIS LANE'S APARTMENT - SAME TIME                     30
+
+    Clark has Eugene pressed up against the tiny ledge.  It's 
+    not big enough to accommodate two people, but it's too 
+    dark out for Eugene to notice that...
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)      Blue Rev.     12/13/93    33.
+
+
+30  CONTINUED:                                                 30
+
+    Clark isn't standing on the ledge.  He's hovering in thin
+    air.
+
+
+31  INT. LOIS LANE'S LIVING ROOM - SAME TIME                   31
+
+    The Deputy exits the bedroom, shaking his head.
+
+                       DETECTIVE REED
+             Sorry to have bothered you, Ms, Lane.
+             It appears I was mistaken... for the
+             time being.
+
+                       LOIS
+             I hope you never find him.  Eugene                 (X)
+             didn't kill Harrison.
+
+                       DETECTIVE REED
+             Do tell.
+
+                       LOIS
+             Lena Harrison killed her husband.
+
+                       DETECTIVE REED
+             Interesting theory.  Unfortunately
+             at precisely the time of Harrison's
+             death, Lena was at a Neighborhood
+             Watch meeting.  She was seen by at
+             least twenty people who positively
+             identified her.
+
+    Lois is momentarily speechless. Then...
+
+                       LOIS
+             But why would a man set fire to the                (X)
+             room the body was in to destroy the                (X)
+             evidence, wait there for the police,               (X)
+             then sign a confession? And why
+             didn't he take the stand in his own
+             defense when his attorney begged him
+             to?
+
+    Reed is cool as a cucumber, but do we see a faint look
+    of...  something in her eyes?
+
+                       DETECTIVE REED
+             Good night, Ms. Lane. Remember to
+             lock your doors and windows.  We've
+             got an escaped killer on the loose.
+
+    She exits.  A moment later, Eugene is led back into the     (X)
+    room by Clark.  As Eugene walks into the kitchen to get a   (X)
+    drink of water...
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)      Blue Rev.     12/13/93    34.
+
+
+31  CONTINUED:                                                 31
+
+                       CLARK
+             Talk about being out on a ledge...
+             Lois?  You okay?  What'd Reed say?
+
+                       LOIS
+             Oh.  Not much.  Just that Lena                     (X)
+             Harrison has an iron-clad alibi for
+             the night of her husband's death.
+
+    They both look over at Eugene, more unsure than ever as     (X)
+    we...
+
+                                          FADE OUT:
+                          _END OF ACT_
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93     35.
+
+
+                             _ACT THREE_
+
+
+32  INT. DAILY PLANET - PIT - (DAY #4)                         32
+
+    Lois and Clark are at their respective desks, each on the
+    phone, on hold, with plenty of time to argue with one
+    another.
+
+                       LOIS
+             Clark, men and women lie to each
+             other all the time.  It's a national
+             pastime.  Sometimes it's okay to lie.
+
+                       CLARK
+             It's never okay.
+
+                       LOIS
+             So, you've never lied to me?
+
+                       CLARK
+             I didn't say that.  I said, it's not
+             okay.  Besides, we're talking
+             husbands and wives here.
+                   (into phone)
+             Yes.  I can hold.
+                   (to Lois)
+             I just happen to think that it's
+             always better to tell the truth, get
+             everything out in the open.
+
+                       LOIS
+             So, you're saying you'll never lie to
+             your wife, assuming someone is crazy
+             enough to say 11 do' to you.
+
+                       CLARK
+             That's right.
+
+                       LOIS
+                   (into phone)
+             Transfer me to who?  I've been
+             holding ten minutes.... Ugh.
+                   (to Clark)
+             Okay, here's the scene.  Your loving
+             wife of twenty years has spent the
+             entire day at the beauty shop.  Dyed
+             her hair red, got it cut... all to
+             please you.  Except she looks
+             ghastly.  She stands there when you
+             open the front door, so hopeful...
+             and says 'Honey, do you like it?'
+             What do you do?
+
+                       CLARK
+             My wife would know I love her the way
+             she is.  Why would she dye her hair
+             red?
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93    36.
+
+
+32  CONTINUED:                                                 32
+
+    Perry White walks by en route to his office.  Suddenly, 
+    the conversation stops.  They both smile at him.  He 
+    smiles back.  When he's safely in his office...
+
+                       CLARK (CONT'D)
+             Okay.  I'd... tell her the truth.
+             That I love her, that I liked her
+             hair better before, but that, if
+             she's happy with it, that's the
+             important thing.
+
+                       LOIS
+                   (into phone)
+             But I've already left a message.
+             Never mind.
+                   (hangs up, to Clark)
+             Poor woman.
+
+                       CLARK
+             Who?
+
+                       LOIS
+             Your wife. She's married to Mr.
+             Right.  Mr. _Always_ Right.
+
+    Perry sticks his head out of his office.
+
+                       PERRY
+             Lois?  Clark?  A moment of your time?
+
+    Lois and Clark move into Perry's...                         (X)
+
+
+33  INT. DAILY PLANET - PERRY WHITE'S OFFICE - DAY             33
+
+    The following conversation is very cagey, everyone knowing
+    what everyone else is saying, although they're saying very
+    little.
+
+                       PERRY
+             Is there something the two of you
+             want to tell me?
+
+                       LOIS
+             No, not really, Chief.
+
+                       PERRY
+             Huh.  Well... good.
+                   (beat)
+             You sure now?  Nothing you want to
+             get off your chest, uh, chests?
+
+    Lois and Clark look very guilty.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93    37.
+
+
+33  CONTINUED:                                                 33
+
+                       LOIS
+             We'd like to tell you, Chief, but we
+             can't.  It's better this way.
+
+                       CLARK
+             Better off _not_ knowing.
+
+                       PERRY
+             Well, I think it's a little late for
+             that.
+                   (beat)
+             I know.
+
+                       LOIS
+             You know?
+
+                       CLARK
+             What exactly do you know?
+
+                       PERRY
+             You know... about... him.  Where he
+             is.
+
+                       CLARK
+             Oh. You do know.
+
+                       LOIS
+             How do you know?
+
+                       PERRY
+             It's better you don't know.
+                   (beat)
+             'Course, I don't know officially.
+             But, let's face it.  If a man in my
+             position _didn't_ know, unofficially,
+             then, well, he wouldn't be a man in
+             my position.
+
+                       LOIS
+             So, now that you know, unofficially,
+             are you going to tell anyone else
+             that you, you know, know?
+
+                       PERRY
+             No. I just wanted you to know.
+
+                       CLARK
+             Thank you, sir.  I feel much better
+             knowing that you know.
+
+                       LOIS
+             Me, too.
+
+                       PERRY
+             There is something I'd like you know,
+             though.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS   (#14)  Yellow Rev.     12/14/93   38.
+
+
+33  CONTINUED:  (2)                                            33
+
+                       LOIS
+             What's that?
+
+                       PERRY
+             The minute you step outside that
+             door, I no longer know.  And I don't
+             want to know anything else worth...
+             knowing... in the future.
+
+    Lois and Clark nod, and are out the door.
+
+
+34  OMITTED                                                    34
+
+
+35  INT. LOIS LANE'S APARTMENT - (NIGHT #4)                    35
+
+    Lois and Clark enter with pizzas.  Eugene still sits at
+    Lois' computer.  He rushes up to them.
+
+                       EUGENE
+             Thank God you're back. You told me
+             not to use the phone or go out, or...
+
+                       LOIS
+             What happened?
+
+                       EUGENE
+             Nothing happened.  It's what's _going_
+             to happen.  I think.
+
+    Lois and Clark exchange looks. They're not following.
+
+                       EUGENE (CONT'D)
+             All the programs on your computer
+             were sluggish today... so I tapped
+             into the Daily Planet bank.  Their
+             systems are slowed down, too.
+
+                       LOIS
+             Eugene, there are more important
+             things going on than a temporary
+             computer slowdown.
+
+                       EUGENE
+             That file that Henry was working
+             on... it wasn't a program.  It was a
+             virus.  A virus designed to destroy                (X)
+             all other software programs.  A
+             polymorphic encrypted virus.
+
+                       LOIS
+             Come again?
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS   (#14)  Yellow Rev.     12/14/93   39.
+
+
+35  CONTINUED:                                                 35
+
+                       CLARK
+             The worst kind.  It can attack any
+             computer system, taking on different
+             shapes to avoid detection.
+                                                                (X)
+
+                       LOIS
+             Makes sense.  The man was about to
+             lose everything, might as well take
+             everybody else's system with you.
+
+                       CLARK
+             Can a virus just start up without the
+             programmer initiating it?
+
+                       EUGENE
+             Maybe.  If it had some kind of
+             doomsday code on it.
+
+                       LOIS
+             How bad could this virus make things?              (X)
+
+                       EUGENE
+             In a nation entirely dependent on
+             computers... it could mean...
+             disaster.
+
+                       CLARK
+             Banks, the stock exchange, air
+             traffic control... even our nuclear
+             missiles.  They're all run by
+             computers.
+
+                       LOIS
+             What can we do?
+
+                       EUGENE
+             You have to break me into MUT.
+
+                                          (CONTINUED)
+
+
+                          ---page break---
+    THE IDES OF METROPOLIS   (#14)  Yellow Rev.     12/14/93   40.
+
+
+35  CONTINUED:  (2)                                            35
+
+                       CLARK
+             MUT?
+
+                       EUGENE
+             Metropolis University of Technology.
+             I need a powerful central computer
+             system to work off of.  I have to
+             find the antidote.  I teach a class
+             there... my students can help.
+
+    Lois and Clark slink away, form a huddle.                   (X)
+
+                       CLARK
+             You're already harboring a fugitive,
+             you want to add breaking and entering
+             to your rap sheet?
+
+                       LOIS
+             Clark.  I don't know if he's telling
+             the truth.  But if he is... and the
+             virus gets out...
+
+                       CLARK
+             Lois, all we have is a guy, a wanted
+             guy, looking at a computer screen and
+             telling us the nation's at risk.
+                   (beat)
+             We need more proof.
+
+    Lois looks over at Eugene as we...
+
+                                          WIPE TO:
+
+
+36  EXT. LEX LUTHOR'S TOWER - TO ESTABLISH                     36
+
+
+37  INT. LEX LUTHOR'S STUDY - NIGHT                            37
+
+    Luthor stands by his balcony, looking over the city.
+    Nigel enters.
+
+                       NIGEL
+             Security has confirmed your
+             suspicions, sir.  There is a virus.
+
+                       LUTHOR
+             No one is invulnerable. No system is
+             guaranteed secure.  At no time in
+             history has the power of one
+             destructive individual been so
+             amplified.  It's the ultimate
+             terrorism.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93    41.
+ 
+
+37  CONTINUED:                                                 37
+
+    Luthor wanders to his desk, takes out a cigar.  Nigel is
+    there to light it for him.
+
+                       LUTHOR (CONT'D)
+             I've often wondered what would happen
+             if our entire infrastructure
+             dissolved.
+
+                       NIGEL
+             Perhaps we are _too_ dependent, sir.
+
+                       LUTHOR
+             Yes.  Perhaps.  I've never fancied
+             myself as being dependent on 
+             anything, or anyone.  And yet... I'm
+             a slave.  Like you, Nigel, like all
+             of us... to a system we created.
+             Still...
+
+    Luthor sits down in his easy chair, throws back his head
+    and laughs.
+
+                       NIGEL
+             May I inquire?
+
+                       LUTHOR
+             Just... musing, Nigel.  What it would
+             be like.  No Luthor technologies, no
+             Luthor Industrial, no Luthor
+             communications...
+                   (a real question)
+             Could I weather it, Nigel?  Could I,
+             a man who never has to think about
+             money, could I do without?  It might
+             be for the best.  I could got back to 
+             nature.  Buy a pair of hiking shoes, 
+             get in my car, a car with no driver
+             and drive as far as I could before I 
+             fell off the edge of the world.
+             Could I? Would I?
+
+    Nigel has been placed in a very awkward position.  And
+    yet, there still seems to be no answer except...
+
+                       NIGEL
+             I think not.
+
+                       LUTHOR
+             Yes.  Quite right.
+
+    The subject closed, for the time being, we...
+
+                                          WIPE TO:
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.    12/13/93     42.
+
+
+38  INT. CLARK KENT'S APARTMENT - (DAY %5)                     38
+
+    The doorbell rings and MARTHA enters.  Clark runs up the
+    stairs to pick her up, give her a mighty hug.  She hugs
+    him back, looks around for...
+
+                       MARTHA
+             Where's your father?
+
+                       CLARK
+             Went to the store -- you're here early.
+
+                       MARTHA
+             Is he all right?
+
+                       CLARK
+             Yeah. But I'm not sure I an.
+                   (beat)
+             Dad says you're having an affair with
+             this artist teacher of yours.  Is
+             that true?
+
+    Martha leads Clark by the hand to the living area. They     (X)
+    sit down on the sofa.
+
+                       MARTHA
+             Clark, there are a lot of things that              (X)
+             go on between a man and woman,                     (X)
+             husband and wife, that you've yet to               (X)
+             experience.
+
+                       CLARK                                    (X)
+             Mon... what are you saying?                        (X)
+
+    The door opens and Jonathan walks in, carrying a bouquet
+    of flowers.
+
+                       JONATHAN
+             I got the peonies.  Martha always
+             liked...
+
+    Martha stands.  Now the two of then are standing, just
+    looking at one another.  Clark, embarrassed, walks off
+    toward the kitchen as Martha slowly approaches Jonathan.
+
+                       MARTHA
+             Are those for me?
+
+                       JONATHAN
+             There's nobody else.
+
+                       MARTHA
+             For me either, Jonathan.
+
+                       JONATHAN
+             Is that true?
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS   (#14)  Yellow Rev.     12/14/93   43.
+
+
+38  CONTINUED:                                                 38
+
+                       MARTHA
+             Yes.  You were the first man I ever
+             kissed.  You'll be the last.
+
+                       JONATHAN
+             So... no affair?
+
+                       MARTHA
+             Well... if you call two cups of                    (X)
+             coffee at Maise's an affair...                     (X)
+
+                       JONATHAN
+             I should never have doubted you. I
+             know you too well.
+
+                       MARTHA
+             Yes, and you should also know that
+             just because I may qualify for
+             membership in the Gray Panthers, that
+             doesn't mean I'm slowing down.  And
+             it doesn't mean that I have to stop
+             growing, experimenting, thinking,
+             making friends with interesting
+             people.
+
+                       JONATHAN
+             I just hope I can keep up with you.
+
+                       MARTHA
+             You don't have to.  Just understand
+             me, like you always have.  Just be
+             there for me, like I know you always
+             will.
+
+    Clark wipes a tear away as Jonathan and Martha hug, kiss.
+
+                                          WIPE TO:
+
+39  INT. DAILY PLANET PIT - DAY                                39
+
+    Lois and Clark look up from their desks to see Detective
+    Reed enter, walk over toward them.
+
+                       LOIS
+                   (harshly)
+             Do you have a warrant to search the
+             Daily Planet as well?
+
+                       DETECTIVE REED
+             Nope.  Thought I'd fill you in on
+             something, though.  Wondered if you
+             might have a take on it.
+
+    Reed hands Lois a report.  She scans it...
+
+                                          (CONTINUED)
+
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Green Rev.     12/15/93    44.
+
+
+39  CONTINUED:                                                 39
+
+                       LOIS
+                   (reading)
+             The deceased was exhumed at
+             approximately...
+                   (to Reed)
+             You dug up Henry Harrison's body?
+
+                       DETECTIVE REED
+             Per you suggestion, I dug up a body.
+             But it wasn't Harrison's.
+
+                       LOIS
+             If the body found in the generator
+             wasn't Harrison, who was it?
+
+                       DETECTIVE REED
+             A homeless mm who lived in the                     (X)
+             Generator room of Harrison's building.
+                   (beat)
+             He'd been reported missing by his
+             family -- seemed he called then once
+             a week.  Dental records match.
+
+                       LOIS
+             How come they weren't checked during
+             the trial?
+
+                       DETECTIVE REED
+             They were.  There was a match.
+
+                       CLARK
+             How is that possible?
+
+                       DETECTIVE REED
+             Computer records can be falsified.
+             Especially by computer experts.
+             Besides, Lena Harrison identified the
+             body.
+
+                       LOIS
+             Eugene was telling the truth.
+                   (beat)
+             You can call off your manhunt now.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93    45.
+
+
+39  CONTINUED:  (2)                                            39
+
+                       DETECTIVE REED
+                   (shaking her head)
+             I have a dead body on my hands, and
+             Harrison's still missing.
+                   (beat)
+             For all we know, Eugene Lad may                    (X)
+             have killed _two_ men.
+
+                       LOIS
+             You can't be serious.
+
+                       DETECTIVE REED
+             I've got a job to do.  Maybe he did
+             it, maybe he didn't.  That's up to
+             the courts to decide.  But right now,
+             I intend to bring him in... by any
+             means necessary.
+
+    Detective Reed turns from them, exits.
+
+                       JIMMY (O.S.)
+             Lois!  Clark!  Check this out.
+
+    Lois and Clark rush over to Jimmy, sitting in front of a
+    computer terminal.
+
+
+40  CU - COMPUTER SCREEN                                       40
+
+    The writing on the page literally "malts" in front of
+    their eyes.  Now, on the screen, appears: "BEWARE THE
+    IDES OF METROPOLIS."
+
+
+41  IN THE NEWSROOM                                            41
+
+    Other staffers are groaning and moaning... the same thing
+    is happening to all the computer terminals.
+
+
+42  LOIS AND CLARK                                             42
+
+    look at one another, then race for the exit as we
+
+                                          WIPE TO:
+
+43  EXT. HARRITECH - (NIGHT #5)                                43
+
+    A man wearing a trench coat and hat enters through a back 
+    door.
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93    46.
+
+
+44  INT. HARRITECH - NIGHT                                     44
+
+    We follow the man into his secret lair... a room filled     (X)
+    with computer equipment and large screens                   (X)
+
+    When he takes off his hat and turns on the computer         (X)
+    screens, we now see his face in the green light and learn   (X)
+    that HENRY HARRISON is very much alive.
+
+
+45  ON THE COMPUTER SCREENS                                    45
+
+    The same message: BEWARE THE IDES OF METROPOLIS.
+
+
+46  HARRISON                                                   46
+
+    starts to laugh, and continues to do so until we...
+
+                                          FADE OUT:
+
+                        _END OF ACT THREE_
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93    47.
+
+
+                           _ACT FOUR_
+
+
+    FADE IN:
+
+47  INT DAILY PLANET - MORNING - (DAY #6)                      47
+
+    Perry, Jimmy, and other newsroom staff are gathered around
+    the TV, watching the news.
+
+48  ON TV                                                      48
+
+                       NEWSCASTER
+             The 'Ides of Metropolis' appeared
+             this morning on the screens of over
+             a million computers, and with its
+             arrival came a catastrophe of
+             unparalleled proportion.
+
+    As he speaks we see (hopefully via STOCK FOOTAGE) the
+    following:
+
+                       NEWSCASTER (O.S.)
+             World financial markets are
+             collapsing...
+
+
+49  THE NEW YORK STOCK EXCHANGE                                49
+
+    The room is going crazy as stock prices plummet.
+
+                       NEWSCASTER (O.S.)
+             Banks and other financial
+             institutions have closed their doors
+             creating mass panic.
+
+
+50  METROPOLIS STATE BANK                                      50
+
+    Angry lines of customers can't get their money out.
+
+                       NEWSCASTER (O.S.)
+             Doctors are performing emergency
+             surgeries under war zone conditions.
+
+
+51  METROPOLIS HOSPITAL                                        51
+
+    Two surgeons are performing micro-surgery when the
+    computer goes down.
+
+                       NEWSCASTER (O.S.)
+             Airports are shutting down; several
+             near misses have been reported.
+
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93    48.
+
+
+52  AIR TRAFFIC CONTROL                                        52
+
+    There is pandemonium in the room as all the screens go
+    black.
+
+
+53  TWO 747'S                                                  53
+
+    have a "near miss" above the skies of Metropolis.
+
+                       NEWSCASTER (O.S.)
+             Utilities, phone systems... nothing
+             seems to have escaped this deadly
+             virus, with no and in sight.  As this
+             reporter speaks, the Army and Navy 
+             are on full tactical alert due to the 
+             failure of the computer systems 
+             controlling the ground to air nuclear
+             missiles...
+
+
+54  BACK IN THE NEWSROOM                                       54
+
+    Perry and Jimmy are agog.  Before Perry can say it...
+
+                       JIMMY
+             Great shades of Elvis.
+
+    Perry give him a harsh stare, then agrees, nodding his
+    head.
+
+                       PERRY
+             You can say that again.
+
+                                          WIPE TO:
+
+
+55  METROPOLIS UNIVERSITY OF TECHNOLOGY - TO ESTABLISH - DAY   55
+
+    A huge campus just outside the city.
+
+
+56  INT. MUT - COMPUTER SCIENCE LABORATORY - DAY               56
+
+    Lois and Clark hover as Eugene and his group of young       (X)
+    students are busy at their terminals, desperately trying
+    to find the antidote to the virus.
+
+                       LOIS
+             What exactly are you looking for?
+
+                       EUGENE                                   (X)
+             An entry code, so we can analyze the
+             virus and find a cure. I've tried
+             all the ones Henry ever used -- every
+             member of his immediately family,
+             etc.  Now we're trying number
+             combinations.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93    49.
+
+
+56  CONTINUED:                                                 56
+
+                       CLARK
+             What about the name of the program
+             'The Ides Of Metropolis?'
+
+                       EUGENE
+             'Ides' refers to the fifteenth day of              (X)
+             certain months.  I've tried some
+             letter/number combinations using that
+             factor, but so far...
+
+                       LOIS
+             What about the dramatic reference?
+             Julius Caesar... 'Beware the Ides of
+             March?'
+
+    It's a long shot, but...
+
+                       EUGENE                                   (X)
+             I'll give it a try.
+
+57  ON SCREEN                                                  57
+
+    Eugene types in "Julius Caesar."  "Incorrect Password"      (X)
+    appears.
+
+
+58  LOIS AND CLARK                                             58
+
+                       LOIS
+             The play was about a conspiracy.
+             Traitors, politics... maybe there's
+             another connection.
+
+    Eugene thinks for a second, turns back to his computer.     (X)
+    Just then, the door to the lab bursts open, and Detective
+    Reed, gun drawn, and one of her deputies enter.
+
+                       DETECTIVE REED
+             Police! Step away from the desk.
+             Laderman, down and kiss the floor.
+
+    Lois rushes up to Reed.
+
+                       LOIS
+             No, you can't.  Eugene is working on               (X)
+             finding the antidote to the computer
+             virus. He may be close...  he's the
+             only one who can do it.
+
+    Reed looks at Eugene and the computer monitor.              (X)
+    Momentarily distracted, Lois takes the opportunity to kick
+    Reed's gun away from her.  Clark catches it.  The women
+    each take a self-defense stance.  Reed kicks, Lois blocks.
+    Lois kicks, Reed blocks. It's a standoff.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93    50.
+
+
+58  CONTINUED:                                                 58
+
+                       CLARK
+             Are you ladies finished?
+
+    Clark notices that Reed and her deputy have their hands
+    up.
+
+                       LOIS
+             Yes, _we_ are... Mr. Law and Order.
+
+    Then, Clark realizes he's training Reed's gun on them.  He
+    empties the bullets, drops it to the floor.  The deputy
+    picks it up.  Clark walks up to Reed.
+
+                       CLARK
+             Don't you see what's going on?  Have               (X)
+             you read the news?  Eugene may be our              (X)
+             only hope.
+
+    It might be his imagination, but Reed seems to be
+    listening.  Lois doesn't miss the opportunity...
+
+                       LOIS
+             Eugene worked under Harrison.  He saw              (X)
+             Harrison develop the virus.  He's the
+             only one who can find the antidote.
+             For God sakes, let him try.
+
+    Reed takes a moment, then looks to her Deputy.
+
+                       REED
+             Stay here.  Don't let anyone in or
+             out of this room.
+
+                       LOIS
+             Where're you going?
+
+                       REED
+             HarriTech.  I followed Lena there
+             last night.  She's got some
+             explaining to do.
+
+                       LOIS
+             I'm coming with you.
+
+                       REED
+             In your dreams, Lane.                              (X)
+
+                                          QUICK WIPE TO:        (X)
+
+
+59  INT. HARRITECH - (NIGHT #6)                                59
+
+    Lois and Reed enter the dark building holding flashlights.  (X)
+    As they prowl the room, a voice stops them dead in their
+    tracks.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93    51.
+
+
+59  CONTINUED:                                                 59
+
+                       HENRY HARRISON
+             Good evening, Ms. Lane, Ms. Reed.
+
+    As the lights are switched on, Lois @ Reed turn to see
+    a man wearing the same trench coat and hat.  He holds a     (X)
+    very big gun.  As he removes his hat...
+
+                       HENRY HARRISON (CONT'D)
+             Permit me to introduce myself.  I'm
+             Henry Harrison.
+                   (beat, to Reed)                              (X)
+             I'll relieve you of your weapons now.              (X)
+
+    Reed and Lois exchange a glance as we...
+
+                                          WIPE TO:
+
+
+60  INT. HARRISON'S BUNKER - MOMENT'S LATER                    60
+
+    Lena and Harrison face Lois and Reed.
+
+                       LOIS
+             You were in on it all along.
+
+                       LENA
+             Of course. I believe in marital
+             fidelity.
+
+                       LOIS
+             What about your loyalty to Eugene?                 (X)
+             He loved you.                                      (X)
+
+                       LENA
+             Yes.  Poor Eugene. I thought the                   (X)
+             legal process would finish his off,
+             now... I'll have to do it myself.
+
+                       DETECTIVE REED                           (X)
+                   (to Harrison)                                (X)
+             Why?
+
+                       LOIS                                     (X)
+             I can answer that.  HarriTech was                  (X)
+             about to fail.  His virus will make                (X)
+             all software other than his obsolete.              (X)
+
+                       HARRISON                                 (X)
+             Quite correct, Ms. Lane.  Billions                 (X)
+             are at stake.  I needed to disappear
+             beyond suspicion.  Like dead.  Eugene              (X)
+             was the perfect foil.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93    52.
+
+
+60  CONTINUED:                                                 60
+
+                       LOIS
+             Forgive the cliche', but you're not                (X)
+             going to get away with this.  Eugene               (X)
+             is working on the antidote as we                   (X)
+             speak.                                             (X)
+
+                       HARRISON
+             It doesn't matter.  Within the hour
+             every computer system in the country
+             will be shut down.
+
+                       LOIS                                     (X)
+             The nuclear missiles...                            (X)
+
+                       HARRISON                                 (X)
+             Give me a little credit, Ms. Lane.                 (X)
+             Surely you don't think I'd destroy                 (X)
+             all those potential customers. Of                  (X)
+             course, a few shut downs here and                  (X)
+             there, medical facilities, control                 (X)
+             towers, automated machinery...                     (X)
+             there's bound to be a few glitches.                (X)
+
+    Harrison presses a button, sets a timer.                    (X)
+
+                       REED
+             I can get you a deal.
+
+                       HARRISON
+             I doubt that very much.
+
+                       LOIS
+             So, what are you going to do now?
+             Kill us?
+
+    On Harrison's smile we...
+
+                                          WIPE TO:
+
+
+61  INT. MUT COMPUTER SCIENCE LAB - NIGHT                      61
+
+    Eugene is still busy at his terminal.  Finally...           (X)
+
+                       EUGENE                                   (X)
+             Got it.
+
+    Clark and some of the other hackers gather around.
+
+                       EUGENE (CONT'D)                          (X)
+             Lois was right, the play's the thing.
+                   (off Clark's look)
+             'Et tu, Brute' That's the password.
+
+                       CLARK
+             What now?
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS   (#14)  Yellow Rev.     12/14/93  53.
+
+
+61  CONTINUED:                                                 61
+
+    Eugene brings up a display on his computer screen: a map
+    of the USA with a spider tracery of lines drawn between
+    several main connection points.
+
+                       EUGENE
+             By our calculations, in order for the              (X)
+             virus to reach full distribution, it 
+             has to pass through these three 
+             centers.
+
+    On screen, the three connection points glow and blink red:
+    one on each coast, one in the middle.
+
+                       CLARK
+             So... we contact the centers and have
+             then apply the antidote.
+                   (off Eugene's look)
+             No?
+
+                       EUGENE
+             It has to be done on the premises.
+                   (beat)
+             We have to manually insert this
+             antidote disk in each of the centers.
+
+                       CLARK
+             How much time do we have?
+
+                       EUGENE
+             None.  By the time we'd fly then 
+             there... it might be too late.  The 
+             virus has already penetrated the 
+             network.
+
+    Clark takes the list and the disk.
+
+                       CLARK
+             I know a way.
+
+    He approaches the door.  The deputy hesitates.
+
+                       CLARK (CONT'D)
+             Don't even think about it.  This is
+             life or death.
+
+    The fierceness of Clark's expression makes the deputy 
+    swallow, _hard_.  He opens the door for Clark as we...
+
+                                          WIPE TO:
+
+
+62  EXT. EAST COAST COUNTRYSIDE - NIGHT                        62
+
+    Superman _FLIES_ alongside the power lines, veers off toward 
+    Center #1.
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93    54.
+
+
+63  INT. COMPUTER SCIENCE LAB AT MUT - SAME TIME               63
+
+    Eugene and the other hackers watch as the blinking red      (X)
+    light goes off at Center #1.
+
+
+64  INT. TRASH COMPACTOR ROOM - NIGHT                          64
+
+    Lois and Reed are thrown into a small room with four grey,
+    cement walls.  Used computer parts/trash are scattered on
+    the floor.
+
+                       LOIS
+             Great.  Now you've done it!
+
+                       REED
+             Me! You're the one who said 'What're
+             you going to do now, kill us?' They
+             teach you that in journalism school?
+
+                       LOIS
+             Well, I suppose _you_ called for back-
+             up and told them to burst in if we
+             didn't come out in ten minutes.
+                   (beat)
+             They teach you that in Detective 
+             School?
+
+    It's sort of a tie.  They sit.
+
+                       LOIS (CONT'D)
+             What is this place?
+
+    Lois looks from side to side.
+
+                       REED
+             How do you get it to do that, anyway?
+
+                       LOIS
+             What?
+
+                       REED
+             Your hair.  That bounce thing.  When
+             you turn your head.
+
+                       LOIS
+             I don't know.  It just... does it.
+
+    Lois glances over at Reed's hands.
+
+                       LOIS (CONT'D)
+             I wish I had your nails.
+
+                       REED
+             You can. $1.98 at LexSave.
+
+                       LOIS
+             Get out of here!  They look so real.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93    55.
+
+
+64  CONTINUED:                                                 64
+
+    The two women are now sitting close to one another, and
+    suddenly realize they've just spend at least a minute in
+    what might be construed as "girl talk."  It makes then
+    smile.
+
+
+65  EXT. MIDWEST COUNTRYSIDE - NIGHT                           65
+
+    Superman _FLIES_ even faster, along phone lines.  He dives
+    toward Center #2.
+
+
+66  INT. COMPUTER SCIENCE LAB AT MUT - SAME TIME               66
+
+    As the red light goes off in Center #2,, Eugene jumps for   (X)
+    joy.  ALL eyes are on Center #3, still blinking...
+
+
+67  INT. TRASH COMPACTOR ROOM - SAME TIME                      67
+
+    The women are chatting like old school mates.
+
+                       REED
+             Must be tough, being a reporter.
+             Especially for a woman.
+
+                       LOIS
+             No tougher than it must be for a
+             detective.
+
+                       REED
+             It's a boys club.
+
+                       LOIS
+             Tell me about it.
+
+    Suddenly, a NOISE, like a motor starting up, and THE WALLS
+    START TO CLOSE. Reed and Lois are on their feet, looking
+    for an escape route.  They try to stop the walls, but they
+    keep on coming.
+
+                       REED
+             Find a brace, anything.
+
+    They find some metal pipes, try to brace the wall to stop
+    it...
+
+                       LOIS
+             It's no use
+                   (beat)
+             What does the manual say to do in a
+             time like this?
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93    56.
+
+
+67  CONTINUED:                                                 67
+
+    The women look at each other for a beat,, then start to
+    SCREAM as we...
+
+                                          WIPE TO:
+
+68  EXT. WEST COAST COUNTRYSIDE - NIGHT                        68
+
+    Superman is a _BLUR_ racing against the power lines.  Once
+    again, he dives.
+
+
+69  INT. TECH - BUNKER - SAME TIME                             69
+
+    Harrison watches in anguish as the third center is shut
+    down.  All of his monitors and equipment shut down as
+    wall.
+
+
+70  TRASH COMPACTOR ROOM - SAME TIME                           70
+
+    Lois and Reed are inches away from being recycled as the
+    WALLS STOP CLOSING.  They breathe a sigh of relief.  The
+    automatic exit door pops,open.
+
+
+71  INT. COMPUTER SCIENCE ROOM AT MUT - SAME TIME              71
+
+    Eugene and the hackers are hugging each other with joy.     (X)
+    Even the deputy joins in the celebration.
+
+
+72  INT. HARRISON'S BUNKER - MOMENTS LATER                     72
+
+    Lois and Reed enter. Harrison and Lena have their back to
+    them, desperately trying to re-instate the virus into
+    their terminal.  Reed picks up her weapon on the counter,
+    shoots the terminal.  When the sparks die down...
+
+                       REED
+             Okay boys and girls.  Fun's over.
+             You're under arrest.  You have the
+             right to remain silent, the right to
+             have...
+
+                                          WIPE TO:
+
+
+73  INT. DAILY PLANET - PIT - (DAY #7)                         73
+
+    Clark is at his desk when he sees his parents exit an       (X)
+    elevator.  He runs up the stairs to greet them.             (X)
+
+                       CLARK
+             You guys all set?
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93    57.
+
+
+73  CONTINUED:                                                 73
+
+                       JONATHAN
+             On our way.
+                   (beat)
+             Thanks, Clark. Thanks for putting up
+             with me.
+
+    Clark shakes his head, hugs his dad.  As he loans in to 
+    hug his mother...
+
+                       CLARK,
+                   (sotto)
+             What about the painting?  You going
+             to leave it in the barn?
+                   (off her look)
+             You're not going to hang it in the
+             house, are you?
+
+                       MARTHA
+             Well, I was going to give it to your
+             father as an anniversary present.
+             Guess I'll get him that set of socket
+             wrenches, instead.
+
+                       CLARK
+             Bye, Mom.  Love you.
+
+                       MARTHA/JONATHAN
+             Bye son. Take care.
+
+    They enter the elevator as we...
+
+                                          WIPE TO:
+
+
+74  INT. LEX LUTHOR'S BALCONY - (NIGHT #7)                     74
+
+    Luthor is again shooting skeet with night vision goggles.   (X)
+    Nigel throws up a clay pigeon and Luthor shoots.
+
+
+75  IN THE SKY                                                 75
+
+    The clay pigeon shatters.
+
+76  LUTHOR AND NIGEL                                           76
+
+    As Luthor re-loads...
+
+                       NIGEL
+             it is amazing, sir.  All things
+             considered, LexCorp came through this
+             computer virus relatively unscathed.
+
+                       LUTHOR
+             Yes.  Tragedy averted.  For now.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Green Rev.    12/15/93    58.
+
+
+76  CONTINUED:                                                 76
+
+                       NIGEL
+             For now?
+
+                       LUTHOR
+             Yes.  You never know when another
+             virus might hit, one that has no
+             code, or no code capable of being
+             broken.
+
+                       NIGEL
+             I suppose so.  What a horrible end
+             desperate act, utterly unthinkable.
+             Unless...
+
+                       LUTHOR
+             Exactly, Nigel.  Unless it belongs to
+             me.
+                   (beat)
+             Pull!
+
+    Nigel tosses the clay pigeon into the air.  Luthor shoots.
+    But this time, his timing is a bit off.
+
+                       LUTHOR (CONT'D)
+             Ooops.
+
+    Luthor and Nigel walk to the ledge or the balcony, look 
+    over and down.  After a moment.
+
+                       LUTHOR (CONT'D)
+
+             Call the lawyers, Nigel.
+
+                       NIGEL
+             Yes, sir.  Right away.
+
+                                          WIPE TO:
+
+77  INT. DAILY PLANET - PIT - NIGHT                            77
+
+    Lois and Clark are at their respective desks when Perry
+    walks by on his way out, a newspaper tucked under his arm.
+
+                       PERRY
+             Eugene's a free man, thanks to you.                (X)
+             Nice work.
+                   (indicating the paper)
+             Great story..
+
+                       LOIS
+             Thanks, Chief.  And thanks for not
+             blowing the whistle on us.
+
+                                          (CONTINUED)
+
+                          ---page break---
+    THE IDES OF METROPOLIS  (#14)     Blue Rev.     12/13/93     59.
+
+
+77  CONTINUED:                                                 77
+
+    When he exits, Lois and Clark stand, gather up their 
+    things.  After a moment of silence...
+
+                       CLARK
+             Well, go ahead.  I'm waiting.
+
+                       LOIS
+             For what?
+
+                       CLARK
+             The morality play.  The 'you should
+             have trusted me and my infallible
+             reporter's instinct' lecture.
+
+                       LOIS
+             Clark, you don't need me to remind
+             you of your shortcomings.  I would 
+             have thought, by now... they'd be 
+             obvious.
+
+    Clark leans forward, swats her on the rear with his 
+    newspaper.  She laughs.
+
+                       LOIS (CONT'D)
+             Come on, I'm starving and you're
+             buying.
+                   (beat)
+             And just in case you _did_ miss the 
+             moral to this story -- you should 
+             trust what's in people's hearts, not 
+             just the facts, ma'am.
+
+    Clark smiles, shakes his head.  They walk to the elevator
+    arm in arm.  On their backs...
+
+                       LOIS (O.S.)
+             You know, Clark, I have a funny
+             feeling that you didn't tell me your
+             _biggest_ secret.
+
+                       CLARK (O.S.)
+             Well, just to put your little mind at
+             ease Lois... you're right.
+
+    and we...
+
+                                          FADE OUT:
+                         _END OF ACT FOUR_
+
+

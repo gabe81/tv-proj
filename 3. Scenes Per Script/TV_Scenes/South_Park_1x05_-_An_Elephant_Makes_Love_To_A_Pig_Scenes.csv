@@ -1,0 +1,19 @@
+1,               EXT BUSSTOP  MORNING,149
+2,               INT SCHOOL  DAY,161
+3,               INT STANS HOUSE  NIGHT,85
+4,               EXT GENETIC ENGINEERING RANCH  NIGHT,87
+5,               INT GENETIC ENGINEERING RANCH  NIGHT,131
+6,               EXT SOUTH PARK ELEMENTARY  DAY,4
+7,               INT CAFETERIA  DAY,157
+8,               EXT BUS STOP  DAY,85
+9,               INT STANS HOUSE  DAY,39
+10,               INT GENETIC ENGINEERING RANCH  NIGHT,27
+11,               EXT SOUTH PARK  NIGHT,68
+12,               EXT SOUTH PARK  CONTINUOUS,32
+13,               INT GENETIC ENGINEERING RANCH,73
+14,               EXT BARN  MORNING,111
+15,               EXT SOUTH PARK AVENUE  DAY,47
+16,               INT TV SET  DAY,44
+17,               EXT SOUTH PARK  DAY,86
+18,               INT STANS HOUSE  NIGHT,212
+19,               EXT SCHOOL  DAY,4

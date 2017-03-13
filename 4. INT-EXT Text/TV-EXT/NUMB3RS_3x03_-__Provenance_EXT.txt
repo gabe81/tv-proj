@@ -1,0 +1,797 @@
+
+  LARRY and AMITA observe as Charlie holds a D-battery with a 
+  screw attached by tiny magnet to the + terminal.  As he 
+  touches the - terminal with a copper wire, the screw spins.
+
+                              AMITA
+                This is the perfect way to show 
+                that electric and magnetic forces 
+                are two sides of the same coin. 
+
+                              DON (O.S.)
+                ...You know they ve already 
+                invented a tool for that.
+
+  They turn to see Don walking up, carrying a binder.
+
+                              CHARLIE
+                Yeah, but this is cooler.  See, the 
+                screw is attached to the battery by 
+                  a magnet.  The current running 
+                through the wire causes it to spin.
+
+                              DON
+                This for a classroom show-and-tell?
+
+                              LARRY
+                Charlie and I are giving a joint 
+                lecture on circular motion. 
+
+                              CHARLIE
+                The magnet s movement is governed 
+                by Fleming s Left Hand Rule.
+
+                              DON
+                ...Left hand rule?  
+
+                              LARRY
+                Magnetic field... current... 
+                  direction of resulting path.
+
+                              CHARLIE
+                The lecture also touches on the 
+                Coriolis force --
+
+                              CHARLIE
+                -- The same principle that causes 
+                  hurricanes to spin counterclockwise 
+                in our hemisphere.
+
+                              DON
+                Toilets, too, right?
+
+
+
+                                                                          (CONTINUED)      NUMB3RS   #304/41   "Provenance"   SALMON REV   8-28-06    12.
+
+    CONTINUED:1717
+
+
+                              LARRY
+                Actually to observe the Coriolis 
+                force you d need lab conditions and 
+                a water tank five meters in size --
+
+                              DON 
+                -- I get it.  No toilets.  
+
+                              CHARLIE
+                What s up?
+
+                              DON
+                  A Pissarro was stolen last night 
+                from The Roland Museum -- 
+
+                              LARRY
+                -- Camille Pissarro, paterfamilias 
+                of the Impressionists --
+
+                              DON
+                -- They were in and out in less 
+                than six minutes...
+
+  Don hands Charlie a binder.
+
+                              DON (cont'd)
+                The Bureau maintains a database of 
+                art thieves... Names, M.O.s... I 
+                figure you can work through it a 
+                lot faster than we can.
+
+                              AMITA
+                Maybe we could use a  Quadratic 
+                  Discriminant Analysis -- 
+
+                              CHARLIE
+                -- Looking for a combination of 
+                  attributes in the existing data 
+                that matches our new set of data -- 
+
+                              LARRY
+                In this case, identifying variables 
+                of a particular theft -- such as 
+                the type of art, museum, security,  
+                other specifics of the crime --
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)      NUMB3RS   #304/41   "Provenance"   SALMON REV   8-28-06    13.
+
+    CONTINUED: (2)1717
+
+
+                              DON
+                -- What you re saying is the theft 
+                will lead us to the thief.
+
+                              CHARLIE
+                There has to be something to this 
+                museum or this work of art that 
+                proved attractive to your thief.
+                      (off Don s look)
+                Think of a field of flowers...
+
+  BEGIN AUDIENCE VISION
+
+  WE SEE A FIELD OF WILDFLOWERS, all different varieties...
+
+                              CHARLIE (V.O.) (cont'd)
+                We know certain types of flowers 
+                attract certain types of insects... 
+
+  ZOOM IN ON A BEE alighting on a specific flower...
+
+                              CHARLIE (V.O.) (cont d) (CONT D)
+                The attraction is based on specific 
+                  characteristics of the flower: 
+                color, shape, scent...
+
+  Again, THE FIELD OF WILDFLOWERS.  IN FAST-MOTION WE VECTOR-
+  TRACK the BEE alighting on various flowers of the same type.  
+
+                              CHARLIE (V.O.) (cont'd)
+                An insect will alight on only 
+                certain flowers...
+
+  MATCH OVERLAY a city grid with targets -- METROPOLITAN 
+  MUSEUM ,  WALLENSTEIN GALLERY , etc. -- CGI-highlighting in 
+  synch with the flowers visited by the BEE.
+
+                              CHARLIE (V.O.) (cont'd)
+                ...Just as a thief is attracted to 
+                only certain targets -- based on 
+                their characteristics...
+
+  ZOOM IN AGAIN ON THE SINGLE FLOWER.  IT DISSOLVES INTO AN 
+  IMAGE OF A FLOWER ON CANVAS -- PULL BACK TO REVEAL a framed 
+  painting on a museum wall (think Van Gogh s  Sunflowers )...
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)      NUMB3RS   #304/41   "Provenance"   SALMON REV   8-28-06    14.
+
+    CONTINUED: (3)1717
+
+
+                              CHARLIE (V.O.) (cont'd)
+                Like the composition of a flower, 
+                we know the characteristics of this 
+                most recent theft.  We can compare 
+                this data with past thefts...
+
+  A pair of black gloved hands yank the painting off the wall.
+
+                              CHARLIE (V.O.) (cont d) (CONT D)
+                To see if we can identity the work 
+                of a similar thief, or thieves...  
+
+  BACK TO SCENE
+
+                              CHARLIE (cont d) (CONT D)
+                Using a  Quadratic Discriminant 
+                  Analysis,  we should be able to 
+                quickly and efficiently boil down 
+                your suspect pool...
+
+                              LARRY
+                From hundreds to perhaps a handful.
+
+
+  Don sits with ERIKA HELLMAN, 78, frail, failing.  
+
+                              MRS. HELLMAN
+                The painting hung in our home in 
+                Berlin.  When I was a little girl, 
+                my father used to pretend we were 
+                the people in the painting.  He 
+                promised me one day when I was old 
+                enough, we d go there, to Paris... 
+                      (beat)
+                We never got the chance.
+
+
+
+
+                                                                          (CONTINUED)      NUMB3RS   #304/41   "Provenance"   SALMON REV   8-28-06    23.
+
+    CONTINUED:2525
+
+
+                              DON
+                I m obviously sorry for your loss, 
+                but you can understand why I d come 
+                to speak with you about this. 
+
+                              MRS. HELLMAN
+                I hate to disappoint you, but you ve 
+                got the wrong man... Not that I 
+                wouldn t be thrilled to actually 
+                have the painting... You see, the 
+                Nazis took everything.  I don t have 
+                a single photograph of my family.  
+                But when I saw that Pissarro -- it 
+                was like seeing all of them again. 
+
+                              DON
+                Then you have no idea who might ve 
+                stolen the painting the other night?
+
+                              JOEL HELLMAN (O.S.)
+                No.  But we know who stole it 70 
+                years ago... 
+
+  JOEL HELLMAN, 29, arrives.
+
+                              JOEL HELLMAN (cont d)
+                Sorry, Nana, traffic on the freeway.  
+                I got here as soon as I could.
+
+                              MRS. HELLMAN
+                My grandson, Joel.  This is Agent 
+                Eppes with the FBI.
+
+                              DON
+                As I understand it, a federal court 
+                denied your grandmother s claim. 
+
+                              JOEL HELLMAN
+                They used the law against her, same 
+                way they used it against my great-
+                  grandfather in 1938.  We just didn t 
+                have the money to continue the fight. 
+
+                              MRS. HELLMAN 
+                What my grandson means is we didn t 
+                lose the painting on the merits.  We 
+                lost because my memory s failing.  
+
+                              DON
+                I m not sure I follow you.
+
+
+
+
+                                                                          (CONTINUED)      NUMB3RS   #304/41   "Provenance"   SALMON REV   8-28-06    24.
+
+    CONTINUED: (2)2525
+
+
+                              JOEL HELLMAN
+                My grandmother is the only living 
+                witness who ever saw the Pissarro 
+                hanging in her father s home... the 
+                rest of the family were murdered by 
+                the Nazis.
+
+                              MRS. HELLMAN
+                  Unfortunately, the court wouldn t 
+                accept the failing memory of an old 
+                woman.
+                      (beat, sadness in her eyes)
+                I had six brothers and sisters...  
+                Do you have family, Agent Eppes?
+
+                              DON
+                A brother.  Father.  My mother 
+                passed away.
+
+                              MRS. HELLMAN
+                You know what loss is then.
+
+  She holds Don s look.  Don is affected, but has a job to do.
+
+                              DON
+                I m still gonna need to review your 
+                bank records.  Phone bills.  With 
+                your consent.
+
+                              JOEL HELLMAN
+                Maybe you d like to take a painting.
+
+                              MRS. HELLMAN
+                Joel.  Please.  
+                      (off Joel)
+                I didn t steal the Pissarro, Agent 
+                Eppes.  I admit the thought crossed 
+                my mind; surely you can understand.  
+                Family is our only anchor in this 
+                world.  We lose it, we re adrift...
+
+  Don meets Mrs. Hellman s gaze, he does understand.
+
+                              MRS. HELLMAN (cont'd)
+                You have no idea what it s like to 
+                be the only member of your family 
+                to survive and have no idea why.
+
+
+  Don and Megan run the facts with Tollner.
+
+
+
+
+                                                                          (CONTINUED)      NUMB3RS   #304/41   "Provenance"   SALMON REV   8-28-06    25.
+
+    CONTINUED:2626
+
+
+                              TOLLNER
+                Mrs. Hellman s story s not all that 
+                unusual.  Similar thing happened to 
+                a woman who got several Klimt 
+                  paintings back from an Austrian 
+                national museum.  They fought her 
+                for years.
+
+                              DON
+                Hard to blame her.  I mean, these 
+                works of art are family legacies.
+
+                              MEGAN
+                Guess the Federal court didn t see 
+                it that way for Mrs. Hellman --
+
+                              TOLLNER
+                Or maybe the owner -- this guy 
+                  Shoemaker  -- just had more bucks to 
+                throw at a high-priced legal team.
+
+                              DON
+                What do we hear from him anyway?  
+                He back from vacation yet? 
+
+                              MEGAN
+                Why?  You think Shoemaker stole his 
+                own painting?
+
+                              DON
+                He tried to sell it once, all it 
+                bought was an expensive lawsuit.
+
+                              MEGAN
+                      (follows)
+                And an insurance company might not 
+                ask the same questions.
+
+
+  Larry s grabbing a bag lunch at an outdoor table (with a 
+    weather-crackled painted table top).  He peruses an old 
+  portfolio with photos of paintings.  Charlie walks up with 
+  lunch and some papers, spies the photos of paintings.
+
+                              LARRY
+                Still taking your meals outside the 
+                home, I see.
+
+
+
+
+                                                                          (CONTINUED)    NUMB3RS   #304/41   "Provenance"   SALMON REV   8-28-06    37A.
+
+    CONTINUED:3434
+
+
+  Charlie shrugs off the joke, eyes Larry s portfolio --
+
+                              CHARLIE
+                Is that your work?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)      NUMB3RS   #304/41   "Provenance"   SALMON REV   8-28-06    38.
+
+    CONTINUED: (2)3434
+
+
+                              LARRY
+                My portfolio, for submission to art 
+                school.  A step I never took.
+
+                              CHARLIE
+                ...You were good.
+
+                              LARRY
+                Technical skill doesn t always 
+                equate with inspiration, Charles. 
+                You ll notice all of these are 
+                copies of masterworks.
+
+                              CHARLIE
+                  I thought they looked familiar.
+
+                              LARRY
+                My father insisted that before I 
+                could create work of my own, I had 
+                to understand those who went 
+                before.  I never had the courage to 
+                  challenge him.  A mistake, perhaps.  
+
+                              CHARLIE
+                You re saying I should challenge my 
+                father?
+
+                              LARRY
+                I m saying that fathers and sons 
+                are born at odds.  Literally.  Like 
+                staring through a telescope, 
+                there s no way you both can see the 
+                same object in the same light... 
+                All one can do is adjust one s 
+                vision.   
+
+  As Charlie considers, Larry spies Charlie s stack of papers.
+
+                              LARRY (cont'd)
+                What s with all the red marginalia?
+
+                              CHARLIE
+                Our network analysis came up empty.  
+                I found all these leads to China, 
+                but still there s no sign of the 
+                  Pissarro.  I must ve miscalculated.    
+
+                              LARRY 
+                Some of the greatest errors in 
+                  cosmology have come not from poor 
+                math but from poor assumptions.
+
+
+
+
+                                                                          (CONTINUED)      NUMB3RS   #304/41   "Provenance"   SALMON REV   8-28-06    39.
+
+    CONTINUED: (3)3434
+
+
+                              CHARLIE
+                What poor assumption?
+
+                              LARRY
+                Current wisdom holds that the Nazi 
+                  associations have greatly 
+                  compromised the prospects for sale 
+                of the painting on the blackmarket.
+
+                              CHARLIE
+                  Compromised yes, but eliminated no. 
+
+                              LARRY
+                But yet you can find no market to 
+                which you can trace a sale.
+
+                              CHARLIE
+                Right.  China seemed the best bet, 
+                but Don s come up empty.
+
+                              LARRY 
+                Then perhaps the Pissarro isn t for 
+                sale anywhere because for some 
+                reason it s just not...  saleable. 
+
+                              CHARLIE
+                Even with the taint, the painting s 
+                still worth millions -- why 
+                wouldn t it be  saleable ?
+
+  Charlie catches sight of one of Larry s copies of a famous 
+  masterwork.  This sparks a thought -- his eyes land on the 
+    weather-crackled painted table top...
+
+  FLASH CHARLIE VISION
+
+  The table transforms into the Pissarro canvas. The spider-web 
+  cracks in the table top mirror cracks in the painting.
+
+  BACK TO SCENE
+
+                              CHARLIE (cont'd)
+                ...I ve gotta go.
+
+  Charlie rushes off, leaving his lunch.  Off Larry, taking a 
+  pencil and beginning to sketch on a notepad he was carrying.
+
+
+  Megan and David talk to the museum curator, Arthur Ruiz.  
+  WORKERS set up tables, etc. for the upcoming black-tie event.  
+  A banner is hoisted:  FRIENDS OF THE MUSEUM GALA. 
+
+                              ARTHUR RUIZ
+                ...The Pissarro?  A forgery?  It s 
+                not possible. 
+
+                              MEGAN
+                Our math consultant did an 
+                  extensive analysis, Mr. Ruiz --
+
+                                ARTHUR RUIZ
+                -- From a photograph.  
+
+                              DAVID
+                -- With a computer s enhancement.
+
+                                ARTHUR RUIZ
+                I m sorry, but whatever consultant 
+                you used is mistaken.  
+
+                              MEGAN
+                I m afraid there s not much chance 
+                of that.
+
+                                ARTHUR RUIZ
+                There has to be.  This painting 
+                underwent an extensive 
+                  authentication process when it 
+                arrived here a year and a half ago. 
+
+                              MEGAN
+                Then what about a switch?  Is it 
+                possible someone could ve made a 
+                change since the painting s 
+                  authentication?
+
+                              ARTHUR RUIZ
+                How?  When?  
+
+                              MEGAN
+                Well, I m sure the Pissarro s 
+                  undergone a cleaning in the last 
+                year and a half... 
+
+
+
+
+                                                                          (CONTINUED)      NUMB3RS   #304/41   "Provenance"   SALMON REV   8-28-06    44.
+
+    CONTINUED:3636
+
+
+                                ARTHUR RUIZ
+                Under the strict supervision of our 
+                  Conservator.  Who by the way also  
+                  performed the authentication.
+
+                              DAVID
+                And that would have been done on 
+                the premises?  
+
+                                ARTHUR RUIZ 
+                Yes.  In the restoration department. 
+
+  Megan looks at Ruiz,  let s go. 
+
+
+  Megan and Tollner.
+
+                              TOLLNER
+                Won t be easy finding this guy.  
+                I ve met any number of forgers out 
+                there capable of work this good.
+
+                              MEGAN
+                Could be he s been caught before,  
+                maybe even has a file.
+
+                              TOLLNER
+                A lot of names to run down.
+
+                              MEGAN
+                ...So maybe we don t run down the 
+                names, we run down the paintings. 
+                      (off his look)
+                We have the photo of the forged 
+                  Pissarro, right?
+
+                              TOLLNER
+                ...And the Bureau maintains a 
+                  photographic database of other 
+                  forgeries seized over the years.
+
+                              MEGAN 
+                So Charlie can run his analysis of 
+                our forged Pissarro against other 
+                  forgeries in the database.
+
+                              TOLLNER
+                If he can tell us Pissarro didn t 
+                paint the fake, maybe he can tell 
+                us who did.
+
+
+  ARTHUR RUIZ makes his way through the black-tie fundraiser 
+  gala.  Megan and Tollner approach.  He sees them coming.  
+
+                                ARTHUR RUIZ
+                Agent Reeves...
+
+
+
+                                                                          (CONTINUED)      NUMB3RS   #304/41   "Provenance"   SALMON REV   8-28-06    57.
+
+    CONTINUED:4646
+
+
+  Ruiz then notices Holden handcuffed in a doorway, David 
+  standing behind him.  Beat.  He looks at Megan and Tollner.
+
+                              MEGAN
+                Holden gave you up.
+
+                              ARTHUR RUIZ
+                I spent my life devoted to the 
+                reputation of this museum... 
+
+                              MEGAN
+                Killing a man can t do much for 
+                that... 
+
+                              ARTHUR RUIZ
+                Wheeler was a charlatan.
+
+                              TOLLNER
+                He figured out the painting was a 
+                forgery.  Blackmailed you.  That s 
+                why you had to kill him.  
+
+  Beat.  Ruiz sees the writing on the wall, tries to explain --
+
+                                ARTHUR RUIZ 
+                Do you know how difficult it is for 
+                a museum like ours to actually 
+                acquire a Pissarro?  
+
+                              MEGAN
+                Only you didn t actually acquire a 
+                  Pissarro, did you?
+
+                              ARTHUR RUIZ
+                The exhibit sold out in a matter of 
+                days.  By the time Patrick alerted 
+                me to the forgery, it was already 
+                too late... The Pissarro had put us 
+                on the map.  
+
+                              TOLLNER
+                Only the tour next month would have 
+                exposed you...
+
+                              ARTHUR RUIZ
+                I thought if the painting just... 
+                  disappeared; what would be the 
+                harm?  Shoemaker had his insurance 
+                and the museum had its future.
+
+                              MEGAN
+                Not much of a future now.
+
+
+
+                                                                          (CONTINUED)      NUMB3RS   #304/41   "Provenance"   SALMON REV   8-28-06    58.
+
+    CONTINUED: (2)4646
+
+
+  MURMURS IN THE CROWD as they take in what s happening.
+
+                              ARTHUR RUIZ 
+                Is this really necessary?
+
+                              MEGAN
+                Yeah.  It really is... 
+
+
+  Mrs. Hellman with Joel by her side.  And Don beside a 
+  painting wrapped in an old, time-worn protective canvas bag. 
+
+                              DON
+                We contacted the Hungarian police.  
+                They delivered the painting to us 
+                under guard.
+
+  Don hands her the painting.  She slides it out of the canvas 
+  bag.
+
+                              JOEL HELLMAN
+                It s yours, Nana.  Always has been.
+
+  She holds the painting on her lap.  
+
+                              DON 
+                When the Nazis came to power, your 
+                father saw the writing on the wall.
+
+                              JOEL HELLMAN
+                ...So he went to Stolberg and 
+                  commissioned a forgery.
+
+                              DON
+                Stolberg survived the war, only to 
+                be arrested by the Hungarian 
+                police. 
+
+                              MRS. HELLMAN
+                After all these years...  To think, 
+                I d started to question whether 
+                what I remembered was even true...
+
+  Mrs. Hellman gazes intently at the painting, tears welling.
+
+                              DON
+                You said you didn t know why you 
+                were the only one who survived...  
+                Seeing you hold this painting -- I 
+                think you have your answer.
+
+
+
+
+                                                                          (CONTINUED)      NUMB3RS   #304/41   "Provenance"   SALMON REV   8-28-06    59.
+
+    CONTINUED:4747
+
+
+  Off Mrs. Hellman, passing her hand lightly across the surface 
+  of the painting, lost in her memory of what once was...
+

@@ -1,0 +1,3224 @@
+notes:
+
+To pop everything into place...
+
+use Courier 10 (or 10 characters per inch)
+
+set top margin at 0.4", bottom margin at 0.4" (or minimums)
+left margin at 1", right margin at .25 (or minimum)
+   (I had to tell the program I was using legal paper)
+
+
+Typos noted in original:
+  on "Locations" page, "Vincent Winnenger's Apt" misspells Winninger
+Page 17: line 31 spelling of FLEISCHER Street does not match "Fleisher" on Locations sheet
+
+
+
+
+
+
+
+
+
+[bold,large]                 LOIS & CLARK
+
+[bold,ital]          The New Adventures of Superman
+
+
+
+[bold]                         "Witness"
+
+                              EPISODE TEN
+
+
+                             Prod. #455310
+
+                              Written by:
+
+                             DAVID JACOBS
+
+
+
+                             Directed by:
+
+                              MEL DAMSEI
+
+
+
+WARNER BROS. TELEVISION	Production Draft
+	Oct. 25, 1993
+	Blue (full)	10/27/93
+	Pink Rev.	10/28/93
+	Yellow Rev. 10/29/93
+
+
+
+
+
+
+
+
+
+                            LOIS & CLARK
+
+                             "Witness"
+
+                               CAST
+
+                        Yellow Rev. 10/29/93
+
+
+CLARK KENT/SUPERMAN
+
+LOIS LANE
+
+PERRY WHITE
+
+JIMMY OLSEN
+
+CAT GRANT
+______________________________________________________________
+
+BARBARA TREVINO/CLEANING WOMAN
+
+VINCENT WINNINGER
+
+SEBASTIAN FINN/AIDE
+
+DR. HUBERT
+
+INSPECTOR HENDERSON   *
+
+MR. TRACEWSKI
+
+OLD TIMER
+
+SKATEBOARDER
+
+TEACHER
+
+KID #1
+
+KID #2
+
+GIRL #1
+
+
+
+
+
+
+
+
+
+                            LOIS & CLARK
+
+                             "Witness"
+
+                              LOCATIONS
+
+INTERIORS:	EXTERIORS:
+
+Daily Planet	Daily Planet
+  The Pit
+  Storage Room	Metropolis Skies
+
+Lois' Apartment	Driving Range
+  Hallway (Outside)
+  Kitchen	Fleisher St.
+  Living Room	  Lois' Brownstone
+  Bathroom
+	Trade Center
+Vincent Winnenger's Apt.	  Courtyard
+  Study	  Roof
+  Powder Room
+
+School Room
+
+Trade Center
+  Hallway
+  Stairwell
+
+Clark's Apartment
+
+
+
+
+
+
+
+
+
+                            LOIS & CLARK
+
+                             "Witness"
+
+                              CHRONOLOGY
+
+                          Pink Rev. 10/28/93
+
+	SC.   1 - 3	DAY 1
+
+	SC.  11 - 30	DAY 2
+
+	SC. 31 - aa47	NIGHT 2   *
+
+	SC. 47a - 77	DAY 3     *
+
+	SC.  78 - 83	NIGHT 3
+
+	SC.  84 - 85	DAY 4
+
+	SC.  86 - 93	NIGHT 4
+
+
+
+
+
+
+                            LOIS & CLARK
+
+                    The New Adventures of Superman
+
+                             "Witness"
+
+                               TEASER
+
+	FADE IN:
+
+1	EXT. DRIVING RANGE - DAY - (DAY #1)			1
+
+	LOIS and CLARK practice their drives.  Loin only has	*
+	one ball left in her bucket.  She sets the ball down and	*
+	swings.  The ball goes straight, hitting the 150 yard mark.	*
+	mark.	*
+
+				CLARK
+		Nice.	*
+
+				LOIS
+		Thank you	*
+
+	Now it's Clark's turn.  He sets a ball down, swings, but	*
+	it slices right.	*
+
+				LOIS
+		Not your game, huh.	*
+
+	Clark shakes his head.	*
+
+				LOIS
+			(continuing)
+		I'm going to get another bucket.	*
+		Be right back.	*
+
+	As Lois leaves, she passes an OLD in riotously	*
+	colorful attire and a tan cap, who pauses from his	*
+	practice to survey Clark critically.  Clark swings; this	*
+	time, the ball hit& the roof and lands in front of the
+	old timer.
+
+				OLD TIMER
+		You're bending your elbow.  Don't
+		bend your elbow.
+
+				CLARK
+		Thanks.
+
+	Clark tries another shot.
+
+				OLD TIMER
+		And watch your temp.  Smooth,
+		smooth.
+
+				CLARK
+		I appreciate this.
+
+					(CONTINUED)
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		2.
+
+
+   1	CONTINUED:						1
+
+				OLD TIMER
+		Sure.  But don't be afraid to hit
+		it hard.  It can't hit back.
+
+	The Old Timer CACKLES at his own joke.
+
+				CLARK
+		Got it.
+
+	Clark teas up again, doesn't bend his elbow, watches his
+	tempo, hits through the ball.  It rockets off to disappear
+	in the  sky. Clark shades his eyes to follow the flight.
+
+
+   2	EXT. EARTH - SHOT FROM SPACE - SAME TIME			2
+
+	The ball flies away.
+
+
+   3	EXT. DRIVING RANGE - DAY				3
+
+	Clark lowers his hand, turns to the Old Timer.
+
+				CLARK
+		How was that?
+
+	The Old Timer closes his mouth, which was open in awe.
+
+				OLD TIMER
+			(grudgingly)
+		Better.
+
+	On Clark's smile, we...
+
+					FADE OUT.
+
+                             END OF TEASER
+   4							4
+THRU	OMITTED						THRU
+  10							10
+
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		3.
+
+                               ACT ONE
+
+	FADE IN:
+
+
+11	INT. DAILY PLANET - (DAY #2)			11
+
+	Lois Lane and Clark Kent got ready to leave the office.	*
+	Lois wears an open-necked blouse and unusually short skirt
+	businesslike but more provocative than her norm.
+
+				CLARK
+		How did you get this interview?
+
+				LOIS
+		He called me.
+
+				CLARK
+		What a coup.
+
+	JIMMY OLSEN puts in his two cents...
+
+				JIMMY
+		Vincent Winninger.  The mad
+		scientist...
+
+				LOIS
+		He's not 'mad.'  He's eccentric.
+
+	CAT GRANT perks up when she HEARS the name.
+
+				CAT
+
+		You're going to interview Vincent
+		Winninger?
+
+				LOIS
+	Yes.
+
+				CAT
+			(to no one and everyone)
+		That explains the vain attempt to
+		look sexy.
+
+				JIMMY
+		Watch out, Lois--Vincent Winninger
+		is a notorious...
+
+				CAT
+		Womanizer.  Maybe I should go with
+		you.
+
+				LOIS
+		Or maybe you shouldn't.
+
+	As if for the first time, Clark notes her outfit.
+
+					(CONTINUED)
+- (DAY #2)
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		4.
+
+
+11	CONTINUED:						11
+
+				CLARK
+		Wait a minute.  Are you planning to
+		exploit your femininity..
+
+				LOIS
+		... to get the story of one of the
+		strangest and most reclusive
+		scientists of our time?  You bet.
+
+
+
+					CUT TO:
+
+12	INT. VINCENT WINNINGER'S STUDY - DAY 2			12
+
+	PHOTOGRAPHS, CITATIONS on a wall - the photographs
+	impressive but not self-important.  Presidents from Ike to
+	Reagan with Winninger.  The original astronauts with
+	Winninger.  Marilyn Monroe, Winninger checking out 
+	Marilyn's cleavage.
+
+				VINCENT (O.S.)
+		Scientists, philosophers, histor-
+		ians, hippies.
+
+	He laughs.  PULL BACK to find Lois looking at the photos
+	in a room overstuffed with books, papers, monographs.
+	VINCENT WINNINGER, is a tall, slim, energetic man, not
+	young, once handsome, still long-haired and charming.
+
+				VINCENT
+		Elimont Center.  The 'intellectual'
+		commune.  Named after... I don't
+		remember who we named it after, do
+		you?  Whoever he was, you can bet	*
+		he was obscure.
+
+	Several PHOTOS of the Elimont group at work and play... a
+	conference... the dance... some theater productions: "A 
+	Streetcar Named Desire," "Look Back in Anger,"
+	"Marat/Sade," others.
+
+				LOIS
+		And these theatrical photos?
+
+				VINCENT
+		The commune had a theater group.
+
+	Lois gives the photos a closer look.
+
+				LOIS.
+		Isn't that ... ?
+						(CONTINUED)
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		5.
+
+
+12	CONTINUED:						12
+
+				VINCENT
+		Marlon Brando?  ... Uh, no.  That's
+		Sebastian Finn.  Mr. Make-up, we
+		called his.  He could make himself
+		look like just about anyone.
+			(beat; musing)
+		His Bette Davis was remarkable.
+
+				LOIS
+		What happened to him?
+
+				VINCENT
+		I don't know, he sort of
+		disappeared.
+			(beat)
+		His make-up was a whole lot better
+		than his acting.
+
+	Lois points to a person in the picture.
+
+				LOIS
+		Isn't this ... ?
+
+				VINCENT
+		Yes, Barbara Trevino.  She's come a
+		long way.  From radical hippie
+		to...
+
+				LOIS
+		To chairperson of the Rain Forest
+		Consortium.
+
+				VINCENT
+		Well, not until Tuesday.  But we're
+		going to change all that.
+
+				LOIS
+		We?
+
+				VINCENT
+		Yes, you and me.  That's why you're
+		here, Ms. Lane.
+			(beat, rhetorically)
+		Did you know that I spent several
+		years living with an Amazonian
+		tribe?
+
+	He beckons Lois to sit on the sofa.  There is a box on the
+	coffee table.  He takes some bound journals and notebooks
+	from the box.
+
+				VINCENT
+		The Life and Times of Vincent
+		Winninger.  In this play, Barbara
+		Trevino has a leading role.  Shells
+		the fame fatale.
+
+						(CONTINUED)
+
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		6.
+
+
+12	CONTINUED:  2					12
+
+	Lois slides forward, her skirt rides up slightly.  These
+	events are not missed by Winninger.
+
+				VINCENT
+		You're a very good looking woman.
+
+				LOIS
+		Thank you.
+
+				VINCENT
+		How do you feel about increased
+		male potency?
+
+				LOIS
+			(flabbergasted)
+		What!!?
+
+	She slides her skirt back down.
+
+				LOIS
+			(beat; recovering)
+		Look, Dr. Winninger.  I know your
+		reputation with women is only
+		exceeded by your scientific one,
+		but I think it's best if we keep
+		this meeting professional.
+
+				VINCENT
+		Precisely.
+
+				LOIS
+			(confused; to herself)
+		What an I missing here?
+
+				VINCENT
+		Barbara Trevino is going to sell
+		all of us and the Ozone Layer
+		straight down the river, and
+		destroy our chances for increased
+		male potency.
+
+	A long beat while Lois looks at Winninger.  Finally:
+
+				LOIS
+		I guess the sixties were pretty	*
+		good to you.	*
+
+				VINCENT
+		Hear me out.  It will all become
+		clear.
+
+	He gives her one of the notebooks.
+
+				VINCENT
+			(continuing)
+		Some iced tea?
+
+						(CONTINUED
+
+reputation with is only
+
+
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		7.
+
+
+12	CONTINUED:  3					12
+
+	He pours her a glass from a pitcher on the table.  In her
+	attempt to wave it away, it spills on her blouse.
+
+				VINCENT
+		Oh, I'm so sorry 
+
+	He picks up a napkin and goes to wipe it away.
+
+				LOIS
+			(quickly)
+		That's okay.  I'll got it.
+
+	With notebook in hand, she heads off to the bathroom.
+	Halfway there, we hear a KNOCK on the door.  Winninger
+	goes to answer it.
+
+				VINCENT (O.S.)
+		You're back early.
+
+
+13	INT. POWDER ROOM - DAY				13
+
+	Lois grabs a hand towel and begins blotting her stained
+	blouse.  As she dries it she HEARS...
+
+				VINCENT (O.S.)
+		No!
+
+	Lois freezes.  Vincent's second "No!" is cut off by a dry,
+	compressed SOUND -- unmistakably the sound of a bullet
+	shot through a silencer.  Lois unfreezes, turns around,
+	peers through the crack in the open door.
+
+
+14   LOIS' POV - WINNINGER'S STUDY			14
+
+	Nothing visible at first; then ail she sees in Vincent's
+	hand slapping against the floor palm down, over his head.
+	It comes down HARD -- the way it would if Vincent ware
+	thrown to the floor.
+
+
+15	LOIS						15
+
+	REACTS, clamps her hand to her own mouth, stifling any
+	possible outcry.  She looks again...
+
+
+16	LOIS' POV - WINNINGER'S STUDY			16
+
+	Winninger's lifeless hand.  The KILLER kneels, feels
+	Winninger's pulse.  Lois gets a good look at his: he's
+	small, plain, even pleasant-looking, not young, wearing a
+	bow tie.  He stands up...
+
+
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		8.
+
+
+  17	LOIS						17
+
+	... realizes that he is coming her way.  She quickly,
+	silently, closes the door, hoping the final closure
+	doesn't give her away.  She backs against the wall, SEES
+	the notebook on the commode lid.
+
+
+  18	OUTSIDE THE POWDER ROOM DOOR - ON THE DOORKNOB		18
+
+	A hand reaches for it.
+
+
+  19	INSIDE THE POWDER ROOM				19
+
+	Lois starts to reach for the notebook, pulls her hand back
+	uncertainly.
+
+
+  20	OUTSIDE THE POWDER ROOM DOOR			20
+
+	The hand grabs the knob, turns it...
+
+
+  21	INSIDE THE POWDER ROOM				21
+
+	The door opens.  The Killer enters, removing his shirt.
+	The notebook is gone.  He unwraps a bar of scrub soap,
+	tosses the wrapper into the trash can, puts the bar on the
+	sink, looks in the mirror.  He does not see Lois.
+
+
+  22	ANGLE BEHIND THE DOOR - LOIS			22
+
+	... flattened between the wall and door. If the Killer
+	closes the door she's done for.  Fortunately he does not
+	close the door.  He turns on the tap, washes, scrubs...
+	Lois can scarcely breathe.  The washing lasts an eternity.
+	Finally the Killer, his eyes closed from all the soap and
+	water, reaches blindly for a towel, dangles close to Lois'
+	face.  Lois hands him the towel.  He exits the powder	*
+	room, taking the towel with his.  Lois breathes a little
+	easier but doesn't dare move.
+
+				LOIS
+			(barely a whisper)
+		Oh Superman, where are you when I
+		need you?
+
+
+  23							23
+THRU	OMITTED						THRU
+  24							24
+
+
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		9.
+
+
+25	INT. A PLACE - DAY - CLOSE ON SUPERMAN 			25
+
+	it would be best not to reveal where we are for awhile.
+	PULL BACK SLOWLY during the speech.
+
+				SUPERMAN
+		I don't know.  It's like I can	*
+		sense when someone is in trouble.	*
+		It goes beyond my super powers,	*
+		it's almost psychic.  Especially	*
+		if it's someone I know well or I'm	*
+		close to.
+
+	Seated next to Superman is a POLICE OFFICER in UNIFORM,
+	bored, checking his watch.  By now we realize we are in a
+	sixth grade school classroom.
+
+				KIDS' VOICES
+		How did you train for your job? 
+		What did you major in?  Weren't the
+		teachers afraid of you?  What's
+		your costume made of?  Etc.
+
+				TEACHER
+		One at a time, please.
+
+				BOY #2
+		Superman, how far can you see	*
+		really?
+
+				SUPERMAN
+		Pretty far.  I can usually see	*
+		trouble coming.	*
+
+				BOY #1
+		Maybe you could make a deal with
+		nine-one-one.
+
+				BOY #2
+		Or you could have a signal in the
+		sky that they shine when you're
+		needed.
+
+				BOY #1
+		That's really stupid.
+
+				TEACHER
+		Don't any of you have some	*
+		questions for our other guests?	*
+
+	Now we see the whole panel -- a LADY FIREPERSON; a GUY IN
+	JEANS, SNEAKERS, AND A BASEBALL CAP (UNDOUBTEDLY A MOVIE
+	DIRECTOR); and a COUPLE OF SUITS, male and female -- all
+	seated in front of a banner, "CAREER DAY."
+
+						(CONTINUED)
+
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		10.
+
+
+25	CONTINUED:						25
+
+				GIRL #1
+		Yes.
+			(beat, dreamily)
+		Superman, do you have a girl friend?
+
+	Off Superman's bemused look.
+
+
+A26	INT. WINNINGER APARTMENT - DAY			A26
+
+	Lois' POV into the study.
+
+	GLIMPSES ONLY of the Killer as he slips into a new shirt
+	taken from a Sportsac.  He puts his other in the
+	Sportsac, puts the diaries in the Sportsac, too.  He
+	crosses to the door... opens it, looks back...
+
+	Lois starts to relax -- prematurely, for now she hears the
+	killer returning.  She is truly terrified.
+
+	The Killer steps into the powder room, leans over the
+	waste basket to retrieve the soap wrapper.  Than he exits.
+
+	When Lois HEARS the door close, she waits a beat, then
+	opens the door and steps into the...
+
+
+B26	INT. WINNINGER'S STUDY - DAY			B26
+
+	She looks at Vincent, looks at where the diaries were,
+	frowns.  She crosses to the phone, dials.
+
+				LOIS
+		This is Lois Lane. I want to
+		report a murder.
+
+					CUT TO:
+
+26	INT. DAILY PLANET - DAY				26
+
+	Clark, JIMMY and PERRY WHITE stand behind Lois, bent over,
+	reading her story on the computer monitor.  Lois also has
+	the phone on her shoulder, listening. 
+
+				PERRY
+			(reading)
+		'Only minutes before his death, Dr
+		Winninger produced diaries which,
+		he claimed, contained evidence that
+		would abort the impending induction
+		of Barbara Trevino into the Rain	*
+		Forest Consortium.'	*
+
+						(CONTINUED)
+
+
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		11.
+
+
+26	CONTINUED:						26
+
+				LOIS
+			(into phone)
+		I see.  Okay, I'll try to reach her
+		when she arrives.  Where did you
+		say she was staying?  Oh, I thought
+		you did...
+
+				PERRY
+			(touching the screen)
+		She doesn't want to write this.
+
+				LOIS
+		Well... thank you for your help.
+
+	She hangs up the phone, returns to her keyboard.
+
+				LOIS
+		Barbara Trevino is en route to
+		Metropolis now.  Has a meeting at
+		the Trade Center tomorrow.
+
+				JIMMY
+		Why doesn't she want to write it,
+		Chief?
+
+				PERRY
+		Because I can't print it.
+
+				JIMMY
+		You can't?
+
+				PERRY
+		No.  She doesn't have the diaries.
+
+				LOIS
+		She may not have the diaries but he
+		told her what's in the diaries.
+		And I do have the one notebook...
+
+She pulls it out of her drawer.
+
+				LOIS
+		But it looks like Greek to me.
+
+	Perry takes the notebook and looks at it.
+
+				PERRY
+		That's because it is Greek.
+
+	He gives it to Jimmy.
+
+						(CONTINUED)
+
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		12.
+
+
+26	CONTINUED:  2					26
+
+				PERRY
+		Check it out, son.
+			(beat)
+		Now, look Lois, a verbal statement
+		ain't worth the paper it's printed
+		on.
+			(beat)
+		See what I'm saying?  Without the
+		diaries, you've got nothing to
+		check out.
+
+	Lois frowns, begins deleting some material.
+
+				CLARK
+		I hope one of the parts you trim
+		back is this..
+			(touches the screen)
+		...where it says the killer took
+		the diaries.
+
+				LOIS
+		He did take them!
+
+				CLARK
+		How would you know that unless you
+		were there?
+
+				LOIS
+		I was there.
+
+				CLARK
+		The killer doesn't know that --
+		unless you tell him.
+
+				LOIS
+		I'm not telling his.  Not	*
+		exactly.	*
+
+				PERRY
+		And here...
+			(touches the screen)
+		Change 'minutes before his death'
+		to 'earlier that day.' Just to be
+		safe.
+
+	Another deletion, as...
+
+				LOIS
+		How about the part that says the
+		man is dead?  Can I leave that?  Is
+		that okay?
+
+	She types a few more line, sends the story to the printer
+	with a gesture of completion, and gets up.
+
+						(CONTINUED)
+
+
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		13.
+
+
+26	CONTINUED:  3					26
+
+				PERRY
+		Where are you going?
+
+	She takes a small spritz bottle from her desk drawer,
+	spritzes liquid on the screen, and wipes all the
+	fingerprints off with a small paper towel.
+
+				LOIS
+		Back to Dr Winninger's house.  If I
+		stay here any longer, I'll have no
+		story left.
+
+				CLARK
+		I'll go with you.
+
+				LOIS
+		This is my story, Clark.	*
+
+				CLARK
+		Forget the story.  I want to make	*
+		sure you're going to be all right.	*
+
+				LOIS
+		Clark, I just spent five hours	*
+		with the police.  They never	*
+		mentioned my needing a bodyguard.	*
+		And if I did need one, and I mean
+		this in the nicest way, you	*
+		wouldn't be my first choice.	*
+
+	She turns on her heel and goes.	*
+
+				CLARK
+			(ironic)
+		Thank you, Lois.  I appreciate	*
+		that.	*
+
+					CUT TO:
+
+27	EXT. DAILY PLANET - DAY				27
+
+	Lois exits, walks to the corner.	*
+
+				LOIS
+			(to herself)
+		He's right about one thing.  Until	*
+		I get that diary translated, I	*
+		don't have a story.	*
+
+	She turns around, and bumps into Clark.	*
+
+				LOIS
+		What are you doing?	*
+
+						(CONTINUED)
+
+
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		14.
+
+
+27	CONTINUED:						27
+
+				CLARK
+			(all innocence)
+		Going with you.	*
+
+	Clearly she can't shake him.  She rolls her eyes in	*
+	acceptance.  They wait for the light to change.	*
+
+
+28	A TRUCK						28
+
+	... comes roaring down the street, speeding up to make the
+	green light.
+
+
+29	LOIS AND CLARK					29
+
+	From behind then comes A SKATEBOARDER, a spacesuit-looking
+	soul speeding down the sidewalk.  Suddenly he loses
+	control.
+
+	The skateboard flips out from under and flies into the
+	small of Lois' back, punching her forward, into the
+	street, into the path of the truck.
+
+	Clark REACTS - GRABS Lois by the back of her jacket and
+	SWINGS HER IN A SWEEPING ARC BACK ONTO THE SIDEWALK. A
+	split second later he descends on the fallen Skateboarder,
+	GRABS HIM by his shirt, LIFTS HIM up and PLANTS HIM
+	ON HIS FEET, holding him by his lapels.
+
+				CLARK
+		All right, who sent you?
+
+				SKATEBOARDER
+		Chill, dude.
+
+	Clark tightens his grip, lifts the guy off the ground.
+
+				CLARK
+		Who sent you?
+
+				SKATEBOARDER
+		Sent me to do what?
+
+				LOIS
+		Clark!  Let him go!  How could
+		anybody have sent him?  My story's
+		not even out yet!
+
+	Good point -- though Clark still holds on, maybe because
+	the guy has one of those insufferable Beavis & Butthead
+	laughs; for that alone he's indictable.
+
+						(CONTINUED)
+
+
+
+	WITNESS   (#10)     Yellow Rev.     10/29/93	15.
+
+
+29	CONTINUED:						29
+
+				SKATEBOARDER
+		Right, her story's not even out
+		yet.
+			(beat; confused)
+		Like, what story?
+
+
+He laughs, exits.  Lois looks at Clark, smiles.
+
+				LOIS
+		I'm impressed, 'dude.'
+
+	As they start across the street...
+
+					CUT TO:
+
+30	INT. WINNINGER'S STUDY - DAY			30
+
+	POLICE FORENSIC PEOPLE finishing up.  INSPECTOR HENDERSON	*
+	is there with another detective or two.  Lois shows Clark
+	the photos on the wall.
+
+				HENDERSON
+		Did I mention don't touch	*
+		anything, Lois?
+
+				LOIS
+			(sweetly, innocently)
+		Moi?
+
+	A police officer whispers to Henderson, who gets up to 	*
+	talk to A MAN at the door.  Lois and Clark turn away from
+	the photos.  Lois SEES the man at the door and REACTS.
+
+				LOIS
+			(continuing)
+		That's him!
+
+				CLARK
+		Who?  What?
+
+	Lois strides to the door, excited, agitated.  HUBERT, the
+	man standing inside the door, is the murderer.
+
+				LOIS
+		This is the killer, Inspector!	*
+		Don't let him go!
+
+				HUBERT
+		What?
+
+				LOIS
+		The man who killed Dr Winninger!  I
+		saw you!  I was in the powder room.
+
+						(CONTINUED)
+
+
+
+	WITNESS   (#10)     Yellow Rev.     10/29/93	16.
+
+
+30	CONTINUED:						30
+
+				HENDERSON
+		This is Dr Hubert, Dr Winninger's,	*
+		associate.
+
+				LOIS
+		I don't care who he is.  I saw him
+		kill Dr Winninger this morning.
+
+				HUBERT
+		I was in Washington, D.C. this
+		morning.
+
+				HENDERSON
+		Anybody see you there?	*
+
+				HUBERT
+		The thirty or forty men and women
+		who attended the National Science
+		Council meeting... and heard my
+		presentation.  Including the Vice
+		President of the United States.
+
+				HENDERSON
+		I'd call that an alibi, wouldn't	*
+		you, Lois?
+
+	HOLD on Lois.
+
+					FADE OUT.
+
+                          END OF ACT ONE
+
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		17.
+
+                              ACT TWO
+
+	FADE IN:
+
+31	EXT. FLEISCHER STREET - (NIGHT #2)			31
+
+	Evening.  Lois and Clark walking to Lois' house.
+
+				CLARK
+		So, you made a mistake.  It	*
+		happens.	*
+
+				LOIS
+		I didn't make a mistake.  He	*
+		looked just like him.	*
+			(beat)
+		I asked Jimmy to track Dr. Hubert	*
+		down, but he's disappeared without	*
+		a trace.	*
+
+				CLARK
+		Let's start over.  Why would	*
+		someone kill Winninger, then go	*
+		into the bathroom and clean up?	*
+
+				LOIS
+		Who knows?  Maybe he wanted to	*
+		wash the blood off, or maybe he	*
+		was just compulsive about germs,	*
+		like Howard Hughes.
+
+	Just before they reach the front of her house, A MAN IN A
+	MOTORIZED WHEELCHAIR approaches, and Lois and Clark step
+	aside to let him pass.
+
+				LOIS
+			(continuing)
+		Well, here we are.  Thanks, Clark.
+
+				CLARK
+		We're not there yet. When I take
+		somebody home, she gets door-to-
+		door service.
+
+				LOIS
+		Unnecessary.  Like I told you...	*
+
+	Before she can finish, Clark notes a movement out of the	*
+	corner of his eye, REACTS to it, looks...
+
+
+32	CLARK'S POV				32
+
+	A BLUR as the wheelchair spins around to face then...
+
+				CLARK
+		Lois!
+
+
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		18.
+
+
+33	SCENE						33
+
+	At that moment a motorcycle BACKFIRES down the street.
+
+
+34	BACK TO CLARK'S POV				34
+
+	Two FLASHES from the wheelchair as its occupant fires a
+	pair of GUNSHOTS at Lois.
+
+
+35	SCENE						35
+
+	Almost simultaneously:
+
+	Clark PUSHES Lois (she virtually flies back and lands on
+	the stoop on her tush).
+
+	Clark STEPS into the line of fire... GRABS the bullets as
+	they strike his chest.  He BLOWS HARD...
+
+	Under the force of Clark's breath the wheelchair SPINS.
+
+				LOIS
+		Clark?
+
+	Clark is eager to get the gunman.
+
+				CLARK
+		Stay back!
+
+	He leaves her at the foot of her stoop and hurries to the
+	wheelchair.  He can't go too fast because Lois is watch-
+	ing.  As the wheelchair slows down and stops it is appar-
+	ent that it is unoccupied.  Clark looks around.
+
+	He SEES: Pedestrians coming home from work carrying brief
+	cases and grocery sacks; a car pulling away, driven by a
+	white-haired woman; a delivery man hopping back into his
+	double-parked van.  The shooter could have been anyone.
+
+				LOIS
+		That hurt!
+
+	Clark REACTS, startled: Lois has come up behind him.
+
+				CLARK
+		Lois! You don't sneak up on
+		somebody at a time like this.
+
+	He closes his hand, concealing the bullets.
+
+				LOIS
+		A time like what?
+
+				CLARK
+		Somebody tried to kill you!
+
+						(CONTINUED)
+
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		19.
+
+
+35	CONTINUED:						35
+
+				LOIS
+		Yes, you .
+			(noticing)
+		What's in your hand?
+
+				CLARK
+		What?
+
+				LOIS
+		What are you hiding?
+
+	Clearly she means the left hand; he shows her the right.
+
+				CLARK
+		Nothing.
+
+	He clenches his right fist, crushing the bullets.
+
+				LOIS
+		Let me see the other hand.
+
+	Clark lets the pulverized lead slip from his hand before
+	he shows her.
+
+				CLARK
+		See, nothing.
+
+	Lois looks confused.  They walk to the foot of Lois'	*
+	stoop.	*
+
+				CLARK
+			(continuing)
+		Maybe I'd better stay with you
+		tonight.
+
+				LOIS
+		Nice try, Kent.
+
+				CLARK
+		Somebody took a shot at you!
+
+	They return to, enter her building.
+
+
+	OMITTED (36-37)
+
+
+38	INT. HALLWAY OUTSIDE LOIS' APARTMENT			38
+
+	Lois and Clark at Lois' door.  Lois unlocks the first of
+	her three locks.
+
+				LOIS
+		Clark, first of all, what you	*
+		heard was a motorcycle backfiring.
+				(MORE)
+
+						(CONTINUED)
+
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		20.
+
+
+38	CONTINUED:						38
+
+				LOIS (CONT'D)
+			(second lock)
+		Second, why would anyone want to
+		kill ne?
+
+				CLARK
+		Obviously the killer thinks you can
+		identify him.
+
+				LOIS
+		But, I barely got a glimpse of him.
+		And the man I did thought did it,
+		didn't.
+
+				CLARK
+		The killer doesn't know that.
+
+	She shrugs that off and unlocks the third lock.
+
+				LOIS
+		And third, the only danger to me
+		out there was caused by guess who?
+
+				CLARK
+		Someone who saved your life today.
+
+				LOIS
+		That was earlier.
+
+	She opens the door, turns around in the doorway, keeping
+	Clark out.
+
+				CLARK
+		But I did save it.  You admit that.
+
+				LOIS
+		Yes, but you were wrong about
+		somebody trying to kill me.  You
+		admit that.
+
+				CLARK
+		Yes, but this time somebody was
+		trying to kill you.
+
+				LOIS
+		If you were wrong this afternoon,
+		why should I believe that you're
+		right now?
+
+				CLARK
+		Because I am!
+
+				LOIS
+		So what you're saying is that you
+		saved my life twice today.
+
+					(CONTINUED)
+
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		21.
+
+
+38	CONTINUED:  2					38
+
+				CLARK
+		Yes.
+
+				LOIS
+		Do you know the odds against that?
+
+				CLARK
+		Who cares about the odds.	*
+
+				LOIS
+		Clark?
+
+				CLARK
+		What?
+
+				LOIS
+		Good-bye.
+
+	She closes the door, closing Clark out.  If she won't let
+	him in, protecting her must be a job for somebody else.
+
+					CUT TO:
+
+39	CLOSE ON A HUGE, MENACING KNIFE BLADE.			39
+
+	... thrust downward with terrific force. When it strikes,
+	PULL BACK FAST...  We are in...
+
+
+40	INT. LOIS LANE'S APARTMENT - KITCHEN -  NIGHT		40
+
+	The knife is hitting the cutting board, chopping the
+	living daylights out of three kinds of lettuce, tomato,
+	cucumber, chick peas, and a few other ingredients.  The
+	chef is Lois, in jeans and sweatshirt, making a chopped
+	salad for her dinner.  As she scoops the ingredients into
+	a wooden salad bowl, she stops; did she HEAR something?
+	It's quiet now, so she resumes work.  Then she stops
+	again.  What was that?  A voice?
+
+	She looks down the length of her apartment.
+
+
+41	LOIS' POV						41
+
+	Through the living room to the window onto the street.
+	The shears are drawn, but billow a little: the window is
+	open.  Other than that, nothing - wait: did something
+	move?  Yes, someone is definitely out there.
+
+
+42	LOIS						42
+
+	She moves stealthily to the phone, dials...
+
+						(CONTINUED)
+
+
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		22.
+
+
+  42	CONTINUED:						42
+
+				LOIS
+			(into phone)
+		Come on, Clark.  Answer!
+
+	But Clark doesn't answer.	*
+
+				LOIS
+			(continuing)
+		Now he's got mm paranoid.
+
+
+  43	LIVING ROOM					43
+
+	Lois moves toward the window, SEES movement again on the
+	other side.  She pulls the in aside a little, SEES	*
+	Superman's legs and feet suspended in air.
+
+				LOIS
+		Would you like to cone in?	*
+
+	She holds the curtain aside for him.	*
+
+  44							44
+THRU	OMITTED						THRU
+  45							45
+
+
+46	INT. LOIS' APARTMENT - NIGHT			46
+
+	Superman climbs in through the window.
+
+
+				SUPERMAN
+		If I were you I'd want to know what
+		I was doing outside the window.
+
+				LOIS
+		Just 'hanging' around?
+			(beat)
+		You ran into Clark.  He told you I
+		was in danger and wouldn't let him
+		bodyguard me.  Am I right?
+
+				SUPERMAN
+		Yes.
+
+	They move back to the kitchen, and she resumes her dinner
+	preparations.
+
+				LOIS
+		So Clark asked you to be my	*
+		bodyguard.  Why not just knock on	*
+		the door?	*
+
+						(CONTINUED)
+
+
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		23.
+
+
+46	CONTINUED:						46
+
+				SUPERMAN
+		I thought it might be better if I
+		stayed inconspicuous.
+
+	She looks at his Superman suit up and down.
+
+				LOIS
+		I'd change tailors, if you're going
+		to go for the undercover look.
+
+				SUPERMAN
+		That's why you should let Clark
+		keep you company.
+
+	She shrugs.  She wants Superman to keep her company, not
+	Clark.  But she's not about to say that.
+
+				LOIS
+		Are you staying for dinner?
+
+				SUPERMAN
+		No, thank you.  I have a few
+		errands.  But I'll come back.
+
+				LOIS
+		Errands.  It's funny.  I never
+		think of Superman having to run
+		errands.
+
+				SUPERMAN
+		I do have a life, you know.
+
+				LOIS
+		Really?  What kind of life?	*
+
+				SUPERMAN
+		Tonight, a Neighborhood Watch
+		meeting, and tomorrow a prison...	*
+
+				LOIS
+		That's cute, I guess.	*
+
+				SUPERMAN
+		Well, I have to be on my way.  You	*
+		going to be okay?	*
+
+				LOIS
+		Sure, I'll be fine.	*
+
+	Superman picks up the evening edition of the Daily 	*
+	Planet...
+						(CONTINUED)
+
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		24.
+
+
+46	CONTINUED:  2					46
+
+				SUPERMAN
+			(continuing)
+		Be careful.  If the killer reads
+		between the lines of your story and
+		realizes you were there...
+
+				LOIS
+		You... read my work?
+
+				SUPERMAN
+		Always.
+
+	He drops the paper, starts to exit.  Lois goes with him --
+	at first heading for the window, almost surprised when he
+	chooses the door.
+
+				SUPERMAN
+			(continuing)
+		Lock your doors and windows.
+
+				LOIS
+		I promise.
+
+	He exits. She locks the door behind his, crosses to the
+	window, watches him fly away.
+
+				LOIS
+			(continuing)
+		He reads my work.
+
+	She closes the window and locks it.
+
+
+AA47	EXT. STREET IN FRONT OF LOIS' BROWNSTONE		AA47	*
+
+	Clark Kent turns a corner, finds a seat on Lois' stoop and
+	keeps a steady vigil on Lois' apartment.
+
+
+A47	INT. DAILY PLANET - EARLY MORNING (DAY #3)		A47	*
+
+	The day's full hustle-bustle hasn't started yet.  Perry
+	crosses toward his office, spots Jimmy and approaches him.
+
+				PERRY
+			(to Jimmy)
+		Well, you're here awfully early.
+
+				JIMMY
+		Twenty-four hours, 'round the
+		clock, at your service, chief.
+
+				PERRY
+		Jimmy?
+
+						(CONTINUED)
+
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		25.
+
+
+A47	CONTINUED:						A47
+
+				JIMMY
+		What, chief?
+
+				PERRY
+		Don't suck up, son.  I don't like
+		it.
+			(beat)
+		Now, why are you here?
+
+	Jimmy pulls out the notebook Lois took from Winninger's.
+
+				JIMMY
+		Winninger's notebook.  It contains
+		some kind of scientific formula.
+		Star labs has broken it down, but
+		they don't know yet what its
+		purpose is.
+
+				PERRY
+		Anything else?
+
+				JIMMY
+		A map, which appears to be a large
+		section of the Brazilian rain
+		forest.
+
+				PERRY
+			(puzzled)
+		Well, what in the Sam Hill does	*
+		some formula have to do with
+		Barbara Trevino?
+
+				JIMMY
+		I don't know.
+
+				PERRY
+		Well, pass the info on to Lois and
+		tell her I said to get right an it.
+
+				JIMMY
+		Right.
+
+	Perry walks away a few steps, then turns back to Jimmy.
+
+				PERRY
+		There's nothing wrong with a
+		littlesucking up, son.
+
+				JIMMY
+		Right, chief.
+
+				PERRY
+		Better.
+
+	He heads toward his office.
+
+					CUT TO:
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		26.
+
+
+47	EXT. LOIS'S BROWNSTONE - DAY			47
+
+	Early morning.  Clark Kent, reading the morning paper,
+	sits on the stoop.
+
+
+48	INT. LOIS LANE'S APARTMENT - BATHROOM  - DAY		48
+
+	Lois squeezes a glob of tooth paste on her toothbrush,
+	starts brushing.  When she finishes, she turns on the tap
+	water in the sink.  Nothing.
+
+				LOIS
+		Oh, no...
+
+	With a mouthful of toothpaste, she exits.
+
+					CUT TO:
+
+
+49	EXT. LOIS' BROWNSTONE - DAY (SIMULTANEOUS)		49
+
+	The front door opens and the building superintend, MR.
+	TRACEWSKI, a pleasant-looking man in jeans and workshirt,
+	hurries out, muttering in an East European accent.
+
+				TRACEWSKI
+		I tell then, Hey, go for it, they
+		don't listen, they buy cheap.  And
+		what?  Here it is.  Costs two times
+		as much more.
+
+	He scoots down the stairs and up the street.
+
+					CUT TO:
+
+50	INT. LOIS' KITCHEN - DAY (SIMULTANEOUS)			50
+
+	Lois tries the kitchen sink, no water.  She crosses to
+	the fridge, takes some sparking water, rinses, than spits
+	into the sink.  Than, she crosses to the phone, dials.
+
+				LOIS
+		Mrs. Tracewski?--This is Lois Lane.
+		Oh, you know.  Any idea when that
+		might be?  Oh, that long...
+
+	A KNOCK on the DOOR.
+
+				LOIS
+			(continuing)
+		As soon as possible, Mrs.
+		Tracewski, thank you.
+
+	She hangs up, crosses, looks through the peephole, opens	*
+	the door, pleasantly surprised.
+
+					(CONTINUED)
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		27.
+
+
+50	CONTINUED:						50
+
+				LOIS
+			(continuing)
+		Mr. Tracewski!  Your wife said it
+		would be a couple of hours!
+
+	Tracewski enters, wearing a jumpsuit, carrying a toolbox.
+
+				LOIS
+			(continuing)
+		Not that I'm complaining.  As you
+		can see...
+
+	As soon an the door closes... Tracewski comes toward her,
+	menacing, tosses the toolbox aside.  It lands with a	*
+	CLATTER.  Lois backtracks.
+
+				LOIS
+			(continuing)
+		Mr. Tracewski, are you all right?
+
+	Tracewski closes in an Lois, grabs her by the neck.	*
+	Lois' struggle surprises Tracewski; she's strong enough to
+	prevent him from tightening, but not strong enough to get
+	away.  At this moment she CRIES OUT...
+
+				LOIS
+			(continuing)
+		NO!
+
+	But in an instant Tracewski gets a now grip, tightening	*
+	enough to prevent her making another SOUND, and now enough
+	to choke the air from her.
+
+	Lois struggles but can't pry his fingers loose.  Just an	*
+	she goes limp...
+
+
+51   ANOTHER ANGLE - THE DOOR				51
+
+	The front door blasts open and Clark rushes in.  Though
+	momentarily shocked at who is doing the choking, he is
+	more concerned with Lois.
+
+				CLARK
+		Let go!
+
+	Tracewski backs away, dragging Lois with his, unconscious.
+
+				CLARK
+			(continuing)
+		Let her go now!
+
+	Abruptly Tracewski pushes Lois at Clark and flees.  Lois
+	falls into Clark's arms, limp as a ragdoll.
+
+					(CONTINUED)
+
+
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		28.
+
+
+51	CONTINUED:						51
+
+	He lowers her to the floor.
+
+				CLARK
+			(continuing)
+		Lois!
+
+	VERY FAST he holds her nose, BREATHES INTO HER MOUTH.
+	He does it in one take.  Lois coughs, sputters, breathes.
+
+				LOIS
+		Oh, Clark... Clark...
+
+				CLARK
+		It's all right, you're okay...
+
+				LOIS
+		I couldn't breathe.  It was...	*
+		that nice Mr. Tracewski.	*
+
+				CLARK
+		No, it wasn't, Lois.  It must have	*
+		been someone else.  I saw the	*
+		real Mr. Tracewski leave.	*
+
+				LOIS
+		He tried to kill me...
+
+				CLARK
+		I'll find him...	*
+
+	But as he gets up to go she clings to his.
+
+				LOIS
+		No!	*
+
+	She holds on to him tighter.
+
+				LOIS
+			(continuing)	*
+		Please.  Don't leave me.	*
+
+				CLARK
+		I won't.  I'm here.  I'm right	*
+		here.	*
+
+	As Clark holds a trembling Lois, we...	*
+
+					FADE OUT.
+
+                            END ACT TWO
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		29.
+
+                              ACT THREE
+
+	FADE IN:
+
+52	INT. DAILY PLANET -  DAY				52
+
+	Clark enters with Lois.  Perry spots then and comes over.
+	His concern is apparent.
+
+				PERRY
+		Lois, are you all right?
+
+				LOIS
+		I'm fine.
+
+				PERRY
+		What are you doing here?
+
+				LOIS
+		This in where I work.  I have a job
+		to do.
+
+				PERRY
+		Your job isn't going to be worth
+		the sweat off an Elvis imitator if
+		you're dead.  Kent, can't you talk
+		any sense into her?
+
+				CLARK
+		I'm hoarse from trying.
+
+				LOIS
+		Look, this killer can apparently
+		find me anywhere, and can look like
+		anyone.  Ifs probably safer around
+		a lot of people I know.	*
+
+				CLARK
+		I don't think you're going to be
+		safe until we find Mr. Can Make	*
+		Himself Up To Look Like Anyone	*
+		Else.
+
+	The light bulb in Lois' head goes on.
+
+				LOIS
+		Mr. Make-up.  Jimmy!
+
+	Jimmy comes rushing over.
+
+				LOIS
+		(to Jimmy)
+		Try to find everything you can,
+		especially the whereabouts of an...
+		uh...
+
+					(CONTINUED)
+
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		30.
+
+
+52	CONTINUED:						52
+
+	Lois tries to remember the name of the mm in Winninger's
+	photo.
+
+				LOIS
+		... What was his name...?
+			(snaps her fingers)
+		Sebastian Finn!
+
+				CLARK/JIMMY/PERRY
+		Who?
+
+	Before she can answer, we...
+
+					CUT TO:
+
+53	OMITTED						53
+
+
+54	EXT. DAILY PLANET - DAY				54
+
+	Clark and Lois exit the building.
+
+				LOIS
+		... Look, Winninger, Finn and
+		Barbara Trevino ware all in the
+		same photo.  That's a connection.
+
+				CLARK
+		Fine, but why would Finn kill
+		Winninger and what's any of this
+		got to do with Barbara Trevino?
+
+				LOIS
+		That's what we're going to find
+		out.
+
+	They start searching for an empty cab.
+
+				LOIS
+		This is very creepy.
+
+				CLARK
+		Taxi!
+
+
+55	LOIS' POV - FACES				55
+
+	Everybody looks suspicious.  The faces are distorted, as
+	if photographed up close with a wide-angle lens.
+
+				LOIS (V.O.)
+		Don't you think it's creepy?  Finn
+		could be anybody.  Anybody you see
+		could be somebody else.
+
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		31.
+
+
+56	SCENE						56
+
+	She takes Clark's arm, holds it tightly.
+
+					CUT TO:
+
+
+57	EXT. TRADE CENTER COURTYARD - DAY			57
+
+	BARBARA TREVINO, still beautiful, though more likely,
+	these days, to be called "handsome," completes the answer
+	to a question.
+
+				BARBARA
+		... it's a global village now.  We 
+		of the Rain Forest Consortium have	*
+		to act accordingly.
+
+				REPORTER
+		How does it feel to be the first	*
+		to hold this post?
+
+				BARBARA
+		Well, I don't officially hold it
+		for two days, but at the risk of
+		being premature...
+			(smiles)
+		... It feels great.
+
+	The audience appreciates her charm.
+
+
+A58	ANGLE - LOIS AND CLARK				A58
+
+				LOIS
+		Ms. Trevino, concerning the death
+		of Dr. Vincent Winninger...
+
+				BARBARA
+		Dr. Winninger was a brilliant
+		scientist, and a dear friend of
+		mine for many years.  I was shocked
+		and saddened by his death.
+
+
+				BARBARA
+		How do you feel about the Ozone
+		Layer?
+
+	Barbara, like everyone one also, looks confused.
+
+				LOIS
+		What about increased male potency?
+
+	Now everyone, including Clark, looks at Lois like she's
+	lost her mind.
+
+					(CONTINUED)
+
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		32.
+
+
+A58	CONTINUED:						A58
+
+				BARBARA
+			(to Lois)
+		Who are you?
+
+				LOIS
+		Lois Lane, Daily Planet.
+
+				BARBARA
+		Well, Ms. Lane, I find your sense
+		of humor odd, to say the least, and
+		totally inappropriate.  I suggest
+		this would be a good time to close
+		this press conference.
+
+	She walks off the podium, and the conference breaks up.
+
+				CLARK
+		Bold, Lois.  Not too bright, but
+		bold.
+
+				LOIS
+		Did you see the look on her face?
+		She know exactly what I was talking
+		about.
+			(beat)
+		Even if I didn't.
+
+				CLARK
+		Well, now we'll never got to her.
+
+	An AIDE -- small, energetic, with a slight but undeniable	*
+	Latin accent -- approaches Lois.
+
+				AIDE
+		Ms. Lane?
+			(Lois turns)
+		I am Dr. Trevino's administrative
+		assistant.  She wishes me to tell
+		you that she will discuss whatever
+		you like, privately.
+
+	She glances at Clark.
+
+				LOIS
+		I'm... hare with Mr Kent...
+
+				AIDE
+		I'm sorry.  Just you, she said.
+		You understand...
+
+				LOIS
+		She wants to talk woman-to-woman.
+		It's a sisterhood thing.
+
+						(CONTINUED)
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		33.
+
+
+ A58	CONTINUED:  2					A58
+
+				CLARK
+		Sure, I understand completely.
+			(beat)
+		I'm coming with you.
+
+	Lois rolls her eyes an the Aid leads them away.
+
+
+  58	INT. TRADE CENTER 				58
+
+	Lois, Clark and the Aide enter the corridor from an elevator.
+
+				AIDE
+		This way, please.
+
+	The Aide leads then to a door marked "Roof Access."  He	*
+	ushers Lois through the door.	*
+
+				CLARK
+		Lois, wait
+
+	CLANG! The Aide slams the door in Clark's face.  He tries
+	it.  Locked.  He in about to crash through it when he
+	ran s he's still Clark.  He X-RAYS through the wall
+	again in time to see Lois KICK HIGH, knock a gun out of
+	the Aide's hands and run for cover.  Clark takes off fast.
+
+  59							59
+THRU OMITTED						THRU
+  68							68
+
+
+  69	EXT. THE ROOF					69
+
+	The Aide hobbles up, grabs the gun again and begins
+	looking for Lois on the flat, pebbled roof.  He HEARS
+	FOOTSTEPS.
+
+
+70	LOIS						70
+
+	... running... where?  She knows where The Aide is coming
+	from, she doesn't know where she's going, but she knows
+	that every footstep is leading her pursuer to her.
+
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		34.
+
+
+71	THE AIDE						71
+
+	He follows the SOUND, comes around a building element,
+	expecting to see Lois.  He doesn't.  He listens.  SILENCE.
+	There is no place she could have gone.
+
+
+72	WIDER - THE ROOF				72
+
+	The Aide walks around the perimeter of the roof, looking
+	down -- perhaps she's holding on to the edge.  He walks,
+	his footsteps crunching pebbles... He scampers to another
+	element of the roof, flattens his back against it,
+	carefully looks around it.  His look in quizzical...
+
+
+73	HIS POV - LOIS					73
+
+	... hiding at the foot of an element on another, higher,
+	seemingly separate part of the structure.  There is no
+	visible connection between this part of the roof and that.
+	How did she get there?
+
+
+74   THE AIDE						74
+
+	He may be confused, but not so confused that he doesn't
+	know what to do.  He raises his gun, aims...
+
+	But even though Lois faces him and her legs don't move,
+	she FLIES ACROSS the roof behind another chimney.  The
+	aide is now totally confused.  But before he can sort it
+	out, he HEARS a  WHOOSH! behind him.  He whirls around and
+	sees Lois standing there with Superman.
+
+				LOIS
+			(to aide; re: Superman)
+		In this guy cool, or what?
+
+	The aide raises the mm.  THE GUN TURNS RED-HOT.  The
+	Aide CRIES OUT with pain, drops the gun.	*
+
+				SUPERMAN
+		Hey, if you can't stand the heat...
+
+	Superman puts his hands around the Aide's waist and lifts
+	him, keeping his distance, and takes off.
+
+
+74A	LOIS						74A
+
+	From her perch across the way, she watches them go...
+
+					(CONTINUED)
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		35.
+
+
+74A	CONTINUED:						74A
+
+				LOIS
+		You gotta love that guy.
+
+					CUT TO:
+
+76	EXT.  TRADE CENTER COURTYARD - DAY			76
+
+	Lois enters the courtyard, winded, excited.  Clark talks
+	to the Aide, who is fastened to the chair - which is to
+	say the chair is rescued around him, containing him.
+
+				CLARK
+		Superman had to run... or fly.  I
+		said we'd wait for the police.
+
+	She looks closely at the Aide, sees a seam in his neck,
+	pulls off a condom-thin mask and makeup.
+
+				LOIS
+		Sebastian Finn, I presume.  So...	*
+		why'd you kill Dr. Winninger?
+
+				FINN
+		His Rosencrantz was atrocious.
+
+				LOIS
+		But why come after me?
+
+				FINN
+		You could identify me.
+
+				LOIS
+		No, I couldn't.
+
+				FINN
+			(shrugs)
+		Well, that's the way it goes
+		sometimes.
+
+				LOIS
+		How does Barbara Trevino fit into
+		this?
+
+	He looks at her sympathetically, as if to say -- Don't you
+	know it's hopeless?
+
+				LOIS
+		Maybe you'll talk to the police.
+
+				FINN
+		Not likely.  Superman may be the
+		Man of Steel...
+			(very theatrically)
+		But I have a will of iron.
+
+					(CONTINUED)
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		36.
+
+
+76	CONTINUED:						76
+
+	Lois raises her eyebrows.
+
+				LOIS
+		I hate actors.	*
+
+					CUT TO:
+
+
+77	INT. DAILY PLANET - DAY				77
+
+
+	Lois, Clark and Jimmy are at their respective desks, each
+	on the phone.
+
+				JIMMY
+		Sebastian Finn...	*
+
+				LOIS
+		Winninger...
+
+				CLARK
+		Dr. Hubart...
+
+	They hang up simultaneously, turn toward each other.	*
+
+				LOIS
+			(to Jimmy)
+		You first.
+
+				JIMMY
+		According to the police, Sebastian	*
+		Finn wasn't just moonlighting when
+		he killed Winninger.  The police
+		think he's  been a successful hitman
+		for years. I guess he finally made
+		his ability to disguise himself as
+		anyone pay off.
+
+				LOIS
+		I can top that I just talked to
+		the dean of the Philosophy
+		department at Metropolis
+		University.  He used to be a
+		member of the Elimont Commune.  He
+		knew Winninger, Finn and Trevino
+		way back when.  Apparently it was a
+		regular Peyton Place.  Winninger
+		and Trevino used to be together,
+		but than he dumped her.
+
+				CLARK
+		Why?
+
+						(CONT
+
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		37.
+
+
+77	CONTINUED:						77
+
+				LOIS
+		Because Winninger felt she was
+		selling out, abandoning the ideals
+		they all believed in.  Then, she
+		took up with Finn.  They eventually
+		split, but stayed in contact.
+
+				CLARK
+		I can top that.  Dr. Hubert, the
+		man no one can find.  Well, I found
+		him.  He's flying in tonight.  He'll
+		talk to us tomorrow.
+
+				LOIS
+		That's great but, we still don't
+		know the connection between
+		increased male potency, the
+		rainforest and Barbara Trevino.
+		The police questioned her and she's
+		got an airtight alibi, of course.
+		She was getting in her limo.  She
+		claims she has no knowledge of any
+		attempt on my life.  It would be
+		real nice if I could talk to her
+		myself.
+
+	Jimmy nods.
+
+				JIMMY
+		Yeah, good luck on that one.
+
+					DISSOLVE TO:
+
+78	INT. DAILY PLANET - NIGHT				78
+
+	The place in less crowded now.  Lois and Clark are at
+	their desks.  Clark finishes what he's doing and comes
+	over to Lois.
+
+				CLARK
+		Ready to call it a day?
+
+				LOIS
+		Not quite.  I've got a little more
+		work.
+
+				CLARK
+		I'll wait.
+
+				LOIS
+		Clark, there's no need.  Finn's in
+		jail.  I'll be fine.
+
+					(CONTINUED)
+
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		38.
+
+
+78	CONTINUED:						78
+
+				CLARK
+		You're sure?
+
+				LOIS
+		Yes!  And don't be hanging around
+		outside waiting for me.  I don't
+		plan to see you till tomorrow.
+
+				CLARK
+		Okay, goodnight.
+
+				LOIS
+		Goodnight.
+
+	Clark leaves.  Lois goes back to her computer.  After a few
+	moments, the PHONE RINGS.  Lois picks it up.
+
+				LOIS
+			(into phone)
+		Lois Lane.
+
+				BARBARA'S VOICE (FILTERED)
+		Hi, Lois.  Barbara Trevino here.
+
+	Lois REACTS, but recovers.
+
+				LOIS
+		I missed you the other day after
+		the press conference.
+
+
+79	INTERCUT TIGHT SHOT ON BARBARA			79
+
+				BARBARA
+		No, I believe it was I who missed
+		you.
+
+				LOIS
+		Would you like to tell me what this
+		is all about?
+
+				BARBARA
+		I think I'll tell you when I see
+		you.  And that should be soon.	*
+		Very soon.	*
+
+	Barbara hangs up the phone.
+
+
+80	TIGHT SHOT - LOIS				80
+
+	Fear fills her eyes.
+
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		39.
+
+
+81	INT. CLARK'S APARTMENT - NIGHT			81
+
+	Clark is putting various fruits, a glass of milk, and	*
+	some ice cubes into a blender when there is a KNOCK on	*
+	the door.  He sticks his finger into the concoction and	*
+	begins to swirl it as he goes to answer the door.  It is	*
+	Lois.	*
+
+				LOIS
+		Hi, Clark.
+
+				CLARK
+		This is a surprise.	*
+
+	He takes his finger out, licks it, than pours the	*
+	perfectly blended drink into a glass.	*
+
+				CLARK
+			(continuing)
+		How 'bout a smoothie?	*
+			(literally)
+		It'll only take a second.	*
+
+				LOIS
+		I'm not thirsty.	*
+
+	Clark sees she is upset.
+
+				CLARK
+		Lois, what's wrong?	*
+
+				LOIS
+		Don't take this the wrong way...	*
+
+				CLARK
+		What?	*
+
+				LOIS
+		I guess I'd just feel better if I	*
+		could...
+
+	She looks over at the sofa.
+
+				CLARK
+		Stay here tonight?	*
+
+	She nods her head and steps in for a comforting hug.	*
+
+					FADE OUT.
+
+                           END ACT THREE
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		40.
+
+                             ACT FOUR
+
+  82							82 
+THRU	OMITTED					THRU
+  83							83 
+
+	FADE IN:
+
+
+84	INT. DAILY PLANET - DAY				84
+
+	Lois and Clark enter.  Lois seems in much better shape.
+	Clark is checking everybody out like a pro bodyguard.
+	Lois gives him a withering look.
+
+				LOIS
+		Clark, drop the Kevin-Costner-
+		protecting-Whitney-Houston bit.
+		We're inside the Planet.  I think
+		we're safe here.
+
+	Perry walks through en route to his office.	*
+
+				PERRY
+		I've put on extra security in the
+		lobby.  Nobody gets in or out 
+		without proper I.D.
+
+	Lois gives Clark an "I told you so" look.
+
+				CLARK
+		Excuse me for caring.
+
+				LOIS
+			(softening)
+		I love it that you care.
+
+	She squeezes his hand.  Clark beams a little.  Jimmy
+	approaches.
+
+				JIMMY
+		Hubert's waiting for you in
+		Winninger's study.
+
+				CLARK
+		Won't he meet us here?
+
+				JIMMY
+		Uh Uh.  He's afraid to come out,
+		with what happened to Winninger and
+		all.
+
+	Lois nods.
+
+				LOIS
+			(to Clark)
+		I assume you're with me.
+
+					(CONTINUED)
+
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		41.
+
+
+84	CONTINUED:						84
+
+
+				CLARK
+		I assumed I would go alone.
+
+				LOIS
+		It's still my story.
+
+Beat.
+
+				CLARK
+		You are really high maintenance,
+		you know that?
+
+	Lois nods yes.
+
+				LOIS
+		But I'm worth it.
+
+
+A85	EXT. DAILY PLANET - DAY			A85
+
+	Lois and Clark exit.  Now it's Lois' turn to check out
+	every face she sees.  They hustle into a cab.
+
+
+85	INT. DR WINNINGER'S STUDY - DAY		85
+
+	Lois and Clark talk with Dr. Hubert.
+
+				HUBERT
+		During the time Vincent spent in	*
+		the Amazon, one of the discoveries	*
+		he made was a rare plant which,	*
+		when correctly harvested and	*
+		processed, increased male potency.	*
+
+				LOIS
+		So his prowess with the ladies
+		wasn't all God-given?
+
+				HUBERT
+		Correct.
+
+				CLARK
+		Better sex through science.
+			(shrugs)
+		Why not?
+
+				HUBERT
+		He also discovered vast	*
+		mineral deposits beneath areas of	*
+		the rain forest that are currently	*
+		protected by law.	*
+
+				CLARK
+		How does Barbara Trevino fit into
+		all this?
+
+						(CONTINUED)
+
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		42.
+
+
+85	CONTINUED:						85
+
+				HUBERT
+		Barbara knew of Vincent's
+		discoveries and research, and tried
+		to convince him they should be
+		exploited for their commercial
+		value.  He turned her down cold.
+
+				LOIS
+		Wait a minute!
+
+	She fishes around in her purse and comes out with a piece
+	of paper.
+
+				LOIS
+			(continuing)
+		This Is the background sheet on
+		Trevino they handed out at the
+		press conference.
+
+She scans it quickly.
+
+				LOIS
+		Here we go.  Barbara Trevino is,
+		among other things, on the of board
+		directors of Hobbs Mining.	*
+			(beat)
+		Extensive mining operations in 
+		protected areas of the rain forest
+		would constitute an ecological
+		disaster.
+
+				HUBERT
+		Winninger know that.  The world saw
+		him an a hedonist, but he was
+		really a humanist. The plant he
+		discovered was just one of the many
+		potential treasures hidden deep in
+		the rain forest, waiting to be
+		discovered for the eventual good of
+		all mankind.  He devoted his life
+		to preserving that resource.
+
+	Off their looks.
+
+					CUT TO:
+
+
+86	INT DAILY PLANET - NIGHT				86
+
+	The place is thinning out.  But Lois, Clark, Cat and Perry
+	remain.  Lois is at her desk.  Parry comes over.
+
+				LOIS
+		Anything from Hobbs Mining?	*
+
+					(CONTINUED)
+
+
+
+ 	WITNESS   (#10)     Pink Rev.     10/28/93		43.
+
+
+86	CONTINUED:						86
+
+				PERRY
+		No, they're being very closed
+		mouthed. Ben Bradlee used to call
+		it 'non-denial' denials.
+			(beat)
+		You going to be all right?
+
+				LOIS
+		Sure, I've got my protector over
+		there.
+
+A87	ANGLE - CLARK					A87
+
+	As he walks into a desk.
+
+
+B87	RESUME SCENE					B87
+
+				PERRY
+		Oh, brother.  Well, you be careful.
+
+	Perry exits, stepping into the elevator.  There aren't
+	many people around.
+
+				PERRY
+		Good night.
+
+	A CLEANING WOMAN, emptying trash baskets into the giant
+	container she's pushing around, is the only one who
+	responds... though barely.
+
+				CLEANING WOMAN
+		"Night.
+
+	She pushes her basket down the hall.
+
+
+87	OMITTED						87
+
+
+88	INT. PIT - NIGHT				88
+
+	Lois at work.  Cat comes over.
+
+				CAT
+		Big story, huh.
+
+				LOIS
+		Mm.
+
+				CAT
+		You must have been terrified.
+
+				LOIS
+		It was a little scary.
+
+					(CONTINUED)
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		44.
+
+
+88	CONTINUED:						88
+
+				CAT
+		You want to talk scary? I covered
+		the governor's wife's speech at the
+		museum volunteers' luncheon today.
+		Her dress -- that was scary.
+
+	Lois smiles politely and goes back to her story.
+
+				CAT
+			(continuing).
+		But you can tell me.  You were
+		scared, right?
+
+				LOIS
+		Like I said, a little.
+
+				CAT
+		A lot.
+
+				LOIS
+		Little.
+
+				CAT
+		Lot..
+
+				LOIS
+		Why is it so important to you that	*
+		I admit how scared I was?	*
+
+				CAT
+		It just makes you more human.	*
+			(beat)
+		Okay.  I write as well as you do,
+		I'm more fun at parties.  But
+		you're the star here -- the chief's
+		favorite.  In on all the action.
+		And when you get in trouble, look
+		who's hanging around to come to the
+		rescue -- not only a cute guy,
+		but also a god with a cape...
+
+				LOIS
+		But...
+
+				CAT
+		Excuse me.  You asked, I am
+		answering.  You've got something
+		the rest of us don't have, Lois.
+		So it would be nice if for once,
+		just once, you could admit that you
+		have bad days, problems, and
+		fears just like the rest of us.
+
+	She turns on her heels and goes.  Lois takes a deep
+	breath.
+
+					(CONTINUED)
+
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		45.
+
+
+88	CONTINUED:  2					88
+
+				LOIS
+			(calling)
+		Cat! (calling)
+
+	Cat turns back to Lois.
+
+				LOIS
+		I was scared. . . a lot.	*
+
+	They look at each other and nod.  Cat leaves.  Lois goes
+	back to work.  Clark ENTERS THE SHOT.
+
+				CLARK
+		I guess it would be foolish to ask
+		if you're ready to go.
+
+				LOIS
+		I've just got...
+
+		LOIS		CLARK
+	...A little more work	A little more work
+	to do.		to do.
+
+				CLARK
+		I want you to promise me you won't
+		leave before I get back.
+
+				LOIS
+		Where are you going?
+
+				CLARK
+		To look for Barbara Trevino.
+
+				LOIS
+		What makes you think you can find a
+		woman everyone else is looking for
+		and no one can find?
+
+				CLARK
+		It's worth a shot.
+			(beat)
+		Do you promise you won't leave?
+
+				LOIS
+		You want it in blood?
+
+				CLARK
+		Great.  But I also don't want you
+		here alone.	*
+
+				JIMMY
+		I'll stick around.
+
+	They look up to find Jimmy.
+
+					(CONTINUED)
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		46.
+
+
+88	CONTINUED:  3					88
+
+				JIMMY
+			(continuing)
+		I don't mind.  Really.
+
+				CLARK
+		Okay.
+
+	He starts to leave, but turns back to Lois.
+
+				LOIS
+		What?
+
+				CLARK
+		I'll be back to pick you up in a
+		little while.
+
+	Clark leaves.
+
+
+A89	EXT. SKIES ABOVE METROPOLIS - NIGHT			A89
+
+	Various SHOTS of the city. Suddenly, Superman
+	FLIES IN, scanning the city below for the elusive Ms.
+	Trevino.
+
+					CUT TO:
+
+89	INT. DAILY PLANET - NIGHT				89
+
+	Some time later.  Only a few people still working.  Lois
+	looks up at Jimmy.
+
+				LOIS
+		How about a cup of coffee?
+
+				JIMMY
+		Sure, I'd love one.	*
+			(beat)	*
+		Oh. I'll be right back.	*
+
+	Lois gets back to work, but breaks the point off her	*
+	pencil.  She looks in her pencil box but she's run out.	*
+	She gets up and walks toward the storage room, passing	*
+	the cleaning woman on her way.	*
+
+					(CONTINUED)
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		47.
+
+
+90	INT. DAILY PLANET STOREROOM - NIGHT			90
+
+	Lois enters, looks around for acme more pencils.  Just
+	then, the cleaning woman enters, closes the door behind
+	her.
+
+				LOIS
+		Oh, you scared me.  Are you	*
+		looking for something?	*
+
+	Now the cleaning woman locks the door.	*
+
+				CLEANING WOMAN
+			(Trevino's voice, pulling
+			 a gun)
+		I found it	*
+			(beat)	*
+		Now, tell me where that notebook	*
+		is.	*
+
+				LOIS
+		I don't know what you're talking
+		about.
+
+	As she begins to remove her make-up.
+
+				BARBARA
+		I knew Winninger was about to
+		expose my true motivation in
+		wanting to be appointed chairperson
+		of the Rain Forest Consortium.	*
+		From there it would have bean easy
+		to grant Hobbs the exclusive strip	*
+		mining licenses they needed to
+		exploit the area.  So, I called on
+		our old friend Finn to eliminate	*
+		him.  But, Finn left a loose and.
+
+				LOIS
+		Me.
+
+				BARBARA
+		And the notebook. Where in it?
+
+
+A91	EXT. SKIES ABOVE METROPOLIS - NIGHT			A91
+
+	Superman senses something and DIVES.
+
+
+B91	INT. STOREROOM - NIGHT				B91
+
+				LOIS
+		There's nothing in the notebook
+		except Winninger's processing
+		formula for the male potency plant.
+
+					(CONTINUED)
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		48.
+
+
+B91	CONTINUED:						B91
+
+				BARBARA
+		Then I guess I went to a lot of
+		trouble for no nothing.  But, with the
+		strip mining proceeding as we speak
+		and you eliminated....
+
+				LOIS
+		Eliminated?
+
+				BARBARA
+		I guess that's the way it goes
+		sometimes.
+
+	She takes aim, but a NOISE behind her distracts her.
+	Trevino instinctively whirls around; in a split second
+	Lois is upon her, gripping her wrist, holding it up.  The
+	gun FIRES at the ceiling, but Lois bangs Trevino's wrist
+	against a cabinet, again, again, and again, but they're
+	stalemated...
+
+				LOIS
+		Help!
+
+	Trevino's hand is at Lois' throat, pushing Lois' head
+	back.  Lois is in pain, in jeopardy of losing her grip.
+	But then HANDS encircle Trevino's throat from behind,
+	squeeze, pull, until Trevino's hand releases Lois, her
+	other hand drops the gun, and Trevino is wrestled to the
+	floor.  Lois falls with Trevino, trapping her there, then
+	looks up to SEE her latest savior.  It's...
+
+91	JIMMY						91
+
+	... looking down at them.
+
+				LOIS
+		Help me, Jimmy!
+
+	Jimmy kneels, holds Trevino down.
+
+				LOIS
+
+		Grab her... it!
+
+	Jimmy lunges, grabs at Trevino's neck.  She runs out the
+	door, but comes flying back into the rom as fast as she
+	left.  A beat later, Superman walks through the door.
+	Relief floods Lois' face, but she can't resist a little
+	dig.
+
+				LOIS
+		Cutting it kind of close there,
+		aren't you, big fella?
+
+				SUPERMAN
+		Are you all right?
+
+						(CONTINUED)
+
+
+
+	WITNESS   (#10)     Pink Rev.     10/28/93		49.
+
+
+91	CONTINUED:						91
+
+				LOIS
+		I am, but the rain forest isn't.
+
+					CUT TO:
+
+
+92	OMITTED						92
+
+
+92A	EXT. ABOVE THE RAIN FOREST			92A
+
+	Superman flies above the trackless jungle, searching for
+	something, dives.
+
+
+92B	EXT. FOREST CLEARING - NIGHT			92B	*
+
+	A group of man are gathered around command post.  The
+	leader signals and a WARNING HORN sound.  The others don
+	hard hats and move behind the shelter of a rock.  The
+	leader grabs a lever with numerous wires running to it.
+	All the men brace for the explosion.  He throws the lever:
+	nothing.  Behind them, Superman clears his throat.  He's
+	holding up the severed ends of the wires.
+
+					CUT TO:
+
+93	INT. DAILY PLANET - NIGHT			93
+
+	Lois and Jimmy.  Lois hangs up the phone.
+
+				LOIS
+		Superman got there in time.  All
+		mining operations have been
+		suspended and the authorities are
+		cleaning house at the Rain Forest
+		Consortium.  I guess everything's	*
+		back to normal.
+
+	Clark enters.
+
+				CLARK
+		Sorry I took so long.  Anything
+		happen while I was gone?
+
+	Jimmy and Lois share a secret smile.
+
+				LOIS/JIMMY
+		Not a thing.
+
+	Clark enjoys a secret smile of his own.
+
+				LOIS
+			(to Clark)
+		Come on.
+
+					(CONTINUED)
+
+	WITNESS   (#10)     Blue Rev.     10/27/93		50.
+
+
+  93	CONTINUED:						93
+
+				CLARK
+		Where are we going?	*
+
+				LOIS
+		I thought you might walk me home.	*
+
+				CLARK
+		I thought you didn't need a	*
+		bodyguard?	*
+
+				LOIS
+		Who said anything about a	*
+		bodyguard?	*
+
+	Lois stands, takes her coat, takes his arm.  On Clark,	*
+	pretending to be in the dark, we...	*
+
+					FADE OUT.
+
+                                  END
+
+  94							94
+THRU	OMITTED						THRU
+  99							99
+??
+
+
+
+ 
+
+ 
+
+
+
+

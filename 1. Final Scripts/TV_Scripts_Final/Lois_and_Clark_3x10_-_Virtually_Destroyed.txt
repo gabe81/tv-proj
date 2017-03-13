@@ -1,0 +1,3163 @@
+To pop everything into place...    
+
+use Courier 10 (or 10 characters per inch)
+
+set top margin at 0.4", bottom margin at 0.4" (or minimums)
+left margin at 1", right margin at .25 (or minimum)
+   (I had to tell the program I was using legal paper)
+
+page breaks in hard copy indicated by ---page break---
+
+regular tabs, hard returns and right flushes are used 
+to position things to look as much like original as possible
+
+sometimes the formatting changes slightly (as in the numbers at
+the end of the lines), but I'm going to keep consistent because
+it's easier
+
+logo on front page will be noted when used but not included here
+
+as this may be sent in .txt, originally underlined words will 
+look like   _this_
+
+I don't know what the (X) designates.
+
+Notes: 
+
+Cover:  "Virtually Destroyed", Teleplay by Dean Cain [and] Story
+by Dean Cain and Sean Brennan are all in large bolt print. The
+remainder of the text is in Courier 10 (10 characters per inch)
+
+Note: no "Director" on cover.
+
+Typos noted:
+none
+
+                     graphic (see script.bmp)
+
+                      "Virtually Destroyed"
+
+                           EPISODE TEN
+
+                          Prod. #457410
+
+                           Teleplay by
+
+                            Dean Cain
+
+
+                             Story by
+
+                     Dean Cain & Sean Brennan
+
+
+
+
+
+                                             _Production Draft_
+                                             October 12, 1995
+                                             FULL Blue 10/16/95
+                                             FULL Pink 10/19/95
+                                             Yellow R. 10/25/95
+                        ---page break---
+                                 _LOIS & CLARK_
+
+                             "_Virtually Destroyed_"
+
+                              FULL Pink 10/19/95
+
+                                     _CAST_
+
+CLARK KENT/SUPERMAN
+
+LOIS LANE
+
+JIMMY OLSEN
+
+PERRY WHITE
+______________________________________________________________
+
+JAXON XAVIER
+
+KOMBAT
+
+MAN ON STREET
+
+COMPUTER (VOICE ONLY)
+                        ---page break---
+                                 _LOIS & CLARK_
+
+                             "_Virtually Destroyed_"
+
+                              FULL Pink 10/19/95
+
+                                   _CHRONOLOGY_
+
+
+                       SC.   1 - 68     DAY 1
+
+                       SC.  69 - 70     DAY 2 (a week later)
+                        ---page break---
+                                 _LOIS & CLARK_
+
+                             "_Virtually Destroyed_"
+
+                              FULL Pink 10/19/95
+
+                                   _LOCATIONS_
+
+_INTERIORS_:                              _EXTERIORS_:
+
+Daily Planet                              Daily Planet
+  Newsroom
+  Conference Room                         Gabby's Deli
+
+Lois' Apartment                           Lois' Apartment
+  Living Room
+  Hallway                                 Beach
+
+Virtual Reality Center                    Alley
+  Master Station
+  Chamber
+
+Black Void
+
+                        ---page break---
+                                 _LOIS & CLARK_
+
+                         _The New Adventures of Superman_
+
+                             "Virtually Destroyed"
+
+                                     _TEASER_
+
+    FADE IN:
+
+
+ 1  OMITTED                                                       1   
+
+
+ 2  INT./EXT. LOIS' APARTMENT WINDOW - VIRTUAL REALITY - NIGHT2(X)
+
+    Lois is standing alone... in a low-cut evening gown,
+    superbly sexy. She's watching something on the ground below
+    with bemused interest. CRASH!
+
+
+ 3  EXT. METROPOLIS STREET - VIRTUAL REALITY - NIGHT              3   
+
+    It looks like a battlefield... the orange glow of FIRES,
+    destroyed CARS.  In the middle of it all -- a fatigued
+    SUPERMAN is fighting a super-battle with a HUGE MAN, who's
+    dressed in street fighting gear: work boots, long baggy
+    shorts, a shirt with ripped sleeves.  This huge fellow is
+    called... KOMBAT.  Muscles bulging, Kombat is a specimen --
+    a comic book artist couldn't draw a more powerful and
+    statuesque figure.
+
+
+ 4  A CROWD OF ONLOOKERS                                          4   
+
+    roped off like spectators, is gathered on the street corner,
+    next to a RED CAPUCCINO CART, watching the two gladiators      (X)
+    with amazement. Some eat popcorn, others sip sodas, coffee.
+
+
+ 5  SUPERMAN                                                      5   
+
+    bravely sets his jaw, and FLIES right at Kombat -- a BLUE
+    BLUR, which RICOCHETS off Kombat's chest like a pinball,
+    then CRASHES through the window of a building across the
+    street.
+
+    Kombat pulls Superman from the window and THROWS him across
+    the street -- destroying a car.
+
+
+ 6  A MAN                                                         6   
+
+    watching with the other onlookers, stares with awe, munching
+    caramel corn.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95   2.    
+
+
+ 6  CONTINUED:                                                    6   
+
+                                   MAN
+                       (to someone beside him)                     (X)
+                  Huh.  There goes another                         (X)
+                       (looks closer)
+                  Hey, that's _my_ car.  Well, I                   (X)
+                  guess they know what they're doing.
+
+    He eats, oddly unconcerned.
+
+
+ 7  KOMBAT                                                        7   
+
+    laughs with pleasure.
+
+                                   KOMBAT
+                  Superman?  I don't think so.  Meet
+                  your replacement.
+
+    Kombat rips open his shirt to reveal an "X" on his chest.
+    It's very similar to Superman's "S".
+
+    Superman steps weakly from the wreckage, almost collapses.
+    He leans on the car for support.
+
+                                   SUPERMAN
+                  Enough.  You win.  You're the
+                  better man.
+
+    Superman looks sadly to Lois at her veranda, then flies off.
+
+
+ 8  KOMBAT                                                        8   
+
+    smiles, then FLOATS up to --
+
+
+ 9  INT/EXT. LOIS' - VR - NIGHT                                   9(X)
+
+    where Lois looks at him.
+
+                                   LOIS
+                  You beat Superman.
+
+                                   KOMBAT
+                  To a pulp.
+
+                                   LOIS
+                       Thank God!
+
+    They come together in an embrace.
+
+                                   LOIS
+                  I was getting so sick of him.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95   3.    
+
+
+ 9  CONTINUED:                                                    9   
+
+                                   COMPUTER
+                       (a disembodied O.S.
+                        female voice)
+                  Jaxon, haven't you wasted enough
+                  time playing games?
+
+    PULL BACK TO REVEAL:
+
+
+10  INT. VIRTUAL CENTER CHAMBER - REALITY - DAY #1               10   
+
+    We're watching this on a Virtual Screen (a large monitor).
+    In front of the screen, WE FIND JAXON XAVIER, known more
+    simply as "X", a strange-looking, freakish fellow with a big
+    grin.  He wears a VIRTUAL HELMET and a SLEEK BLACK SUIT.
+    WIRES from the chair are attached to helmet and gloves.  On
+    his LEFT WRIST is a very distinct WATCH.  On its face are
+    the initials "L.L." and a small lever.
+
+    The screen in front of him projects what he/we were
+    seeing -- Kombat kissing Lois Lane, and Jaxon is living the
+    role of Kombat!
+
+                                   JAXON
+                  I'm not playing, I'm rehearsing!
+
+                                   COMPUTER
+                  Rehearse all you want, it won't get
+                  you what you need.
+
+
+11  INT./EXT. LOIS' - VR - NIGHT                                 11(X)
+
+    Kombat breaks away from the kiss, flashes Lois a killer
+    smile, then "clicks" the lever on his watch (the escape
+    window) and DISAPPEARS.
+
+
+12  INT. VIRTUAL CENTER CHAMBER - DAY                               12
+
+    Jaxon takes off his virtual helmet.  The screen in front of
+    him is FROZEN with the image of Lois Lane.
+
+                                   JAXON
+                  I need to get used to the idea that
+                  in this world I may be just another
+                  geek with a lotta RAM... but in
+                  that world, I'm a god.  Being a
+                  god takes practice.
+
+                                   COMPUTER
+                  That world is nothing but a
+                  pixilated pinball game unless you
+                  get those passwords from the real
+                  Lois Lane.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95   4.    
+
+
+12  CONTINUED:                                                   12   
+
+    He moves close to the screen and the frozen image of Lois.
+
+                                   JAXON
+                  Oh, I'll get them.  She doesn't 
+                  know it, but she's going to give me 
+                  everything I want.
+                       (grins)
+                  Everything.
+
+    OFF HIS WICKED LAUGH, we...
+
+                                                     FADE OUT.
+
+                                 _END OF TEASER_
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95   5.    
+
+
+                           _ACT ONE_
+
+    FADE IN:
+
+13  INT.  DAILY PLANET - MORNING - DAY                           13   
+
+    JIMMY OLSEN has on a pair of virtual goggles.  He's got a 
+    big smile on his face, his fingers breezing across his keyboard.
+
+                                   JIMMY
+                       (chuckles to himself)
+                  Oh, Chief, you're gonna thank me...
+
+    PERRY WHITE crosses behind Jimmy, pulls off his goggles.
+
+                                   PERRY
+                  Thank you for what?
+
+                                   JIMMY
+                       (rubs his eyes)
+                  Owww!  Chief, you can't just pull 
+                  virtual goggles off somebody.  It's 
+                  dangerous.  If I was in a virtual 
+                  program, you could mess with my 
+                  mind.
+
+                                   PERRY
+                  If they're that dangerous, then you 
+                  shouldn't be putting them on.  Now, 
+                  what in Sam Hill are those things, 
+                  and what am I gonna thank you for?
+
+                                   JIMMY
+                  They're virtual goggles.  It's a 
+                  way of transporting yourself to 
+                  another world... a world where I 
+                  have to say in all modesty, I'm                  (X)
+                  pretty good at getting around                    (X)
+                  where other people can't.  In this               (X)
+                  case, I'm surfing through computer               (X)
+                  dating banks to try and find                     (X)
+                  you --                                           (X)
+
+                                   PERRY
+                  Jimmy, I don't like dating                       (X)
+                  services, and I don't trust 
+                  computers.  I'm happy in this                    (X)
+                  world 'cause if I grab this lamp,                (X)
+                  I know I'm grabbing this lamp, you 
+                  get my meaning, son?
+
+    Perry's holding the lamp as if he might hit Jimmy with it.
+
+                                   JIMMY
+                  Yessir.
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95   6.    
+
+
+14  ON THE RAMP                                                  14   
+
+    Lois enters, moves to her desk.  A beautiful bouquet of 
+    FLOWERS has been placed there.  She sits at her desk, opens 
+    a card, reads it, smiles, and smells the flowers.  CLARK 
+    appears behind her, with two cups of coffee-.
+
+                                   CLARK
+                  Morning.
+
+                                   LOIS
+                  Morning.  Thank you for the
+                  flowers.
+                       (accepting the coffee)
+                  And the coffee.  What's the
+                  occasion?
+
+                                   CLARK
+                  The occasion is... I'm in love and               (X)
+                  I'm getting married.                             (X)
+                       (kisses her; sees                           (X)
+                        brochures on her desk)                     (X)
+                  What's this?                                     (X)
+
+                                   LOIS
+                  I've been thinking about our
+                  honeymoon...
+
+                                   CLARK
+                  There's a nice thought.
+
+                                   LOIS
+                  With all the money we'll save on                 (X)
+                  air fare thanks to Superman                      (X)
+                  Express we can stay just about                   (X)
+                  anywhere we want.  Our options are               (X)
+                  wide open.  Paris, Hawaii...
+
+                                   CLARK
+                  Lois, I don't care where we go, as
+                  long as I'm with you.
+
+                                   LOIS
+                  Well, let's say we go to Hawaii.  
+                  We could stay in a little shack on 
+                  our own beach...
+
+                                   CLARK
+                  ... great...
+
+                                   LOIS
+                  ... thatched roof, ceiling fan...                (X)
+
+                                   CLARK
+                  ... mmmmm...
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95   7.    
+
+
+14  CONTINUED:                                                   14   
+
+                                   LOIS
+                  ... soft bed...
+
+                                   CLARK
+                  ... perfect.
+
+    Lois looks at Clark.  She said the B-word.
+
+                                   LOIS
+                  That is, if you like soft beds.
+
+                                   CLARK
+                  Soft bed's fine.
+
+                                   LOIS
+                  You don't have to have a soft bed,
+                  though.  They have other kinds:
+                  firm, hard, straw mat... futon.                  (X)
+                  Some people even like the floor.                 (X)
+
+                                   CLARK
+                  Any bed you choose will be fine
+                  with me.
+
+                                   LOIS
+                  What if it's not?  What if you
+                  expect one type of bed, and you get
+                  a completely different kind?  What               (X)
+                  if you're... disappointed?                       (X)
+
+                                   CLARK
+                  Lois, how come I have the feeling                (X)
+                  this isn't all about beds?                       (X)
+
+                                   LOIS
+                  Well, it just occurred to me,                    (X)
+                  there are one or two things we've                (X)
+                  never talked about.                              (X)
+
+                                   CLARK
+                  One or two things?                               (X)
+
+                                   LOIS
+                  One thing.                                       (X)
+
+                                   CLARK
+                  What thing?                                      (X)
+
+                                   LOIS
+                  The... thing.                                    (X)
+
+                                   CLARK
+                       (nods)                                      (X)
+                  _That_ thing.                                    (X)
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95   8.    
+
+
+14  CONTINUED:  2                                                14   
+
+                                   LOIS
+                  Which we don't have a lot of                     (X)
+                  experience... or much... with.                   (X)
+                  Well, with each other, or...                     (X)
+                       (stops)                                     (X)
+                  Oh, God, why am I doing this?                    (X)
+
+                                   CLARK
+                  Lois, it's okay.                                 (X)
+
+                                   LOIS
+                  I'm sucking the romance out of                   (X)
+                  this like a vacuum.  But I just                  (X)
+                  keep thinking... we've waited and                (X)
+                  I'm glad --
+
+                                   CLARK
+                  Me too.
+
+                                   LOIS
+                  -- but then it's for life and what               (X)
+                  if... what if... ?                               (X)
+                       (pause)                                     (X)
+                  Clark, if I sound half as stupid                 (X)
+                  as I think I do, just kill me.                   (X)
+
+    Perry interrupts their close huddle.                           (X)
+
+                                   PERRY
+                  Enough of that.  Lois. Aren't you                (X)
+                  getting the tour of that new fun                 (X)
+                  park?                                            (X)
+
+                                   LOIS
+                       (flustered)                                 (X)
+                  The Virtual Reality Center,                      (X)
+                  right...  I was just, uh...                      (X)
+
+                                   CLARK
+                  ...  filling me in, 'cause I'm                   (X)
+                  going, too and...                                (X)
+
+                                   LOIS
+                       (gathering her things)                      (X)
+                  ...  we're --
+
+
+15  INT. VIRTUAL CENTER - MASTER CHAMBER - DAY                   15   
+
+                                   COMPUTER
+                  -- on the way.
+
+    Jaxon in front of his computer.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   Yellow Rev.     10/25/95      9.    
+
+
+15  CONTINUED:                                                   15   
+
+                                   JAXON
+                  All right, now we're cookin'.
+
+                                   COMPUTER
+                  Since you programmed me to spur you
+                  onto greater heights, let me just 
+                  remind you why this is so 
+                  important.
+
+    On Jaxon's computer monitor, the Lex Corp logo appears, then 
+    words "ACCESS DENIED" flash.
+
+                                   JAXON
+                       (like a child)
+                  Access denied, access denied!
+
+                                   COMPUTER
+                  Lex Luthor was a very tricky man.  
+                  He liked to protect his information.  
+                  Especially
+                  information this valuable, Jaxon.
+
+                                   JAXON
+                  X!  I've told you, call me X!
+
+                                   COMPUTER
+                  X.  According to the information we 
+                  _can_ access, Lois Lane is the only 
+                  other person, besides Lex who knows 
+                  the --
+
+                                   JAXON
+                  Did I program you to repeat 
+                  yourself?  Are you the world's 
+                  first cybernetic parrot?  I know 
+                  all this.  I'm the one who told you, 
+                  remember?  _I_ programmed _you_ 
+                  to challenge _me_.  I'm the one who's            (X)
+                  actually alive --
+
+                                   COMPUTER
+                  I see no reason to get nasty.
+
+    There is a very loud, very deep DING DONG.
+
+                                   COMPUTER (CONT'D)
+                  She's here.  Reminder -- be smooth 
+                  and charming.  Where are your 
+                  breathmints?
+
+    He pats his pockets.  Can't find them.
+
+                                   JAXON
+                  Oh, no.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  10.    
+
+
+15  CONTINUED:  2                                                15   
+
+                                   COMPUTER
+                  Breast pocket.
+
+    He gets them.
+
+                                   COMPUTER (CONT'D)
+                  What would you do without me?
+
+
+16  INT. VIRTUAL CENTER MAIN CHAMBER - LATER - DAY               16   
+
+    A large, brightly lit room.  Along one wall is an impressive
+    bank of state-of-the-art ELECTRONIC HARDWARE, and along the
+    adjacent wall are SEVERAL VIDEO SCREENS.
+
+    CAMERA FINDS Lois and Clark following an agitated Jaxon, as
+    he gives them a tour of this VIRTUAL CHAMBER.  As he moves,
+    he clicks switches and levers with speed and precision.
+
+                                   JAXON
+                  You'll have to excuse my surprise,
+                  Miss Lane, but I sent an invitation
+                  for _one_.
+
+                                   LOIS
+                  Yes, Mr. Xavier, but this is my
+                  partner and fiance, Clark Kent.
+
+    At the word "fiance" Jaxon stops.
+
+                                   JAXON
+                  Please, call me 'X'.
+
+                                   LOIS
+                  X?
+
+                                   JAXON
+                  X.  You know.
+                       (makes an X in the air)
+
+                                   LOIS
+                  All right, X.  We've heard a lot
+                  about this place.  What makes it so
+                  unique?
+
+                                   JAXON
+                  My virtual world is so advanced, I
+                  like to say it's beyond virtual
+                  reality.
+
+                                   CLARK
+                  How so?
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  11.    
+
+
+16  CONTINUED:                                                   16   
+
+                                   JAXON
+                  Well, see, normally VR is about
+                  computer-created sensations coming
+                  at you.  But the way I've designed
+                  it, I bring you in.  Your mind
+                  actually travels into _my_ world.                (X)
+
+                                   LOIS
+                  That sounds a little dangerous.
+
+                                   JAXON
+                  Not anymore dangerous than putting
+                  your body on a rollercoaster.  Get               (X)
+                  off and on when told, you're fine.
+                  You're not afraid of
+                  rollercoasters ... are you, Miss
+                  Lane?
+
+                                   LOIS
+                  I guess it depends on whose                      (X)
+                  rollercoaster it is.                             (X)
+
+                                   CLARK
+                  We've heard this place is really
+                  popular with kids.
+
+                                   JAXON
+                       (snippy)
+                  It's popular, Period.  Yesterday,
+                  the mayor paid a visit.  Stayed for
+                  three hours playing virtual golf in
+                  Scotland with Sean Connery.
+
+                                   LOIS
+                  Glad to know my tax dollars aren't
+                  being wasted.
+
+                                   JAXON
+                  Look, I could talk all day but...
+                  why don't you guys see for
+                  yourselves?
+
+    He motions for them to hook up.
+
+                                   JAXON (CONT'D)
+                  Where would you like to visit this               (X)
+                  afternoon?                                       (X)
+
+                                   CLARK
+                  Mattress store?                                  (X)
+
+                                   LOIS
+                  Hawaii.                                          (X)
+
+                                                     CUT TO:
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  12.    
+
+
+17  INT. VIRTUAL CENTER CHAMBER - MOMENTS LATER                  17   
+
+    Lois and Clark have each slipped on a pair of VIRTUAL 
+    GOGGLES, and a pair of VIRTUAL GLOVES.  The goggles are not 
+    yet over their eyes.  Their VITAL SIGNS are displayed on a 
+    monitor next to them.  Jaxon checks to make sure all the 
+    wire connections are secure.
+
+    He does a double-take at Clark's vital signs, which are 
+    _way_ different than Lois'.  Jaxon bangs the side of the 
+    machine.  Clark sees this, checks Lois' display -- closes 
+    his eyes, and his display suddenly reads the same as Lois'.
+
+                                   JAXON
+                  Okay, now slip the goggles over
+                  your eyes, relax, and open your
+                  minds...
+
+    Lois and Clark look at each other, smile.  Slip the goggles
+    over their eyes.
+
+                                   CLARK
+                  See you in Hawaii...
+
+
+18  JAXON                                                        18   
+
+    moves through the glass door, to the Master Station, shuts
+    it.  He can view the entire chamber from this vantage, and
+    his fingers begin to fly feverishly across the computer
+    keyboard.
+
+                                   COMPUTER
+                  You hit my monitors again, Jaxon.
+
+                                   JAXON
+                       (angry)
+                  They were malfunctioning.  And
+                  who _is_ this fiancee, partner guy?
+                  Clark Kent, Mr. GQ, he's not                     (X)
+                  part of the plan, he's a viral                   (X)
+                  anomaly, he's --                                 (X)
+
+                                   COMPUTER
+                  Jaxon --
+
+                                   JAXON
+                  X!
+
+                                   COMPUTER
+                  -- breathe, remember to breathe, or
+                  you'll pass out again.  Just
+                  separate Kent and Lane in virtual                (X)
+                  world.  Then kill him if you have
+                  to.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   Yellow Rev.     10/25/95     13.    
+
+
+18  CONTINUED:                                                   18   
+
+                                   JAXON
+                  But I've never killed anybody
+                  before.
+
+                                   COMPUTER
+                  Did you actually think you could
+                  take over Lex's empire and not                   (X)
+                  kill one or two people?
+
+                                   JAXON
+                  I never really thought about it.
+
+                                   COMPUTER
+                  To acquire and maintain control, a
+                  conqueror must be willing to
+                  deceive, dominate... and eliminate.
+
+                                   JAXON
+                       (worried)
+                  Kill him...
+                       (shrugs)
+                  okay.  Sounds like fun.
+
+
+19  LOIS AND CLARK                                               19   
+
+    sit, hooked up, waiting.  The COMPUTER BANKS suddenly start 
+    spinning and humming, as the machines snap to life.
+
+    Jaxon's fingers continue to dance across the keyboard.
+
+    Tighter on Lois and Clark.
+
+                                   LOIS
+                  Clark?                                           (X)
+
+                                   CLARK
+                  I'm right --                                     (X)
+
+    then WHOOOOSH!
+
+    The screen goes WHITE.
+
+    FADE IN:
+
+
+20  EXT. BEACH - VR - DAY                                        20   
+
+    Lois and Clark find themselves standing next to the ocean.
+
+                                   CLARK
+                  -- here.                                         (X)
+                       (looks around)                              (X)
+                  Whoa....!
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   Yellow Rev.     10/25/95    13A.    
+
+
+20  CONTINUED:                                                   20   
+
+                                   LOIS
+                       (wide-eyed)
+                  I can't believe this.
+
+                                   CLARK
+                  This looks so real.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  14.    
+
+
+20  CONTINUED:                                                   20   
+
+                                   LOIS
+                  And the air smells so clean.  I'd
+                  swear we were in Hawaii.
+
+    She kicks off her shoes.  Clark wraps his arms around her      (X)
+    waist.                                                         (X)
+
+                                   CLARK
+                  You want to pick up that                         (X)
+                  conversation where we left off?                  (X)
+
+                                   LOIS
+                  How about when we're really alone,               (X)
+                  as opposed to virtually alone.                   (X)
+
+                                   CLARK
+                  Okay.  Then how about a walk on                  (X)
+                  the beach?                                       (X)
+
+
+21  INT. MASTER CHAMBER - REALITY - VIRTUAL CENTER               21   
+
+    Jaxon is watching Lois and Clark on his monitor.  His face
+    frozen in a disgusted frown.
+
+                                   COMPUTER
+                  You seem to be having a strong
+                  emotion.  Is it... jealousy?
+
+                                   JAXON
+                  Shut up!  If you were a better
+                  computer, I could actually hear
+                  what they were saying, without
+                  having to go in there myself.
+
+                                   COMPUTER
+                  Lois Lane is not someone to whom
+                  you should become emotionally
+                  attached in any way.  She is a step
+                  in your plan.
+
+                                   JAXON
+                  I know that.
+
+                                   COMPUTER
+                  So.  You've now deceived them.                   (X)
+                  Time to dominate.                                (X)
+
+
+22  RESUME SCENE                                                 22   
+
+    Lois and Clark are walking, hand-in-hand.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  15.    
+
+
+22  CONTINUED:                                                   22   
+
+                                   CLARK
+                  I wonder if everything in virtual                (X)
+                  reality feels this real.                         (X)
+
+                                   LOIS
+                  Like?                                            (X)
+
+    He kisses her.                                                 (X)
+
+                                   LOIS (CONT'D)
+                  Pretty real.                                     (X)
+
+    They kiss again.                                               (X)
+
+                                   JAXON (O.S.)
+                  Okay, trip's over.
+
+    Lois and Clark straighten up, startled.  Jaxon has appeared 
+    from nowhere, and he's dressed in a very stylish white suit.
+    As they move to him, they whisper to each other.
+
+                                   LOIS
+                       (sotto)
+                  Why is he wearing that suit?
+
+                                   CLARK
+                       (sotto)
+                  To impress you.
+
+                                   LOIS
+                  No, he's not.
+
+                                   CLARK
+                  Yes, he is.
+
+    Though overdressed for the occasion, Jaxon looks and moves
+    much better in this virtual environment -- stronger and more
+    vibrant.  He's all business.
+
+                                   JAXON
+                  Time to go back to reality.  Just
+                  relax and...                                     (X)
+
+    Jaxon takes Lois' hand.  The three of them DISAPPEAR as the    (X)
+    screen goes WHITE.
+
+    FADE IN:
+
+23  INT. VIRTUAL CENTER CHAMBER - VR - DAY                       23   
+
+    Lois and Clark, sitting in their chairs, emerge from the
+    virtual world.  They take of their gloves, goggles.            (X)
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  16.    
+
+
+23  CONTINUED:                                                   23   
+
+                                   LOIS
+                  That was amazing.                                (X)
+
+    They turn to see Jaxon standing in the doorway of his Master
+    Station, watching them with a smile.
+
+                                   JAXON
+                  Do I get a good review?                          (X)
+
+                                                     CUT TO:
+
+
+24  EXT. METROPOLIS STREET - VR - DAY                            24   
+
+    The streets are very clean, and there seem to be fewer
+    people, less traffic than normal, all cars and clothes are
+    primary colors.  Lois and Clark are standing at a RED          (X)
+    capuccino stand.
+
+    They get their coffees, pay the lady, and start down the
+    street.  A WOMAN in a RED DRESS and a stunning figure is the
+    only other person in line.
+
+                                   CLARK
+                  So.  Now that we're back in real                 (X)
+                  reality... would you like to                     (X)
+                  finish our conversation?                         (X)
+
+                                   LOIS
+                  Clark, I want...                                 (X)
+
+                                   CLARK
+                  Yes?                                             (X)
+
+                                   LOIS
+                  ... pastrami.                                    (X)
+
+                                   CLARK
+                  What?                                            (X)
+
+                                   LOIS
+                  On rye.  Russian dressing.  Sliced               (X)
+                  pickles.  Side of slaw.  Cream                   (X)
+                  soda.  And then...                               (X)
+
+                                   CLARK
+                  And then... ?                                    (X)
+
+                                   LOIS
+                  And then we'll deal with... that                 (X)
+                  thing.                                           (X)
+
+    They walk past an alley.  As they move out of sight, the       (X)
+    alley wall RIPPLES into the shape of a man.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  17.    
+
+
+24  CONTINUED:                                                   24   
+
+    Lois and Clark walk on, oblivious.                             (X)
+
+    Kombat MORPHS into view steps out with an evil smile.          (X)
+
+                                                     FADE OUT:
+
+                           _END OF ACT ONE_
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  18.    
+
+                             _ACT TWO_
+
+    FADE IN:
+
+25  EXT. GABBY'S DELI - VR - DAY                                 25   
+
+    Hiding nearby, Kombat watches Lois and Clark.  She has three
+    empty plates in front of her.  Clark nurses a soda.  Lois
+    polishes off her sandwich.
+
+                                   LOIS
+                  Okay.  I feel much better.  You                  (X)
+                  want anything else?                              (X)
+
+                                   CLARK
+                       (head shake)                                (X)
+                  Just _watching_ made me full.                    (X)
+
+                                   LOIS
+                  The weird thing is, I'm not.  Oh,                (X)
+                  well.  Okay.  Here's what's                      (X)
+                  bugging me.  I was thinking the                  (X)
+                  other night about some of my past                (X)
+                  relationships.  What I did was, I                (X)
+                  listed all my relationships --                   (X)
+                  before us -- that were positive                  (X)
+                  and then all the ones that were                  (X)
+                  negative.                                        (X)
+
+                                   CLARK
+                  And... ?                                         (X)
+
+                                   LOIS
+                  To get right down to it -- the
+                  healthiest relationship I've had                 (X)
+                  in the last ten years was Lex                    (X)
+                  Luthor.
+
+                                   CLARK
+                  Ouch.                                            (X)
+
+                                   LOIS
+                  Yeah.                                            (X)
+
+                                   CLARK
+                  But now you've got me.  So none of               (X)
+                  that matters.                                    (X)
+
+                                   LOIS
+                  Oh, Clark...                                     (X)
+
+    Clark leans in. They kiss.                                     (X)
+
+
+26  IN THE ALLEY                                                 26   
+
+    Kombat watches Lois and Clark hold hands. He frowns,
+    "clicks" his watch, and DISAPPEARS.
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  19.    
+
+
+27  INT. MASTER CHAMBER - VIRTUAL CENTER - REALITY - DAY         27   
+
+    Jaxon removes his goggles, and starts typing on his
+    computer.  Lois and Clark are on the monitor, at the Deli,
+    kissing, talking close.
+
+                                   JAXON
+                       (mimicking)                                 (X)
+                  'Oh, Clark.'                                     (X)
+                       (kiss; watches them)
+                  You know, it would be great if I
+                  didn't have to _leave_ virtual
+                  world every time I wanted to
+                  program an event.  Now I can't hear
+                  what's going on...
+
+                                   COMPUTER
+                  You'll never really grow as a                    (X)
+                  human being if you continue to                   (X)
+                  blame machines for your                          (X)
+                  ineptitudes.                                     (X)
+
+                                   JAXON
+                  Ineptitudes?  I'll show you
+                  ineptitudes! Say good-bye to 'oh,                (X)
+                  Clark!'                                          (X)
+
+    He starts making CAR NOISES, and WE'RE...
+
+
+28  AT THE DELI                                                  28   
+
+    Lois and Clark keep talking.
+
+                                   LOIS
+                  But see, the point is... I've                    (X)
+                  gotten through a lot of my fears.                (X)
+                  A lot.  Except maybe one.  And                   (X)
+                  it's not even a fear, it's just...               (X)
+                  a concern.  About... that thing.                 (X)
+
+                                   CLARK
+                  Actually, you bring up a good                    (X)
+                  point, because we've never really                (X)
+                  talked about... our pasts.                       (X)
+
+                                   LOIS
+                  Right, exactly, and I just want                  (X)
+                  you to know why _I've_ always been               (X)
+                  a little skittish about crossing                 (X)
+                  that intimacy threshold.  And                    (X)
+                  you've been so understanding about               (X)
+                  it, I wondered if maybe                          (X)
+                  _you're_... skittish.                            (X)
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  20.    
+
+
+28  CONTINUED:                                                   28   
+
+                                   CLARK
+                  Well, my experience is a little                  (X)
+                  different.                                       (X)
+
+                                   LOIS
+                  Mm hm.                                           (X)
+
+                                   CLARK
+                  _I'm_ a little different.                        (X)
+
+                                   LOIS
+                  Sure.                                            (X)
+
+                                   CLARK
+                  I mean, I've had girlfriends.                    (X)
+                  I've...                                          (X)
+                       (she waits)                                 (X)
+                  ... dated.  But... that thing?                   (X)
+                  The intimacy threshold?  The big                 (X)
+                  threshold? I've never actually...                (X)
+                  crossed it.                                      (X)
+                       (a beat, as she takes                       (X)
+                        this in)                                   (X)
+                  I've stepped right up, gotten a                  (X)
+                  good look but...                                 (X)
+
+                                   LOIS
+                  Oh, my God.                                      (X)
+
+                                   CLARK
+                  I'm not from here.  So I'm                       (X)
+                  always asking myself, do I really                (X)
+                  belong?  Am I supposed to have a                 (X)
+                  life with someone or -- ?                        (X)
+
+                                   LOIS
+                  Oh, my _God_.                                    (X)
+
+                                   CLARK
+                  Lois, are you listening?  'Cause                 (X)
+                  I'm kind of pouring my heart out
+                  here.                                            (X)
+
+                                   LOIS
+                  I'm sorry, I'm sorry, I'm just a                 (X)
+                  little...  Could we walk?                        (X)
+
+                                   CLARK
+                  Sure.                                            (X)
+
+
+28A EXT. AROUND THE CORNER - DAY                                28A   
+
+    Lois and Clark walk.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  21.    
+
+
+28A CONTINUED:                                                  28A   
+
+                                   LOIS
+                  So what you're telling me is,                    (X)
+                  you're a... a... v... very patient               (X)
+                  man.                                             (X)
+
+                                   CLARK
+                  I needed to be sure.  I needed to                (X)
+                  meet the one person I could share                (X)
+                  everything with.                                 (X)
+
+                                   LOIS
+                  And I admire that, the way you've
+                  dealt with this... and I also feel               (X)
+                  a little...                                      (X)
+
+                                   CLARK
+                  Yes?                                             (X)
+
+                                   LOIS
+                  I just wish you'd told me                        (X)
+                  before.  I mean, this is big.                    (X)
+
+                                   CLARK
+                  I didn't exactly know how to bring               (X)
+                  it up.                                           (X)
+
+                                   LOIS
+                  And it puts a little more pressure               (X)
+                  on a situation where there's                     (X)
+                  plenty of pressure already...                    (X)
+
+                                   CLARK
+                  Lois, there's no pressure.                       (X)
+                  Because I'm sure I've made the                   (X)
+                  right choice.  You're the one I've               (X)
+                  waited for.                                      (X)
+
+                                   LOIS
+                  I wish I'd... waited, too.                       (X)
+
+                                   CLARK
+                       (takes her in his arms)                     (X)
+                  Shhhh, shhhhhh, don't.                           (X)
+
+                                   LOIS
+                  Well, I do.  Especially since they               (X)
+                  were all practically federal                     (X)
+                  disasters.                                       (X)
+
+                                   CLARK
+                  Then look at it at that way.  I'll               (X)
+                  be your first... non-federal                     (X)
+                  disaster.  And you'll be my                      (X)
+                  first --
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  22.    
+
+
+28A CONTINUED:  2                                               28A   
+
+    Suddenly a BLACK CAR BARRELS DOWN ON THEM!                     (X)
+
+                                   LOIS
+                  Clark!
+
+    Clark grabs Lois, tries to fly. Nothing.
+
+                                   CLARK
+                  I can't fly! Run!
+
+    They start running, the car gaining and gaining, closer and
+    closer, Lois trips and rolls out of the way.  The car          (X)
+    shoots past her, staying on Clark.                             (X)
+
+
+29  CLARK                                                        29   
+
+    hops up on the sidewalk -- the car jumps up on the sidewalk    (X)
+    behind him -- smashing everything in its path, including a
+    fire hydrant, which SPEWS WATER.
+
+
+30  LOIS                                                         30(X)
+
+    watches Clark run, starts to her feet.  A HAND helps her       (X)
+    up.  It's SUPERMAN.                                            (X)
+
+                                   LOIS
+                  Thanks, Superman.
+                       (double takes)
+                  Superman...?!?
+
+    Superman smiles grandly at Lois.
+
+
+31  CLARK                                                        31   
+
+    is still running -- the car almost on top of him!  At the
+    last possible second, Clark LEAPS in the air -- catches hold
+    of a flagpole sticking out from the side of a building -
+    hoisting himself up, and out of the car's path!
+
+    The car CAREENS out of control, and comes to a SMASHING HALT
+    as it SLAMS into a bus stop!
+
+    Lois looks at Superman, then backs up in fear and runs to      (X)
+    Clark.                                                         (X)
+
+                                   LOIS
+                  Clark --                                         (X)
+
+                                   CLARK
+                  Are you okay?                                    (X)
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  23.    
+
+
+31  CONTINUED:                                                   31   
+
+                                   LOIS
+                  Fine.  Are you -- ?                              (X)
+
+                                   CLARK
+                  Fine.  Except I don't have any                   (X)
+                  powers...                                        (X)
+
+                                   LOIS
+                  Well, maybe it's because you're                  (X)
+                  not... all you.                                  (X)
+
+                                   SUPERMAN
+                  Citizens.  Be careful crossing the
+                  street.  Have a good day.
+
+    Superman smiles, waves, then TAKES OFF.  Lois and Clark        (X)
+    stare.  Then Clark unbuttons his shirt.                        (X)
+
+                                   LOIS
+                  Did he just call us... 'citizens'?
+
+                                   CLARK
+                  He sounded more like Robocop than                (X)
+                  me.
+                       (looking at bare chest)                     (X)
+                  Something is very wrong here                     (X)
+
+                                   LOIS
+                  And I think I know what it is
+
+    Lois looks back at the capuccino cart, the woman in the red
+    dress still there, the bystanders who go on with their
+    business as though nothing has happened, and Lois
+    understands.
+
+                                   LOIS
+                  Clark...
+
+    She looks to Clark, and they both know.
+
+                                   LOIS AND CLARK
+                  ... we're still in the virtual
+                  world!
+
+                                   LOIS
+                  Jaxon's trapped us in here.  What                (X)
+                  do we do?
+
+                                   CLARK
+                  Just act normal.  See where he'll
+                  let us go.  But I don't think he
+                  likes me very much...
+
+    They start walking.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  24.    
+
+
+31  CONTINUED:  2                                                31   
+
+                                   LOIS
+                  Oh, my God.                                      (X)
+
+                                   CLARK
+                  What?                                            (X)
+
+                                   LOIS
+                  We have just had the most intimate               (X)
+                  conversation of our lives...                     (X)
+                  inside a computer, with God knows
+                  who listening and watching and --                (X)
+                       (furious)
+                  Oh, he is going to pay for this.                 (X)
+
+                                                     CUT TO:
+
+
+32  INT. VIRTUAL CENTER - MASTER STATION - DAY                   32   
+
+    Jaxon at his computer.  He bangs his fists on hisdesk.
+
+                                   JAXON
+                  I _had_ him!  He just squeaked out
+                  by inches!
+
+                                   COMPUTER
+                  You have to get tougher.  Bolder.
+                  Like Lex Luthor.
+
+                                   JAXON
+                  Don't bring him up, okay?  This has
+                  nothing to do with him, this is my
+                  plan!  You hear me?  Mine!  And
+                  we're gonna do it MY way -- and my
+                  way IS SUBTLE!
+
+                                   COMPUTER
+                  Jaxon, we need to give you more
+                  sedatives.
+
+                                   JAXON
+                  I can't just reach into her brain
+                  and yank out what I want.  I've got 
+                  to get her to tell it to me.  I've 
+                  gotta make her vulnerable but 
+                  trusting, I've got to --
+
+    Suddenly, the lights go dim, and an ALARM sounds.
+
+                                   JAXON (CONT'D)
+                  What is it?
+
+                                   COMPUTER
+                  Clark Kent's vital signs, they're
+                  dropping!
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  25.    
+
+
+32  CONTINUED:                                                   32   
+
+                                   JAXON
+                  That's good.  Maybe Lois killed him
+                  for me!
+
+    Jaxon runs out of his master chamber, and up to Clark.  His 
+    vital signs are sinking, then they flare up, wildly.
+
+                                   JAXON (CONT'D)
+                  This isn't right.  It's not
+                  possible.
+
+    He bangs the monitor again and again.
+
+                                   COMPUTER
+                  Stop banging my monitors!
+
+                                   JAXON
+                  Well, quit malfunctioning!
+
+                                   COMPUTER
+                  I'm not malfunctioning... it's his
+                  read outs, they're screwing up my                (X)
+                  circuits!  Why don't you just kill
+                  his body, right here?                            (X)
+
+                                   JAXON
+                  Because -- duhhhh! -- Lois Lane
+                  needs to feel she's in her                       (X)
+                  world -- a world where she can                   (X)
+                  trust what happens and why.  Clark               (X)
+                  Kent can die -- but she has to see               (X)
+                  it... and then be comforted.  By                 (X)
+                  me.  Now let's get her to her                    (X)
+                  apartment, where she feels safe.                 (X)
+
+
+33  OMITTED                                                      33   
+
+
+34  EXT. METROPOLIS STREET - VR - DAY                            34   
+
+    They're on Lois' street.  And on that street:  capuccino       (X)
+    stand, lady in red, same extras.                               (X)
+
+                                   CLARK
+                  We've been up and down every                     (X)
+                  street... and we always end up in                (X)
+                  front of your house... and I'm                   (X)
+                  getting really sick of looking at                (X)
+                  the same ten people.  What do you                (X)
+                  want to do?                                      (X)
+
+                                   LOIS
+                  Guess he wants us to go inside.                  (X)
+                  And I want to get my hands on                    (X)
+                  him...                                           (X)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  26.    
+
+
+35 INT. VIRTUAL WORLD CHAMBER - DAY                              35   
+
+    Jaxon is still working on Clark's vital sign monitor.  He
+    has a control panel open, and tools strewn about the floor.
+
+                                   COMPUTER
+                  Jaxon, they've arrived at Lois'
+                  apartment.  How are we coming?
+
+                                   JAXON
+                  Just a few more minutes.  It seems
+                  Mr. GQ here has shorted out some
+                  circuits.
+
+    He hits Clark in the shoulder, but hurts his hand.
+
+                                   JAXON (CONT'D)
+                  Ouch! He's thicker than he looks.
+
+
+36  INT. LOIS' APARTMENT - VR - DAY                              36   
+
+    They enter, and the place looks the same.  Everything
+    appears normal.
+
+                                   LOIS
+                  What do we do now?
+
+                                   CLARK
+                  Act normal.
+
+    She takes a deep breath.
+
+                                   LOIS
+                  How normal can I be right now?                   (X)
+                  I'm vacillating between fear,                    (X)
+                  rage... and total embarrassment.                 (X)
+
+                                   CLARK
+                  How about some tea?                              (X)
+
+                                   LOIS
+                  Tea.  Great.                                     (X)
+
+    Lois goes to the kitchen.  She opens a cupboard.  Looks        (X)
+    startled.                                                      (X)
+
+                                   LOIS
+                  Clark... ?                                       (X)
+
+    Clark looks into the cupboard and sees a BLACK, ELECTRONIC     (X)
+    VOID.                                                          (X)
+
+                                   CLARK
+                  I guess, no tea.                                 (X)
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  27.    
+
+
+36  CONTINUED:                                                   36   
+
+                                   LOIS
+                  You know, on the beach he showed
+                  up when you and I were kissing.
+                  And that car chased us when we were
+                  arm in arm, crossing the street...               (X)
+
+                                   CLARK
+                  So... ?
+
+                                   LOIS
+                  So if we get close now... he might
+                  make his move.  Kiss me.
+
+    He does.  They separate.  Look around.
+
+                                   LOIS (CONT'D)
+                  I never thought I'd be                           (X)
+                  uncomfortable kissing you...                     (X)
+
+                                   CLARK
+                  Don't think about it.                            (X)
+
+    Another, deeper one.
+
+                                   LOIS
+                       (a little breathy)
+                  Still nothing...
+
+    They kiss again, really deep, and passion starts to take 
+    over.  They are barely able to pull apart.
+
+                                   CLARK
+                  Anything?
+
+                                   LOIS
+                  Well, I'm feeling a little more...
+                  comfortable.                                     (X)
+
+                                   CLARK
+                  Me too.                                          (X)
+
+    Their faces smash together, and they're lost in passion.
+
+
+36A INT. BEDROOM                                                36A(X)
+
+    They fall onto the bed.  She takes off his glasses, loosens
+    his tie, while he unbuttons her jacket and peels it off her
+    shoulders.
+
+                                   LOIS
+                       (breathless)
+                  This isn't really happening, right?
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  28.    
+
+
+36A CONTINUED:                                                  36A   
+
+                                   CLARK
+                       (equally breathless)
+                  Right, it's all in our minds.
+
+                                   LOIS
+                  How come it feels so real?
+
+                                   CLARK
+                  Who cares?
+
+
+37  INT. VIRTUAL WORLD CHAMBER - DAY                             37   
+
+    Jaxon still has his head inside the console.  He reaches for
+    another tool.  Lois and Clark are going crazy on the
+    monitor, but Jaxon is unaware.
+
+                                   JAXON
+                  Almost there... just another
+                  minute....
+
+                                   COMPUTER
+                  Jaxon... I think you should take a               (X)
+                  look at what's going on... there's
+                  a major power surge coming.                      (X)
+
+    Clark's vital signs suddenly go haywire -- and everything
+    shorts out!  There is smoke, sparks, and Jaxon runs for his
+    Master Chamber.
+
+    Jaxon looks up at the monitor.  His eyes go wide -- Lois and
+    Clark locked in their embrace.
+
+                                   JAXON
+                  I have an idea.  If she's so hot
+                  for Kent, then...
+
+    Jaxon jumps into his seat at his master chamber, and slips
+    on his goggles, starts typing rapidly.
+
+
+38  INT. LOIS' APARTMENT - BEDROOM - VR - DAY                    38   
+
+    Lois pulls off Clark's shirt.  He is bare-chested.  Clark      (X)
+    looks at Lois.  His hands reach for her blouse, when --        (X)
+
+    A door is kicked in.  Kombat stands there, dramatically        (X)
+    backlit, breathing heavily.  He is _pissed_.
+
+                                   KOMBAT
+                  Mr. Kent, it's time you and I had a
+                  little talk!
+
+    Lois smashes Kombat with a vase.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  29.    
+
+
+38  CONTINUED:                                                   38   
+
+                                   KOMBAT (CONT'D)
+                  Lois.  Don't interrupt.
+
+    Clark belts him but Kombat just smiles and --
+
+    The two fight.  Kombat is much stronger.  Kombat flings him    (X)
+    out the window!  But as he does, Clark inadvertently
+    "clicks" the L.L. watch Kombat wears on his wrist, and they
+    both DISAPPEAR!
+
+    THE SCREEN GOES WHITE
+
+    FADE IN:
+
+
+39  INT. VIRTUAL CHAMBER - REALITY - DAY                         39   
+
+    Clark finds himself in the virtual chamber, sitting in his
+    chair.  He rips off his goggles, gloves, the wires, to
+    find...
+
+    Lois is sitting next to him, still attached to the wires,
+    goggles, etc.  Clark's out of virtual world!  He reaches
+    out, about to free Lois --
+
+                                   JAXON
+                  Stop!  She has to be let out
+                  through the escape window!
+
+    Jaxon is standing at the door of his Master Station, looking
+    down at Clark -- his virtual goggles dangling from his hand.
+
+                                   JAXON (CONT'D)
+                  If _you_ pull those goggles from
+                  her eyes, you will separate her
+                  mind and body forever, Mr. Kent.
+
+    He laughs triumphantly.  Off Clark's look...
+
+                                                     FADE OUT:
+
+                           _END OF ACT TWO_
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   Yellow Rev.     10/25/95     30.    
+
+                              _ACT THREE_
+
+    FADE IN:
+
+40  INT. VIRTUAL CENTER - REALITY  - DAY                         40   
+
+    Jaxon is standing at the door to his Master Station, looking
+    down at Clark. A smile still pasted across his face.
+
+                                   JAXON
+                  That's right.  She's trapped in my
+                  virtual world, and only I can let
+                  her out.  I control the escape 
+                  window.  If you want to save your 
+                  little love, it will be on _my_
+                  terms.
+
+                                   CLARK
+                  You're bluffing.  I can just pull
+                  these off, and she's out.
+
+                                   JAXON
+                  Do it, Mr. Kent, and she dies.
+
+                                                                   (X)
+
+                                   CLARK
+                  You leave me no choice.
+
+                                   JAXON
+                  You have a choice.  Step back into 
+                  my virtual world, and we'll go 
+                  mano-a-mano.  You and me.
+
+                                   CLARK
+                  It wouldn't be fair.  It's your
+                  world.
+                       (moving at him)
+                  But in this world --
+
+                                   JAXON
+                  In this world, you take one more 
+                  step toward me and I promise, 
+                  you'll never get her out of there.
+                       (grins)
+                  Ever since fourth grade I always 
+                  wondered what it'd feel like to 
+                  just _pound_ on guys like you...
+                                   (MORE)
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  31.    
+
+
+40  CONTINUED:                                                   40   
+
+                                   JAXON (CONT'D)
+                  And it's weird, 'cause it feels ...
+                  REALLY GREAT!  I LOVE IT!
+
+    He laughs maniacally.
+
+                                   JAXON (CONT'D)
+                  So you want to leave?  Go on.  Call 
+                  the cops?  Fine.  Because by the 
+                  time they get here, I'm going to
+                  have everything I need from her... 
+                  and you could bring the 87th 
+                  Airborne -- nothing is going to 
+                  stop me.
+
+    Clark thinks for a long beat, stares at Lois.
+
+                                   CLARK
+                       (looks at Lois)
+                  I'm sorry, Lois... forgive me.
+
+    He exits.  Jaxon watches him go, almost amused.
+
+                                   JAXON
+                  Good dresser?  Yes.  Computer
+                  expert?  No.                                     (X)
+
+    He starts typing rapidly, then --
+
+    THE SCREEN GOES WHITE
+
+
+41  OMITTED                                                      41   
+
+
+42  INT. LOIS' APARTMENT - VR - DAY                              42   
+
+    Clark (actually CLARK/X, as we'll see) rushes inside,
+    looking very concerned, haggard.
+
+                                   LOIS
+                  Clark!
+
+    He takes her in his arms.  And as he does, we see the L.L.
+    watch and the evil smile on his face.
+
+                                   LOIS
+                  What happened?                                   (X)
+
+                                   CLARK/X
+                  I was in this weird place for a                  (X)
+                  minute... all white... and then I                (X)
+                  was out on the sidewalk.  What                   (X)
+                  happened to the big guy?                         (X)
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  32.    
+
+
+42  CONTINUED:                                                   42   
+
+                                   LOIS
+                  He disappeared when he threw you
+                  out the window.  What's going on?
+
+    He sits her down on the couch.
+
+                                   CLARK/X
+                  I don't know... but while I was in               (X)
+                  this white place I saw these icons               (X)
+                  and heard these voices.  All about               (X)
+                  Lex Luthor.                                      (X)
+
+                                   LOIS
+                  Lex?
+
+                                   CLARK/X
+                  I think all this has something to                (X)
+                  do with him... and your                          (X)
+                  relationship with him.                           (X)
+
+                                                     CUT TO:
+
+
+43  INT. DAILY PLANET - REALITY - DAY                            43   
+
+    Jimmy is working on his computer, typing rapidly.  Perry is
+    looking over his shoulder.  (NOTE: We don't have to see the    (X)
+    computer screen.)                                              (X)
+
+                                   JIMMY
+                  Now check out her data.  Likes to                (X)
+                  fly fish and discuss politics.                   (X)
+                  She's perfect for you.                           (X)
+
+                                   PERRY
+                  First off, I don't know if I'm                   (X)
+                  ready to date yet... and second,                 (X)
+                  well, this isn't her, I'm not                    (X)
+                  getting to know the _woman_.                     (X)
+                  this is just... electrons and                    (X)
+                  plastic.
+
+                                   JIMMY
+                  Chief, you're describing some of                 (X)
+                  my best relationships.  You can                  (X)
+                  have a whole thing with her right                (X)
+                  at your desk and if it doesn't                   (X)
+                  work out, just dive back into the                (X)
+                  net, get another one.                            (X)
+
+                                   PERRY
+                  Disposable love.  Electronic                     (X)
+                  romance.  What would the King say?               (X)
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   Yellow Rev.     10/25/95     33.    
+
+
+43  CONTINUED:                                                   43   
+
+                                   JIMMY
+                  The King'd say...
+                       (like Elvis)                                (X)
+                  ... go for it, Perry.                            (X)
+
+                                   PERRY
+                  I don't know, I need to think on
+                  this one.
+
+    He moves off.  The familiar WHOOSH! and Superman lands.  He
+    strides right over to Jimmy.
+
+                                   JIMMY
+                  Superman!
+
+                                   SUPERMAN
+                  I need your help.
+
+                                   JIMMY
+                  You got it.
+
+                                   SUPERMAN
+                  I need to know everything we can
+                  dig up on Jaxon Xavier...
+
+                                                     FADE TO:
+
+44  INT. PLANET - JIMMY'S DESK - MOMENTS LATER                   44   
+
+    Jimmy and Superman are working on Jimmy's computer.  A 
+    picture and biography of Jaxon comes up on the screen.
+
+                                   JIMMY
+                  Used to work for Lex Luthor at Lex 
+                  Labs.  A genius.  And _the_ pioneer 
+                  in virtual reality.
+
+    Superman looks at all the computers in the Planet.
+
+                                   SUPERMAN
+                  All these computers work on some
+                  kind of link, don't they?
+
+                                   JIMMY
+                  Sure.  Everybody these days is 
+                  hooked up to some kind of on-line 
+                  system.
+
+                                   SUPERMAN
+                  Do you think you could break into
+                  Xavier's computers at the Virtual
+                  Center?
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   Yellow Rev.     10/25/95    33A.    
+
+
+44  CONTINUED:                                                   44   
+
+                                   JIMMY
+                  I could give it a shot. But I'd
+                  need much more powerful equipment.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  34.    
+
+
+44  CONTINUED:                                                   44   
+
+                                   SUPERMAN
+                  Just tell me what...
+
+    Jimmy smiles, cracks his knuckles.
+
+                                   JIMMY
+                  It's about time somebody needed my
+                  help...
+
+                                                     CUT TO:
+
+
+45  INT. LOIS' APARTMENT - VR - DAY                                 45
+
+    Clark/X and Lois are sitting on the couch, talking.
+
+                                   CLARK/X
+                  Did you and Lex ever talk about ...
+                  children?                                        (X)
+
+                                   LOIS
+                  Well... yes.                                     (X)
+
+                                   CLARK/X
+                  And what were you gonna name them?               (X)
+
+                                   LOIS
+                  Clark, I...
+
+                                   CLARK/X
+                  It's important, Lois.  Trust me.                 (X)
+
+                                                     CUT TO:
+
+
+46  INT. DAILY PLANET - CONFERENCE ROOM - DAY                       46
+
+    Jimmy finishes building his System.  It looks ramshackle, 
+    like something a fifth grader put together.  Electrical 
+    tape, a zillion connections, monitors, wires, clamps, 
+    antennae, etc.  Perry comes marching up, not at all happy 
+    with what he sees.
+
+                                   PERRY
+                  Jimmy, what in Sam Hill are you
+                  doing?  I don't need a date this
+                  bad!                                             (X)
+
+    That familiar WHOOSH! and Superman is there with more 
+    computer parts.
+
+                                   SUPERMAN
+                  Here you go.  The last parts.                    (X)
+                       (nods to Perry)
+                  Mr. White.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   Yellow Rev.     10/25/95     35.    
+
+
+46  CONTINUED:                                                   46   
+
+                                   PERRY
+                  Superman, what's going on?
+
+                                   SUPERMAN
+                  Lois is in danger.  I need you to 
+                  call the police, and have them 
+                  surround the Virtual Center.  But 
+                  tell them _not_ to go inside unless 
+                  I say.  Otherwise, Lois could die.
+
+                                   PERRY
+                  You got it.
+
+    Perry moves off, as Jimmy finishes making his last 
+    connections.
+
+                                                     CUT TO:
+
+
+47  INT. DAILY PLANET - CONFERENCE ROOM - MOMENTS LATER          47   
+
+    Jimmy and Superman are hooked up to the System wearing
+    virtual goggles, gloves, etc...  Jimmy makes some last
+    minute adjustments to the System as he talks.
+
+                                   JIMMY
+                  Superman, I can't create an exit
+                  window for us, so unless we can
+                  find Jaxon's escape window, and
+                  steal it, we'll be trapped inside.
+                  Maybe forever.
+
+                                   SUPERMAN
+                  Jimmy, you don't have to go inside.
+                  There's no reason for you to risk
+                  your life, too.
+
+                                   JIMMY
+                  I know more about computers than
+                  you do, Superman.  See, it's all
+                  about information.  You've got to
+                  know how to access it and channel
+                  it... kind of like when you play a
+                  video game and you have to load up
+                  on fuel and ammo to win. And I am                (X)
+                  the _king_ of video games!                       (X)
+
+                                   SUPERMAN
+                  This isn't a game, Jimmy.
+
+                                   JIMMY
+                  I know.  I'm just trying to lighten
+                  the moment.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  36.    
+
+
+47  CONTINUED:                                                   47   
+
+    Jimmy turns to his System, his FINGER hovers over the enter
+    button. He takes a deep breath, and looks at Superman.         (X)
+    He nods.                                                       (X)
+
+                                   JIMMY
+                       Let's break in!                             (X)
+
+    And Jimmy presses the button --
+
+    THE SCREEN GOES WHITE
+
+    FADE IN:
+
+
+48  INT. HALLWAY - LOIS' APARTMENT - VR - DAY                    48   
+
+    Superman and Jimmy BURST THROUGH a wall and stride in.
+
+                                   JIMMY
+                       Cool!                                       (X)
+
+    He puts his hands to the walls, concentrates, then smiles.
+
+
+49  JIMMY'S POV                                                  49   
+
+    An animated screen.  Menus and icons appear with blinding      (X)
+    speed (and sound effects) as he makes his decisions.           (X)
+
+
+50  BACK TO SCENE                                                50   
+
+    Superman watches, and learns.
+
+                                   JIMMY
+                  Time to power up.  The more info                 (X)
+                  we get in here, the stronger we                  (X)
+                  are.  Lemme show you...                          (X)
+
+                                                     CUT TO:
+
+
+51  INT. LOIS' APARTMENT - VR - DAY                              51   
+
+    Lois and Clark/X are still on the couch. He's much closer
+    now, on the edge of his seat.
+
+                                   LOIS
+                  ... Lex wanted every child to have               (X)
+                  the letter 'X' in their name but I
+                  wasn't so --
+
+                                   CLARK/X
+                  Of course... What were they?                     (X)
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  37.    
+
+
+51  CONTINUED:                                                   51   
+
+                                   LOIS
+                  Alexis, Roxanne... and the third
+                  would be named Lynx.  I really
+                  fought him on Lynx, I didn't-think
+                  a kid should be saddled with --                  (X)
+
+                                   CLARK/X
+                       (shouting)
+                  Alexis, Roxanne, Lynx!  Try them,                (X)
+                  computer!
+
+                                   LOIS
+                  Clark, I know we're in danger, but               (X)
+                  if I could just maybe finish a                   (X)
+                  sentence --                                      (X)
+
+    The computer suddenly answers back, and Lois nearly jumps
+    out of her seat.
+
+                                   COMPUTER
+                  We're gaining access to the                      (X)
+                  forbidden banks.  No.  Final                     (X)
+                  Access Denied.  There's one name                 (X)
+                  missing.  And someone is tapping
+                  into our system.                                 (X)
+
+                                   CLARK/X
+                  Nooo!
+
+
+52  INT. THE HALLWAY - VR - DAY                                  52   
+
+    Jimmy and Superman are outside the door, listening.
+
+                                   JIMMY
+                  The guy sounds like Clark.
+
+                                   SUPERMAN
+                  It's not Clark.  Trust me, no
+                  matter what he looks like.  He's
+                  not Clark!
+
+
+53  INT. LOIS' APARTMENT - VR - DAY                              53   
+
+    Clark/X turns menacingly to Lois. She's getting scared
+    now.                                                           (X)
+
+                                   CLARK/X
+                  What's the other name?
+
+                                   LOIS
+                  There is no other name.  That's it.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  38.    
+
+
+53  CONTINUED:                                                   53   
+
+                                   CLARK/X
+                  I don't have time to play,
+                  someone's breaking into my
+                  system...  Wait!                                 (X)
+
+    Clark/X suddenly laughs, as it all comes clear to him.
+
+                                   CLARK/X (CONT'D)
+                  Of course!  Computer, try the name
+                  Jaxon!
+
+                                   COMPUTER
+                  One moment...
+
+                                   CLARK/X
+                  Lois, did Lex ever tell you he had
+                  a child from another woman?
+
+                                   LOIS
+                  Yes...
+
+                                   LOIS
+                       (uneasy)
+                  He and the boy's mother were killed
+                  in a car accident.                               (X)
+
+    The computer's voice interrupts.
+
+                                   COMPUTER (V.O.)
+                  The password 'Jaxon' is invalid.
+
+                                   CLARK/X
+                       (very angry)
+                  Invalid!!!  Invalid!!
+
+    Clark/X grabs Lois by the collar, pulls her close.  She
+    notices his "L.L." watch.
+
+                                   CLARK/X (CONT'D)
+                  Give me that other name...
+
+                                   LOIS
+                  I don't think so!                                (X)
+
+    Lois' hand reaches to the side.  She picks up a vase, and
+    slams it on his head.  He is unfazed, stands up.
+
+                                   CLARK/X
+                  Why do you keep hitting me with
+                  vases?
+
+                                   LOIS
+                  You're him, aren't you?  X?                      (X)
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  39.    
+
+
+53  CONTINUED:  2                                                53   
+
+                                   CLARK/X
+                  My name is Jaxon Xavier
+                  Luthor.  I'm Lex Luthor's son.
+                  I never died.  And you were-almost
+                  my mom!
+
+                                   LOIS
+                  Oh, God, I didn't think this
+                  could get any worse...
+
+                                   CLARK/X
+                  I need that name!
+
+
+54  INT. THE HALLWAY - VR - DAY                                  54   
+
+    Jimmy is against the door, listening.  Superman sits against
+    the wall giving himself powers at a rapid rate.  Jimmy         (X)
+    knows the situation is desperate.                              (X)
+
+                                   JIMMY
+                  I'll try to stall him.  Hurry up.                (X)
+
+    And Jimmy bursts through the door.
+
+
+55  INT. LOIS' APARTMENT - VR - DAY                              55   
+
+                                   JIMMY
+                  Hold it!                                         (X)
+
+    Lois and Clark/X freeze.
+
+                                   LOIS
+                  Jimmy!
+
+                                   CLARK/X
+                  Jimmy who?
+
+    Jimmy lets out a kung-fu scream, does a kick to
+    demonstrate.                                                   (X)
+
+                                   JIMMY
+                  Come on!
+
+                                   CLARK/X
+                  Oh, that's the way you wanna play
+                  it, huh?  Check this out...
+
+    And Clark/X MORPHS into KOMBAT -- grabs Jimmy and throws       (X)
+    him into a wall, where he SMASHES into a chair.  He turns to   (X)
+    Lois, who backs up.                                            (X)
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  40.    
+
+
+55  CONTINUED:                                                   55   
+
+                                   SUPERMAN (O.S.)
+                  Not so fast, Jaxon.
+
+    Everyone turns to see Superman standing in the doorway, 
+    looking more heroic than ever.
+
+                                   KOMBAT
+                  Superman?  I should have known.
+                  You can die in here, Fly Boy.
+
+                                   SUPERMAN
+                  Let's go.
+
+    The battle is on. Superman is very fast, nimble.  Superman
+    lands a few good shots but Kombat knocks Superman to the       (X)
+    ground, where he lies dazed, his body limp.      Kombat has him
+    beaten, smiles.
+
+                                   KOMBAT
+                  This is it, Superman.  How does it
+                  feel to know you're going to die?
+
+    As Kombat draws a huge machete from behind his back...         (X)
+
+                                                     FADE OUT.
+
+                            _END OF ACT THREE_
+
+
+56  OMITTED                                                      56   
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  41.    
+
+                             _ACT FOUR_
+
+    FADE IN:
+
+57  INT. LOIS' APARTMENT - VR - DAY                              57   
+
+    Superman is on his knees.  Kombat is about to deliver the
+    death blow with the machete.                                   (X)
+
+    Lois looks for a weapon.  Sees a vase.  No.  Then              (X)
+
+                                   JIMMY
+                  Lois!                                            (X)
+
+    He tosses her a broken chair leg.  She catches it and          (X)
+    SMASHES Kombat on the back of the head.  The leg SPLINTERS.    (X)
+
+                                   KOMBAT
+                  What is it with you?                             (X)
+
+
+58  SUPERMAN'S POV                                               58   
+
+    as he sees the racing MENU OF COMPUTER CHOICES. Touches an
+    icon.
+
+
+59  BACK TO SCENE                                                59   
+
+    Kombat swings the machete.  Superman ducks, then scrambles
+    to his feet, grabs Jimmy and Lois and runs right at --
+
+                                   SUPERMAN
+                  Hold on!                                         (X)
+
+    -- a solid wall, which WARBLES as they hit it, and they
+    DISAPPEAR through the wall.  Kombat is suddenly alone,
+    confused.  He clicks his watch, screen goes WHITE.             (X)
+
+
+60  INT. VR CHAMBER - REALITY - DAY                              60   
+
+    Jaxon pulls off his goggles and looks at Lois' empty
+    apartment on the monitor.
+
+                                   JAXON
+                  Where'd they go?                                 (X)
+
+                                   COMPUTER
+                  I have no idea.
+
+                                   JAXON
+                  You have no idea?  How can you have
+                  no idea?
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  42.    
+
+
+60  CONTINUED:                                                   60   
+
+                                   COMPUTER
+                  Because the last time I looked, I
+                  wasn't a map.
+
+    He looks over at Lois, still hooked up.
+
+                                   JAXON
+                  They're somewhere in the system, we
+                  have to find them!
+
+                                   COMPUTER
+                  Jaxon...
+
+                                   JAXON
+                  X!                                               (X)
+
+                                   COMPUTER
+                  Why don't you concentrate on the                 (X)
+                  last name Lois wouldn't give you?
+                  It's the final key to the system.
+
+                                   JAXON
+                  But if they're inside, they could
+                  screw it all up.
+
+                                   COMPUTER
+                  Jaxon.  Sorry.  X.  You access                   (X)
+                  the Luthor Files, I'll look for the
+                  intruders.  That's why they call it
+                  a partnership.
+
+                                   JAXON
+                  All right, all right, fine.  But
+                  find them!
+
+
+61  INT. BLACK VOID - VR                                         61   
+
+    Lois floats, alone, through pools of light, her voice
+    echoing amid far-off ELECTRONIC WHIRS and HUMS.
+
+                                   LOIS
+                  Superman?  Jimmy?  Hello?
+
+                                   SUPERMAN
+                       (O.S.)
+                  ... we're over here, follow my                   (X)
+                  voice...
+
+    She moves through the void and finds Superman with Jimmy,      (X)
+    also hovering in this strange place.
+
+                                   LOIS
+                  Where are we?  What happened?
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  43.    
+
+
+61  CONTINUED:                                                   61   
+
+                                   JIMMY
+                  Superman learns pretty fast.  He
+                  jumped us out of VR into a section
+                  of the computer's unused memory.
+                       (looks around)
+                  I don't know how long we can hide
+                  here, though.
+
+                                   SUPERMAN
+                  Lois, what does he want?                         (X)
+
+                                   LOIS
+                  He's Lex Luthor's son.                           (X)
+
+                                   SUPERMAN
+                  Luthor had a son?                                (X)
+
+                                   LOIS
+                  Illegitimate.
+
+                                   JIMMY
+                  Whoa. Lex. My man.
+                       (off Lois' look)
+                  Sorry.
+
+                                   LOIS
+                  I'm not sure what he wants.  Except
+                  that he's obsessed with what Lex
+                  wanted to name our children.
+
+                                   JIMMY
+                  He's looking for access codes.
+
+                                   LOIS
+                  Access to what?
+
+                                   JIMMY
+                  Well, I think this is Luthor's                   (X)
+                  system --
+
+                                   LOIS
+                       (creeped out)
+                  You're telling me we're inside
+                  something Luthor made?
+
+                                   JIMMY
+                  Yeah.
+
+                                   LOIS
+                  Uggh.  The phrase 'it can't get                  (X)
+                  any worse' just doesn't apply in                 (X)
+                  VR.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  44.    
+
+
+61  CONTINUED:  2                                                61   
+
+                                   JIMMY
+                       There were always rumors that his
+                       cybernetics division was working on
+                       a VR that could mess with your
+                       head, even brainwash you.
+
+                                   LOIS
+                       No wonder X had the Mayor in here.          (X)
+
+                                   SUPERMAN
+                       Pull the most powerful people in
+                       the world into a VR amusement park
+                       and when they walk out, they're
+                       yours.
+
+                                   LOIS
+                       Little creep.  If I'd ever gotten           (X)
+                       to be his stepmother held've gone
+                       to his room for life.
+
+                                   JIMMY
+                       I have a feeling this _is_ his              (X)
+                       room... and Lex sent him here a             (X)
+                       lot.                                        (X)
+
+                                   SUPERMAN
+                       So, Jimmy.  How do we stop him?             (X)
+
+    Lois and Superman look at Jimmy.
+
+                                   JIMMY
+                  The pressure's on, huh?
+
+                                   LOIS
+                  It's only the fate of the entire
+                  free world.
+
+                                   SUPERMAN
+                  Don't let it get to you.
+
+
+62  INT. VR CHAMBER - REALITY - DAY                              62   
+
+    Jaxon studies his computer screen, then:
+
+                                   JAXON
+                  Wait.  The last name.  What if it
+                  wasn't Luthor's choice?  What if it
+                  was hers?  What if it was ... ?
+
+    He types C-L-A-R-K on the computer screen.  The word
+    "ACCESS" FLASHES on the screen.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/9595    45.    
+
+
+62  CONTINUED:                                                   62   
+
+                                   JAXON (CONT'D)
+                  Ah-hah.  It's working.  We're in!                (X)
+                  My father's mind control system...
+                  all here.
+
+    Information comes regurgitating onto the computer screen.
+
+                                   JAXON (CONT'D)
+                       (hitting keyboard
+                        buttons)
+                  All we have to do now is link it
+                  with my VR and every president is
+                  my puppet, every General is my toy
+                  soldier...
+
+                                   COMPUTER
+                  We still haven't taken care of our
+                  three intruders.
+
+                                   JAXON
+                  Make a note.  When I've taken over
+                  the world:  reprogram your
+                  personality.
+
+
+63  INT. BLACK VOID - VR                                         63   
+
+    Jimmy stands with Lois and superman.
+
+                                   JIMMY
+                  Okay, let's reroute this over
+                  here...
+
+
+64  JIMMY'S POV                                                  64   
+
+    of the MENU of choices as he downloads.
+
+                                   JIMMY
+                  ... and get more power.  Power's
+                  the key, gotta get you hitting
+                  hard, Superman.
+
+
+65  BACK TO SCENE                                                65   
+
+    Lois shakes her head.
+
+                                   LOIS
+                  Jimmy, I don't think it's about
+                  power.  No matter how much we
+                  steal, he'll always have more.
+                  Doesn't he need to have some kind                (X)
+                  of emergency button?  To get back
+                  to reality?
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  46.    
+
+
+65  CONTINUED:                                                   65   
+
+                                   JIMMY
+                  Of course.  The escape window,
+                  that's what we need to find.                     (X)
+
+                                   LOIS
+                  What would it look like?
+
+                                   JIMMY
+                  Anything.  But it would have to be               (X)
+                  where he could always see it,
+                  always get to it...
+
+                                   LOIS
+                       (realizes)
+                  The watch.  'L.L.' Lex Luthor.
+                  From his father. On his left
+                  wrist.  Did Clark touch that watch
+                  when he was thrown out the window?
+
+                                   SUPERMAN
+                  Uh... I think he told me he did...
+
+                                   LOIS
+                  I say we get that watch, we're all
+                  out of here.
+
+                                   SUPERMAN
+                  But getting it's going to be the
+                  hard part.
+
+                                   LOIS
+                  Not if we use our best weapon...
+
+                                   JIMMY
+                  What's that?
+
+                                   LOIS
+                  What we know about him.
+
+
+66  INT. VR CHAMBER - REALITY - DAY                              66   
+
+    TIGHT ON X's watch as he clicks on his keyboard.  REVEAL X 
+    hunched over his computer.
+
+                                   COMPUTER
+                  I've been asked to give you a
+                  message.  Being downloaded now.
+
+                                   JAXON
+                  Message?
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   Yellow Rev.     10/25/95     47.    
+
+
+66  CONTINUED:                                                   66   
+
+                                   COMPUTER
+                  Here it is.  'Hey, Chicken Boy.
+                  Come in and fight.'
+                       (makes chicken sounds)
+                  'You'll find us in front of the
+                  Virtual Planet.'
+                       (more chicken sounds)
+                  End of message.  So.  What are you
+                  going to do, Chicken Boy?
+
+    Jaxon grabs his VR equipment.
+
+
+67  EXT. STREET - DAILY PLANET - VR - DAY                        67   
+
+    Superman, and Lois on the deserted street, standing High       (X)
+    Noon-like at one end.  A long shadow slides into view from
+    around the opposite corner.  Kombat comes into view.  Ready
+    for battle.
+
+    Lois looks at Capuccino cart.  Jimmy is there, disguised as    (X)
+    the Cap Guy.                                                   (X)
+
+    Superman and Kombat march down the street toward each other.
+    They face off.
+
+                                   SUPERMAN
+                       Okay.  Take your best shot.
+
+    Kombat smiles and lifts his fist.  A GLEAMING SET OF BRASS
+    KNUCKLES MATERIALIZE there.  He starts to draw back.
+
+                                   LOIS
+                       No!
+
+    Kombat stops.  Lois runs up.
+
+                                   LOIS
+                  I can't let you do this, Superman,
+                  he'll kill you.
+
+                                   KOMBAT
+                  Don't be ridiculous, Lois... I'm
+                  going to kill _all_ of you.
+
+                                   LOIS
+                  No...
+
+                                   SUPERMAN
+                  Lois, please.  We're trying to
+                  fight here.
+
+                                   LOIS
+                  Jaxon.  I know why you're so angry
+                  about everything.
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   Yellow Rev.     10/25/95     48.    
+
+
+67  CONTINUED:                                                   67   
+
+                                   KOMBAT
+                  Shut up.
+
+    As she's talking, Jimmy begins to circle away from cart,       (X)
+    around behind Kombat.  Lois and Superman pivot, keeping        (X)
+    Kombat from seeing Jimmy.
+
+                                   LOIS
+                  Lex probably thought of you as a 
+                  mistake.  And he was never very 
+                  good at acknowledging mistakes.
+
+                                   KOMBAT
+                  Shut up!  I am not a mistake!
+
+    And slowly Kombat begins to MORPH, shrinking in size...
+
+                                   LOIS
+                  He kept you around so he wouldn't 
+                  feel too guilty but he never told 
+                  anyone you were his son, did he?  
+                  Never said he was proud of all the 
+                  work you did for his company?  
+                  Never gave you his name?  In fact, 
+                  he told people you were dead!
+
+    ... Kombat getting smaller, thinner...
+
+                                   SUPERMAN
+                  No wonder you like it in here.  You 
+                  can shut all that out, pretend it 
+                  never happened.
+
+                                   LOIS
+                  It _did_ happen and no matter where 
+                  you run, you can't hide what you 
+                  really are.
+
+    ... finally revealing himself to be... Jaxon.  A very sad, 
+    very angry boy in a big man's Kombat clothes.
+
+    At that moment, Jimmy jumps on Jaxon's back.  Superman grabs 
+    the watch off him.
+
+    Lois clicks it.  Lois Jimmy, and Superman DISAPPEAR in a 
+    FLASH.
+
+                                   JAXON (CONT'D)
+                  No... no...
+                       (looks at his wrist)
+                  NOOOOO!
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   FULL Pink Rev.     10/19/95  49.    
+
+
+68  INT. VIRTUAL CHAMBER - REALITY - DAY                         68   
+
+    Lois removes her goggles. Sees Jaxon flailing violently at
+    the control center, shouting --
+
+                                   JAXON
+                  NOOOOOOOOOOO!
+
+    He kicks so hard he disconnects his goggles and monitors.
+    We hear a sizzle, as if something in the computer is
+    shorting out.
+
+    An O.S. WHOOSH and Superman and Jimmy enter with several
+    COPS.  Superman moves to Jaxon.  He is slumped, lifeless.      (X)
+
+                                   LOIS
+                  What happened?
+
+                                   SUPERMAN
+                  He disconnected.
+
+                                   JIMMY
+                  Is he dead?
+
+                                   SUPERMAN
+                  He's breathing but...                            (X)
+
+    Lois glances at the VR monitor, which is now just electronic
+    garble.                                                        (X)
+
+                                   SUPERMAN
+                  Jimmy?
+
+    Jimmy goes to the keyboard.
+
+                                   JIMMY
+                  It crashed.                                      (X)
+
+                                   LOIS
+                  How?
+
+                                   JIMMY
+                  I'd have to run a diagnostic but it
+                  seems like... he did it.  On
+                  purpose.
+
+                                   LOIS
+                  So he could still be in there?
+
+                                   JIMMY
+                  His mind, anyway.  And if it is,                 (X)
+                  it's not a place you'd want to be.
+
+    They all look at the info-jumbled screen, the comatose         (X)
+    Jaxon.
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   Yellow Rev.     10/25/95     50.    
+
+
+69  INT. PLANET - CONFERENCE ROOM - DAY #2                       69   
+
+    Amid the computer network assembled by Jimmy.  Perry shakes
+    his head at Lois, Jimmy and Clark.
+
+                                   JIMMY
+                  Ten computer experts have been in
+                  and out of Jaxon's system for a                  (X)
+                  week.  No sign of the VR world,
+                  Luthor's programs, or X.
+
+                                   PERRY
+                  I tell ya, I never trusted those
+                  machines and now I know why.  You
+                  try and separate mind from body,
+                  you're asking for a world of
+                  trouble.
+
+                                   CLARK
+                  Chief, you're preaching to the
+                  converted.
+
+                                   LOIS
+                  Amen.
+
+    Lois takes Clark's arm, and they move off..
+
+                                   JIMMY
+                  Speaking of conversions, I can't
+                  change your mind about picking up
+                  the board and surfing the love net?
+
+                                   PERRY
+                  Jimmy, I'm too old to surf and too
+                  smart to think you can catch love
+                  in a net.
+
+    He exits.  Jimmy shrugs and slips on virtual goggles.
+
+
+70  AT CLARK'S DESK                                              70   
+
+    He prints out the story.
+
+                                   LOIS
+                  Clark? I've been thinking...
+                  about... that thing?
+
+                                   CLARK
+                  Mm hm.
+
+                                   LOIS
+                  I just want you to know how glad I               (X)
+                  am we talked.                                    (X)
+
+                                                     (CONTINUED)
+
+                           ---page break---
+    "VIRTUALLY DESTROYED" (#10)   Yellow Rev.     10/25/95     51.    
+
+
+70  CONTINUED:                                                   70   
+
+                                   CLARK
+                  Me, too.                                         (X)
+
+                                   LOIS
+                  I mean, just when I think I know                 (X)
+                  everything there is to know, you                 (X)
+                  take my breath away with something               (X)
+                  new.
+
+                                   CLARK
+                  Good.  Because that's what happens               (X)
+                  to me everytime I see you.                       (X)
+
+                                   LOIS
+                  I'm counting the hours to our                    (X)
+                  honeymoon.                                       (X)
+                       (kiss)
+                  But, in the mean time, what do you
+                  say we go get some pastrami?
+
+                                   CLARK
+                       (moving off)
+                  Russian dressing.
+
+                                   LOIS
+                  Sliced pickles.
+
+                                   CLARK
+                  Side of slaw.
+
+                                   LOIS
+                  And a crrrream soda...
+
+    As they walk off, CAMERA HOLDS on CLARK'S COMPUTER MONITOR.
+    It displays the Daily Planet Menu.  A small, "glitch" and we
+    suddenly see JAXON'S FACE fill the screen, looking for a way
+    out.  Another "glitch" and Jaxon disappears.
+
+                                                     FADE OUT:
+
+                            _THE END_
+
+

@@ -1,0 +1,71 @@
+1,               EXT SOUTH PARK ROAD  DAY,17
+2,               INT SCHOOL BUS,120
+3,               EXT MOUNTAIN ROAD  DAY,5
+4,               INT BUS ,6
+5,               EXT MOUNTAIN ROAD  DAY,5
+6,               INT BUS ,11
+7,               EXT MOUNTAIN ROAD  DAY,11
+8,               EXT MOUNTAINS  DAY,25
+9,               EXT RIVER,8
+10,               INT SCHOOL BUS,153
+11,               EXT MOUNTAINS  DAY,10
+12,               EXTINT TRUCK  NIGHT,74
+13,               EXT ROAD  DAY,4
+14,               EXT BUS  DAY,5
+15,               INT BUS ,40
+16,               EXT SOUTH PARK FOREST  NIGHT,89
+17,               INT SCHOOL BUS,17
+18,               EXTINT TRUCK  NIGHT,27
+19,               INT COMEDY CLUB  NIGHT,80
+20,               INT SCHOOL BUS,54
+21,               EXT SCHOOL BUS,5
+22,               INT SCHOOL BUS,16
+23,               EXT SCHOOL BUS,12
+24,               INT BUS ,16
+25,               INT SCHOOL BUS,16
+26,               INT CARTMANS HOUSE,45
+27,               EXT DENVER  DAY,7
+28,               INT TALENT AGENCY  DENVER  DAY,80
+29,               EXT MOUNTAIN ROAD  NIGHT,4
+30,               INT BUS  NIGHT,56
+31,               EXT MOUNTAIN DAY,52
+32,               INT BUS ,29
+33,               EXT SOUTH PARK  STAGE  DAY,13
+34,               INT BOOK DEPOSITORY ,31
+35,               EXT STAGE ,34
+36,               INT SCHOOL BUS,16
+37,               INT TELEVISION,14
+38,               INT BACKSTAGE AT NBC,31
+39,               INT SCHOOL COUNSELORS OFFICE  NIGHT,47
+40,               EXT SOUTH PARK,14
+41,               INT SCHOOL BUS,29
+42,               EXT SOUTH PARK ROAD  DAY,42
+43,               INT SCHOOL BUS,45
+44,               INT NBC STUDIOS  NIGHT,51
+45,               EXT PERILOUS CLIFF  DAY,31
+46,               EXT ALS DINER  HAPPY DAYS  DAY,48
+47,               INT SCHOOL BUS,33
+48,               EXT SCHOOL BUS,5
+49,               INT SCHOOL BUS,11
+50,               EXT BUS  NIGHT,5
+51,               INT SCHOOL BUS,35
+52,               INT BUS ,20
+53,               EXT SCHOOL BUS,5
+54,               INT SCHOOL BUS,10
+55,               EXT SCHOOL BUS,25
+56,               INT BUS  NIGHT  PRESENT,8
+57,               EXT LILY COVERED POND  DAY,33
+58,               INT BUS,18
+59,               INT TELEVISION SET  DAY,10
+60,               INT DARKLY LIT STAGE  DAY,19
+61,               INT BUS ,7
+62,               INT TELEVISION SET  DAY,11
+63,               INT BUS ,7
+64,               INT TELEVISION SET  DAY,14
+65,               INT BUS ,11
+66,               INT BUS  DAY,17
+67,               INT HOSPITAL ,32
+68,               INT SCHOOL BUS,37
+69,               EXT BUS,31
+70,               INT CARTMANS HOUSE  MORNING,43
+71,               INT STANS HOUSE  MORNING,50

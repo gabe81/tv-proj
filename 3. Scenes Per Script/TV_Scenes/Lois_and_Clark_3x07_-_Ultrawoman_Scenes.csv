@@ -1,0 +1,44 @@
+1,     EXT METROPOLIS PARK  IN TREES NEAR WISHING WELL  DAY      ,264
+2,     INT DAILY PLANET  DAY                                        ,65
+3,     EXT METROPOLIS PARK  WISHING WELL  DAY                      ,164
+4,    EXT METROPOLIS PARK  TREESGATE  DAY  CONTINUOUS          ,42
+5,    INT NEWTRICH GARAGE  DAY                                    ,75
+6,    EXT OPEN FIELD  DAY                                         ,197
+7,    INT CLARKS APARTMENT  DAY                                  ,57
+8,    EXT STAR LABS  TESTING RANGE  DAY                      ,35
+9,    INT CLARKS APARTMENT  DAY                                  ,27
+10,    INT DAILY PLANET  DAY                                       ,85
+11,    EXT DAILY PLANET  DAY                                       ,61
+12,    EXT NEARBY ALLEY  DAY                                       ,6
+13,    EXT PLANET  DAY                                             ,16
+14,    EXT DAILY PLANET  DAY  CONTINUOUS                       X,106
+15,    INT NEWTRICH GARAGE  DAY                                  ,121
+16,    INT DAILY PLANET  DAY                                       ,286
+17,    EXT METROPOLIS STREET  DAY                                  ,64
+18,    INT CLARKS APARTMENT  NIGHT                              ,101
+19,    EXT METROPOLIS STREET  NIGHT                                ,76
+20,    INT  NEWTRICH GARAGE  NIGHT                                 ,72
+21,    INT NEWTRICH GARAGE  NIGHT  CONTINUOUS                     ,16
+22,    EXT NEWTRICH GARAGE  NIGHT                                  ,19
+23,    INT NEWTRICH GARAGE  NIGHT                                  ,19
+24,    INT CLARKS APARTMENT  NIGHT                                ,15
+25,    INT NEWTRICH GARAGE  NIGHT                                  ,7
+26,    EXT NEWTRICH GARAGE  NIGHT                                  ,6
+27,    INT NEWTRICH GARAGE  NIGHT                                  ,6
+28,    EXT NEWTRICH GARAGE  NIGHT                                  ,8
+29,    INT NEWTRICH GARAGE  NIGHT                                  ,27
+30,    EXT NEWTRICH GARAGE  NIGHT                                  ,18
+31,    EXT BUS STOP  NIGHT                                         ,23
+32,    INT NEWTRICH GARAGE  NIGHT                                  ,149
+33,    INT  DAILY PLANET  DAY                                    ,255
+34,    EXT STREET BELOW  DAY                                       ,49
+35,    EXT STREET  DAY  CONTINUOUS                                ,69
+36,    EXT ALLEY  DAY                                              ,24
+37, A  EXT EARTH ORBIT                                          A   ,5
+38,    EXT DIFFERENT METROPOLIS STREET  DAY                        ,52
+39,    INT NARROW ALLEY  DAY                                       ,21
+40,    INT PLANET  DAY                                             ,47
+41,    EXT STAR LABS TESTING RANGE  DAY                        ,32
+42,    EXT DESERTED METROPOLIS STREET  DAY                         ,43
+43,    EXT DESERTED STREET  DAY                                    ,195
+44,    INT DAILY PLANET  NIGHT                                   ,102

@@ -1,0 +1,3399 @@
+notes:
+
+To pop everything into place...
+
+use Courier 10 (or 10 characters per inch)
+
+set top margin at 0.4", bottom margin at 0.4" (or minimums)
+left margin at 1", right margin at .25 (or minimum)
+   (I had to tell the program I was using legal paper)
+
+page breaks in hard copy indicated by ---page break---
+
+regular tabs, hard returns and right flushes are used 
+to position things to look as much like original as possible
+
+sometimes the formatting changes slightly (as in the numbers at the
+end of the lines), but I'm going to keep consistent because it's
+easier
+
+logo on front page will be noted when used but not included here
+
+as this may be sent in .txt, originally underlined words will 
+look like   _this_
+
+NOTES: on front page LOIS & CLARK is in large, bold, underline
+     The New Adventures of Superman is in not so large, italics
+     "The House of Luthor" " is in same size font, not italicized
+     EPISODE 20 (and) Written by: Deborah Joy Levine & Dan
+Levine are somewhat smaller
+     All other text on first page is in courier 10 
+
+page 27.  "...Krytonite coating..." lower mid page, decription;
+     Kryptonite spelled wrong in original
+page 28.  "not the regular.  And cayanne..."  cayenne spelled 
+     wrong in original
+page 33.  "...desk lamp emiting a..."  emitting is spelled 
+     wrong in original
+
+                        _LOIS AND CLARK_
+                The New Adventures of Superman
+
+
+                    "The House of Luthor"
+                          EPISODE 20
+
+                        Prod. #455320
+
+                          Written by:
+
+
+                      Deborah Joy LeVine
+
+                               &
+
+                           Dan Levine
+
+
+
+
+
+
+WARNER BROS. TELEVISION                   _Production Draft_
+                                          February 28, 1994
+                                          Blue FULL 3/7/94
+                                          Pink Rev. 3/9/94
+                                          Yellow Rev. 3/10/94
+                                          Green Rev. 3/11/94
+
+                       ---page break---
+                         _LOIS AND CLARK_
+
+                      "_The House of Luthor_"
+
+                      Green Revision 3/11/94
+
+                               _CAST_
+
+CLARK KENT/SUPERMAN
+
+LOIS LANE
+
+PERRY WHITE
+
+JIMMY OLSEN
+
+LEX LUTHOR
+________________________________________________________________
+
+FRANKLIN STERN
+
+JACK
+
+ELLEN LANE
+
+MRS. COX
+
+INSPECTOR HENDERSON    *
+
+MR. VITKAY
+
+THE ARCHBISHOP
+
+GIANT
+
+GUARD
+
+                       ---page break---
+                         _LOIS AND CLARK_
+
+                      "_The House of Luthor_"
+
+                       Blue Revision 3/7/94
+
+                            _LOCATIONS_
+
+
+_INTERIORS_:                       _EXTERIORS_:
+
+Lois Lane's Apartment              Daily Planet
+   Bedroom
+   Living Room                     Lexcorp Building
+
+Clark Kent's Apartment             Metropolis Park Bench
+   Living Room
+   Kitchen                         Metropolis Graveyard
+   Bathroom
+   Entry/Hallway                   Perry's Florida Rome
+                                      Porch
+Juvenile Detention Facility
+   Jack's Cell                     Luthor's Balcony
+
+Perry's Florida House              Go-Go Club             *
+
+Luthor's Penthouse                 Metropolis Sidewalk    *
+   Den
+   Wine Cellar
+   Dressing Room                   Pawnshop
+   Ballroom
+                                   Non-descript Phonestands
+Restaurant Bar
+                                   Clark's Apartment
+Uni-World Insurance Company    *
+                                   The Stern Building
+Apartment House Foyer
+                                   Skies above Metropolis
+Luthor's Limousine
+
+                               *
+Bigelow & Fuller Office Hallway
+
+Franklin Stern's office
+                       ---page break---
+                         _LOIS AND CLARK_
+
+                      "_The House of Luthor_"
+
+                       Blue Revision 3/7/94
+
+                            _CHRONOLOGY_
+
+                 SC.   1 - 14     NIGHT 1
+
+                 SC.  15 - 18     DAY 2
+
+                 SC.  19 - 21     NIGHT 2
+
+                 SC.  22 - 29     DAY 3
+
+                 SC.  30 - 33     NIGHT 3
+
+                 SC.  34 - 45     DAY 4
+
+                 SC.  46 - 49     NIGHT 4
+
+                 SC.  50 - 83     DAY 5
+
+                 SC.  84 - 91     DAY 6
+
+                       ---page break---
+                         _LOIS AND CLARK_
+
+                   _The New Adventures of Superman_
+
+                      "_The House of Luthor_"
+
+                              _TEASER_
+
+
+    FADE IN:
+
+ 1  EXT. SKIES ABOVE METROPOLIS - (NIGHT #1)                     1 
+
+    We are CLOSE ON Superman in flight, so close we see only 
+    the red and blue-clad body, not the face, as he weaves
+    lazily between the skyscrapers, out for a pleasure cruise.
+
+    We slowly PAN to the chest emblem... but something's
+    wrong.  Instead of the famous "S," there's a "LEX" on the     *
+    yellow shield.  We MOVE to the face: it's LEX LUTHOR.
+    He's smiling blissfully.  He looks down to see...
+
+
+2   LOIS LANE'S APARTMENT                                        2 
+
+    LOIS is being fitted for her wadding dress, yards and
+    yards of elaborate, frilly, formal white.  She seems happy
+    and excited.
+
+
+3   LUTHOR                                                       3 
+
+    nods his head in satisfaction, continues on, looks down
+    again.
+
+
+4   INT. CLARK KENT'S APARTMENT                                  4 
+
+    CLARK, unshaven, is trying to type, but a pile of
+    crumpled-up papers testifies to his futility.
+
+
+5   LUTHOR                                                       5 
+
+    laughs, looks down again.
+
+
+6   EXT. METROPOLIS PARK BENCE                                   6 
+
+    JIMMY, wearing a thin jacket and shivering with the cold,
+    studies the want ads, occasionally circling something.
+
+
+6A  CLOSE ON WANT ADS                                           6A 
+
+    Jimmy circles an ad saying "Dishwasher Wanted."
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94     2.  
+
+
+ 7  LUTHOR                                                       7 
+
+    shakes his head in false sympathy, looks down again.
+
+
+ 8  EXT. METROPOLIS JUVENILE DETENTION FACILITY                  8 
+
+    Through the barred window we see JACK pacing in his tiny      *
+    cell..
+
+
+ 9  LUTHOR                                                       9 
+
+    executes a playful roll in the air, looks off toward the
+    far horizon to see...
+
+
+10  INT. PERRY WHITE'S FLORIDA HOME                             10 
+
+    PERRY, holding the remote on his belly, is asleep in front
+    of the TV test pattern, SNORING.  He seems years older.
+
+
+11  LUTHOR                                                      11 
+
+    rights himself, looks down one last time.
+
+
+12  EXT. METROPOLIS GRAVEYARD                                   12 
+
+    The lonely, untended grave of Superman.  A flash of           *
+    LIGHTNING briefly illuminates the grave.                      *
+
+
+13  LUTHOR                                                      13 
+
+    sighs with satisfaction, then _ROCKETS_ _OFF_ at top
+    speed, master of all he surveys
+
+
+14  INT. LUTHOR'S PENTHOUSE - NIGHT  14
+
+    Luthor sits in front of his fireplace, arms extended
+    wing-like, dipping or raising them to simulate flight.  A
+    Virtual Reality helmet covers his head.  He removes it to     *
+    reveal an enormous smile... because soon he will need no      *
+    helmet.
+
+                                                FADE OUT.
+
+                         _END OF TEASER_
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Pink Rev.    3/9/94          3.  
+
+
+                           _ACT ONE_
+
+    FADE IN:
+
+15  INT. CLARK KENT'S APARTMENT - (DAY #2)                      15 
+
+    Clark "sits" crossed-legged in the air,, typing at
+    _SUPERSPEED_ on a laptop computer, the attached printer 
+    cable dangling like a lifeline.  He pauses, reads the 
+    screen, presses "Print."  As the printer begins to work, 
+    Clark lowers himself down, stands, stretches, in the
+    process _LEVITATING_ up several inches before coming back 
+    to earth.  Clark is unshaven, uncombed, wears rumpled 
+    baggy sweats.
+
+    Clark walks into the kitchen, looks in the fridge.
+    Nothing but a bag of onions and garlic. But, he's 
+    suddenly famished, starts scrounging.  He looks in the 
+    cabinets, then the freezer:  frozen steak.  He puts the       *
+    steak on the counter, uses his _HEAT VISION_ on low to        *
+    defrost, then throws the meat into a pan and cranks up the
+    level to _COOK_.  When it's almost done he grabs the 
+    onions and garlic from the bag, dicing then faster than 
+    Benihana's ever could, and adds them to the pan.  By the 
+    time he grabs a soda, his meal is done.  He puts it on a 
+    plate, is about to turn back to his work when his eyes
+    fall upon something else.  On his coffee table: a framed 
+    photograph of himself, Lois, Perry, Jimmy, and Cat 
+    standing in front of the Daily Planet.  He picks it up,
+    stares at it, lifts the phone, dials long distance.
+
+                             CLARK
+               Mr. White?
+
+16  EXT. PORCH - SOMEWHERE IN FLORIDA - INTERCUT                16 
+
+    Perry, wearing a Hawaiian shirt, shorts and sun hat, sits
+    on the porch sipping a fruit smoothie and reading a book.
+    He speaks into his cellular phone.
+
+                             PERRY
+               Clark?
+
+                             CLARK
+               Yes, sir.  How are you?  You
+               sound... tan.
+
+                             PERRY
+               See, son, you got to _layer_ in a
+               good brown.  Little bit at a time,
+               so you don't peel.  It's an art.
+
+                             CLARK
+               Uh... huh.  How's the good life?
+
+                                                (CONTINUED)
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Pink Rev.    3/9/94          4.  
+
+
+16  CONTINUED:                                                  16 
+
+                             PERRY
+               You tell ms.  I get up around nine,
+               take a stroll on the beach.  By the
+               time I get back, Alice pulls a 
+               fresh-baked bread out of the oven.
+               Then I sit and read my papers, have
+               my coffee.  Sometime around noon,
+               I'll walk over to the club house.
+               There's usually a card game going
+               on.  In the afternoon, there're 
+               first run movies, arts and crafts,
+               lemonade and cookies.  I go to bad
+               around nine, sleep like a baby.
+               Weather's perfect, never changes,
+               and I haven't had a cab try to run
+               me down since I got here.
+
+                             CLARK
+               You're miserable.
+
+                             PERRY
+               Completely.  To tell you the                       *
+               truth, I was even a little                         *
+               disappointed in Graceland                          *
+                     (beat)
+               How's the novel coming?
+
+    Clark leans over, pulls the pages out of the printer,
+    scans them:  a series of title pages with different titles
+    on each.
+
+                             CLARK
+               Not so good.  I've been spending
+               most of my time trying to figure
+               out what really happened to the
+               Planet.
+
+                             PERRY
+               You and me both.  Anything
+               interesting?
+
+                             CLARK
+               Nothing I can prove... yet.
+                     (beat)
+               Actually, I'm calling about Jimmy.
+               Have you board from him?
+
+                             PERRY
+               Called about a week ago.  Said he
+               was fine.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Pink Rev.      3/9/94       4A.  
+
+
+16  CONTINUED:  2                                               16 
+
+                             CLARK
+               Well, his phone's been
+               disconnected.  And today I went to
+               his apartment and his landlord said
+               he'd been thrown out for not paying
+               the rent.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94     5.  
+
+
+16  CONTINUED:  2                                               16 
+
+                             PERRY
+               Blast that kid - why didn't he
+               tell me?
+
+				     CLARK
+               I'm going to start an all-out
+               search for him tomorrow.
+
+                             PERRY
+                     (hopeful)
+               So... you need my help?
+
+				     CLARK
+               I think I can manage.
+
+                             PERRY
+               Dang it, Kent.  Tell me you need my
+               help.
+
+                             CLARK
+               I need your help.
+
+                             PERRY
+               Thought so.  I'll be on a plane in
+               the morning.  Meet you at your
+               place.
+
+                             CLARK
+               That's great, Chief.  See you then.
+
+    Clark hangs up, looks back at one of the title pages.  It
+    reads:  "Metropolis Blues."
+
+
+17  INT. LUTHOR'S PENTHOUSE - DAY                               17 
+
+    Luthor and Lois are studying the blue prints for their new 
+    country estate.  Lois is dressed casually, jeans and a 
+    sweater.
+
+                             LUTHOR
+               This is wrong.  I wanted the doors
+               off the master side balcony to be
+               sliders.
+                     (explaining)
+               French doors make the room look
+               smaller.
+
+                             LOIS
+               Lex, the master bedroom is three
+               thousand square feet.  That's more
+               than twice the size of my
+               apartment.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94     6.  
+
+
+17  CONTINUED:                                                  17 
+
+                             LUTHOR
+               Well, what about the exercise area?
+               Should we put it back on the ground
+               floor?
+
+                             LOIS
+               No, I think this is right.  It'll
+               be great to get out of bed and have
+               that stair climber staring me right
+               in the face saying 'Now, Lois.
+               Now.'
+
+                             LUTHOR
+               But, darling, that'll be My line.
+
+    Luthor kisses her.  When they break...
+
+                             LOIS
+               Thank you, Lex, for understanding
+               about my wanting to wait... for our
+               wedding night.  I just want it to
+               be special.
+
+                             LUTHOR
+               It will be.
+
+    A KNOCK on the door and MRS. COX enters.
+
+                             MRS. COX
+               Lex, could we run through your
+               schedule for tomorrow?
+
+                             LUTHOR
+               Of course.  Come in, Mrs. Cox.
+
+    Lois eyes Mrs. Cox as she approaches Luthor, sits next to
+    him, and shows him a calendar.  Even though the ladies
+    acknowledge one another with smiles, we can tell there's
+    no love lost between them.
+
+                             MRS. COX
+               You'll notice the Series K field
+               test is set for 3:45 p.m.
+
+                             LUTHOR
+               Excellent.
+
+    The PHONE RINGS.  Mrs. Cox picks up, listens, puts the
+    caller on hold.
+
+                             MRS. COX
+               Bagdonis in Chicago.
+
+                             LUTHOR
+                     (getting up)
+               I'll take it in the library.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94     7.  
+
+
+17  CONTINUED:  2                                               17 
+
+    Luthor exits.  The women sit in silence a beat, then...
+
+                             LOIS
+               What's Series K?
+
+                             MRS. COX
+                     (deliberately vague)
+               Oh. something we've been working
+               on.
+                     (beat)
+               The details are confidential.
+
+    Lois is being subtly baited and doesn't like it.
+
+                             LOIS
+               Lex has no secrets from me.
+
+                             MRS. COX
+                     (amused)
+               Really?
+
+                             LOIS
+               Tell me, Mrs. Cox, is there a _Mr_.
+               Cox?
+
+                             MRS. COX
+               He died.
+
+                             LOIS
+                     (suddenly chagrined)
+               Oh, I'm sorry.
+
+                             MRS. COX
+               Don't be.  I'm not.
+
+    Lois' eyes widen as Luthor re-joins them.
+
+                             LUTHOR
+                     (to Mrs. Cox)
+               Anything else?
+
+                             MRS. COX
+               Nothing I can't handle.
+
+                             LUTHOR
+               Thank you, Mrs. Cox.  That'll be
+               all for now.
+
+    Mrs. Cox stands and exits.  When she's gone, Lois turns to
+    Luthor.
+
+                             LOIS
+               I don't like that woman.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94     8.  
+
+
+17  CONTINUED:  3                                               17 
+
+                             LUTHOR
+               She's easily the best assistant
+               I've ever had, but, if you object
+               to her, I'll...
+
+                             LOIS
+               No, it's okay, really.
+
+    She stands, walks out to the balcony.  Luthor follows.
+
+
+18  ON LUTHOR'S BALCONY                                         18 
+
+                             LUTHOR
+               What is it?  You seen distracted
+               this morning.
+
+                             LOIS
+               Well, with my mon coming in, and                   *
+               all the wedding preparations...                    *
+
+                             LUTHOR
+                     (knows her too well)                         *
+               What else?                                         *
+
+                             LOIS
+               Oh... I was just wondering how                     *
+               everybody was.  I haven't spoken to
+               Perry, or Cat, or Jimmy...
+
+                             LUTHOR
+               ... or Clark?
+
+                             LOIS
+               Or Clark, in weeks.
+
+                             LUTHOR
+               Why don't you give then a call?
+
+                             LOIS
+               I think I will.
+                     (beat)
+               Any news about Jack?
+
+                             LUTHOR
+                     (shaking his head)
+               I don't understand that boy.
+               Against my advice, he fires one of
+               the finest criminal lawyers in the
+               country and hires a woman right out
+               of law school.
+                     (beat)
+               I tried.
+
+                             LOIS
+               I'll talk to him.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94     9.  
+
+
+18  CONTINUED:                                                  18 
+
+                             LUTHOR
+               I doubt he'll listen.
+
+    He motions back toward the blueprints.                        *
+
+                             LUTHOR (Cont'd)
+               Now, did we decide on the twelve
+               car garage, or the fifteen?
+
+                                                CUT TO:
+
+
+19  EXT. SUICIDE SLUM - THE GO-GO CLUB (NIGHT #2)              19* 
+
+    The worst part of town:  bars, pawn shops, abandoned          *
+    buildings, etc.                                               *
+
+                             JIMMY (O.S.)
+               No cover, no minimum.  Step right
+               up.  All girls, all the time.
+               Girls, girls, and more girls.
+               Seven, count 'em, seven revolving
+               stages for your viewing pleasure.
+
+    Jimmy stands outside one of these establishments (The         *
+    Go-Go Club), his collar pulled high to brace himself          *
+    against the cold.  Two sailors pass.
+
+                             JIMMY (Cont'd)
+               Hey, the fleet's in!  Guys!  You
+               want girls?  We got 'em short, we
+               got 'en tall, skinny, meaty, blond,
+               brunette.  They dance, they prance,
+               they romance... Wait a minute.                     *
+               You're leaving?  Anchors aweigh!                   *
+
+    But they walk on by.  Jimmy can't seem to find any
+    customers.  Out from the club steps a burly GIANT with a
+    face only a mother could love.
+
+                             GIANT
+               Hey, punk!
+
+                             JIMMY
+               Me?
+
+                             GIANT
+               No, your kid sister.  Get over
+               here.
+
+    Jimmy moves toward the man, who helps by reaching his long
+    arm out and grabbing Jimmy by the collar.
+
+                             GIANT (Cont'd)
+               I need fifty extra customers inside
+               by dawn or you're fired.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    10.  
+
+
+19  CONTINUED:                                                  19 
+				     JIMMY
+               I'm trying, really.
+
+                             GIANT
+               Try harder.
+
+                             JIMMY
+               Do you think I could come inside
+               for a minute?  It's pretty cold and
+               my throat...
+
+                             GIANT
+               Whadda ya think this is?  A hotel?
+               You want this job or not?
+
+                             JIMMY
+               Yeah.  Sure.  I need this job.
+               I'll get your customers, don't
+               worry.
+
+    The Giant lets go, moves inside.  Jimmy sighs, starts
+    his "barking" again, although his throat's getting a
+    little hoarse.
+
+                             JIMMY (Cont'd)
+               Step right up, folks.  We got 'em
+               all.  Blondes, red-heads, brunettes
+               -- all natural, all the time.
+
+                             YOUNG MAN'S VOICE
+               How much?
+
+    Jimmy whirls to see who his potential customer is.  When the man
+    picks his head up we see it's none other than...
+
+                             JIMMY
+               Jack!
+
+    They trade back-slaps, then Jimmy realizes, grabs him and
+    drags him into a nearby alley.
+
+                             JIMMY (Cont'd)
+               You're out?
+
+                             JACK
+               Uh, sort of.
+
+                             JIMMY
+               Jack....
+
+                             JACK
+               No big deal.  It's not Alcatraz,
+               it's Juve.  They won't even miss me
+               until the trial.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    11.  
+
+
+19  CONTINUED  2                                                19 
+
+                             JIMMY
+               You're in a lot of trouble.
+
+                             JACK
+               You should talk.  Nice gig.
+
+                             JIMMY
+                     (defensively)
+               It's all I could get.
+
+                             JACK
+               Where you staying?
+
+                             JIMMY
+               I got a room at the 'Y.'  It's not
+               too bad.                                           *
+
+                             JACK
+               Wanna roommate?
+
+                             JIMMY
+               Jack, why'd you break out?  I know
+               it must have been tough, but...
+
+                             JACK
+               No. That wasn't it.  I overheard
+               some stuff.  They brought in a kid
+               last week -- he was bragging about
+               how he and his brother pulled this
+               frame-up.  You know, planted                       *
+               incriminating evidence in some
+               guy's crib.
+
+                             JIMMY
+               So?
+
+                             JACK
+               So _I_ was the framee.  He was 
+               talking about me and the explosives 
+               they found at my place after the 
+               fire at the Planet.
+                     (beat)
+               I have to clear my name, Jimmy.
+               It's not gonna happen with me on
+               the inside.  And, I'm gonna need                   *
+               help.  Lots of it.                                 *
+
+                             JIMMY
+               I don't know...
+
+                             JACK
+               Come on.  Didn't you see 'The
+               Fugitive?'
+
+    Jimmy relents, throws an arm around Jack and they start
+    walking off.  He dumps his stack of handbills in the first
+    trash can they pass.
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    12.  
+
+
+20  INT. CLARK KENT'S APARTMENT - NIGHT                         20 
+
+    Clark is sitting up in bed, reading, when the phone RINGS.
+    He still hasn't shaved.
+
+                             CLARK
+               Hello?
+
+
+21  INT. LOIS LANE'S APARTMENT - BEDROOM - INTERCUT             21 
+
+    Lois is also propped up, reading.
+
+                             LOIS
+               Hi. It's me.
+
+    Clark is thrilled to hear her voice, but tries to mask it.
+
+                             CLARK
+                     (after a beat)
+               Hi.  How are you?
+
+                             LOIS
+               Terrific.  You?
+
+                             CLARK
+               Great.
+
+    They-re both padding the truth, and they both know it.
+
+                             LOIS
+               So, how's the rest of the gang?
+
+                             CLARK
+               Perry's coming out for a few days
+               to stay with me.  We're a little 
+               worried about Jimmy.  He moved out
+               of his apartment.
+
+                             LOIS
+                     (concerned)                                  *
+               Do you think he's okay?  I mean,                   *
+               if he was in trouble he'd call me                  *
+               or you or... wouldn't he?                          *
+
+                             CLARK
+                     (easing her concern)                         *
+               Of course he would.                                *
+
+    An awkward moment of silence, then...
+
+                             CLARK (Cont'd)
+               How's the new job?
+
+                             LOIS
+                     (evading)
+               Oh, you know.  Settling in.  You?
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    13.  
+
+
+21  CONTINUED:                                                  21 
+
+                             CLARK
+               Busy.  Exploring my options.
+
+                             LOIS
+               I'm sure you'll find something.
+
+                             CLARK
+               Yeah.  Well, it's kind of late.  I
+               guess I'll go to bed.
+
+                             LOIS
+               Me, too.
+                     (beat)
+               Clark?
+
+                             CLARK
+               Yes?
+
+                             LOIS
+               I miss you.
+
+                             CLARK
+               I miss you, too,  Lois
+                     (beat)
+               Good night.
+
+    They both hang up, lay their books aside, turn off the
+    light, roll over as we...
+
+                                                CUT TO:
+
+
+22  INT. CLARK'S APARTMENT BATHROOM - (DAY #3)                  22 
+
+    Clark, a towel around his waist, shaves Kryptonian style.
+    Because his beard is too tough for razors, he holds a hand
+    mirror in front of his face and bounces his _HEAT VISION_ 
+    off of it to burn off the stubble.  Little by little, his 
+    beard comes off.  When he's finished, he feels his smooth 
+    face with his hands, then, satisfied, slaps some 
+    aftershave on, winces at the burn.  The doorbell RINGS.
+    He moves from the bathroom and into...
+
+
+23  INT. CLARK KENT'S LIVING ROOM/ENTRY - DAY                   23 
+
+    Clark hops up the stairs to open the door.  Perry stands
+    there, large as life and twice as welcome.  The men
+    exchange a warm handshake.  Clark grabs Perry's suitcase 
+    as they head downstairs, momentarily leaving the front 
+    door open.
+
+                             CLARK
+               It's so good to see you.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    14.  
+
+
+23  CONTINUED:                                                  23 
+
+                             PERRY
+               Nice to be back, if only for a few
+               days.
+
+                             CLARK
+               What'd you tell Alice?
+
+                             PERRY
+               Son, I've been married twenty-five
+               years and if there's one thing I've
+               learned it's you don't lie to your
+               spouse.
+
+                             CLARK
+                     (repeating)
+               What'd you tell Alice?
+
+                             PERRY
+               Told her I went fishin'.
+                     (beat)
+               No word from Jimmy?
+
+                             CLARK
+               Not a thing.
+
+                             PERRY
+               Where could he be?
+
+                             JIMMY (O.S.)
+               Right behind you, Chief.
+
+    Clark and Perry whirl to see Jimmy standing in the
+    doorway.  He rushes down the stairs And they all hug like
+    schoolmates.
+
+                             CLARK
+               Where've you been?
+
+                             JIMMY
+               It's a long story, but first things
+               first.  Got anything to eat?
+
+    Clark chuckles, walks to the phone, picks it up, dials.
+
+                             CLARK
+               Coming right up.  Canadian bacon,
+               right?
+
+                             JIMMY
+               You remembered.
+
+                             CLARK
+               Yeah.  I'd like to order two large
+               pizzas to be delivered...
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Pink Rev.     3/9/94        15.  
+
+
+23  CONTINUED:  2                                               23 
+
+                             JIMMY
+               Uh... CK.  I think you'd better
+               make that three.
+
+    Neither Clark nor Perry are following until Jimmy's eyes 
+    move to the door and theirs follow.  As Jack steps inside
+    we
+
+                                                CUT TO:
+
+
+24  INT. CLARK's LIVING ROOM - LATER - DAY                      24 
+
+    Four men and three empty pizza cartons.
+
+                             JACK
+               The guys name was Pete.  Pete
+               Black, and his brother John.
+
+                             PERRY
+               Anything about who hired them?
+
+                             JACK
+               Just that it was someone important,
+               and they got paid a ton of money.
+               He called him:  'The Boss.'
+
+                             CLARK
+               I can't believe this 'Boss' would
+               burn down the Daily Planet just to
+               frame you for the job.  There's got
+               to be another, bigger reason.  You
+               were just the fall guy.
+
+                             PERRY
+                     (the general deploying
+                      his troops)
+               Jimmy, Jack, find out where we can
+               contact this John Black character.
+               Clark, get me whatever you can on
+               anyone known as 'The Boss.'
+                     (beat)
+               I'll do some digging into Daily
+               Planet finances.
+
+                             JIMMY
+                     (cheerfully)
+               Just like old times.
+
+    Jimmy swings his arms wide, in the process knocking a
+    half-full open bottle of soda off the table.  As it falls
+    we go to...
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    16.  
+
+
+25  BOTTLE                                                      25 
+
+    In _SLOW-MOTION_, Clark's hands move into frame as the 
+    bottle falls.  He catches it, screws the cap on, then lets
+    it continue to fall.  It bounces on the expensive-looking
+    area rug.
+
+
+26  BACK TO SCENE                                               26 
+
+    Back to _NORMAL SPEED_.  As Jimmy picks up the bottle, his
+    expression changes from dismay to confusion.  He thought 
+    he left it uncapped.  Quickly, Clark jumps in, indicating 
+    Jimmy and Perry.
+
+                             CLARK
+               You two might as well bunk here for
+               awhile.
+
+                             JACK
+               What about me?
+
+                             CLARK
+               You're checking back into the 
+               Metropolis Juvenile Detention
+               Center.  We'll think of some way...
+
+                             JACK
+               I can't.
+                     (beat)
+               Pete Black didn't just happen to 
+               get sent to Juve.  He was put there 
+               to look for _me_.
+
+    All of them pause as this sinks in.
+
+                             JIMMY
+               This is getting serious.
+
+                             PERRY
+               Maybe we should call in the big
+               guns.
+
+                             JACK
+               The police?
+
+                             PERRY
+               No, Lois.
+
+                             CLARK
+                     (shaking his head)
+               She's too busy -- planning her
+               wedding.
+
+    Suddenly, Clark's _SUPER HEARING_ picks up the sound of an
+    ALARM.  He heads for the door.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    17.  
+
+
+26  CONTINUED:                                                  26 
+
+                             CLARK
+               I'll be back in a sec.  I... left
+               my clothes in the dryer.
+
+    Clark races out as we...
+
+                                                CUT TO:
+
+
+27  EXT. METROPOLIS BANK - DAY                                  27 
+
+    The ALARM still sounds.  Superman lands, looks around:
+    everything seems calm.  A GUARD spots Superman, approaches
+    him.
+
+                             GUARD
+               Thanks for coming, Superman, but it
+               was a false alarm.  The security
+               system just went crazy all of a
+               sudden.  Sorry to take your time.
+
+                             SUPERMAN
+               No problem at all.
+
+
+28  ANOTHER ANGLE                                               28 
+
+    Mrs. Cox, smartly dressed, walks by.  Suddenly, Superman
+    feels faint, doubles over.
+
+                             GUARD
+               Superman?  Are you okay?
+
+    Mrs. Cox continues walking, unseen by Superman, who starts
+    to straighten up.
+
+                             SUPERMAN
+               Yes.  I'm... fine, now. For a
+               minute there...
+
+    Superman realizes something, looks around at all the
+    people on the street, suddenly very afraid.
+
+
+29  EXT. METROPOLIS SIDEWALK - DAY                             29* 
+
+    Mrs. Cox, back to us, speaks into a cellular phone.           *
+
+                             MRS. COX
+               We have the genuine article, Lex.
+               Works like a charm.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    18.  
+
+
+29  CONTINUED:                                                  *29
+
+    When she turns around, we see she is wearing a necklace made 
+    of _KRYPTONITE_.  As she fondles it with her hand,
+    we...
+
+                                                FADE OUT.
+
+                           _END OF ACT ONE_
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    19.  
+
+
+                           _ACT TWO_
+
+    FADE IN:
+
+30  INT. CLARK'S APARTMENT - (NIGHT #3)                         30 
+
+    Clark, alone in his apartment, talks to his mother on the
+    phone.
+
+                             CLARK
+               Mom, it _had_ to be Kryptonite.
+               The feeling's unmistakable:  pain,
+               weakness, dizziness...  It took me
+               hours to return to full strength.
+                     (beat)
+               I thought it was destroyed, too.
+               But then I remembered the chunk 
+               supposedly sent off for testing
+               at the University.  The one that
+               disappeared.
+
+    With _SUPER HEARING_ Clark hears someone approaching his
+    door.  He lowers his glasses, glances in that direction.      *
+
+                             CLARK (Cont'd)
+                     (calling out)
+               Key's under the mat, Chief!
+
+
+31  HALLWAY OUTSIDE CLARK'S APARTMENT - SAME TIME              31* 
+
+    Perry's toting a heavy briefcase, has his arm poised to
+    knock.  Instead he bends and retrieves the key, but not
+    without glancing at the door in bewilderment.
+
+
+32  BACK TO CLARK 32
+
+                             CLARK
+               I'll be careful, Mom.  Promise.
+               Bye.
+
+    Perry unlocks the door and enters as Clark hangs up.
+
+                             PERRY
+                     (still mystified)
+               How did you...?
+
+                             CLARK
+                     (quickly changing the
+                      subject)
+               Let me help you with that.
+
+    Clark takes the case, sets it on the table.
+
+                             CLARK (Cont'd)
+               How'd it go?
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    20.  
+
+
+32  CONTINUED:                                                  32 
+
+                             PERRY
+                     (as he gratefully sits)
+               Every member of the Daily Planet's
+               old Board of Director's is ducking
+               me.
+                     (points toward the
+                      bulging case)
+               I did get hold of the transcript of
+               the session where they decided to
+               sell to Luthor.
+                     (taps his nose)
+               Instinct tells me they're hiding
+               something.
+                     (beat)
+               What I need is leverage.
+
+                             CLARK
+                     (frustrated)
+               I just hope we're not too late.                    *
+
+    Perry easily reads between the lines.
+
+                             PERRY
+               Wedding's coming up pretty fast,
+               isn't it?
+
+                             CLARK
+                     (gloomily)
+               Two days.
+                     (beat, helplessly)
+               Maybe it doesn't matter _what_ we 
+               find.  Maybe Luthor's what she 
+               wants.
+
+                             PERRY
+                     (teasing)
+               And here I thought we were trying
+               to save the Daily Planet.
+
+                             CLARK
+                     (blushing)
+               We are.  I only meant...
+
+                             PERRY
+               Whoa, I'm just funnin' with you.
+
+    Clark tries to smile, can't.
+
+                             PERRY (Cont'd)
+                     (sympathetically)
+               Women are like trout, son.  You tug
+               too hard on the line, you'll lose
+               'em. You just gotta hope fate and
+               the currents push 'en your way.
+                     (beat)
+               We still got a couple of days.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    21.  
+
+
+32  CONTINUED:  2                                               32 
+
+                             CLARK
+                     (grimly)
+               Right.  Let's get to work.
+
+                                                CUT TO:
+
+
+33  VISUAL MONTAGE                                              33 
+
+    (To the tune of, "I'm Getting Married in the Morning.")
+
+
+34  INT. RESTAURANT/BAR - (DAY #4)                              34 
+
+    A tall, curvaceous young woman kisses a bald older man 
+    goodbye, slips out of their booth, and leaves.  Before the 
+    man can leave, Jack appears from the booth behind, shows      *
+    him a palm-sized video recorder.  The man turns pale.         *
+
+
+35  INT. WAY OUTSIDE ACCOUNTANT'S OFFICE - DAY                  35 
+
+    Perry is ushered out by a business-suited woman.  The sign 
+    on the door reads:  Bigelow and Fuller, Certified Public
+    Accountants.  Perry and the woman exchange a few final
+    words, then shake hands.
+
+
+36  INT. APARTMENT HOUSE FOYER - DAY                            36 
+
+    The place is very run down, dirty, dimly lit.  Jimmy
+    brushes grime away from a name on the row of broken
+    mailboxes.  It reads:  John Black.  Jimmy smiles and heads
+    up the stairs.
+
+
+37  EXT. SIDEWALK OUTSIDE ANGELO'S PAWN SHOP - DAY              37 
+
+    Clark exits the shop, makes some notes on his pocket pad,
+    moves to a nearby phone booth.
+
+    END MONTAGE
+
+
+38  PHONE BOOTH                                                 38 
+
+    As Clark dials and lets the phone RING, we go to...
+
+
+39  SPLIT-SCREEN - UPPER LEFT QUADRANT - PHONE STAND            39 
+
+                             JACK
+                     (into phone)
+               The Planet board originally voted
+               _not_ to sell to Lex Luthor.
+                             (MORE).
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Yellow Rev.    3/10/94      22.  
+
+
+39  CONTINUED:                                                  39 
+
+                             JACK (cont'd)
+               Then, suddenly, they all changed
+               their minds.  They're all also
+               driving new Ferraris.                              *
+
+    We no longer hear Jack, but go to...
+
+
+40  SPLIT-SCREEN - UPPER RIGHT QUADRANT PHONE STAND             40 
+
+                             JIMMY
+                     (into phone)
+               I found John Black.  Now all we
+               have to do is set him up.  I
+               thought I'd...
+
+    We no longer hear their conversation.  Instead we go to...
+
+
+41  SPLIT-SCREEN - LOWER QUADRANT - PHONE STAND                 41 
+
+                             PERRY
+               There _was_ additional insurance on
+               the Daily Planet building through a
+               subsidiary of LexCorp-called Lexel 
+               Investments.  Nov all I have to do 
+               is find out how much and...
+
+    We no longer hear Perry.
+
+    SPLIT-SCREEN LOWER RIGHT QUADRANT - CLARK'S PHONE BOOTH
+
+    The RINGING stops.
+
+                             CLARK
+               Just about every criminal element
+               in Metropolis pays protection money 
+               to a shadowy character they call 
+               'The Boss.' Most of them have no 
+               idea who he is, and the ones who 
+               might are too terrified to talk.,
+                     (beat)
+               If Luthor first manipulated the
+               Board to sell the Planet to him,
+               then burned it down to collect the 
+               insurance... what if 'The Boss' is 
+               actually Lex Luthor?
+                     (beat)
+               Okay.  See you back at the
+               apartment.
+
+    Everyone hangs up at once.  END-SPLIT SCREEN
+
+                                                CUT TO:
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    23.  
+
+
+42  EXT. STREET OUTSIDE CLARK'S APARTMENT - DAY - LATER         42 
+
+    Clark is about to enter the building when a car HONKS.
+    Clark looks.
+
+
+43  CLARK'S POV                                                 43 
+
+    A new Mercedes convertible, Lois driving, at the curb.
+
+                             LOIS
+                     (trying to be light)
+               Need a lift, big boy?
+
+    Clark stares at her, then the car, long enough for the 
+    levity to disperse.
+
+                             CLARK
+               Present from Luthor?
+
+                             LOIS
+                     (uncomfortable)
+               I borrowed it.
+
+                             CLARK
+               Then I guess you owe him one.
+
+    Clark starts walking.
+
+                             LOIS
+               Please, Clark.  Get in.
+
+    Clark hesitates, then does get in.
+
+                             CLARK
+               What do you want, Lois?
+
+                             LOIS
+               I want you come to my wedding.
+
+                             CLARK
+               I can't.
+
+                             LOIS
+               Why not?
+
+                             CLARK
+               I just can't.
+
+    Clark starts to leave, Lois puts her hand on his arm.
+
+                             LOIS
+               You hate him that much?  Or is it
+               me you hate now?
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    24.  
+
+
+43  CONTINUED:                                                  43 
+
+                             CLARK
+               I could never hate you, Lois. But
+               there is no way I'm going to sit
+               there and watch you walk down the
+               aisle with that...
+
+                             LOIS
+               What?  Thief?  Gangster?
+               Psychopath?  Murderer?
+
+                             CLARK
+               Maybe all of the above.
+
+                             LOIS
+                     (tiredly)
+               Clark, can't you see what's 
+               happening?  All you're doing is 
+               driving us further and further 
+               apart.
+
+                             CLARK
+               I'm not the one doing the driving,
+               Lois.  You are.
+
+    Clark gets out.
+
+                             CLARK (Cont'd)
+               And if you're so sure Luthor is 
+               filled with nothing but good 
+               intentions, you might ask him about 
+               Lexal Investments and the extra                    *
+               insurance policy they had on 
+               the Daily Planet.  A policy that may 
+               have made easy to rebuild the 
+               paper.
+                     (beat)
+               You're an investigative reporter.
+               Investigate.
+
+    Clark walks away; Lois stares after him.
+
+
+44  INT. LUTHOR'S DEN - DAY                                     44 
+
+    Luthor and Mrs. Cox listen to a cassette tape.
+
+                             CLARK
+                     (on tape)
+               You're an investigative reporter.
+               Investigate.
+
+    Mrs. Cox turns off the tape.
+
+                                                (CONTINUED)
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Yellow Rev.    3/10/94      25.  
+
+
+44  CONTINUED:                                                  44 
+
+                             LUTHOR
+               Modern surveillance technology is a
+               beautiful thing, Mrs. Cox.  If the
+               Borgias had had it, they'd still be
+               running Italy.
+
+                             MRS. COX
+               Shall I take the necessary
+               precautions?
+
+    Luthor nods, but seems deep in thought.
+
+                             MRS. COX (Cont'd)
+               A billion for your thoughts.
+
+                             LUTHOR
+               Sold.
+                     (beat)
+               Everything is falling into line.  I
+               was able to make the Planet                        *
+               vulnerable for a takeover, then I                  *
+               bought it, then I destroyed it.  I                 *
+               broke Lois out of her comfortable 
+               routine _and_ made a few bucks in
+               the process.  Now, when Kent's 
+               highly insulting accusation proves 
+               false, it should drive a final 
+               wedge between Lois and her old 
+               life.
+
+                             MRS. COX
+               Part One of your plan is complete.
+
+                             LUTHOR
+               Yes.  Time for Part Two:  to 
+               conclude our business with 
+               Superman.
+                     (beat)
+               Is everything arranged?
+
+    Mrs. Cox nods.
+
+                             LUTHOR (Cont'd)
+               Good.  Then put in a call to Clark
+               Kent.
+
+    She moves to the phone.
+
+                             LUTHOR (Cont'd)
+               Tell him I'd appreciate it very
+               much if he'd contact his friend
+               Superman on my behalf.  I'd like a
+               word with the Man of Steel 
+               concerning Lois Lane.
+
+    Mrs. Cox dials.
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    26.  
+
+
+45  INT. LUTHOR'S WINE CELLAR - DAY                             45 
+
+    Luthor draws himself a taste from a wine cask, makes a 
+    face, spits it out.
+
+                             LUTHOR
+               Not quite ripe.
+
+    There's a KNOCK an the metal door.  It opens and Mrs. Cox 
+    ushers in SUPERMAN.
+
+                             LUTHOR (Cont'd)
+               Come in, come in.  Don't be shy.
+
+    Mrs. Cox leaves, closes the door behind her.  Luthor has 
+    picked up a dust bottle of wine from a crate.  He wipes 
+    it clean, holds it up to the light.
+
+                             LUTHOR (Cont'd)
+               They say that civilization was
+               invented so that men could 
+               cooperate in the making of wine.
+
+                             SUPERMAN
+               What do you want, Luthor?
+
+                             LUTHOR
+               A favor.
+
+                             SUPERMAN
+               From me?  You must be joking.
+
+                             LUTHOR
+               Hear me out.
+
+    When Superman doesn't speak...
+
+                             LUTHOR (Cont'd)
+               My fiance, Lois Lane, _should_ be
+               deliriously happy at the prospect
+               of our forthcoming wedding.  
+               Unfortunately, she is not.  She 
+               misses her friends from the Daily 
+               Planet.  Especially Clark Kent.
+
+    Despite himself, Superman is fascinated.  Why is Luthor 
+    discussing this with him?
+
+                             SUPERMAN
+                     (warily)
+               So?
+
+                             LUTHOR
+               So, you and Clark are friends.  He
+               was even able to bring you here.
+
+    Luthor strolls among the casks, Superman follows.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    27.  
+
+
+45  CONTINUED:                                                  45 
+
+                             SUPERMAN
+               I'm not following.
+
+    Luthor looks back, sees Superman _is_ following, smiles, 
+    continues on.
+
+                             LUTHOR
+               I'm asking you to use your 
+               influence to convince Clark to 
+               attend our wedding.
+                     (beat)
+               You're invited, too.
+
+    Luthor stops.  Superman stops several paces away.
+
+                             SUPERMAN
+               You live in a fantasy world, 
+               Luthor.  Neither Clark nor I will 
+               ever do anything to support your 
+               marriage to Lois.
+
+                             LUTHOR
+               I see.  Then, I suppose, you're of
+               no further use to me.
+
+    Luthor pulls a lever mounted on the wall.  A metal cage drops 
+    from the ceiling to encase Superman.
+
+                             SUPERMAN
+                     (scornfully)
+               Bars won't hold me, Luthor.
+
+                             LUTHOR
+               Oh?  I think they will.
+
+    Superman strides to the bars, reaches to crush them, then 
+    recoils in pain and drops to one knee.  Luthor switches 
+    off the overhead lights.  The bars GLOW an eerie green 
+    from their Krytonite coating.  Superman falls over onto 
+    his back.
+
+                             LUTHOR (Cont'd)
+               A fantasy world?  Perhaps.  But 
+               it's all about to come true.
+
+    On Luthor's smile we...
+
+                                                FADE OUT.
+
+                        _END OF ACT TWO_
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    28.  
+
+
+                          _ACT THREE_
+
+    FADE IN:
+
+46  INT. CLARK'S APARTMENT - LIVING ROOM - (NIGHT #4)           46 
+
+    Perry's cooking up a storm in the kitchen: every burner
+    in use.  He hears the sound of a KEY TURNING in the lock
+    and looks up.
+
+                             PERRY
+               About time.
+
+    Jimmy and Jack enter thru the door:  not unwelcome, but 
+    not who Perry was expecting.
+
+                             JIMMY
+                     (echoing Perry's
+                      concern)
+               Where's Clark?
+
+                             PERRY
+               I don't know.  He should have been
+               here.
+
+    Perry taps the biggest pot with a wooden spoon.
+
+                             PERRY (Cont'd)
+               Crawfish etouffee anyone?
+
+    Perry pours in the raw crawfish.  They hit the boiling 
+    water with a HISS.  Jimmy and Jack exchange a glance.
+
+                             JACK
+               Actually we just ate.
+
+                             PERRY
+                     (unphased)
+               You'll eat again.
+                     (adding spices and
+                      liquids)
+               You gotta use the sweet paprika,
+               not the regular.  And cayanne 
+               pepper, plenty of it.  'Course the 
+               secret is the apple juice, half a 
+               cup.
+
+    Perry points to the plates.  Reluctantly, Jimmy and Jack 
+    begin to set the table.
+
+                             PERRY (Cont'd)
+                     (to Jimmy and Jack)
+               What'd you get?
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Green Rev.     3/11/94      29.  
+
+
+46  CONTINUED:                                                  46 
+
+                             JIMMY
+               Plenty.
+                     (he holds up a
+                      microcassette recorder)
+               John Black'll do just about
+               anything he's paid to do: break 
+               in, plant explosives, anything.
+                     (beat)
+               Just like he did for a woman named 
+               Mrs. Cox in the case of our young 
+               Jack here.  He even gave me her 
+               number... for a reference.
+
+                             PERRY
+               Beautiful.  We'll get that tape                    *
+               down to Inspector Henderson first 
+               thing in the morning along with 
+               Jack's statement.
+                     (to Jack)
+               Looks like you're off the hook,
+               son.  Congratulations.
+
+                             JACK
+               Thanks.  I got something, too.
+                     (beat)
+               Mr. Simon Truesdale, former Daily 
+               Planet board member, has had a 
+               sudden attack of conscience.  He's 
+               now willing to confess to receiving 
+               a substantial cash 'inducement' I 
+               think he called it to support the 
+               sale of the Planet to Luthor.
+
+                             JIMMY
+               Any particular reason for this
+               'sudden attack of conscience'?
+
+                             JACK
+               It might be related to a certain 
+               video tape he's hoping his wife 
+               never receives.
+
+                             PERRY
+               Poor woman.
+
+                             JACK
+               Not after the divorce settlement.
+
+                             JIMMY
+               What about you, Chief?
+
+                             PERRY
+               Well, now, Lexel Investments _did_ 
+               have additional insurance on the 
+               Daily Planet building.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Green Rev.    3/11/94       30.  
+
+
+46  CONTINUED:  2                                               46 
+
+                             JACK
+               How much?
+
+                             PERRY
+               About twice what it would've cost
+               to repair it.
+                     (beat)
+               Lex Luthor cleared a cool
+               seventy-five nil on the deal.
+
+                             JIMMY
+               That's motive.  He's nailed.
+
+                             JACK
+               So, what are we waiting for?
+
+                             PERRY
+               Clark.
+                     (motioning)
+               Sit.  Let's eat.
+
+    They take places around the table while Perry serves 
+    the mixture over rice.
+
+                             JIMMY
+               This is all great, of course, but
+               the problem is none of it'll bring 
+               back the Planet.
+
+                             PERRY
+               Elvis, first recording session for 
+               Sam Phillips, June of '54 it was, 
+               didn't turn out too well, but 
+               darned if he wasn't back in that 
+               studio in July and turning out his 
+               first couple of hits.
+
+                             JIMMY
+               I just know there's a point to that
+               story.
+
+                             PERRY
+
+               Elvis didn't give up; we won't
+               either.  Got I ?
+
+                             JIMMY
+               Got it.
+
+    They all dig into the food.                                   *
+
+                             PERRY
+               I hope you like it spicy
+
+    As one, Jimmy and Jack grab their throats and rush for the
+    kitchen sink.
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    31.  
+
+
+47  INT. LEX LIMO - NIGHT                                       47 
+
+    Luthor and Lois, dressed in evening clothes, sit in the 
+    back of the Lex Limo.  Lois stares out the window at the 
+    lights and rain-drenched streets of the city.
+
+                             LUTHOR
+               I don't know when I've had better 
+               garlic chicken.  Chef Andre 
+               deserves a raise.
+
+                             LOIS
+               Mmm.
+
+                             LUTHOR
+               And what a magnificent production 
+               of Othello.  I especially liked the 
+               black and white set.  Very 
+               inventive.
+
+                             LOIS
+               Mmm.
+
+                             LUTHOR
+                     (Staring at Lois)
+               You know, Shakespeare didn't write 
+               Othello.  It was actually written 
+               by Dr. Suess.
+
+                             LOIS
+               Mmm.
+
+                             LUTHOR
+                     (after a sigh)
+               Lois, an I boring you?
+
+    Lois realizes her distraction, turns back to Luthor, puts 
+    a hand on his arm.
+
+                             LOIS
+               What?  No, of course not. I'm
+               sorry.  All I can think about is
+               that enormous stack of RSVP's on my
+               desk.
+                     (beat, wryly)
+               Minus a few.
+
+                             LUTHOR
+               Your dad and sister absolutely                     *
+               can't make it back?                                *
+
+                             LOIS
+                     (shaking her head)                           *
+               My dad's medical relief mission is                 *
+               in Africa, and Lucy's still                        *
+               trekking in Nepal.  At least my                    *
+               mom's coming.                                      *
+                             (MORE)
+
+                                                (CONTINUED)
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    32.  
+
+
+47  CONTINUED:   47
+
+                             LOIS (cont'd)
+                     (sadly)
+               But it's not just my family.  Not                  *
+               one of the people I thought I was
+               closest to is coming.
+
+                             LUTHOR
+               Propinquity.
+
+                             LOIS
+               What?
+
+                             LUTHOR
+               Propinquity.  A relationship based
+               on convenience.  You work in a 
+               particular place, shop in certain 
+               stores, become attached to the 
+               people that surround you.  But, 
+               when you move on, the relationships 
+               end.
+                     (beat)
+               That's what you have to do, Lois.
+               Move on.  It's not fair to you... 
+               or to me.
+
+                             LOIS
+               You're right.  I just wanted our 
+               wedding day to be something I could 
+               share with Clark and Perry and the 
+               others.
+
+                             LUTHOR
+               After the honeymoon, I promise you
+               we'll heal all old wounds.
+
+                             LOIS
+               You still won't tell me where we're
+               going?
+
+                             LUTHOR
+                     (teasing)
+               No.
+
+                             LOIS
+               Not even a hint?
+
+                             LUTHOR
+               Clothing is optional.
+
+    Lois laughs, lays her head on Luthor's shoulder.  Then, 
+    she remembers something.  She takes a moment to choose her 
+    words so as not to put Luthor on his guard.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    33.  
+
+
+47  CONTINUED:  2                                               47 
+
+                             LOIS 
+               Lex... when the Planet was 
+               destroyed, you lost quite a bit of 
+               money, didn't you?
+
+                             LUTHOR
+               Yes, but I have wide shoulders and
+               deep pockets.
+
+                             LOIS
+               But, I mean it wasn't a total loss.
+               There was insurance.
+
+                             LUTHOR
+               Several policies.  Unfortunately,
+               not enough to justify
+               reconstruction.
+                     (beat)
+               Why the sudden concern?
+
+                             LOIS
+               Because I can't help but feel that 
+               your buying the Planet in the first 
+               place had something to do with me.
+
+                             LUTHOR
+               It did.  I'm embarrassed to admit 
+               it, but I bought the Planet in a 
+               desperate, lovesick attempt to 
+               bring us closer together, to bring 
+               my life in tune with yours.
+               Ironically, it wasn't necessary: 
+               here we are together. Our love was 
+               too strong.  We were _meant_ to be 
+               together.
+
+    On Lois, we...
+
+                                                CUT TO:
+
+
+48  EXT. THE STERN BUILDING - NIGHT                             48 
+
+    To establish a downtown highrise.
+
+
+49  INT. FRANKLIN STERN'S OFFICE - NIGHT                        49 
+
+    Perry is shown into the immense, lavish office of FRANKLIN 
+    STERN.  The office is dark, save for a desk lamp emiting a
+    pale green light.  An impressive looking African-American 
+    man in his late 50's sits in the massive, high-backed desk 
+    chair.
+
+                             PERRY
+               Mr. Stern?
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    34.  
+
+
+49  CONTINUED:                                                  49 
+
+                             STERN
+               Come in, Mr. White.   Please, sit
+               down.
+
+                             PERRY
+                     (as he sits)
+               Thank you for seeing me at this late hour.
+
+                             STERN
+               Perry, may I call you Perry, I work 
+               a fourteen hour day, always have.  
+               If I show my face at home before 
+               eleven p.m. my wife calls the 
+               police.
+                     (beat)
+               I'm sure you know what that's like.
+
+                             PERRY
+               Too well.
+
+    They share a smile.
+
+                             STERN
+               Strange that we've never met.  I'm 
+               very familiar with your work, of 
+               course.
+
+                             PERRY
+               As I am with yours.
+
+                             STERN
+               I miss reading the Daily Planet.
+               It has imitators, but no true 
+               successor.  Metropolis has lost an 
+               asset.
+
+                             PERRY
+               Those of us who worked there were
+               proud to call it home.
+                     (beat)
+               That's why I've come.
+
+                             STERN
+               I didn't think you were here
+               looking for a fourth for bridge.
+
+                             PERRY
+               Mr. Stern... you own television and
+               radio stations.  And you have
+               interests in book publishing.  But,
+               have you ever considered owning a 
+               newspaper?
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    35.  
+
+
+49  CONTINUED:  2                                               49 
+
+                             STERN
+               Perry... correct me if I'm wrong...
+               there _is_ no newspaper.
+
+                             PERRY
+               The Daily Planet was more than
+               concrete and girders.  It was
+               people and ideas and principles.
+               Those still exist.
+                     (beat)
+               There _is_ a newspaper.  There just
+               isn't a place to print it.
+
+    Stern loans forward.
+
+                             STERN
+               Even if that were true, why would
+               _I_ want to own the Daily Planet.
+
+                             PERRY
+               I can't imagine anyone wanting
+               anything else.
+
+    Stern gives this some thought, then finally shakes his 
+    head.
+
+                             STERN
+               I'm sorry, but my answer is no.
+                     (beat)
+               I wish you luck, though, in finding 
+               some way to rebuild.  If you do, 
+               you have my subscription.
+
+    Stern stands, offers his hand.  The men shake and Perry 
+    turns to leave.  Perry's deeply disappointed, but trying 
+    not to let it show.
+
+                             PERRY
+                     (half to himself)
+               I just hate to see Lex Luthor win.
+
+                             STERN
+                     (sharply)
+               What's that?
+
+                             PERRY
+               Lex Luthor.  We've gathered 
+               evidence that suggests he was                      *
+               behind the Planet's fall.  I'd                     *
+               just like to see the expression on 
+               his face... well, thanks again for 
+               seeing me.
+
+    Perry exits through the door.  Stern sits back down, 
+    thinking.
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    36.  
+
+
+50  INT. LOIS' APARTMENT - (DAY #5)                            50* 
+
+    Lois has her feet up on her kitchen table.  She looks at      *
+    the phone: silent.  She picks it up, speed dials.             *
+
+                             SECRETARY (O.S.)
+               LNN.  Lois Lane's office.                          *
+
+                             LOIS
+               Any calls, Lorna?
+
+                             SECRETARY (O.S.)
+               No, Ms. Lane.
+
+                             LOIS
+                     (disbelieving)
+               Nothing?  What about the uprising                  *
+               in Qurac?  Are we pulling our                      *
+               correspondents out?  I have to                     *
+               decide...
+
+                             SECRETARY (O.S.)
+               Oh, I thought you knew.  Mr. Ahern 
+               already arranged their departure.  
+               I guess he didn't want to bother 
+               you.
+
+                             LOIS
+               What?!
+
+                             SECRETARY (O.S.)
+               We just assumed... with your 
+               wedding and all...
+
+                             LOIS
+                     (angrily)
+               Now I _am_ bothered.  I'm bothered 
+               because no one bothered to bother 
+               me.  You expect me to work at LNN                  *
+               day after day, week after week,                    *
+               completely... unbothered?
+
+                             SECRETARY (O..S.)
+               Ms. Lane?
+
+                             LOIS
+               Never mind.
+
+    Lois hangs up.  She then pulls a scratch pad from the         *
+    counter, looks at it, almost puts it back, then sets it       *
+    by the phone.
+
+
+51  CU - SCRATCH PAD                                            51 
+
+    Lois has written: Uni-World Insurance Company 555-8900.       *
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    37.  
+
+
+52  LOIS                                                        52 
+
+    dials the phone.
+
+                             LOIS
+               Mr. Vitkay?
+
+    INTERCUT
+
+
+53  INT. UNI-WORLD INSURANCE COMPANY - DAY                     53* 
+
+    MR. VITKAY is a bookish fellow sitting behind a desk with 
+    a mound of files on it.
+
+                             MR. VITKAY
+               Yes?
+
+                             LOIS
+               This is Lois Lane.  We spoke
+               yesterday.  I was wondering if you 
+               got that information I requested.
+
+                             MR. VITKAY
+               Yes, yes.  I have the file right
+               here.
+                     (beat)
+               Lexel Investments _did_ have                       *
+               supplemental insurance on the Daily 
+               Planet building.
+
+    Lois sags.
+
+                             MR. VITKAY (Cont'd)
+               'But... the amount was 
+               insignificant.  Far below 
+               replacement cost.  Lexel must have                 *
+               suffered a substantial loss.
+                     (beat)
+               Guess they can afford it, though,
+               huh?.
+
+                             LOIS
+                     (relieved)
+               Yes.  They can.  Thank you very
+               much.
+
+    Lois hangs up, elated.  She looks at her desk calendar.
+
+
+54  CU - CALENDAR                                               54 
+
+    Only one thing on her agenda, in the afternoon:  Wedding.
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    38.  
+
+
+55  BACK TO INSURANCE OFFICE                                    55 
+
+    When we PULL BACK we see Mrs. Cox sitting in the chair in 
+    front of Vitkay's desk, long legs crossed.  She reaches in 
+    her briefcase.
+
+                             MRS. COX
+               I assume you accept cash.
+
+                                                CUT TO:
+
+
+56  INT. LUTHOR'S WINE CELLAR/PRISON - DAY                      56 
+
+    The cage is as before.  Superman, doubled over in pain, 
+    lies on his side.  Luthor enters thru the doors.  He's 
+    dressed in his wedding tux and carries two cummerbunds, 
+    one red, one white.  He removes a key on a ring from his 
+    pocket, unlocks the cage door, moves to stand over his 
+    weakened and fallen arch enemy.
+
+                             LUTHOR
+               And how are we feeling today?
+
+    Superman tries to speak, but can only manage a GROAN.         *
+
+                             LUTHOR (Cont'd)
+                     (false sympathy)
+               Ohh.  Still a little green around
+               the gills?
+
+    Luthor LAUGHS, produces a pocket mirror, examines himself 
+    as best he can, straightens his black tie.  He's never 
+    been in a better mood.
+
+                             LUTHOR (Cont'd)
+               I, on the other hand, am feeling
+               wonderful.
+                     (quoting)
+               'She's beautiful and therefore to 
+               be wooed.  She is woman, therefore 
+               to be won.'
+                     (beat)
+               'Henry the Fifth.'
+
+    Superman makes a weak grab for Luthor's ankle, but Luthor 
+    calmly steps away.
+
+                             LUTHOR (Cont'd)
+               I know this must be hard for you.
+               Seeing me all decked out, on my way
+               to marry Lois Lane, while you can 
+               only lie here helplessly and 
+               suffer.  Then tonight, tonight...
+                     (bursting into song)
+               ... won't be just any night...
+                             (MORE)
+
+                                                (CONTINUED)
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Pink Rev.    3/9/94         39.  
+
+
+56  CONTINUED:                                                  56 
+
+                             LUTHOR (Cont'd) (cont'd)
+                     (beat, wickedly)
+               I love Lois, but she's much too
+               independent, don't you think? 
+               Well, leave that to me.
+
+    Luthor steps toward the door.
+
+                             SUPERMAN
+                     (a croak)
+               Clark Rent knows where I am.
+
+                             LUTHOR
+                     (pausing)
+               That's right.  I'll have to kill
+               him, too.
+                     (beat)
+               That reminds me.  Which one?
+                     (holding out the
+                      cumberbunds)
+               The red, or the white?  Red for 
+               passion, or white for purity?
+
+    Superman struggles to a sitting position.  Luthor loops 
+    the white cumberbund around Superman's neck and pulls him
+    back down.  Superman moans in pain.
+
+                             LUTHOR (Cont'd)
+               I agree.  Definitely the red.
+
+    Luthor exits the cage, re-locks it, sets the key down on a
+    wine cask as he dons the red cumberbund
+
+                             SUPERMAN
+                     (a hoarse whisper)
+               Luthor...
+
+                             LUTHOR
+               Strange to hear you say my name and 
+               know It's probably for the last 
+               time.
+                     (beat)
+               Is this a mistake?  Will the pain 
+               of losing the challenge you 
+               represent be worse than the 
+               discomfort of constantly losing to 
+               you?
+                     (another beat)
+               Nah.
+
+    Luthor turns to leave.
+
+                             LUTHOR (Cont'd)
+               I'll be back later... when it's all 
+               over.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    40.  
+
+
+56  CONTINUED:  2                                               56 
+
+    Luthor taps a fire ax hanging on the wall.
+
+                             LUTHOR (Cont'd)
+               We'll have a little... heart  to
+               heart
+                     (beat)
+               Have a nice death.
+
+    Luthor's gone.  But, Superman's eyes are wide open and 
+    he's staring at something.
+
+    SUPERMAN'S POV
+
+    The key.
+
+                                                FADE OUT.
+
+                           _END ACT THREE_
+                          ---page break---
+
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    41.  
+
+                            _ACT FOUR_
+
+    FADE IN:
+
+57  INT. LUTHOR'S PENTHOUSE - DRESSING ROOM - DAY               57 
+
+    Lois wears her magnificent wedding gown, stares into a        *
+    full-length mirror.  Intermittently, she practices a wide 
+    smile, then bursts into SOBS.  She goes through this cycle 
+    several times until there's a KNOCK on the door and a
+    VOICE says...
+
+                             VOICE
+               Five minutes, Miss... Mrs. Luthor.
+
+    Lois quickly collects herself, dabs at her eyes with 
+    tissues, then takes a deep breath.
+
+                             LOIS
+                     (to the mirror)
+               Mrs. Lex Luthor.
+                     (beat)
+               Lois Lane Luthor.
+                     (beat)
+               Lois Luthor Lane.
+                     (beat, a stray thought)
+               Lois Lane... Kent?
+                     (shakes her head to
+                      clear it)
+               Lois... Lane.
+
+    We PULL BACK to include the rest of the room.  Now, for       *
+    the first time, we see ELLEN LANE, Lois' mother, sitting      *
+    on the sofa, looking at her daughter.                         *
+
+                             LOIS (Cont'd)
+               Mom, what an I going to do?                        *
+
+                             ELLEN
+               Honey, if you're not sure...                       *
+
+                             LOIS
+               It's too late.                                     *
+
+                             ELLEN
+               No, it's not.  Do what your heart                  *
+               tells you to do.                                   *
+
+    Lois drops her veil, exits the room.  Her mother              *
+    follows.                                                      *
+
+                                                CUT TO:
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    42.  
+
+
+58  INT. LUTHOR'S WINE CELLAR - DAY                            58  
+
+    Superman has crawled to a position near the bars across
+    from where the key still rests on the wine cask.  The
+    closer to the bars he is, the more intense the pain, but
+    he bears it.  Concentrating, trying to build power by
+    breathing deeply in and out, Superman finally "aims" at
+    the key and _INHALES_. It's weak, a pale shadow of his
+    former power, but does have an affect.
+
+
+59  THE KEY                                                     59 
+
+    flutters, slides to the edge of the cask, but sticks there
+    with the ring dangling over the side.
+
+
+60  SUPERMAN                                                    60 
+
+    collapses, COUGHING from the exertion.  Inadvertently, he
+    grasps the bars for balance and CRIES OUT in pain,
+    clutching his hands as if burned.  He lies back, resting
+    his head on the fallen cummerbund.  Faintly, in the
+    distance, he hears ORGAN MUSIC.
+
+
+61  INT. LUTHOR'S BALLROOM - DAY                                61 
+
+    The room is packed with the cream of Metropolis Society.
+    Ellen Lane sits toward the front.  Conversation dies as       *
+    the WEDDING MARCH begins.  Luthor enters from the side and
+    takes his place by the altar.  Now Lois appears in back
+    and all eyes turn.  Slowly, she begins to walk.  As she
+    walks, she remembers.
+
+    FLASHBACK #1
+
+    Lois and Clark share Chinese food (pilot episode).
+
+    FLASHBACK #2
+
+    Lois shows plenty of leg as she perches on Clark's desk
+    ("Pheromone My Darling").
+
+    FLASHBACK #3
+
+    Lois and Clark brush their teeth together ("Honeymoon in
+    Metropolis").
+
+    FLASHBACK #4
+
+    Clark, having quit, walks away from Lois ("Man of Steel
+    Bars").
+
+    BACK TO SCENE
+
+    Lois continues down the aisle.
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    43.  
+
+
+62  INT. LUTHOR'S WINE CELLAR - SAME TIME - DAY                 62 
+
+    Superman stands shakily by the bars.  He has torn the
+    white cummerbund into strips and tied then together.  He
+    now holds one end and tosses the other to land several
+    feet away from the key.  He rests a moment, tries to
+    compose himself, and BLOWS.
+
+
+63  THE CUMMERBUND                                              63 
+
+    lifts, a silken snake, and drifts toward the key.  The end
+    flutters up and near the key, then, like threading a
+    needle, moves through the ring and twists back on itself
+    to create a loop.
+
+
+64  SUPERMAN                                                    64 
+
+    in great pain, leans through the bars and gives his "rope"
+    a tug.
+
+
+65  THE KEY                                                     65 
+
+    is pulled off the cask onto the floor, within several feet
+    of Superman's outstretched hand.
+
+
+66  SUPERMAN                                                    66 
+
+    near collapse, tries to _INHALE_, but the key moves only
+    an inch.  He sits there, gasping for breath.
+
+
+67  INT. LUTHOR'S BALLROOM - SAME TIME - DAY                    67 
+
+    The Wedding March ends as Lois joins Luthor, smiling with
+    pride, at the altar.  She stares in shock at who's to
+    perform the ceremony.
+
+                             LOIS
+                     (whispering)
+               The Archbishop?
+
+                             LUTHOR
+               The Pope had a prior engagement.
+
+                                                                  *
+
+                             THE ARCHBISHOP
+               Dearly beloved, we are gathered
+               here today in the sight of God, and 
+               in the presence of these witnesses, 
+               to join together this man and this 
+               woman in holy matrimony.
+
+    Lois desperately scans the audience, but is disappointed.
+    The faces she hoped to see aren't there.
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Green Rev.    3/11/94       44.  
+
+
+68  INT. LUTHOR'S WINE CELLAR - DAY                             68 
+
+    Superman kneels by the bars and reaches, but he's still
+    several feet short of the key.  He staggers to his feet
+    retreats to the other end of his cage, and runs at the
+    bars.  He CRIES OUT at the impact, but the cage is pushed
+    closer to the key.  He lowers himself and stretches,
+    stretches... an inch short.  Fighting off unconsciousness,
+    he tries again, straining, almost...
+
+
+69  INT. LUTHOR'S BALLROOM - DAY                                69 
+
+                             THE ARCHBISHOP
+               ... till death do you part?
+
+                             LUTHOR
+               I do.
+
+                             THE ARCHBISHOP
+               And do you, Lois, take this man to
+               be your wedded husband from this
+               day forward, for richer, for
+               poorer, in sickness and in health,
+               to love and to cherish, till death
+               do you part?
+
+                             LOIS
+               I...
+
+    She looks around, pauses.  The room waits breathlessly.
+
+                             LUTHOR
+                     (gently prodding)
+               Lois.
+
+                             LOIS
+               I... can't.
+
+    The rear doors CRASH open.  Everyone looks.
+
+
+70  ANGLE ON DOORS                                              70 
+
+    Perry, Jimmy, and Jack.
+
+                             LOIS
+                     (thrilled)
+               Oh, Lex.  They came.  They...
+
+    Lois stops in confusion as half a dozen Metropolis cops, 
+    led by INSPECTOR HENDERSON, enter behind her friends.         *
+
+                             PERRY
+               Stop the wedding!
+
+    All rush up the aisle.  As they near...
+
+                                                (CONTINUED)
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Yellow Rev.    3/10/94      45.  
+
+
+70  CONTINUED:                                                  70 
+
+                             PERRY (Cont'd)
+               Lois, you can't marry this man!
+
+                             LOIS
+                     (petulantly)
+               What, is there an echo in here?  I
+               just said that.
+
+                             LUTHOR
+                     (furious)
+               What is the meaning of this?!
+
+                             PERRY
+               The meaning, Luthor, is that you're 
+               through.  We have all the evidence 
+               against you we need.
+
+                             LOIS
+               Evidence?  Evidence of what?
+
+                             HENDERSON
+               I have a warrant here charging you
+               with arson and other crimes too
+               numerous to mention.
+
+                             LUTHOR
+               You be out of your minds.  All
+               of you.
+
+                             HENDERSON
+               You have the right to remain
+               silent.  You have the right to an
+               attorney.  If you cannot afford an
+               attorney...
+
+                             LUTHOR
+               Will you stop that!  I can afford a
+               _thousand_ attorneys.  I'll have 
+               your head... badge for this.
+               Someone get the Governor on the 
+               phone!  Wait, make it the
+               President, make it...
+
+    Luthor's mouth falls open as he glances toward the back of
+    the ballroom.  There, standing next to two detectives, in
+    handcuffs, is Mrs. Cox.  She shrugs at Luthor, who yells      *
+    out to her.                                                   *
+
+                             LUTHOR (Cont'd)
+               Et tu, Mrs. Cox?                                   *
+                     (then, turning to Lois)                      *
+               Sorry, Lois. I'll have to take a 
+               rain check.  I'm afraid something's
+               come up.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    46.  
+
+
+70  CONTINUED:  2                                               70 
+
+    Henderson grabs Luthor's arm, but Luthor twists free, 
+    disposes of the two cops in his way with several 
+    well-executed karate moves, and disappears through the 
+    side door.  Other cops throw themselves against the door,
+    but they rebound.  It's been bolted from the inside.          *
+
+                             PERRY
+               Lois, I know things didn't turn                    *
+               out exactly as planned, but...                     *
+
+                             LOIS
+                     (a bit hysterical),
+               Why?  Doesn't every woman dream of                 *
+               a wedding like this?
+
+    Henderson rushes over.
+
+                             HENDERSON
+               Don't worry, we'll get him.  We
+               have the entire building sealed
+               off.
+
+    He rushes off.  Lois looks after him, then down.
+
+
+71  LOIS' POV                                                   71 
+
+    On the floor, a plain, gold wedding band.
+
+
+72  LOIS                                                        72 
+
+    bends to retrieve it. She stares at it and her friends,
+    not really seeing any of it.
+
+                             JIMMY
+               Talk about the nick of time...
+
+    Jimmy takes the wedding bouquet, breathes in the flower
+    scent; Lois snatches it back from him.  Jack salutes the
+    Archbishop.  Lois bursts into tears.
+
+
+73  INT. LUTHOR'S WINE CELLAR - DAY                             73 
+
+    Luthor, tie askew, bursts in, grabs the ax off the wall.      *
+
+                             LUTHOR
+               Sorry, Superman, I don't have time
+               to chat.  I'll just take my pound
+               of flesh and...
+
+    The cage door is open, key in the lock.  The knotted
+    "rope" lies on the floor.  Superman is gone.  Luthor ROARS
+    his anger and buries the ax in a wine cask.  Then,            *
+    reacting to sounds of pursuit (FOOTSTEPS, CALLS, etc...),
+    Luthor runs out.
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    47.  
+
+
+74  BEHIND A WINE CASK                                          74 
+
+    Superman, drained of energy, sits propped against the
+    cask.
+
+
+75  EXT. STREET OUTSIDE LEXCORP BUILDING - DAY                  75 
+
+    Lois, Perry's jacket draped over her shoulders, is led 
+    outside by-the rest of the gang.  Police cars and 
+    personnel are everywhere.  Lois is still in shock.
+
+                             LOIS
+               I've always been such a good judge
+               of character.
+
+                             PERRY
+               He fooled us all.
+
+                             JACK
+               Not me.
+
+                             JIMMY
+               _I_ never trusted him.
+
+                             PERRY
+               Lois, don't blame yourself.
+
+                             LOIS
+                     (suddenly realizing)
+               Where's Clark?
+
+                             CLARK (O.S.)
+               Right here.
+
+    Still shaky and pale, Clark steps to her side.  They look 
+    at each other.  He holds out his arms... she moves into 
+    them.  Suddenly, a police walkie-talkie delivers a loud 
+    burst of STATIC.
+
+                             VOICE OVER RADIO
+               He's in the Penthouse!                             *
+
+    All look up.
+
+                             LOIS
+               Lex?
+
+76  INT. LUTHOR'S PENTHOUSE - DAY                               76 
+
+    Luthor runs: police after him, police in front of him.  He 
+    knocks several more down, but is cornered and backs to the 
+    balcony.
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    48.  
+
+
+77  EXT. LUTHOR'S BALCONY - CONTINUOUS - DAY                    77 
+
+    Henderson steps forward.
+
+                             HENDERSON
+               It's over, Luthor.  Give yourself
+               up.
+
+    Luthor looks at Henderson, then over the edge.  He climbs
+    up on the ledge.
+
+                             LUTHOR
+               Lex Luthor will not live in a cage.
+
+    Luthor turns to face the drop.
+
+                             HENDERSON
+               Luthor, no.
+
+                             LUTHOR
+                     (calmly)
+               Did you know this is the tallest
+               building in Metropolis?
+                     (beat)
+               Top of the world.
+
+    He steps over the edge.
+
+
+78  SIDEWALK BELOW                                              78 
+
+    The crowd REACTS as the body falls.  Clark releases Lois, 
+    steps forward as if to fly... but can barely walk.
+
+                             CLARK
+                     (anguished)
+               I can't.
+
+    Lois averts her eyes, buries her face in Clark's chest.
+    The bouquet drops from her hand to the sidewalk.  Someone 
+    running by steps on it.
+
+
+79  SPINNING NEWSPAPER #1                                      79  
+
+    Headline reads: LUTHOR PLUNGES TO DEATH.
+
+
+80  SPINNING NEWSPAPER #2                                       80 
+
+    Headline reads:  LUTHOR'S CORPSE STOLEN FROM MORGUE --
+    Sub-headline:  Police Fear Body Snatchers.
+
+
+81  SPINNING NEWSPAPER #3                                       81 
+
+    Headline reads: LUTHOR RESPONSIBLE FOR DAILY PLANET'S
+    DEMISE.
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Yellow Rev.    3/10/94      49.  
+
+
+82  SPINNING NEWSPAPER #4                                       82 
+
+    Headline reads: LUTHOR VAST CRIMINAL NETWORK REVEALED
+
+
+82A SPINNING NEWSPAPER #5                                     82A* 
+
+    National Whisper Headline reads: LUTHOR & ELVIS ALIVE!        *
+    Sub-Headline: Open Surf Shop in Rio                           *
+
+
+83  SPINNING NEWSPAPER #6                                      83* 
+
+    Headline reads.  FALL OF THE HOUSE OF LUTHOR.
+
+                                                DISSOLVE TO:
+
+
+84 EXT. DAILY PLANET BUILDING - A WEEK LATER (DAY #6)           84 
+
+    Lois, Clark, Perry, Jimmy and Jack have convened on the 
+    sidewalk.  The entrance has been boarded up, "BUILDING 
+    CONDEMNED" signs are posted, and the area is still 
+    cordoned off.
+
+                             JIMMY
+               I wish they'd get it over with and
+               tear this old place down.
+
+                             PERRY
+               Yep, too many memories.
+
+                             LOIS
+               Most of then good.
+
+                             PERRY
+               There's a lesson to be learned
+               here.
+
+                             JACK
+               Why an I not surprised?
+
+                             PERRY
+               We ought to appreciate what we've
+               got when we've got it.
+
+    Lois looks at Clark, who's looking at the ruin.  He feels 
+    her stare and turns to her.  Quickly she changes the 
+    subject.
+
+                             LOIS
+                     (miserably)
+               It's my fault.  All of it.  If Lex 
+               hadn't wanted me so badly he never 
+               would've destroyed the Planet.
+                     (beat)
+               Why me?
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Yellow Rev.    3/10/94     49A.  
+
+
+84  CONTINUED:                                                  84 
+
+
+                             CLARK
+               Because Lex Luthor always wanted
+               what he could never have.
+
+                             LOIS
+               He almost did.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    50.  
+
+
+84  CONTINUED: 84
+
+
+                             CLARK
+                     (fervently)
+               No. You said 'no.'  You never
+               would have gone through with it.
+
+    Lois looks gratefully at Clark, tries to reply, but can't 
+    speak.  Perry jumps in to cover the awkward moment.
+
+                             PERRY
+               I know I've said this before, but I
+               hate the idea that Lex Luthor got
+               his way...
+                     (notions toward the
+                      ruins)
+               ... even in this one thing.
+
+                             (O.S.)
+               He didn't.
+
+    Stern appears at their side, points.
+
+                             STERN (Cont'd)
+               Look!
+
+    We hear the sound of a CRANE.
+
+
+85  THEIR POV                                                   85 
+
+    A flatbed truck pulls up and parks.  Workmen remove a         *
+    tarp covering a large object on the truck bed:  the Daily     *
+    Planet globe.  Now, a crane begins to move it into            *
+    position.                                                     *
+
+
+86  BACK TO SCENE                                               86 
+
+                             VARIOUS
+               How? What? Is this really ... ?
+
+                             PERRY
+               Great Shades of Elvis!
+
+                             STERN
+               We'll start on the building next
+               week, but first I thought we'd
+               announce to the world we're back in
+               business.
+                     (beat, to Perry)
+               I reconsidered your proposal.  I
+               agree with you, Mr. White.
+               Metropolis needs the Daily Planet.
+               Besides, one more nail in Lex
+               Luthor's coffin suits me fine.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    51.  
+
+
+86  CONTINUED                                                   86 
+
+    The group rushes to him; hand shaking and hugging all 
+    around.
+
+                             STERN (Cont'd)
+               There were some ideas I had about
+               modernization.
+
+                             PERRY
+                     (warily)
+               Modernization?
+
+                             STERN
+               Yes, improvements, expansions...
+               Would you like to see the plans?
+
+    Stern moves off.
+
+                             PERRY
+                     (as he, Jimmy, Jack
+                      follow)
+               Now, Stern.  Stern!  Wait just a
+               doggone minute!
+
+    Lois and Clark are left alone.
+
+                             CLARK
+                     (per the globe)
+               I've never seen anything so
+               beautiful in all my life.
+
+    Lois looks at Clark, seeing him in a newfound light.
+
+                             LOIS
+               You never gave up.  On the Planet,
+               on your friends, on me.
+
+    Clark looks at her.
+
+                             CLARK
+               I couldn't.  You've just named 
+               almost everything in the world 
+               that's precious to me.
+
+                             LOIS
+               I don't think I've ever, _will_
+               ever meet anyone quite like you.
+
+                  LOIS                         CLARK
+          Clark...                      Lois...
+
+                             LOIS (Cont'd)
+               Let me go first, please.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    52.  
+
+
+86  CONTINUED: 2                                                86 
+
+                             CLARK
+               No.  Not this time.
+                     (beat)
+               I'm sorry.  About a lot of things.
+               I wanted to bring Luthor down, but
+               I never wanted to hurt you.  I 
+               should never have said anything... 
+               about the way I felt toward you.
+               It put you in an incredibly awkward 
+               position.
+
+                             LOIS
+               No.  Clark, I...
+
+                             CLARK
+               The fact of the matter is, it 
+               wasn't true.  I'm not in love with 
+               you.
+
+
+87  CLOSE ON - CLARK'S FINGERS                                  87 
+
+    Crossed behind his back.
+
+
+88  BACK TO SCENE                                               88 
+
+                             LOIS
+                     (crestfallen)
+               You're not?
+
+                             CLARK
+               I would have said anything to stop
+               you from marrying Luthor.
+
+    Lois tries to mask her disappointment.
+
+                             LOIS
+               Oh.  Well, if that's the way you
+               feel...
+
+                             CLARK
+               I want the same thing you do, Lois.
+               I want us to be friends, and 
+               partners.  Forever.
+
+                             LOIS
+               Forever.
+
+                             CLARK
+               Now, what did you want to say?
+
+                             LOIS
+               Oh, nothing.  The same.  What you
+               just said.  Sort of.
+
+                                                (CONTINUED)
+
+                          ---page break---
+    THE HOUSE OF LUTHOR (#20)     Full Blue Rev.    3/7/94    53.  
+
+
+88  CONTINUED:   88
+
+    They're about to share a hug, but, at that moment, Clark, 
+    with _SUPER HEARING_, picks up...
+
+                             VOICE (O.S.)
+               Help!
+
+                             CLARK
+               Uh, could we continue this later,
+               Lois?  I've got to go.
+
+    He hurries off.
+
+                             LOIS
+                     (slightly put off)
+               Sure.  Why not?  Go.  Run off and 
+               disappear like you always do 
+               whenever we're having a discussion.
+                     (a sigh)
+               I guess everything's back to
+               normal.
+
+
+89  UP IN THE SKY                                               89 
+
+    A red, yellow and blue-streak.
+
+
+90  LOIS                                                        90 
+
+                             LOIS
+                     (looking up)
+               I'm not done with you either, big
+               fella.
+
+
+91  UP IN THE SKY.                                              91 
+
+    Superman pauses, looks down on Lois and the city of 
+    Metropolis, and smiles.  As he _ROCKETS_ off into a new 
+    season we...
+
+                                                FADE OUT.
+
+                        _END ACT FOUR_
+
+

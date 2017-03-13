@@ -1,0 +1,3510 @@
+﻿                                                  BUFF Rev: 10/2/06 
+                                             GOLDENROD Rev: 9/21/06          
+                                                    GREEN Rev: 9/20/06 
+                                                YELLOW Rev: 9/18/06 
+                                                        PINK Rev: 9/14/06    
+                                                  BLUE Rev: 9/08/06     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                       Blackout  
+                                      #307/Ep.44 
+ 
+ 
+                                      Written by 
+ 
+                                  Andrew Dettmann 
+ 
+ 
+                                      Directed by 
+ 
+                                    Scott Lautanen 
+ 
+ 
+ 
+SCOTT FREE in association with CBS PARAMOUNT NETWORK TELEVISION, a division 
+of CBS Studios. 
+ 
+Copyright 2006 CBS Paramount Network Television. 
+All Rights Reserved. 
+ 
+This script is the property of CBS Paramount Network Television and may not 
+be copied or distributed without the express written permission of CBS 
+Paramount Network Television.  This copy of the script remains the property 
+of CBS Paramount Network Television.  It may not be sold or transferred and 
+must be returned to: CBS Paramount Network Television Legal Affairs  
+4024 Radford Avenue Administration Bldg., Suite 390, Studio City, CA 91604 
+ 
+THE WRITING CREDITS MAY OR MAY NOT BE FINAL AND SHOULD NOT BE USED FOR 
+PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING WITH TELEVISION 
+LEGAL DEPARTMENT. 
+ 
+                               
+                                                BUFF Rev 
+                                                  October 2nd, 2006  
+ 
+                                      #307/Ep.44 
+                                       Blackout  
+                                        BUFF Rev 
+                                        10/2/2006 
+
+ 
+                              SCRIPT REVISION HISTORY 
+ 
+   COLOR  DATE    PAGES 
+   WHITE  9/5/06  (1-60)  
+   BLUE   9/8/06  (2,13,21,23,24, 
+         25,27,29,32,35, 
+         36,38,39,39A,44, 
+         45,47,50,53) 
+   PINK   9/14/06 (1,2,3,4,5,11,14,25, 
+         25A,27,28,31,32,39, 
+         39A,47,48,49,50,51, 
+                                                         52,53,54,54A,55,56, 
+                                                         57) 
+        YELLOW  9/18/06 (5,8,9,10,13,16,23,24, 
+                  25,26,32,34,35,36, 
+                                          39/39A,40,41,44,46, 
+              49,50,51,52,53,54/54A) 
+        GREEN  9/20/06 (1,2,3,5,6,13,20,20A, 
+              22,24,28,30,31,32,34, 
+              36,37,39/39A,40,43, 
+              44,50,51,54/54A,55, 
+              56,57) 
+        GOLDENROD  9/21/06 (6,11,12,20,21,24,25,35 
+              42,42A,43,50,53,54/54A 
+                                                  55) 
+        BUFF   10/2/06 (6,23,24)                                     Blackout 
+
+
+                                      TEASER
+
+  BLACK BOX OPENING:
+
+    436............Power Substations
+
+    93,000.........Miles of Cable
+
+      22,000,000.....Megawatts
+
+      1..............Target
+
+  EXT. LOS ANGELES (STOCK) - NIGHT11
+
+  AERIAL VIEW looking out over the city, LIGHTS as far as the 
+  eye can see, ELECTRICITY being consumed...
+
+  EXT. SMALL HOUSE - ESTABLISHING (STOCK) - NIGHTA2A2
+
+  INT. SMALL HOUSE - FRONT HALL - NIGHT22
+
+  Empty foyer.  The SOUND OF KEYS in the lock... and the door 
+  opens.  DON enters with FBI Special Agent LIZ WARNER.  
+  There s a heat, an attraction between them as they hover near 
+  the partially-open door, saying good-night.
+
+                                WARNER
+                I owe you, Eppes.  You saved my 
+                night from being a total disaster.
+
+                              DON
+                Blind date s risky business.  Bound 
+                to get stood up sooner or later.
+
+                                WARNER
+                But let s keep this quiet, huh? 
+                Word gets out I use an Internet 
+                dating service, I m gonna take some 
+                serious crap.
+
+                              DON
+                I find it hard to imagine you 
+                taking crap from anyone.
+
+                                WARNER
+                Take away my badge and gun, I m 
+                just like anybody else...
+                      (then, sly smile)
+                 Course, you try and take away my 
+                gun I m likely to kill you.
+
+
+
+                                                                          (CONTINUED)            NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    2.
+
+    CONTINUED:22
+
+
+                              DON
+                See?
+
+  A beat of silence.  Thick.  Yeah, there s chemistry here.
+
+                                WARNER
+                Thanks for dinner.
+
+  She leans in, kisses Don innocently...  But then they kiss 
+  again.  And again.  Then another.  Building momentum...
+
+                                WARNER
+                You sure you wanna do this?  You re 
+                gonna complicate this settled life 
+                of yours...  This prosecutor 
+                  girlfriend...
+
+                              DON
+                It s already complicated.
+
+  There s no stopping now.  They re kissing, groping.  Don 
+  presses her against the door, shutting it.  And we go --
+
+  EXT. LOS ANGELES - NIGHT33
+
+  AERIAL VIEW again.  Following the scalloped POWER LINES...
+
+  EXT. ELECTRICAL SUBSTATION - NIGHT44
+
+  One of the hundreds of SUBSTATIONS that dot Los Angeles.  
+    Chain-link fence, surrounding a cramped pad of cables, 
+    transformers, load switches and reducers.
+
+  A lone maintenance engineer, RANDY SYLES, works amid the 
+  humming equipment.  He s remarkably cool and focused, despite 
+  the HIGH VOLTAGE sizzling all around...
+
+  As he strains, pulling on a wrench to loosen a time-rusted 
+  bolt, his CELL PHONE RINGS.  He grabs it, tucks it under his 
+  chin, still working the wrench...
+
+                              SYLES
+                      (into cell phone)
+                Hey...  It s gonna be late...  I 
+                don t know how late; late.
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)            NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    3.
+
+    CONTINUED:44
+
+
+  As he continues to listen, the wrench suddenly slips, jumping 
+  from his hands, contacting a cable.  A BLUE FLASH, a shower 
+  of sparks.  Cursing himself, he retrieves the phone from the 
+  ground.
+
+                              SYLES
+                It was nothing.  Dropped the phone, 
+                that s all.  But I need to go.  
+                Don t wait up.
+
+  He tucks the phone away, goes back to work.  Suddenly, the 
+  ROAR of a car engine.  Syles is lit in a WASH OF HEADLIGHTS.
+
+  SYLES S P.O.V. - LOOKING OUT THROUGH THE FENCE --A5A5
+
+  A CAR hurtles directly at the substation.  Syles scrambles to 
+  get out of the way as --
+
+  The car plows through the fence and into the equipment.  
+  Thousands of volts are sent arcing.  A spectacular explosion, 
+  white-hot sparks filling the air.  The 4th of July...
+
+  The area goes dark, except for the glow of the crackling 
+  flames...  A beat.  Then boom!  Another transformer explodes.
+
+  OMITTED55
+
+  INT. SMALL HOUSE - BEDROOM - NIGHT66
+
+  CAMERA FINDS Don s gun and badge discarded on a chair.  
+  Warner s badge and gun lay on the floor...  Reveal Don and 
+  Warner on the bed.  Don s on top of her, still in the build-
+  up, kissing, groping, the last of the clothes coming off...  
+  As the heat builds, a CELL PHONE RINGS on the bedside table.
+
+                              WARNER
+                Mine or yours...?
+
+  Don raises to see a blinking light.
+
+                              DON
+                Mine...
+
+  He slides out of bed, finds the phone, answers --
+
+                              DON
+                      (into phone)
+                Eppes...  Alright.  Meet you there.
+                      (hangs up, turns)
+                I ve gotta go.
+
+
+
+
+                                                                          (CONTINUED)            NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    4.
+
+    CONTINUED:66
+
+
+  He starts dressing.
+
+                              WARNER
+                You got my clothes off, now you re 
+                gonna leave...?
+
+                              DON
+                Someone just blew up a power 
+                  substation.  Homeland Security s 
+                worried we re looking at terrorism.
+                      (beat, pulling on clothes)
+                What if I come back later...?
+
+                              WARNER
+                I have to get up early...
+
+                              DON
+                How early?
+
+  She smiles at his persistence, offers him an option.
+
+                              WARNER
+                I m locking the door at midnight.
+
+  A charged look between them.  Then Don goes.
+
+  EXT. POWER SUBSTATION - NIGHT77
+
+  FIREMEN drag equipment and extinguishers, clearing out of the 
+  CRIME SCENE.  Little is left of the car, badly burned amid 
+  the twisted metal of the substation.
+
+  We find DON ARRIVING.  He crosses in front of the fire 
+  truck s work lights, where he s greeted by DAVID.
+
+                              DAVID
+                Just got the all-clear from LAFD.  
+                Power company s taken the station 
+                off line.
+
+  As they head into the wreckage, looking around --
+
+                              DAVID
+                If this is terrorism, it s pretty 
+                low impact.  A few thousand 
+                customers spend the night in the 
+                dark?
+
+                              DON
+                Doesn t rule out a test run.  They 
+                hit a single target tonight.  Next 
+                attack could be wide scale...
+
+
+
+                                                                          (CONTINUED)            NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    5.
+
+    CONTINUED:77
+
+
+  They reach ground zero.  Blackened, except for a YELLOW TARP 
+  left by firemen to mark the remains of Randy Syles.
+
+                              DON
+                One body...
+
+                              DAVID
+                  A worker, doing routine 
+                  maintenance.
+
+                              DON
+                Where s the driver?
+
+                              DAVID
+                No sign of him.  Must ve got out 
+                before the fire, ran off...
+
+                              DON
+                      (seeing something)
+                Or maybe there was no driver...  
+                Look at this.
+
+  Don shines his flashlight inside.  The beam finds the gas 
+  pedal, studded with small SHARDS OF WOOD.
+
+                              DAVID
+                What is that, wood splinters..?
+
+  David leans in further, checks the driver s-side floor... and 
+  removes a charred length of two-by-four...
+
+                              DAVID
+                Someone used a two-by-four to jam 
+                the gas pedal.
+
+  INT. FBI - WAR ROOM - NIGHT88
+
+  Late, after hours.  Don enters the war room.  MEGAN and COLBY 
+  are already here, putting together a FILE.
+
+                              DON
+                Thanks for staying late.
+
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)            NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    6.
+
+    CONTINUED:88
+
+
+                              COLBY
+                I could use the overtime.
+
+                              MEGAN
+                We don t get overtime, Granger.
+
+                              COLBY
+                Yeah, I know.  And it s a shame 
+                 cause I could use it.
+
+  He puts a PHOTO up on the plasmas, DMV shot of Randy Syles.
+
+                              COLBY
+                Here s what I found on the victim.  
+                Randy Syles, 31.  A wife and two  *
+                kids. *
+
+                              DON
+                How long s he been with the power 
+                company?
+
+                              COLBY
+                He s not.  Not officially anyway.
+                      (off Don and Megan)
+                  Substation s owned by Renault 
+                Energy.  They re in the middle of a 
+                labor dispute.  Union s been on 
+                strike for 6 weeks. *
+
+                              MEGAN
+                So he was a  scab .  Union workers  *
+                can t be happy about that.  Could  *
+                be motive... *
+
+  David enters the room.
+
+                              DAVID
+                  Print-out on the car that was used.  
+                It s not going to get us anywhere.
+
+                              DON
+                Stolen.
+
+                              DAVID
+                This afternoon.  Echo Park area.
+
+                              MEGAN
+                Echo Park...  That s a long way 
+                from the crime scene.
+
+
+
+
+
+                                                                          (CONTINUED)            NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    7.
+
+    CONTINUED:88
+
+
+                              COLBY
+                Guy steals a car, drives it 20 
+                miles to crash into a power 
+                station.  How s he get home?
+
+                              DAVID
+                Means we re looking for multiple 
+                  suspects...
+
+                              COLBY
+                We re gonna need a list of local 
+                union members.
+
+                              MEGAN
+                We can cross-reference it with 
+                addresses in the Echo Park area.
+
+                              DON
+                I ll call O.H.S., see if there s 
+                been an increase in terrorist 
+                chatter, anything that might 
+                indicate a larger purpose...
+
+  As the Agents get busy, Don checks his watch, reacts -- 
+  12:04.  Too late to get back to Warner s house...
+
+                              MEGAN
+                You got somewhere to be?
+
+                              DON
+                      (snapping out of it)
+                Not anymore.
+
+  Off Don, as he follows the others into action --
+
+  INT. EPPES HOUSE - NIGHT99
+
+  CHARLIE and LARRY are at the table, assembling a CONTRAPTION 
+  out of wire, pencils and aluminum foil - reminiscent of an 
+  Erector Set.  
+
+                              LARRY
+                You re winding the wire too tight.
+
+                              CHARLIE
+                It s not too tight.  You didn t 
+                leave enough room with the foil.
+
+  ALAN appears --
+
+
+
+
+
+                                                                          (CONTINUED)            NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    8.
+
+    CONTINUED:99
+
+
+                              ALAN
+                C mon now, if you two are going to 
+                fight over your toys, I ll have to 
+                take them away...
+
+                              CHARLIE
+                It s not a toy.  It s an 
+                  electrostatic lifter.
+
+                              LARRY
+                There s still some very serious 
+                  disagreement as to how exactly it 
+                  operates...  Biefeld-Brown effect, 
+                  ionization of the corona wire, or 
+                simple dielectrophoresis...
+
+                              ALAN
+                      (wry)
+                Boy, I d hate to be in the room 
+                during that debate.
+
+                              LARRY
+                You joke, but it s a heated issue.
+                      (then, finished)
+                Let s see what happens when we 
+                apply a little current...
+
+  Larry turns the dial on the attached transformer.  The 
+  contraption levitates off the table, floating in air.
+
+                              ALAN
+                Wow, that s amazing...  But unless 
+                you can do that to my car, I still 
+                say it s a toy.
+
+  The front door opens.  Don enters.  He sets his things down, 
+  notices several partially-burned candles around the room. 
+
+                              DON
+                What s with the candles?  You guys 
+                lose power tonight?
+
+                              ALAN
+                Yeah.  It was out for a few hours.
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)            NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    9.
+
+    CONTINUED:99
+
+
+                              DON
+                Case I m working; someone blew a 
+                  substation in Mission Hills.
+
+                              ALAN
+                Mission Hills?  Seems strange we d 
+                be effected way out here, doesn t 
+                it?
+
+                              LARRY
+                Not really.  It s called a 
+                  precautionary broad-line reduction.  
+                  Operators shut down the power until 
+                they can restore balance.
+
+                              DON
+                The balance of what?
+
+                              CHARLIE
+                The thing you have to remember 
+                about electricity, unlike other 
+                  resources, it can t easily be 
+                stored.  Generally, it has to be 
+                consumed within milliseconds of 
+                being produced.
+
+                              LARRY
+                Which means for the power 
+                  companies, it s a constant game of 
+                balance between electricity 
+                  production and its consumption.
+
+                              CHARLIE
+                When the substation in Mission 
+                Hills failed, there would have been 
+                a surge in other areas... 
+
+                              ALAN
+                      (following)
+                So operators strategically shut 
+                down large areas until they can 
+                restore balance.
+
+                              DON
+                What if they didn t?
+
+                              LARRY
+                Worst case scenario..?  A cascading 
+                failure.
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    10.
+
+    CONTINUED:99
+
+
+                              CHARLIE
+                      (off Don and Alan)
+                Remember the game JENGA?  The tower 
+                of wooden blocks?  Well, the 
+                  substations are just like the 
+                  individual blocks...
+
+  AUDIENCE VISION - A JENGA game, blocks stacked along 
+  alternate axes, creating a tower.  As a HAND removes one of 
+  the blocks, and the tower remains standing --
+
+                              CHARLIE (V.O.)
+                There s enough redundancy that many 
+                of the blocks can be removed or 
+                knocked out, without a great affect 
+                to the system as a whole...
+
+  A HAND selects another block, starts to remove it --
+
+                              CHARLIE (V.O.)
+                But, if the wrong block, or in this 
+                case substation, is taken out, 
+                  especially after the network s been 
+                  weakened...  then the entire system 
+                could come crashing down...
+
+  The Tower of blocks collapses into a chaotic heap.
+
+                              DON
+                You mean like that huge blackout on 
+                the East Coast three years ago...
+
+                              CHARLIE
+                Exactly.  Fifty million people left 
+                in the dark, all from the failure 
+                of a single switch.
+
+                              ALAN
+                      (turning to Don)
+                You think whoever did this thing 
+                tonight had something like that in 
+                mind?
+
+                              LARRY
+                If they did, I can t imagine you ve 
+                seen the last of them...
+
+  Off Don --
+
+
+                                END OF TEASER          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    11.
+
+
+                                    ACT ONE
+
+  TWO SECOND GRAPHIC BUMPER:
+
+  INT. FBI - INTERVIEW ROOM - DAY1010
+
+  KARI SYLES, 28, newly-widowed, compulsively wrings her hands, 
+  pacing, struggling to avert utter collapse --
+
+                              KARI
+                I talked to him on the phone just 
+                minutes before it happened.  He 
+                was... there, you know?  Then... 
+                suddenly he s not.
+
+  Colby and Megan look on.  Kari is shaky.
+
+                              MEGAN
+                Maybe you should sit down.
+
+                              KARI
+                I m sorry, I m acting like a crazy 
+                person.  It s just...  I can t 
+                believe he s dead...
+
+                              COLBY
+                Mrs. Syles, we know your husband 
+                was only working for Renault a 
+                short time...
+
+                              KARI
+                Since the strike.  The pay was so 
+                much better than his usual job.
+
+                              COLBY
+                Do you know if he received any 
+                threats for crossing the picket 
+                lines?
+
+                              KARI
+                He tried to keep it from me... but 
+                he got calls, I know he did.  
+                That s why he started working at 
+                night.  He figured there was less 
+                chance he d run into trouble.
+                      (then)
+                You really think someone killed him 
+                for trying to earn a living?
+
+
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    12.
+
+    CONTINUED:1010
+
+
+                              MEGAN
+                We don t know yet.  But emotions 
+                run high during a strike.  People 
+                see their livelihoods threatened...
+
+                              KARI
+                Someone had to do the work.  
+                  Otherwise people would be in the 
+                dark.  Like the station that failed 
+                two nights ago.  Wasn t one of 
+                  Robby s... but he said that was 
+                just poor maintenance...
+
+  Megan glances to Colby, then back to Kari Syles.
+
+                              MEGAN
+                There was another substation 
+                  failure...?
+
+                              KARI
+                That s what Robby said.  In Boyle 
+                  Heights...
+
+  INT. FBI - BULLPEN - DON S DESK - DAY1111
+
+  Megan reports to Don --
+
+                              MEGAN
+                Night before last, Renault Energy had 
+                another substation go down.
+
+                              DON
+                What do we know about it?
+
+                              MEGAN
+                Renault blamed it on wear and tear.  
+                With the strike, they can t meet 
+                  maintenance schedules. 
+
+                              DON
+                Yeah, well, I don t believe in 
+                  coincidence. 
+
+  Charlie, just entering --
+
+                              CHARLIE
+                Why not?  Coincidence is, after 
+                all, an absolutely valid 
+                  mathematical occurrence...  
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    13.
+
+    CONTINUED:1111
+
+
+                              DON
+                This one s not math, Charlie.  This 
+                one s my gut.  Two substation 
+                failures in two nights.  I m 
+                willing to bet they re related.
+
+                              MEGAN
+                If they are, then Randy Syles 
+                wasn t the target last night.  
+
+                              CHARLIE
+                They re after the substations...
+
+                              MEGAN
+                Doesn t rule out the striking workers 
+                as suspects.  Every blackout is bad 
+                PR for the power company, helps the 
+                union s bargaining position.
+
+                              DON
+                PR isn t my concern.  My worry is 
+                they ll be able to crash the entire 
+                grid?  Charlie, what d you call it?
+
+                              CHARLIE
+                  A cascading failure.
+
+                              MEGAN
+                But to do that they d have to knock 
+                out all the substations, right?
+
+                              CHARLIE
+                No.  Just the right one.
+
+  Beat as that sinks in... and Charlie thinks.  Then --
+
+                              CHARLIE
+                You know, if a cascading failure is 
+                what they re after, I might be able 
+                to predict where the next attack 
+                will come...
+
+                              DON
+                How?
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    14.
+
+    CONTINUED:1111
+
+
+                              CHARLIE
+                Load Flow Analysis.  If you can get 
+                me usage and current-flow figures 
+                from the power company, a Load Flow 
+                Analysis could tell us which 
+                  substations are the most critical, 
+                those that would most likely be the 
+                next target...
+
+  Don sees Liz Warner approaching from the direction of the 
+    elevators, wraps up the conversation --
+
+                              DON
+                Alright, Charlie.  We ll get you 
+                what you need. 
+
+  Don turns, as Warner reaches him.  She smiles, holds out a 
+  pair of SUNGLASSES.  Like before, there s HEAT between them.
+
+                                WARNER
+                You left these last night.
+
+                              DON
+                Must ve fallen out of my jacket.
+
+  Don takes the sunglasses, glances over, aware of Megan and 
+  Charlie nearby.  As Charlie heads out, and Megan gets to 
+  work, Don takes Warner aside.
+
+                              DON
+                We ended up being here pretty late 
+                last night...
+
+                                WARNER
+                You don t have to explain.
+
+                              DON
+                In case you were wondering.
+
+                                WARNER
+                  I appreciate it... but I really did 
+                just come by to return the glasses.
+                      (then)
+                I ve got a meeting upstairs in 
+                about...
+                      (checks her watch)
+                ...well, about now, really.  So I 
+                gotta run.
+
+                              DON
+                      (re: the sunglasses)
+                Thanks for these.
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    15.
+
+    CONTINUED:1111
+
+
+  She starts to go, then stops, takes a step closer, quietly.
+
+                              WARNER
+                Don t get me wrong, Eppes.  I 
+                wouldn t say  no  to a rain-check.
+
+  Another look, then she goes.  Don watches her a beat... then 
+  moves back toward his desk.  Megan looks up.
+
+                              MEGAN
+                Quick visit.
+
+                              DON
+                She was just returning my glasses.
+
+                              MEGAN
+                So I heard...  Everything alright 
+                between you and Robin?
+
+                              DON
+                  Everything s fine.
+
+  Megan waits for more info.  None comes.  Conversation over. 
+
+  INT. LARRY S OFFICE - NIGHT1212
+
+  CLOSE ON a blue arc of electricity, snapping like lightning 
+  across the electrodes of a JACOB S LADDER.  WIDER REVEALS --
+
+  Larry at his desk, looking over the device.  Charlie at the 
+  board, crunching numbers amid maps of the LA POWER GRID.
+
+                              CHARLIE
+                Amazing when you look at how much 
+                energy we actually consume...
+
+  Larry spins his chair to a foot-thick Power Company printout.
+
+                              LARRY
+                And how much paperwork goes with 
+                it.  This is staggering...
+
+  AMITA enters. 
+
+                              AMITA
+                I didn t realize you were still 
+                here.  What re you working on?
+
+
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    16.
+
+    CONTINUED:1212
+
+
+                              CHARLIE
+                We re trying to determine which 
+                  substation we d attack if we wanted 
+                to black out most of Southern 
+                  California.
+
+                              AMITA
+                Please tell me this isn t a prank 
+                for Senior Ditch Day.
+
+                              CHARLIE
+                It s something for Don.
+
+  Charlie goes back to his calculations.  Another arc snaps 
+  across the capacitor on Larry s desk.
+
+                              LARRY
+                Did I ever tell you how one year, 
+                in graduate school, I attempted to 
+                live without electricity?
+
+                              CHARLIE
+                They had electricity when you were 
+                in graduate school, Larry?
+
+                              LARRY
+                Funny, Charles, thank you for that.  
+
+                              AMITA
+                Why would you want to go without 
+                power?  Some kind of Thoreau, 
+                Walden Pond phase or something?
+
+                              LARRY
+                It had to do with a girl I was 
+                dating.  Sandra Darwinkle, yes, her 
+                real name.  You have to remember we 
+                were only slightly post energy 
+                crisis - the first one.  She 
+                thought it would make a political 
+                  statement.  I thought it might get 
+                me... well, you know...
+
+                              AMITA
+                Lucky?  
+
+                              LARRY
+                Yes.
+
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    17.
+
+    CONTINUED:1212
+
+
+                              AMITA
+                And did it?
+
+                              LARRY
+                It might have... were I able to 
+                fully embrace the power-free 
+                  lifestyle.  But you know me and 
+                dental hygiene...
+
+                              CHARLIE
+                She caught you with your electric 
+                  toothbrush, didn t she?
+
+                              LARRY
+                  A water-pick actually, but with the 
+                same result.  Sadly, that was the 
+                end of my relationship with Sandra 
+                  Darwinkle.
+
+  Larry has a wistful moment.  Interrupted by Charlie --
+
+                              CHARLIE
+                Okay, I think I have it.  If I 
+                wanted to cause a cascading 
+                failure, this is the one I d 
+                choose.
+
+  EXT. SCENIC MULHOLLAND TURNOUT -  LOVERS  LANE  - NIGHT1313
+
+    High-tension towers.  Scalloping POWER LINES.  The Valley 
+  spread out forever below, a blanket of lights.  Several cars 
+  sit parked off the pavement on a turnout -  LOVERS  LANE .  
+  But one of the cars is a familiar FBI SEDAN...
+
+  INT. FBI SEDAN - NIGHT1414
+
+  David and Colby on STAKEOUT, watching a power substation a 
+  couple hundred yards away.  Colby raises night-vision binocs.
+
+  COLBY S P.O.V. - THROUGH NIGHT VISION --
+
+  The substation seen in shades of green.  Heat off the lines 
+  and junctions create hot spots.  The glowing form of a coyote 
+  appears, then disappears... but nothing in human shape...
+
+                              DAVID
+                  Anything?
+
+                              COLBY
+                No.  Nothing.
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    18.
+
+    CONTINUED:1414
+
+
+                              DAVID
+                Charlie says this is the spot.
+
+  Beat.  David sips his coffee.  Colby glances around, takes in 
+  some of the other cars parked in the turnout.
+
+                              COLBY
+                Hey, you think Megan ever comes up 
+                here with Fleinhardt?
+
+                              DAVID
+                Oh, c mon, man.  When are you gonna 
+                give that whole thing a rest?
+
+                              COLBY
+                What?  Guy s into that classic car 
+                of his, doesn t have a place to 
+                live.  He s got limited options...
+
+                              DAVID
+                Colby, man, you re obsessed, and 
+                it s sad.  Why s it so hard for you 
+                to wrap your head around the fact 
+                that the two of them are dating?
+
+                              COLBY
+                You saying it doesn t seem even 
+                just a little bit weird to you?
+
+                              DAVID
+                I don t think about it?
+
+                              COLBY
+                  Seriously?
+
+  David gives Colby a look.  Colby shuts up with a smile, lifts 
+  the Night Vision Binocs to have another look.  David turns 
+  his attention out at the city lights, and REACTS --
+
+                              DAVID
+                They hit again!
+
+  David s already climbing out the car.  Colby gets out --
+
+  EXT. SCENIC MULLHOLLAND TURNOUT -  LOVERS  LANE  - CONTINUOUS1515
+
+  The Agents look out over the endless blanket of lights as 
+  large squares SUDDENLY DROP INTO DARKNESS, one, another, then 
+  another (visual fx), creating an uneven CHECKERBOARD of 
+  lights and darks stretched out before them...
+
+  Colby raises the binocs, checks the substation.  It s quiet.
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    19.
+
+    CONTINUED:1515
+
+
+                              COLBY
+                Not here they didn t.
+
+  The progression stops well-shy of darkening the whole city. 
+
+                              DAVID
+                It seems to be holding.  They 
+                didn t crash everything.
+
+                              COLBY
+                Not this time anyway...
+
+  As the Agents look out over Los Angeles, now a patchwork of 
+  light and dark...
+
+
+                                END OF ACT ONE          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    20.
+
+
+                                    ACT TWO
+
+  TWO SECOND GRAPHIC BUMPER:
+
+  EXT. SILVER LAKE SUBSTATION (D.L.V. ENERGY) - NIGHT1616
+
+  The latest target, but no obvious signs of damage aside from 
+  some charring.  David breaks off from an LAPD Uniform, joins 
+  Colby who s coming out of the wreckage.
+
+                              DAVID
+                How d they do it?
+
+                              COLBY
+                Looks like they tossed a thick 
+                piece of rebar across the 
+                  transformer grid, caused a short.
+
+                              DAVID
+                And that would bring it all down?
+
+                              LARRY (V.O.)
+                  Absolutely...
+
+  The Agents turn as Larry and Megan arrive behind them.
+
+                              LARRY
+                Rebar, metal, obviously highly 
+                  conductive...  It provided a 
+                pathway between the high and low 
+                sides...  There was an instant load 
+                surge, driving the transformers way 
+                beyond their capacity, and boom.
+
+                              MEGAN
+                We were having dinner when the 
+                lights in the restaurant went out.
+
+  Colby throws David a look.  David looks to Megan.
+
+                              DAVID
+                Don s briefing the Mayor.  Sixty 
+                thousand customers lost power this 
+                time...
+
+                              LARRY
+                      (looking around)
+                This isn t where Charlie and I 
+                  predicted they d strike...
+
+                              DAVID
+                No.  We were staked out up on 
+                  Mulholland.
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    20A.
+
+    CONTINUED:1616
+
+
+                              MEGAN
+                But they hit here instead.  
+                Question is why?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    21.
+
+    CONTINUED:1616
+
+
+                              COLBY
+                Question is who?  Our prime suspect 
+                group doesn t make sense anymore...
+
+                              MEGAN
+                The striking workers...
+
+                              COLBY
+                This substation s owned by an 
+                  independent company.  It s not tied 
+                to Renault Energy or the labor 
+                dispute in any way...
+
+                              DAVID
+                Which means terrorism moves back 
+                into the number one slot.
+
+  Beat.  Just then --
+
+                              LAPD COP (O.S.)
+                Hey, we ve got a body over here.
+
+  EXT. OUTSIDE THE SUBSTATION FENCE - MOMENTS LATER1717
+
+  ANGLE ON a macabre scene - a BODY (male, Latino, 30), outside 
+  the fence, definitely dead, but eerily still propped up, 
+  hands gripping a fence post.  Flashlight beams dance over him 
+  as the Agents approach, David taking it in --
+
+                              DAVID
+                He s dead?
+
+                              COLBY
+                      (as the Cop s nod)
+                Company had nobody on tonight.  
+                He s not a worker.
+
+                              MEGAN
+                Then I d say we just found a new 
+                suspect.
+
+  Beat, taking in the scene.  As Colby checks the body.
+
+                              DAVID
+                Probably climbed the fence to throw 
+                the rebar onto the grid, was still 
+                holding on when it shorted out.
+
+  Larry hangs back, scientifically intrigued, but wary...
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    22.
+
+    CONTINUED:1717
+
+
+                              LARRY
+                  Electricity, always looking for a 
+                place to go...  It jumped to the 
+                fence post as a ground, used 
+                this... poor gentleman as well.
+
+                              COLBY
+                He s got no ID...  And no chance in 
+                hell we re gonna be able to pull 
+                prints; not with his hands fused to 
+                the pole like that.
+
+                              MEGAN
+                Car keys, cell phone?
+
+                              COLBY
+                Nothing.
+
+  David notes the Dead Perp s pockets, pulled inside out.  He 
+  looks to the LAPD Cop.
+
+                              DAVID
+                Were his pockets turned out like 
+                this when you found him?
+
+                              COP
+                Yeah.  I didn t touch anything.
+
+                              LARRY
+                      (cringes, repulsed)
+                Someone went through his pockets?
+
+                              COLBY
+                Whoever he s working with cleaned 
+                him out to keep us from ID ing him.
+
+                              MEGAN
+                Hold on.  On his neck...
+
+  Megan moves close, shines her light on a TATTOO peeking out 
+  of the Dead Perp s collar.  Tattoo reads -  4-B-27 .
+
+                              MEGAN
+                It s a prison tattoo.   4-B-27 .
+
+                              DAVID
+                That s a cell block at Chino.  He s 
+                done time there.
+
+                              MEGAN
+                We fax his picture, maybe somebody 
+                there can give us a name...
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    23.
+
+    CONTINUED:1717
+
+
+  Off the Dead Perp --
+
+                                                                MATCH CUT TO:
+
+  INT. FBI - WAR ROOM - DAY1818
+
+  The Dead Perp s death photo on the big screen.  WIDEN to 
+  reveal his MUG SHOT.  
+
+                              COLBY (V.O.)
+                  Alejandro Mu oz.
+
+  REVEAL Agents running it for Don.  Charlie s here too.
+
+                              COLBY
+                  Salvadorian national.  Released 
+                from Chino six months ago after a 
+                  four-year stint for drug dealing.
+
+                              DON
+                We have any known ties to 
+                  terrorism?
+
+                              COLBY
+                Still checking...
+
+  Beat.  Don turns toward his brother.
+
+                              DON
+                Charlie, explain to me why the 
+                attack was in Silver Lake and not  *
+                up on Mulholland like you  *
+                  predicted.
+
+                              CHARLIE
+                      (matter of fact)
+                My guess is we were wrong.  We  *
+                assumed the objective was a  *
+                  cascading failure, remember?  
+
+                              COLBY
+                You re saying maybe that s not what 
+                these guys were after.
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    24.
+
+    CONTINUED:1818
+
+
+                              DON
+                So we re wrong on suspects and 
+                wrong on motive...
+
+  Beat.  David hangs up the phone call he s been on.
+
+                              DAVID
+                I think I have a line on Mu oz s 
+                  accomplice...
+                      (off notes in his hand)
+                Cell phone records.  Last 3 days, 
+                he traded more than a dozen calls 
+                with one number...  Traces to a guy 
+                named Lyle Donahue.  He s an 
+                  electrical engineer, former member 
+                of the State Utility Commission...
+
+  As Colby starts typing in the new information... *
+
+                              CHARLIE
+                Former member...
+
+                              DAVID
+                He helped stage a phony power 
+                shortage back in 2001.  Made a  *
+                fortune when the price shot up... *
+
+                              COLBY
+                But he was caught...
+
+  Colby brings Donahue s mug shot up on the plasmas... *
+
+                              DAVID
+                Served two and half years for  *
+                utility price manipulation...
+
+                                COLBY *
+                And he did his time in Chino, same  *
+                as Mu oz... *
+
+  David nods.  A beat.  Don thinking -- *
+
+                              DON *
+                Blowing up substations...  That s 
+                gotta have some kind of effect on 
+                utility prices, right?
+
+                              COLBY
+                You re thinking Lyle Donahue s back 
+                to his old game again... 
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    25.
+
+    CONTINUED:1818
+
+
+                              DAVID
+                Makes sense.  He s not an insider 
+                anymore.  Maybe he s found a new 
+                way to manipulate the power market.
+
+                              CHARLIE
+                By crashing the substations.
+
+                              COLBY
+                      (off Mu oz s photo)
+                Or hiring an old prison 
+                  acquaintance to do it.
+
+  Beat.  Don moves into action --
+
+                              DON
+                Let s find this guy Donahue.  Set 
+                up on his phones, his credit cards, 
+                his house, everything.  I wanna get 
+                him in here...
+
+  INT. CHARLIE S OFFICE - DAY1919
+
+  Charlie s at the boards, working.  Amita enters carrying a 
+  magazine.
+
+                              AMITA
+                Hey, Charlie, I was thinking about 
+                you last night.
+
+                              CHARLIE
+                      (intrigued)
+                Is that right?
+
+                              AMITA
+                      (ha ha)
+                I was preparing a lecture and I 
+                found an interesting article on 
+                synapse reflexivity.  I thought it 
+                might fit into your cognitive 
+                  emergence theory.
+
+                              CHARLIE
+                Oh.  Thanks.
+
+  She eyes Charlie s boards...
+
+                              AMITA
+                Another Load Flow Analysis...
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    25A.
+
+    CONTINUED:1919
+
+
+                              CHARLIE
+                Don s got a new suspect, a former 
+                  Utilities Commissioner...  He 
+                thinks the attacks are an attempt 
+                to influence utility prices.
+
+                              AMITA
+                        (considering it)
+                The outages cause spot fluctuations 
+                in the demand market...  
+                                (MORE)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    26.
+
+    CONTINUED:1919
+                              AMITA (cont'd)
+                I guess if you made the right 
+                  investments, hit the right targets, 
+                you could do pretty well.
+
+                              CHARLIE
+                If you hit the right targets you 
+                could do very well...  only these 
+                guys aren t hitting the right 
+                targets.
+
+                              AMITA
+                What do you mean?
+
+                              CHARLIE
+                If you re really trying to 
+                  influence price, there are so many 
+                other substations to hit that would 
+                have a greater impact.
+
+                              AMITA
+                Then what s this all about?
+
+                              CHARLIE
+                I don t know.  I mean, all that s 
+                really been accomplished is a few 
+                  localized blackouts...
+
+  Beat.  Amita thinks about it.
+
+                              AMITA
+                Charlie.  All your focus so far has 
+                been on the global systemic 
+                objective - first the cascading 
+                failure, now market manipulations.
+
+                              CHARLIE
+                Yeah.  That s right...
+
+                              AMITA
+                You ve been treating the blackouts 
+                as a secondary by-product.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    27.
+
+    CONTINUED:1919
+
+
+                              CHARLIE
+                      (realizing, energized)
+                But what if the blackouts aren t a 
+                  by-product?  What if they re the 
+                  objective?
+
+                              AMITA
+                What if...?
+
+  Amita smiles.  As Charlie goes back to work --
+
+  OMITTED2020          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    28.
+
+
+
+  INT. EPPES HOUSE - DINING ROOM - DAY2121
+
+  Don comes in off the stairs, carrying several files, as Alan 
+  appears from the kitchen.
+
+                              ALAN
+                Donny, hey.  Didn t even realize 
+                you were here.
+
+                              DON
+                Just needed to grab some files I 
+                left behind the other night.
+
+                              ALAN
+                You think you ll be around for 
+                dinner this evening?  Or do you 
+                already have plans with Robin?
+
+                              DON
+                What, no...  No plans.
+
+                              ALAN
+                Really?  Coulda sworn I remembered 
+                you saying something about a 
+                concert.
+                      (then)
+                How s that going between you two 
+                anyway?
+
+                              DON
+                It s going fine.
+
+                              ALAN
+                 Fine?   What, you can t talk to me 
+                about it?  
+                                (MORE)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    29.
+
+    CONTINUED:2121
+                              ALAN (cont'd)
+                Do I need a security clearance to 
+                get information about your love 
+                life?
+
+  Don stops eating, eyes Alan.
+
+                              DON
+                Dad, what re you doing?
+
+                              ALAN
+                What?  I m not  doing  anything.
+
+                              DON
+                I ve conducted about a thousand 
+                  interrogations, alright?  I know 
+                all the strategies...  You re 
+                trying to pump me for information 
+                about Robin.  Why?
+
+  Alan signs, pulls out a chair, sits down opposite Don.
+
+                              ALAN
+                  Alright...  I talked to Charlie 
+                earlier.  He said a woman came to 
+                see you at work...
+                      (as Don reacts)
+                A woman not Robin.  He said it was 
+                fairly obvious there was something 
+                going on between you two...
+
+                              DON
+                That s none of Charlie s business, 
+                or yours either, Dad, I m sorry.
+
+                              ALAN
+                We talked about how much you wanted 
+                things to work out with Robin, 
+                remember?  You can t expect to have 
+                  a meaningful relationship if you re 
+                not willing to commit to it...
+
+                              DON
+                Dad, I m not gonna have this 
+                  conversation.
+
+  Don s CELL PHONE RINGS, a welcomed interruption.
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    30.
+
+    CONTINUED:2121
+
+
+                              DON
+                      (answering)
+                Eppes...
+
+  INT. FBI - BULLPEN - DAY - INTERCUT2222
+
+  David on the other end of the call.
+
+                              DAVID
+                      (into phone)
+                Don.  Lyle Donahue, the engineer...  
+                We ve been sitting on his credit 
+                cards.  He just used one.  A bar up 
+                on Sunset, corner of Gardener.
+
+                              DON
+                      (checks his watch)
+                We wait, we might lose him.  Take 
+                Megan and hit it.
+
+  Don hangs up, gathers to go, holds Alan s gaze for a moment.
+
+                              DON
+                Look, Dad...  I m doing the best I 
+                can.
+
+                              ALAN
+                How?  By getting together with this 
+                other girl...?
+
+                              DON
+                Maybe Robin and I just aren t meant 
+                to work out...
+
+  INT. SUNSET BAR - DAY2323
+
+  Mixed crowd.  Hipsters, after-work suits.  David and Megan 
+  enter, casual enough to fit in...
+
+  They move through, eyes scanning the patrons for Donahue.  As 
+  Megan circles toward the bar, David veers off for a quick 
+  check of the men s room.  They meet again near the bar.
+
+                              DAVID
+                Don t see him.
+
+                              MEGAN
+                He had time to leave.
+
+  They approach the bar, motion to the BARTENDER.  Megan 
+  flashes her badge, pulls out a picture of Donahue.
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    31.
+
+    CONTINUED:2323
+
+
+                              MEGAN
+                Seen this guy in here tonight?
+
+                                BARTENDER
+                      (checks the photo)
+                I don t think so.
+
+                              DAVID
+                Funny,  cause you ran his credit 
+                card less than 20 minutes ago.
+
+  Bartender takes another look at the picture, confused.
+
+                                BARTENDER
+                What s the name?
+
+                              DAVID
+                Donahue.  Lyle Donahue.
+
+  The Bartender turns to the back-bar.  Several CREDIT CARDS 
+  sit in glasses, waiting to be rung out.  He finds one...
+
+                                BARTENDER
+                Here it is.  Lyle Donahue.  But 
+                it s not the guy in the picture.
+                      (points across the bar)
+                Kid over there.  He and his buddies 
+                are running a tab...
+
+  Megan and David turn to see three twenty-something guys 
+  sitting at a table.  A moment of confusion - no Donahue.
+
+  Then one of the them, A PUNK, looks up, sees Megan and David 
+  looking at him.  A beat... then HE BOLTS.
+
+                              DAVID
+                      (into radio)
+                Got a kid running.  Heading for the 
+                back.
+
+  The Punk reaches the back door just as Colby comes in.  He 
+  drops a shoulder, takes the kid right to the ground.
+
+                              COLBY
+                Where you going?
+
+  The Punk stares up at the Agents.  David hauls the kid to his 
+  feet.
+
+                              DAVID
+                Where d you get the credit card?          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    32.
+
+
+
+  EXT. LITTERED ALLEYWAY - DAY2424
+
+  David s FBI Sedan rolls to a stop.  David gets out.  Megan 
+  and Colby too, Colby dragging the Punk from the back seat. 
+
+                              COLBY
+                Show us where.
+
+  The Punk stops about twenty feet from a parked Lexus --
+
+                              THE PUNK
+                There.  In the car.
+
+  David sits the Punk on the ground.  The Agents approach the 
+  Lexus... and find the very dead body of Lyle Donahue.
+
+                              MEGAN
+                It s Donahue.
+
+  Megan reaches in with a gloved hand, turns Donahue s head to 
+  reveal a single bullet hole.  The Punk calls out to them.
+
+                              THE PUNK
+                I didn t do it.  He was that way 
+                when I found him!
+
+                              DAVID
+                Single shot, behind the ear...
+                      (nods re: the Punk)
+                Little too professional for this 
+                bozo, don t you think?
+
+                              MEGAN
+                Yeah.  Donahue was probably already 
+                dead when he took the credit card.
+
+  A beat.  Megan glances around the alley, back to David.
+
+                              MEGAN
+                You know this means we ve got more 
+                players in the game than just our 
+                  Salvadorian and Donahue...
+
+                              COLBY
+                Maybe other investors in Donahue s 
+                pricing scam...
+
+                              DAVID
+                We found Mu oz, made the connection 
+                to Donahue.  Somebody wanted to 
+                make sure we don t go any higher up 
+                the chain.
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    33.
+
+    CONTINUED:2424
+
+
+                              MEGAN
+                Yeah, so who s the  somebody ?  And 
+                just how high up does this chain 
+                go?
+
+  Off the Agents and Donahue s body --
+
+
+                                END OF ACT TWO          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    34.
+
+
+                                  ACT THREE
+
+  TWO SECOND GRAPHIC BUMPER:
+
+  INT. FBI - BULLPEN - DAY2525
+
+  Charlie sits at Don s desk, waiting anxiously.  He jumps up 
+  as Don and Megan enter, intercepts them. 
+
+                              CHARLIE
+                We ve been going the wrong 
+                  direction.
+
+                              DON
+                Give us a minute, Charlie.  We just 
+                found Lyle Donahue.
+
+                              CHARLIE
+                        (anticipating)
+                And did you talk to him?  Did he 
+                tell you?
+
+                              MEGAN
+                He s dead, Charlie.  Somebody shot 
+                him.
+
+                              DON
+                Which means we re dealing with a 
+                larger price-fixing conspiracy than 
+                we thought - investors maybe...
+
+                              CHARLIE
+                This doesn t have anything to do 
+                with price fixing.
+
+                              MEGAN
+                What do you mean, Charlie?  What do 
+                you think is going on?
+
+                              CHARLIE
+                I don t know, but I can tell you 
+                it s about the blackouts.  
+                                (MORE)
+
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    35.
+
+    CONTINUED:2525
+                              CHARLIE (cont'd)
+                At first they appeared disparate 
+                and unrelated, but when I looked at 
+                them in the context of set theory, 
+                I found they had a lot in common.
+                      (off their looks)
+                Lemme just show you.
+
+                                                                        CUT TO:
+
+  INT. FBI - WAR ROOM - MOMENTS LATER2626
+
+  Close on a large map of Los Angeles as Charlie spreads it out 
+  across one of the tables.
+
+                              CHARLIE
+                There ve been three substation 
+                attacks.  Each of those caused a 
+                blackout over a particular region. 
+
+  Charlie lays a clear overlay onto the map - a shaded area.
+
+                              CHARLIE
+                This is the area hit by the first 
+                blackout - the Boyle Heights 
+                  substation failure.
+                      (another overlay)
+                The second, here.  Caused by the 
+                outage that killed the maintenance 
+                  worker...  And the third...
+
+  He places the third overlay on top of the others.  
+
+                              MEGAN
+                The three blackouts overlap.
+
+                              CHARLIE
+                That s right, and to a 
+                  statistically significant extent. 
+
+                              DON
+                So three nights in a row, this 
+                area s been blacked out...
+
+                              CHARLIE
+                That was Donahue s objective.
+
+  Don and Megan peel back the overlays, look closer at the map.
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    36.
+
+    CONTINUED:2626
+
+
+                              DON
+                Could be what - they were trying to 
+                cover some sort of heist, knock out 
+                  a security system for a theft or 
+                  robbery...
+
+                              MEGAN
+                Lot of possible targets in the area 
+                - banks, brokerages, museums...  
+                But I haven t seen any reports of 
+                  break-ins...
+
+  Beat.  Don turns to Charlie.
+
+                              DON
+                Charlie, we re looking at most of 
+                downtown here.  Any way you can be 
+                more specific, narrow it down?
+
+                              CHARLIE
+                This is the best I could do with 
+                what I had.
+
+                              MEGAN
+                Wait a minute.  What about these?
+
+  She goes and grabs the sheets of calculations recovered at 
+  the scene of Donahue s murder, hands them to Charlie.
+
+                              MEGAN
+                These were in Donahue s car when we 
+                found him.
+
+                              CHARLIE
+                      (looking them over)
+                Pretty high-end stuff.  Dantzig-
+                Wolf decompositions, Network 
+                  Interdiction Strategies... 
+
+                              DON
+                Could those tell you exactly what 
+                area he was trying to black out?  
+                If we knew where, it might tell us 
+                why.
+
+                              CHARLIE
+                I m going to need to go over them.
+
+
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    37.
+
+    CONTINUED:2626
+
+
+                              MEGAN
+                And in the meantime I need to 
+                figure out who else Donahue was in 
+                bed with, who might ve killed him.
+
+  Megan heads out toward her desk.  Charlie rolls up his maps, 
+  readying to go.  Don eyes him a moment.  A beat.
+
+                              DON
+                Had an interesting chat with Dad...
+
+                              CHARLIE
+                      (knows instantly)
+                Don, I m sorry.  I had no business 
+                telling him about Agent Warner.
+
+                              DON
+                You re right about that.
+
+                              CHARLIE
+                I just thought... I don t know...  
+                You and Robin seem to get along.  
+                You ve been a lot happier...
+
+  A beat.  Whatever anger Don might ve been holding subsides.
+
+                              DON
+                  I appreciate the thought, Charlie.  
+                But you and Dad don t really know 
+                what s going on...
+
+  Off Don --
+
+  INT. CHARLIE S OFFICE - DAY2727
+
+  The sheets of calculations from Lyle Donahue s car are tacked 
+  up on the boards, Charlie s own calculations beside them.  
+  Larry looks on.
+
+                              CHARLIE
+                None of the substation attacks 
+                directly caused the downtown 
+                  blackouts.  They were too far out -
+                  Silverlake, Mission Hills, Boyle 
+                  Heights...
+
+                              LARRY
+                No, the blackouts were due to the 
+                  broad-line reductions.  The 
+                  operators shut the area down.
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    38.
+
+    CONTINUED:2727
+
+
+                              CHARLIE
+                Right.  So Donahue did all these 
+                  calculations in order to predict 
+                the human operators  response to 
+                his attacks.  Got to admit, it s 
+                pretty impressive...
+
+                              LARRY
+                  Impressive, yes.  But it doesn t 
+                get us any closer to discovering 
+                his intended target, does it?
+
+  Charlie sets down his chalk, frustrated.
+
+                              CHARLIE
+                I ve done every single permutation 
+                I can think of, gone over and over 
+                the three substations he attacked.  
+                I can t narrow it down.
+
+                              LARRY
+                      (then, thinking aloud)
+                Charles, what about the other 
+                  substations that effect downtown?
+
+                              CHARLIE
+                He didn t choose the others.
+
+                              LARRY
+                That s precisely my point.  Why 
+                not?  Presumably because they 
+                wouldn t result in a blackout that 
+                included his target.
+
+                              CHARLIE
+                      (getting it)
+                An exclusionary approach.  Run 
+                  calculations on the other 
+                  substations, see what area of 
+                downtown is omitted...
+
+                              LARRY
+                And, I might point out, it s a much 
+                more powerful approach than what 
+                you ve been working with.
+
+  As Charlie goes back to work --    NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    39/39A.
+
+
+
+  EXT. FBI - BRIDGE - DAY2828
+
+  Don heads toward the FBI.  He spots Warner near the entrance 
+  with two US Marshals...  As he nears, their conversation 
+  breaks up.  Warner sees Don.  He shakes his head, teasing --
+
+                              DON
+                Downtown two days in a row.  Pretty 
+                sure I only lost one pair of 
+                  sunglasses.
+
+                                WARNER
+                Forget it, Eppes.  You already blew 
+                your one chance with me.
+
+                              DON
+                What happened to that rain-check?
+
+                                WARNER
+                You remember our drug dealer friend 
+                  operating out of the race track?
+
+                              DON
+                Yeah, sure.  Ivan Tabakian.
+
+                                WARNER
+                He s decided to cooperate, help us 
+                go after the Salvadorian cartel 
+                that was supplying him.
+
+                              DON
+                The Salvadorians.  That d be a big 
+                get for you.
+
+                                WARNER
+                Bottom line, Tabakian and I are 
+                gonna be shacking up in a safe 
+                house in San Diego while he spills 
+                  everything to the US Attorney.
+
+                              DON
+                How soon do you have to leave?
+                      (off her look, reacts)
+                It was an innocent question.
+
+                                WARNER
+                We re going to process him out 
+                today, then I m gone...
+
+  A beat passes.  There s still an attraction here.
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    40.
+
+    CONTINUED:2828
+
+
+                                WARNER
+                But I ll call you when I get back.
+
+  Another beat.  Then she goes.  Off Don --
+
+  INT. FBI - WAR ROOM - DAY2929
+
+  Colby and Megan working.  They look up as Charlie enters with 
+  obvious purpose --
+
+                              CHARLIE
+                I ve got it!
+
+                              MEGAN
+                You narrowed down the target 
+                area...
+
+  As Charlie sets down his stuff and unfurls the  target map  
+  from earlier (2nd scene, act 3)...
+
+                              CHARLIE
+                Turns out there are 12 substations 
+                whose failure would directly or 
+                  indirectly cause a blackout 
+                  downtown...  
+
+  AUDIENCE VISION - As Charlie s map animates.  Downtown and 
+  the surrounding area fills the screen.  Three OVERLAYS fall 
+  in rapid succession, recreating what Charlie did earlier...  
+
+                              CHARLIE
+                  Overlaying the boundaries of the 
+                three blackouts gave us an initial 
+                target area.
+
+  Where they overlap, the large,  vague  target area from 
+  earlier emerges, glowing brightly... 
+
+  Resume Charlie and the Agents with the corresponding map.
+
+                              MEGAN
+                But Charlie, that area was too big, 
+                too vague.
+
+                              CHARLIE
+                I know.  Mapping the blackouts from 
+                the three attacks was only the 
+                first step.  
+                                (MORE)
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    41.
+
+    CONTINUED:2929
+                              CHARLIE (cont'd)
+                The real key was examining the 
+                  substations Donahue didn t 
+                  attack...
+
+  AUDIENCE VISION - Animating the map again.  The  vague  
+  target area fills the screen, saturating with illumination, 
+  glowing.  Nine, shadowy overlays land in rapid succession --
+
+                              CHARLIE
+                Donahue rejected the 9 others as 
+                targets because the blackouts they 
+                would ve caused didn t included 
+                this area...
+
+  With the nine shadows landed, only a small sliver of the 
+   vague  target area remains lit...  The map  de-animates  
+  back to...
+
+  The live map, with Charlie pointing to a tiny spot.
+
+                              COLBY
+                So this is the area he was trying 
+                to black out...?  That s just a 
+                couple blocks from here.
+
+                              CHARLIE
+                      (reading the map)
+                It s something called the J. Edward 
+                Rice building.
+
+                              MEGAN
+                The Rice building.
+
+                              CHARLIE
+                Yeah.  What?
+
+                              COLBY
+                That s the downtown Federal 
+                Detention Center.  
+
+                              MEGAN
+                Donahue was choreographing a prison 
+                break.
+
+  Off the Agents --
+
+
+                              END OF ACT THREE          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    42.
+
+
+                                    ACT FOUR
+
+  TWO SECOND GRAPHIC BUMPER:
+
+  INT. FEDERAL DETENTION CENTER - DAY3030
+
+  David and Don walk through one of the prison s cell blocks 
+  with a Prison Official, BAKER.
+
+                              BAKER
+                I don t really know how we can take 
+                any further precautions against a 
+                breakout if you can t tell me which 
+                prisoner we re talking about.
+
+                              DON
+                We re working on that.  As soon as 
+                we have a name, we ll let you know.
+
+                              DAVID
+                What about the power failure 
+                scenario we were discussing...?
+
+                              BAKER
+                There s no denying it.  Everything 
+                here runs off electricity.  Cells 
+                open and close electronically.  The 
+                locks are automated.  We rely 
+                heavily on surveillance cameras... 
+
+                              DON
+                So if someone were actually able to 
+                cut your power completely...
+
+                              BAKER
+                We d be screwed.  Forty-five 
+                guards, 22 hundred prisoners...
+                      (then)
+                But that s exactly the reason the 
+                  detention center has a backup 
+                  system...
+
+  They stop walking...
+
+                              BAKER
+                We ve got four 30 megawatt 
+                  generators, diesel powered.  
+                Anytime we fall off the power grid, 
+                they automatically kick in.
+
+                              DON
+                They re in a secured area...?
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    42A.
+
+    CONTINUED:3030
+
+
+                              BAKER
+                Same as any hallway in the Center.  
+                Probably more secure  cause there s 
+                no inmate access where they are.
+
+                              DAVID
+                And the last three nights, during 
+                the blackouts...  You had no 
+                  incidents?  No one trying to get to 
+                the generators, maybe trying to 
+                disable them..?
+
+  Baker shakes his head.
+
+                              BAKER
+                Powered us through, no problems.  
+                      (then)
+                I m telling you, if these blackouts 
+                are an attempt to get to us...  
+                someone hasn t done their homework.  
+                We re the last place to feel the 
+                  effect...
+
+  Off David and Don --
+
+  OMITTED3131          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    43.
+
+
+
+  EXT. THE BRIDGE - DAY3232
+
+  Megan s outside, leaning on the rail, looking toward 
+  downtown.  Larry approaches, finds her.
+
+                              LARRY
+                You look awfully contemplative; as 
+                if pondering some great mystery of 
+                the universe, perhaps?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    44.
+
+    CONTINUED:3232
+
+
+                              MEGAN
+                      (smiles, points to the 
+                        skyline)
+                Hardly.  I m pondering the Federal 
+                  Detention Center.
+
+                              LARRY
+                Ah.  Charles told me you suspect a 
+                possible prison break.
+
+                              MEGAN
+                Problem is, there are over two 
+                thousand prisoners, and I can t 
+                find a way to link Lyle Donahue to 
+                any of them.  We don t know who he 
+                was working for.
+
+  A beat passes.  They both eye the skyline.  Then --
+
+                              LARRY
+                Megan, I m afraid I have to 
+                question one of your basic 
+                  assumptions...  How do you know 
+                Donahue was working for someone 
+                else?
+
+                              MEGAN
+                There has to be someone else.  How 
+                else do you explain Donahue s 
+                murder?
+
+                              LARRY
+                I m not questioning whether there s 
+                someone else involved.  That s a 
+                matter of near certainty.
+
+                              MEGAN
+                Okay, now you re just confusing me.
+
+                              LARRY
+                What I mean is... all along you ve 
+                been doing a  bottom up  analysis.  
+                You started with the unfortunate 
+                gentleman who was electrocuted...
+
+                              MEGAN
+                  Alejandro Mu oz...
+
+                              LARRY
+                Yes.  Then worked your way up to 
+                Donahue.  And now you re looking 
+                for someone above Donahue...
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    45.
+
+    CONTINUED:3232
+
+
+                              MEGAN
+                That s standard procedure.  We re 
+                looking for the bigger fish.
+
+                              LARRY
+                But how do you know you re fishing 
+                in the right direction.
+                      (then)
+                In 1959, Richard Feynman gave a 
+                famous lecture called  There s 
+                Plenty of Room at the Bottom.   It 
+                altered the thinking of a whole 
+                  generation of scientists, turned 
+                their focus around, challenging 
+                them to think smaller and smaller, 
+                instead of larger...
+                      (then)
+                You re working from Mu oz to 
+                Donahue, to someone further up the 
+                chain.  Perhaps you should be 
+                working in the opposite direction.
+
+                              MEGAN
+                You re saying the plan to blow up 
+                the substations could have 
+                  originated on Mu oz s end...
+
+                              LARRY
+                It deserves consideration.
+
+                              MEGAN
+                      (realizing)
+                It would explain why we can t find 
+                  a connection between Donahue and 
+                the Federal Detention Center - 
+                there isn t one.  The connection is 
+                Alejandro Mu oz. 
+
+  Off Megan.
+
+  INT. FBI - BULLPEN - DAY - LATER3333
+
+  Don and David enter, just returning.  Charlie s here.  As Don 
+  takes off his coat, he fills Charlie in --
+
+                              DON
+                The prison s immune from the 
+                  blackouts. 
+
+                              CHARLIE
+                What do you mean  immune ?
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    46.
+
+    CONTINUED:3333
+
+
+                              DAVID
+                They have a back-up power system.  
+                The recent shutdowns didn t even 
+                ruffle their feathers...
+
+  Beat.  Don looks to Charlie again.
+
+                              DON
+                There are a lot of other possible 
+                targets in the area...
+
+                              CHARLIE
+                I m not wrong about the prison.
+
+                              DON
+                Charlie, they lost power the last 
+                three nights.  Their diesel 
+                  generators kicked in.  There was 
+                  absolutely no impact...
+
+                              CHARLIE
+                You cannot have an event in a 
+                closed system without a subsequent 
+                impact on the system.  That s an 
+                  impossibility.
+
+                              DON
+                Don t go all Sir-Isaac-Newton on 
+                me. 
+                      (to David)
+                Let s just take another look at the 
+                map, see what else is nearby...
+
+  Charlie follows Don and David as they head into --          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    47.
+
+
+
+  INT. FBI - WAR ROOM - CONTINUOUS3434
+
+  Megan and Colby are here, Colby s finishing up a phone call.  
+  Megan sees Don entering, jumps to her feet -- 
+
+                              MEGAN
+                We just found the link between the 
+                  blackouts and the prison.
+
+                              CHARLIE
+                You wanna tell me again how I m 
+                wrong?
+
+                              DON
+                      (to Megan)
+                You found a link to Donahue?
+
+                              COLBY
+                To Alejandro Mu oz.
+
+                              MEGAN
+                Mu oz was Salvadorian.  Turns out 
+                he s got close family ties to one 
+                of the big drug cartels.  The same 
+                cartel that was supplying Ivan 
+                  Tabakian s drug operation at the 
+                  Southland Downs race track.
+
+                              DON
+                  Tabakian...
+
+                              COLBY
+                He s currently locked up inside the 
+                Federal Detention Center.  
+
+                              MEGAN
+                Don, that s gotta be who they re 
+                breaking out.
+
+  All eyes go to Don.  He looks bothered - it doesn t add up.
+
+                              CHARLIE
+                What s the matter?
+
+                              DON
+                Ivan Tabakian made a deal with the 
+                US Attorney s Office.  He s going 
+                to testify against the 
+                  Salvadorians.
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    48.
+
+    CONTINUED:3434
+
+
+                              COLBY
+                So the blackouts were a way to 
+                cover a hit, allow another inmate 
+                to get close enough to Tabakian to 
+                shank him...
+
+                              DON
+                  Tabakian s gotta be in solitary.  
+                They re not going to allow another 
+                inmate anywhere near him.
+
+                              DAVID
+                And besides, we know the blackouts 
+                didn t impact prison operations.  
+                So how are they a part of the plan?
+
+                              CHARLIE
+                The blackouts have to have had some 
+                  impact...
+
+                              DON
+                Charlie, we were there.  We didn t 
+                see any...
+
+                              CHARLIE
+                      (beat, thinking aloud)
+                You said they ran their generators 
+                three nights in a row, right?  How 
+                are the generators fueled?
+
+                              DAVID
+                They run on diesel.
+
+                              CHARLIE
+                Okay, a facility that large...  
+                They d have to have burned through 
+                a lot of fuel...
+
+                              MEGAN
+                What if that was the purpose of the 
+                  blackouts, to run the fuel tanks 
+                empty.  Then a fourth blackout 
+                would put them in the dark.
+
+                              COLBY
+                Yeah, but they d never let the 
+                tanks run dry.  They d just order 
+                more fuel, get an emergency 
+                  delivery.
+
+  Beat.  Stumped.  Then --
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    49.
+
+    CONTINUED:3434
+
+
+                              DON
+                The truck!  An unscheduled delivery 
+                of fuel.
+
+                              CHARLIE
+                They get a truck in there, they 
+                have a way to break this guy 
+                Tabakian out, wouldn t they?
+
+                              COLBY
+                But Don, you just said Tabakian 
+                turned against his suppliers.  Why 
+                would they go through the trouble 
+                to try and free him?
+
+                              MEGAN
+                Makes a lot more sense for them to 
+                kill him.
+
+                              DAVID
+                      (realizing)
+                They re going after him.  This 
+                isn t a break-out.  It s a break 
+                in.
+
+  Off the Agents --
+
+
+                              END OF ACT FOUR          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    50.
+
+
+                                    ACT FIVE
+
+  TWO SECOND GRAPHIC BUMPER:
+
+  EXT. FEDERAL DETENTION CENTER - SERVICE GATE - DAY3535
+
+  A shiny TANKER TRUCK (K.V.P. FUEL SERVICES) idles at the 
+  Security Gate.  The Gate Guard checks paperwork.  Two Other 
+  Guards survey the truck s undercarriage with mirrors.  After 
+  a beat and an  all clear,  the truck rolls through...
+
+  CAMERA PANS AND FINDS --
+
+  Liz Warner getting out of her car in the parking area.  As 
+  she heads toward the PEDESTRIAN ENTRANCE --
+
+  EXT. FEDERAL DETENTION CENTER - LOADING AREA - DAY3636
+
+  WE RETURN to the Tanker Truck as it rolls slowly down the 
+  incline into the basement of the facility, finally coming to 
+  a stop near the diesel generators...
+
+  The DRIVER/GANG SOLDIER #4 opens the door, 30, Latino.  He s 
+  greeted by Baker.  The Driver offers Baker a clipboard.  
+  Baker takes it... revealing a SILENCED PISTOL.  Before Baker 
+  can react, the Driver puts two silenced rounds into him... 
+  then grabs the KEYS from Baker s lifeless body...
+
+  ON TOP OF THE FUEL TRUCK --
+
+  The hatch begins to spin, turned by UNSEEN HANDS.  After a 
+  beat, the hatch opens...
+
+  Three Salvadorian GANG SOLDIERS emerge, wearing bulletproof 
+  vests, carrying automatic weapons...
+
+  EXT. FEDERAL DETENTION CENTER - PEDESTRIAN ENTRANCE - DAY3737
+
+  Warner presents her badge to the GUARD ON DUTY.
+
+                              WARNER
+                Liz Warner, FBI.  I m processing 
+                out a prisoner, Ivan Tabakian...
+
+                              GUARD ON DUTY
+                No weapons allowed inside the 
+                prison, Agent Warner.  You re gonna 
+                have to check yours here.
+
+  Warner removes her gun and holster, hands them over.  As the 
+  guard waves her into the prison.          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    51.
+
+
+
+  EXT. FEDERAL DETENTION CENTER - LOADING AREA3838
+
+  REJOIN the Gang Soldiers.  The Driver removes coveralls, 
+  suited up like the others - a team of four killers now.  One 
+  of them approaches a large electrical box.  Armed with large 
+  BOLT CUTTERS, he severs the feeder conduit.  Sparks fly...
+
+  Then, using Baker s keys, the killers enter the prison...
+
+  EXT./INT. FEDERAL DETENTION CENTER/SUBURBAN - DAY3939
+
+  An FBI SUBURBAN comes through the gates.  Once inside, Don, 
+  Megan, Colby and David pour out, casual tac gear.  Don s 
+  trying to make a cell call.  Gives up.
+
+                              DON
+                Agent Warner s still not answering 
+                her phone.
+
+                              COLBY
+                Probably no cell signal inside.
+
+                              DAVID
+                I m still not getting anything from 
+                the prison switchboards...
+
+  They look around, move toward the prison.  Megan spots the 
+  Diesel Tanker down the slope in the loading bay.
+
+                              MEGAN
+                The fuel truck.
+
+  Cautiously, they head down the ramp into the --
+
+  EXT. FEDERAL DETENTION CENTER - LOADING AREA - DAY4040
+
+  The Agents press forward, Megan and Colby discover Baker s 
+  body.
+
+                              MEGAN
+                We ve got a man down.
+
+  As Colby checks for a pulse.  Don joins them.
+
+                              COLBY
+                He s dead.
+
+  David sees the hatch, propped open on top of the tanker.  
+  With his asp, he RAPS on the tank.  Hollow, empty.
+
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    52.
+
+    CONTINUED:4040
+
+
+                              DAVID
+                Empty.  It s a Trojan Horse.  
+                They re already inside the prison.
+
+                              COLBY
+                SWAT s out on a call.  They ll be 
+                twenty minutes, at least...
+
+                              DON
+                We ve got forty-five prison 
+                officers in there on our side.
+
+                              MEGAN
+                Except their weapons are locked in 
+                the armory.  Takes time to deploy 
+                them...
+
+                              DON
+                We wait for SWAT, this ll all be 
+                over.  We ve gotta make a move.
+
+  A look around the group.  The others nod... 
+
+  INT. FEDERAL DETENTION CENTER - NARROW CRAWL SPACE4141
+
+  One by one, the four Gang Soldiers drop down from above, 
+  landing in this narrow, pipe-lined corridor.  As they move -- 
+
+  INT. FEDERAL DETENTION CENTER - ATTORNEY ROOM4242
+
+  Warner enters.  AUSA DIANE VERANO (50) is already here.  She 
+  offers her hand, introduces herself.
+
+                              VERANO
+                Assistant US Attorney, Diane 
+                Verano.
+
+                              WARNER
+                Special Agent Liz Warner.  I m 
+                going to be heading the transport 
+                and safe-house detail.
+
+                              VERANO
+                I just have some paperwork Mr. 
+                Tabakian has to sign, then he ll be 
+                all yours.
+
+  A beat.  Off Warner --          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    53.
+
+
+
+  INT. FEDERAL DETENTION CENTER - NARROW CRAWL SPACE4343
+
+  Still undetected, the Gang Soldiers make there way through 
+  the corridor until they reach a door at its end.  A silent 
+  nod between them, then the first opens the door --
+
+  INT. FEDERAL DETENTION CENTER - CORRIDOR - CONTINUOUS4444
+
+  The Gang Soldiers emerge into a the open corridor, suddenly 
+    encountering an unsuspecting Guard.  The Guard, unarmed, goes 
+  for his radio.  Before he can get to it, PFFFT! PFFFT! two 
+  silenced rounds take him down.  
+
+  As two Gang Soldiers stash the Guard s body, the other two 
+  break off in a new direction...
+
+  INT. FEDERAL DETENTION CENTER - HALLWAY4545
+
+  IVAN TABAKIAN, in wrist cuffs, is escorted down the hall by 
+  two Guards, one on each arm.  They re entirely unaware of the 
+  eminent danger...
+
+  INT. FEDERAL DETENTION CENTER4646
+
+  We find Don and the other Agents as they emerge from the 
+  service corridor into a main hallway.  They look back and 
+  forth, wary.  Don spots a pair of guards watching over an 
+  inmate cleaning crew, runs toward them...
+
+                              DON
+                Hey!  FBI!  Your security s been 
+                  breached.  You ve got one or more 
+                armed men inside the prison.
+
+                              DAVID
+                They ve already killed at least one 
+                of your guys.  You need to get some 
+                men to the armory and break out 
+                some weapons...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)    NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    54/54A.
+
+    CONTINUED:4646
+
+
+  The Guard hesitates.
+
+                              DON
+                What re you waiting for?  Do it.
+
+  As the guard pulls his radio...
+
+  OMITTED4747
+
+  INT. FEDERAL DETENTION CENTER - ATTORNEY ROOM4848
+
+  On Warner and AUSA Verano waiting as the door opens, and Ivan 
+  Tabakian is brought in by his escort guard, released into the 
+  room...
+
+                              WARNER
+                Mr. Tabakian...
+
+                              TABAKIAN
+                      (checking Warner out)
+                This is even better than I 
+                  expected...
+
+  Suddenly, an ALARM goes off.  Warner reacts, hand to her 
+  holster, only to realize it s empty --
+
+  INT. FEDERAL DETENTION CENTER - ANOTHER CORRIDOR4949
+
+  Our Agents, moving fast as the alarm blares.  Don yells to a 
+  Guard who s busy herding inmates into an enclosure.
+
+                              DON
+                Which way to the Attorney room?
+
+                                ENCLOSURE GUARD
+                End of the corridor, go left.
+
+  As Don and Company head in that direction --          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    55.
+
+
+
+  INT. FEDERAL DETENTION CENTER - RAMP5050
+
+  Gang Soldiers #1 and #2 pound up the stairs.  They reach the 
+  next landing, and as they go for the door.  BOOM!  A SHOTGUN 
+  blast from a level above nearly cuts them down.
+
+  The Gang Soldiers return fire from their automatics, dropping 
+  the Shotgun Guard above.  Then they go through the door...
+
+  INT. FEDERAL DETENTION CENTER - OUTSIDE ATTORNEY ROOM5151
+
+  Gang Soldiers #3 and #4 appears, look around quickly.  No 
+  Guards visible.
+
+  Just up ahead is the door marked  Attorney Room.   
+
+  The Soldiers close fast on the door.  They raise their guns, 
+  and after a brief look between them, they bang inside...
+
+  INT. FEDERAL DETENTION CENTER - ATTORNEY ROOM5252
+
+  The Soldiers enter to find the table has been turned on its 
+  side.  Whoever is in the room is clearly hiding behind it...
+
+  The Soldiers enter further, raising their guns, rounding the 
+  table.  They re completely unaware that Don and the other 
+  Agents are already here, lying in wait behind them.
+
+  BAM!  Colby COLD-COCKS Soldier #3, taking him out as Don and 
+  David swarm Soldier #4, quickly driving him to the ground, 
+  gun to his face.
+
+                              DON
+                Don t move, you hear me?  Not a 
+                muscle!
+
+  Megan emerges from behind the table with Warner, Verano and 
+  an anxious Tabakian.  
+
+                              TABAKIAN
+                We had a deal.  You gotta protect 
+                me!
+
+  Don leans in on the two Gang Soldiers --
+
+                              DON
+                How many more?  How many are there?
+
+  The Soldiers only glare back.  They re not going to answer.  
+  David grabs them, starts cuffing them as --
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    56.
+
+    CONTINUED:5252
+
+
+                              DAVID
+                We need to get out of this room.  
+                It s too tough to defend...
+
+                              DON
+                Alright.  Let s make a move.
+
+  As Warner passes, Don pulls his back-up pistol from its 
+  holster, holds it out to her.  As she takes it...
+
+  INT. FEDERAL DETENTION CENTER - OUTSIDE ATTORNEY ROOM5353
+
+  David and Colby exit the Attorney Room first, guns ready, 
+  checking to make sure the area is clear.
+
+                              COLBY
+                Alright.  It s clear, let s go.
+
+  They move forward.  Don, Megan and Warner, closely escorting 
+  Verano and Tabakian.
+
+                              MEGAN
+                Stay tight together.  If we say 
+                 get down,  drop as fast as you 
+                can.
+
+                              DON
+                      (to Colby and David)
+                Once we get to the end of the hall, 
+                make a right.  There s a guard 
+                station there.  We can secure them 
+                and probably gain reinforcements...
+
+  Just then, AUTOMATIC WEAPONS FIRE as Soldiers #1 and #2 burst 
+  from the stairwell.  Don grabs Verano as --
+
+  Megan turns, takes Soldier #1 out, but not before he gets off 
+  a shot that hits Tabakian.  Tabakian goes down...
+
+  Warner reacts, moves to cover Tabakian... opening herself up 
+  to Soldier #2...
+
+                              DON
+                Liz!
+
+  Soldier #2 has her in his sights... until Don lunges, 
+  tackling her out of the way...
+
+  Colby and David fire on Soldier #2, taking him out...  They 
+  approach the downed Soldiers, kick their weapons away...
+
+  Suddenly, POUNDING FOOTSTEPS from the direction they came... 
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    57.
+
+    CONTINUED:5353
+
+
+  The Agents spin... but it s Guards this time, well-armed.
+
+                              DAVID
+                Whoa, whoa.  It s alright.  Nobody 
+                fire...
+
+  On the Agents as they finally breathe a sigh of relief, 
+  lowering their weapons...
+
+  EXT. FEDERAL DETENTION CENTER - LOADING AREA - LATER5454
+
+  The action s over.  Mop up time.  FBI and Federal Corrections 
+  vehicles fill the loading area.  Warner stands near the open 
+  back doors of an AMBULANCE as Tabakian is loaded into one of 
+  them.  Don comes up.
+
+                              DON
+                How s your witness?
+
+                              WARNER
+                Bullet passed clean through.  
+                  Paramedic doesn t think it hit any 
+                vitals.  He ll live.
+                      (then)
+                You guys saved his ass, Eppes.  Not 
+                to mention what you did for me back 
+                there.
+
+                              DON
+                That s just the way it went down.
+
+                              WARNER
+                Yeah, but I owe you one.
+
+                              DON
+                      (smiles, reading her)
+                And that pisses you off, doesn t 
+                it?
+
+                              WARNER
+                      (laughs)
+                Yeah, it does...
+
+  A beat between them.  Colby walks up, interrupting --
+
+                              COLBY
+                Don, I ve got the Warden waiting in 
+                his office for you.
+
+  Don looks to Warner.
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    58.
+
+    CONTINUED:5454
+
+
+                                WARNER
+                I gotta go too.  Gonna ride along 
+                to the hospital.  Then I wanna get 
+                him out of town before they have a 
+                chance to try again.
+
+  She pats Don gently on the chest... then turns and climbs 
+  into the ambulance.  Off Don --
+
+  INT. EPPES HOUSE - LIVING ROOM - NIGHT5555
+
+  Alan and Charlie in the living room, each sitting in a chair 
+  reading.  The door opens.  Don enters, surprised to see them.
+
+                              DON
+                What is it with you two and staying 
+                up all night?
+
+                              ALAN
+                Charlie told me what happened 
+                tonight.  We were worried.
+
+                              CHARLIE
+                Dad was worried.  I just waited up 
+                so I could savor an  I told you so  
+                moment while it was still fresh.
+
+                              DON
+                Didn t we cover this at my office?
+
+                              CHARLIE
+                      (playing)
+                Did we?  There was a lot going on.  
+                  Accusations about my math being 
+                wrong...
+
+                              DON
+                      (rising above it)
+                Alright, Charlie, if that s what 
+                you need, fire away.  Say it.
+
+                              CHARLIE
+                I told you so.
+
+                              ALAN
+                Alright.  That s about as much 
+                  brotherly love as I can take.  I m 
+                going to bed.
+
+                              CHARLIE
+                Yeah, I should probably hit it too.
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    59.
+
+    CONTINUED:5555
+
+
+  They turn to go.  Don calls after them --
+
+                              DON
+                Before you do...
+                      (as they stop, turn)
+                This thing with you guys, and who 
+                I m dating and not dating...
+
+                              CHARLIE
+                Look, Don, we re sorry--
+
+                              DON
+                        (interrupting, blunt)
+                Robin broke up with me.  Last week, 
+                before all this other stuff...
+
+                              CHARLIE
+                You got dumped?
+
+                              DON
+                I didn t get dumped.
+
+                              ALAN
+                Donny, I m sorry.  What happened?
+
+                              DON
+                Just because I was ready to think 
+                about being in a more serious 
+                  relationship, doesn t mean she 
+                was...  It s just not what she was 
+                looking for right now.
+
+                              CHARLIE
+                Well.  Maybe she ll change her 
+                mind.
+
+                              DON
+                      (not believing it)
+                Maybe...
+
+  A beat.  Alan suddenly dons a smile.
+
+                              ALAN
+                But this is a good sign though...
+                      (off their confusion)
+                Donny, you weren t the one who 
+                pulled the plug.  You were willing 
+                to stick it out, try and have a 
+                  relationship.  That s a step in the 
+                right direction, isn t it?
+
+
+
+
+                                                                          (CONTINUED)          NUMB3RS   #307/44   "Blackout"   BUFF Rev   10-02-06    60.
+
+    CONTINUED:5555
+
+
+                              DON
+                      (shrugs, then)
+                Why don t you guys go on to bed...
+
+  Don turns, picks up the remote, turns on the TV.  Alan eyes 
+  him a moment, then, coming back in --
+
+                              ALAN
+                You know, I m not really that 
+                tired.  There s gotta be something 
+                good on.  Late night s when they 
+                play all the classics...
+
+                              CHARLIE
+                If we re staying up, I m popping 
+                some popcorn...
+
+                              DON
+                You guys, you don t have to do 
+                this?
+
+                              ALAN
+                Do what?
+
+                              CHARLIE
+                Yeah, what re you talking about?
+
+                              DON
+                Go to bed, seriously.
+
+                              ALAN
+                Hey, you don t even live here.  Who 
+                are you to start telling us what to 
+                do?
+
+  Alan settles down into a chair.  Charlie heads into the 
+  kitchen.  Don sighs, sits down.
+
+                              DON
+                      (to Alan)
+                Thanks.
+
+                              ALAN
+                Don t mention it.
+
+  On Alan and Don --
+
+
+                              END OF ACT FIVE

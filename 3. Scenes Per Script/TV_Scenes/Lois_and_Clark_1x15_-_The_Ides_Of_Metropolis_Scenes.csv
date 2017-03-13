@@ -1,0 +1,50 @@
+1,   INT METROPOLIS COURTROOM  DAY ,263
+2,   INT COURTROOM CORRIDOR  LATER                             ,41
+3,   INT SMALL ROOM IN COURTHOUSE  THEIR POV                   ,11
+4,   INT CLARK KENTS APARTMENT  NIGHT                     ,109
+5,   INT COURTROOM CORRIDOR  NIGHT                             ,45
+6,   EXT COURTHOUSE  NIGHT                                       ,10
+7,   INT LOIS LANES JEEP  CONTINUOUS                          ,17
+8,A  EXT COURTHOUSE  NIGHT                                    A,6
+9,B  INT LOIS LANES JEEP  CONTINUOUS                         B,65
+10,   INT CLARK KENTS APARTMENT  EARLY MORNING  DAY       ,136
+11,  INT DAILY PLANET  CONFERENCE ROOM  DAY                    ,116
+12,  INT DAILY PLANET  CONFERENCE ROOM  LATER                ,75
+13,  INT DAILY PLANET  PIT  CONTINUOUS                       ,101
+14,  INT DAILY PLANET  PIT  LATER                            ,165
+15,  INT LOIS LANES APARTMENT  DAY                           ,214
+16,  INT DAILY PLANET  COFFEE ROOM  DAY                  ,90
+17,  EXT HARRITECH COMPUTER COMPANY  DAY  TO ESTABLISH       ,5
+18,  INT HARRITECH  DAY,100
+19,  INT LUTHORS PENTHOUSE STUDY  DAY                        ,181
+20,  INT DAILY PLANET  PIT  DAY                              ,40
+21,  INT GYM  NIGHT                                       ,176
+22,  INT LOIS APARTMENT  NIGHT                                 ,124
+23,  INT LOIS LANES BEDROOM  SAME TIME                       ,10
+24,  EXT LOIS LANES APARTMENT  SAME TIME                     ,18
+25,  INT LOIS LANES LIVING ROOM  SAME TIME                   ,80
+26,  INT DAILY PLANET  PIT  DAY                          ,97
+27,  INT DAILY PLANET  PERRY WHITES OFFICE  DAY             ,109
+28,  INT LOIS LANES APARTMENT  NIGHT                     ,129
+29,  EXT LEX LUTHORS TOWER  TO ESTABLISH                     ,3
+30,  INT LEX LUTHORS STUDY  NIGHT                            ,83
+31,  INT CLARK KENTS APARTMENT  DAY                      ,103
+32,  INT DAILY PLANET PIT  DAY                                ,124
+33,  EXT HARRITECH  NIGHT                                 ,9
+34,  INT HARRITECH  NIGHT                                     ,129
+35,  INT MUT  COMPUTER SCIENCE LABORATORY  DAY               ,138
+36,  INT HARRITECH  NIGHT                                 ,32
+37,  INT HARRISONS BUNKER  MOMENTS LATER                    ,83
+38,  INT MUT COMPUTER SCIENCE LAB  NIGHT                      ,76
+39,  EXT EAST COAST COUNTRYSIDE  NIGHT                        ,9
+40,  INT COMPUTER SCIENCE LAB AT MUT  SAME TIME               ,6
+41,  INT TRASH COMPACTOR ROOM  NIGHT                          ,67
+42,  EXT MIDWEST COUNTRYSIDE  NIGHT                           ,6
+43,  INT COMPUTER SCIENCE LAB AT MUT  SAME TIME               ,6
+44,  INT TRASH COMPACTOR ROOM  SAME TIME                      ,48
+45,  EXT WEST COAST COUNTRYSIDE  NIGHT                        ,6
+46,  INT TECH  BUNKER  SAME TIME                             ,14
+47,  INT COMPUTER SCIENCE ROOM AT MUT  SAME TIME              ,6
+48,  INT HARRISONS BUNKER  MOMENTS LATER                     ,16
+49,  INT DAILY PLANET  PIT  DAY                          ,50
+50,  INT LEX LUTHORS BALCONY  NIGHT                      ,68

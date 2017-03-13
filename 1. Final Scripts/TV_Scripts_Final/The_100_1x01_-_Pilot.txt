@@ -1,0 +1,3305 @@
+﻿                                    THE HUNDRED
+
+
+                                      written by
+                                  Jason Rothenberg
+
+
+                                Based on the novel 
+                                  by Kass Morgan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                            SECOND NETWORK REWRITE
+                                                              1.16.13
+
+
+
+
+
+  2012 Warner Bros. Entertainment Inc. This script is the property 
+of Warner Bros. Entertainment, Inc. No portion of this script may 
+be performed, reproduced or used by any means, or disclosed to, 
+quoted or published in any medium without the prior written
+consent of Warner Bros. Entertainment Inc.                                            TEASER
+
+      A YOUNG WOMAN S VOICE begins our tale.  We sense even now 
+      that CLARKE is struggling with things beyond her nearly 18 
+      years.  Things that will either kill her or make her a hero.  
+
+                                  CLARKE (V.O.)
+                    By the time the last war was over, 
+                    so were man s days on Earth. 
+
+      FADE UP:  SPACE.  Near Earth orbit.  Countless mushroom 
+      clouds erupt all across the surface of the planet below.  
+
+                                  CLARKE (V.O.)
+                    Not that it mattered really.  The 
+                    bombs just sped things up.  We d 
+                    been slowly killing the planet for 
+                    two hundred years.  Poisoning it.  
+                    Depleting it.  Taking whatever we 
+                    could get our hands on.  What we 
+                    now call  the Big Death  was just 
+                    the grand finale.  
+
+      Suddenly, a gleaming, multi-ringed space station drifts into 
+      view, the outer ring emblazoned with the Stars and Stripes.
+
+                                  CLARKE (V.O.)
+                      Fortunately, there were survivors.  
+
+      As the American space station orbits away, a second, Mir-
+      style, modular station rises over the distant horizon.
+
+                                  CLARKE (V.O.)
+                    Twelve nations had operational 
+                    space stations.  All told, three 
+                    hundred and eighteen souls were in 
+                    the right place at the wrong time.  
+
+      BLACKNESS.
+
+                                  CLARKE (V.O.)
+                    The wrong time has lasted for 
+                      ninety-seven years.
+
+      FADE UP:  SPACE.  Near Earth orbit.  The mushroom clouds are 
+      gone.  The daylight half of the planet appears unchanged.  
+      The night half is pitch black.  No people means no lights.    
+
+                                  CLARKE (V.O.)
+                    Three generations have been born in 
+                    space.  None of the four thousand 
+                    and nine of us who now live has 
+                    ever stepped foot on the ground.  
+                                  (MORE)                                                                                      2
+
+                                  CLARKE (V.O.) (CONT'D)
+                    We ve never felt the sun on our 
+                    faces.  Never breathed real air. 
+
+      Again, we spot A DISTANT SPACE STATION on the horizon.      
+      As WE SOAR TOWARD IT, details will begin to emerge. 
+
+                                  CLARKE (V.O.)
+                    For us, there is only the Ark.   
+                    One station forged from the many.
+
+      CLOSER NOW and we realize that what we thought was another 
+      space station is actually a conglomeration of all twelve.     
+      Essentially a massive, orbiting Rube Goldberg machine. 
+
+                                  CLARKE (V.O.)
+                    Our scientists estimate that Earth 
+                    needs another hundred years to 
+                    become survivable again.  Another 
+                    hundred years to wash away the 
+                      radiation.  Four more space-locked 
+                      generations and man can go home.  
+
+      CLOSER STILL and we re struck by the Ark s ramshackle state. 
+      Every part on this station is over a hundred years old and it 
+      shows.  The exterior is pockmarked and covered in grime.  
+
+                                  CLARKE (V.O.)
+                      Everything we do, every decision, 
+                    every allocation of resources, 
+                      everything is about staying alive 
+                    long enough for the human race to 
+                    make it back to the ground...  
+
+      The outermost module of the Ark rises into view.  A grid of 
+      filthy portholes.  One is suddenly right in front of us.  
+
+                                  CLARKE (V.O.)
+                    The ground.  That s the dream...
+
+
+      INT. THE ARK - PUSHING THROUGH THE PORTHOLE
+
+      ...we find ourselves in A DARKENED ROOM where a young woman 
+      is drawing by the dim Earthlight thrown from the porthole.
+
+                                  CLARKE (V.O.)
+                    This is reality...
+
+      CLOSER NOW and we see the image on her pad: an impressively 
+      rendered landscape.  A forest.  Majestic.
+
+      CLARKE (17, smarter than she is pretty, but not by much)    
+      is lost in the drawing.  For this moment, she is not space-
+      locked.  She is in a forest.  And she s at peace.                                                                                         3
+
+
+      Then the morning ALARM blasts over the PA.  Two short bursts.   
+      With it, the lights come on and we re struck by how fair   
+      she is.  Hers is indeed skin that s never seen the sun.  
+
+                                  CLARKE (V.O.)
+                    Reality sucks.
+
+      As she s jerked back into the cramped reality of what we now 
+      realize is A PRISON CELL, deep sadness washes over her. 
+
+                                  CLARKE (V.O.)
+                    When the survival of a species is 
+                    your goal, a single member of that 
+                    species means nothing.  That s why, 
+                    on the Ark, every crime, no matter 
+                    how small, is punishable by 
+                    death... Unless you re under 18.  
+
+      Reverie shattered, she stands, burying the sadness, hardening 
+      before our eyes.  What we see on the walls is revealing:  
+
+      Every inch of space is covered by drawings of Earth.  Mostly 
+      scenes of nature, but there are human structures, too.  We 
+      already knew she was talented.  Now we know she s obsessed.  
+
+                                  CLARKE (V.O.)
+                    Juvenile offenders get put here.  
+                    Lock up.  We call it  the sky box.    
+
+      She reaches for a shelf, takes an eyedropper from a small 
+      vial marked H2O, squeezes a few drops onto her tongue.
+
+      As she stands there, savoring it, we see a lone photograph on 
+      the shelf:
+
+      5-YEAR-OLD CLARKE and her young PARENTS beneath a willow tree 
+      in an atrium on the Ark.  Happier times.  We know it s on the 
+      Ark because the Earth is visible through windows behind them. 
+
+                                  CLARKE (V.O.)
+                    At 18, all cases are reviewed.  
+                    Most prisoners get released back 
+                    into the population.  The rest of 
+                    us, prisoners like me, so-called 
+                    traitors to our people, get 
+                    released, too... Through an 
+                    airlock, floated into space.  
+                    There s no oxygen, it s 450 degrees 
+                    below zero and the pressure 
+                      differential of the vacuum bursts 
+                    your organs... but, hey, at least 
+                    you ve got a nice view.
+
+      Just then comes the sound of A KEY IN THE DOOR.                                                                                        4
+
+
+      It shoots her through with fear.  There s barely time to turn 
+      before TWO ARMED GUARDS storm the cell.  
+
+                                  GUARD #1
+                    Prisoner 3-1-9, face the wall!
+
+      Clarke s eyes go to the open door for a moment, but, as the 
+      guards converge, she obeys, turning to face the wall.
+
+                                  CLARKE
+                    ... What is this?
+
+                                  GUARD #1
+                    Quiet!  Hold out your right arm!
+
+      He grabs her arm, but she resists, starting to panic now, 
+      assuming they re here for her execution... 
+
+                                  CLARKE
+                    ... Wait.  It s not my time.  I 
+                    don t turn 18 for another month.
+
+      Guard #2 draws a shock baton, fires it up.  The deep THRUM 
+      alone is enough to bring compliance.  As Clarke holds out her 
+      right arm, we see that she wears a man s wristwatch. 
+
+                                  CLARKE (CONT D)
+                    ... Just check my file.  Please.  
+                    You re early.  You ll see that. 
+
+      The guards ignore her.  They have work to do here.  Guard #1 
+      removes A WIDE METALLIC CUFF from a storage case lined with 
+      them, opens the device and moves it toward Clarke s wrist. 
+
+      She has no idea what it is, but the dozens of barbed probes 
+      that line the inside are clearly going to hurt.  
+
+                                  GUARD #1
+                    Take off her watch.
+
+                                  CLARKE
+                    ... No.  It was my father s.
+
+      The guards don t care.  If they could see her face, they d 
+      know what we know:  No way she s letting them take her watch.
+
+      Guard #2 is reaching for her wrist when an elbow EXPLODES 
+      into his solar-plexus.  As he buckles, Clarke spins, shoving 
+      him hard into Guard #1 and making a break for the door.  
+
+      There s fear in her face.  She knows this can t end well.  
+      Doesn t care.  Behind her, the guards recover fast, but not 
+      before Clarke is out the door, SLAMMING it closed.                                                                                        5
+
+
+      INT. CELL BLOCK - CONTINUOUS
+
+      Her mind races, trying not to panic, straining for next 
+      moves, when what she finds in the corridor stops her cold:
+
+      All along the cell block, on floors above and below,     
+      JUVENILE PRISONERS are being led out of their cells.      
+      Each of them is badly shaken and in some pain from the 
+      IDENTICAL WRISTBANDS now biting into their wrists.  
+
+      Before Clarke can even begin to make sense of all the 
+      activity, POUNDING from inside her cell gets attention.   
+
+                                  ABBY (O.S.)
+                    Clarke, stop!  They ll hurt you!
+
+      Emotion crashes like a wave as Clarke turns to see a WOMAN in 
+      a white lab coat rushing toward her along the rail.
+
+                                  CLARKE
+                    ... Mom?
+
+      Despite twelve years and infinite sadness, we recognize 
+      Clarke s mother from the photograph.  ABBY is 40 now with an 
+      air of seriousness that comes from authority.  
+
+      More GUARDS are converging, but Abby s presence gives them 
+      pause as she wraps her daughter in her arms... 
+
+                                  CLARKE (CONT D)
+                    ... Mom, what is this?        
+                    What s going on?
+
+      Abby can t speak.  Holding her child for both the first time 
+      in almost a year and, quite possibly, the last time ever 
+      scrambles her thoughts.
+
+      Clarke pulls back, looking from the pain in her mother s eyes 
+      to the rows of young inmates as a terrifying thought strikes.
+
+                                  CLARKE (CONT D)
+                    They re killing us all, aren t 
+                    they?  Reducing population to make 
+                    more time for the rest of you. 
+
+                                  ABBY
+                          (guiding her aside)
+                    No.  Quiet.  That secret s already 
+                    done enough damage to this family.
+
+                                  CLARKE
+                    Wrong, keeping it has.  People have 
+                    a right to know the Ark is dying.                                                                                      6
+
+
+      Both of them hate the fact that they can t get past this, 
+      hate the fact that it divides them even now, but the sight of   
+      A GUARD RECEIVING ORDERS in an earpiece changes the subject.   
+
+                                  ABBY
+                    Clarke, please, just listen.     
+                    This is not what you think.  You re 
+                    not being executed.  You re being 
+                    sent to the ground.  All one 
+                    hundred of you. 
+
+      Clarke blinks.  The meaning of that is so incomprehensible 
+      that it s as if she doesn t understand the words...
+
+                                  CLARKE
+                    ... What?  But it s not safe.     
+                    No.  We get reviewed at 18.  
+
+                                  ABBY
+                    The rules have changed.  There are 
+                    no prisoner reviews anymore.  This 
+                    gives you a chance to live. 
+
+      Abby sees the guard lining up a shot with a tranq gun.  She 
+      knows that this is goodbye, touches her daughter s face...     
+
+                                  ABBY (CONT D)
+                    Your instinct will be to take   
+                    care of everyone else first,    
+                    just like your father, but be 
+                    careful.  I can t lose you, too. 
+
+      Tears stream from her eyes.  She sees how frightened Clarke 
+      is, but there s nothing more she can say.  
+
+      And no time to say it.
+
+      THE DART STRIKES, the drug hits, and Clarke collapses back 
+      into her mother s arms as EVERYTHING GOES BLACK.
+
+                                  ABBY (O.S.) (CONT D)
+                    Earth, Clarke.  You get to go     
+                    to Earth.
+
+      MAIN TITLES: THE HUNDRED
+
+
+
+                                          END TEASER                                                                                      7
+
+
+                                            ACT ONE
+
+
+      INT. THE DROPSHIP - DAY
+
+      FADE UP:  We re still in CLARKE S POV as consciousness 
+      returns.  Her eyes travel around the stark compartment, 
+      before a smiling FACE TAKES SHAPE FROM OUT OF THE BLUR.
+
+      WELLS JAHA (17, handsome and well-bred compared to the young 
+      criminals all around them) is relieved that Clarke is okay.
+
+                                  WELLS
+                    Welcome back.  
+
+      NORMAL VIEW RETURNS as the sight of Wells fills Clarke with 
+      rage.  She lunges at him...
+
+                                  CLARKE
+                    ... You sonofabitch!
+
+      A safety harness holds her back.  FORTY OTHER PRISONERS are 
+      strapped in just like her.  Despite delinquent bravado, all 
+      are terrified.  Clarke s bearings flood back.  She remembers: 
+
+                                  CLARKE (CONT D)
+                    ... Earth.
+
+      Pain shoots through her right arm.  She looks to see the 
+      wristband now locked in place there.  She finds her father s 
+      watch on her other wrist.  Her mother must have moved it.
+
+                                  WELLS
+                    Look, I know we broke up, but --
+
+                                  CLARKE
+                    Wells, why the hell are you here?!
+
+      The vitriol in her eyes cuts Wells, but he understands it...
+
+                                  WELLS
+                    When I found out they were sending 
+                    the prisoners to the ground, I got 
+                    myself arrested... I came for you.
+
+      Clarke glares at him, multiple levels of disbelief in her 
+      eyes, but before she can respond...
+
+                                  A GIRL ACROSS FROM THEM
+                    Aww, the royal couple s fighting.
+
+      LAUGHTER is cut short when the ship is suddenly JOLTED.      
+        A collective GASP.  Clarke and Wells grip their seats.                                                                                       8
+
+
+                                  CLARKE
+                    ... What was that?
+
+                                  WELLS
+                    That... was the atmosphere.
+
+      She looks over again, awe temporarily swamping hatred,  
+      before another, even bigger JOLT wipes it away.
+
+      As if triggered by the bumps, VIDEO MONITORS around the cabin 
+      suddenly flash to life with a pre-recorded message:  
+
+      A man in a suit appears.  CHANCELLOR JAHA, 47, is handsome, 
+      almost regal, deadly serious...
+
+                                  CHANCELLOR JAHA (ON MONITORS)
+                    Prisoners of the Ark, hear me now.  
+                    You ve been given a second chance.
+
+      Despite this group s almost universal resentment of 
+      authority, in this moment of terror, the appearance of     
+      the ultimate authority figure provides some with relief.  
+
+                                  CHANCELLOR JAHA (ON MONITORS) (CONT D)
+                    As your Chancellor, it is my hope 
+                    that you see this as not just a 
+                    chance for you, but for all of us.  
+                    Indeed, for mankind itself...
+
+      Wells reacts differently.  His eyes FILL.  Clarke looks over, 
+      but he refuses to meet her stare as she WHISPERS:  
+
+                                  CLARKE (OVERLAPPING)
+                    Sending his own son to die on the 
+                    ground.  Now that s leadership.
+
+                                  VOICE IN THE CROWD (OVERLAPPING)
+                    Your dad s a dick, Wells.
+
+
+      EXT. THE DROPSHIP - REENTRY - SAME TIME
+
+      The dropship, like the Ark, has been cobbled together.   
+      Three levels stacked from largest to smallest.  Pyramidal. 
+
+      Right now, it s in free-fall, sparks becoming flames as the 
+      heat shield meets the thickening atmosphere.
+
+                                  CHANCELLOR JAHA (V.O.)
+                    You have just begun the descent 
+                    into Earth s atmosphere.  I won t 
+                    lie.  We have no idea what waits 
+                    for you down there...                                                                                        9
+
+
+      INT. THE DROPSHIP - SAME TIME
+
+      The violence of reentry will build through all of the 
+      following.  So will the heat... and the fear.
+
+                                  CHANCELLOR JAHA (ON MONITORS) 
+                    If the odds of survival were 
+                    better, we would have sent others. 
+                    Frankly, we re sending you because 
+                    your crimes have made you... 
+                      expendable.  If, however, you do 
+                    survive, then those crimes will   
+                    be forgiven.  Your records wiped 
+                    clean.  No execution upon your 
+                      eighteenth birthday.  No review.  
+                    No probation.  A second chance.
+
+      The CAMERA IS ON THE MOVE throughout the speech.
+
+                                  CHANCELLOR JAHA (ON MONITORS) (CONT D)
+                    This is not, however, a waiver 
+                    against future crimes.  While 
+                      unsupervised, you will adhere to 
+                    the laws of the Ark, or you will be 
+                    punished under them.  You have one 
+                    job, ladies and gentlemen, one 
+                      responsibility... Stay alive.  Two 
+                    months.  That s how long it will 
+                    take to be certain that it s safe 
+                    for the rest of us to follow...  
+
+      Just then, a severe jolt opens a storage compartment.  A few 
+      rolled maps spill out, floating weightlessly overhead.
+
+                                  CHANCELLOR JAHA (ON MONITORS) (CONT D)
+                    In the meantime, some of you may be 
+                    tempted to strike out on your own.  
+                    Don t.  Your drop site has been 
+                    chosen carefully. 
+
+      A face in the crowd gets our attention: FINN, 17 and ruggedly 
+      handsome, lights up when he sees the floating maps... 
+
+                                  FINN (OVERLAPPING)
+                    Oh, hell yes.
+
+      With that, he draws a shiv from his boot and cuts the straps 
+      of his harness, floating out of his chair, loving it.   
+
+                                  CHANCELLOR JAHA (ON MONITORS)
+                    Before the Last War, Mount Weather 
+                    was a military base built within a 
+                    mountain in order to shelter the 
+                      government of the United States...                                                                                      10
+
+
+      Finn launches himself, soaring exuberantly through the air  
+      to the delight of the crowd.
+
+                                    A VOICE FROM THE CROWD (OVERLAPPING)
+                    Spacewalk Bandit strikes again!
+
+      A CHEER goes up.  It seems Finn is a bit of a folk hero.   
+      TWO MORE BOYS follow his lead, cutting loose, then flying.
+
+                                  CHANCELLOR JAHA (ON MONITORS)
+                    ...No one ever made it there. 
+                    According to the archive, it was to 
+                    be stocked with enough non-
+                      perishables to sustain three 
+                    hundred people for up to two years.  
+                    Because we could spare you no food, 
+                    water, or medicine, you must 
+                      immediately locate those supplies. 
+
+      Finn drifts over to Wells, hovering above him...
+
+                                  FINN (OVERLAPPING)
+                    Check it out.  Your dad floated me 
+                    after all.  
+
+      LAUGHTER, but not from Wells.  From Clarke, a slight smile...
+
+                                  CHANCELLOR JAHA (ON MONITORS)
+                    I cannot stress this strongly 
+                    enough... Mount Weather is life.
+
+                                  CLARKE (OVERLAPPING)
+                    You should come down before the 
+                    parachute deploys.  All of you.
+
+                                  CHANCELLOR JAHA (ON MONITORS)
+                    It is from there, God willing, that 
+                    the next age of man will begin... 
+                    with you.   
+
+      Finn turns his attention to Clarke.  Because he ignores her 
+      warning, so do the other two now-somersaulting floaters.
+
+                                  FINN (OVERLAPPING)
+                    You re the traitor who s been in 
+                    solitary for a year.
+
+                                  CHANCELLOR JAHA (ON MONITORS)
+                    Finally, I m sure you re wondering 
+                    about those wristbands...  
+
+                                  CLARKE (OVERLAPPING)
+                    You re the idiot who wasted a month 
+                    of oxygen on an illegal spacewalk.                                                                                      11
+
+
+      Finn lowers almost to her lap, floating on his back...
+
+                                  FINN (OVERLAPPING)
+                    Yeah, but it was fun.  I m Finn.
+
+      Clarke can t believe he s flirting with her now.  As much as 
+      we like this guy, Wells doesn t. 
+
+                                  CHANCELLOR JAHA (ON MONITOR)
+                    They are not punishment.  They are 
+                      a lifeline.  They are how we will --
+
+      That s when THE PARACHUTE DEPLOYS.  Sudden rapid deceleration 
+      ends the fun in an instant. 
+
+      The awful sound of TEARING METAL comes from all around.    
+      The video monitors go black, never to be heard from again.  
+      The floaters SLAM to the floor with bone-crushing force.    
+
+      The two who followed Finn are killed instantly.  It s only 
+      because Finn was near the floor already that he survives.
+
+      Clarke sees that the other two aren t moving.  She wants to 
+      help them, fights to get out of her harness, can t.
+
+                                  WELLS
+                    Clarke, stop!  The harnesses won t 
+                    release until we re on the ground!
+
+                                  CLARKE
+                    Finn!  Are you okay?!
+
+      He nods, shaken but unharmed.  She points to the others...
+
+                                  CLARKE (CONT D)
+                    Check on them!
+
+      Finn is making his way across the unstable floor when an 
+      EXPLOSION comes from below.  Another HUGE jolt.  Another 
+      collective SCREAM.  Fortunately, Wells did his homework... 
+
+                                  WELLS
+                    It s okay!  Just the heat shield 
+                    popping off!  Retro-rockets are 
+                    next!  Three seconds, two, one.   
+
+      Nothing happens.  Wells is suddenly terrified...
+
+                                  WELLS (CONT D)
+                    ... They should ve fired by now.  
+
+      As he listens, it dawns on him that they re all about to die.                                                                                       12
+
+
+                                  WELLS (CONT D)
+                    ... Clarke, there s something I 
+                    have to tell you.
+                          (suddenly solemn)
+                    I m sorry.  All I did was ask my 
+                    father a question.  To this day, I 
+                    have no idea how or why that got 
+                    you and your father arrested.
+
+      She holds his stare, can t believe he s doing this now.
+
+                                  WELLS (CONT D)
+                    Please.  I love you.  I can t die 
+                    knowing that you hate me.
+
+      A beat.  She knows he needs absolution.  Too fucking bad.
+
+                                  CLARKE
+                    They didn t arrest my father, 
+                    Wells.  They executed him...  
+                    I do hate you.
+
+      Quiet, devastating truth.  Wells is still searching for a 
+      response when THE ROCKETS FINALLY FIRE.  A volcanic ROAR.  
+
+      Again, bodies react to the sudden deceleration.  Flight 
+      begins to stabilize.  Of course, as soon as they start to 
+      believe they might actually make it, THE WORST OF IT BEGINS.  
+
+      SHAKING unlike any that s come before.  This isn t 
+      turbulence, it s something else.  HUNDREDS OF INDIVIDUAL 
+      COLLISIONS.  Not yet on the ground.  Possibly trees.  
+
+      A few more terrifying seconds and... SILENCE.  Gradually, it 
+      becomes clear that they re actually on the ground.  
+
+                                  GIRL A FEW SEATS OVER
+                    ... Listen.  No machine hum.
+
+      Clarke and Wells are struck by it, too.  It s the first time 
+      in any of their lives that they ve experienced real silence.  
+
+      Finally, and all at once, the harnesses RELEASE.  
+
+      Clarke starts instantly for the boys lying on the floor as, 
+      all around her, people are slowly rising.  
+
+                                  RANDOM VOICE (O.S.)
+                    The outer door s below!  Let s go!  
+
+      Nearly to the motionless boys, Clarke hears that and whirls.
+
+                                  CLARKE
+                    No!!  We can t just open the door!!                                                                                       13
+
+
+      INT. LOWER LEVEL - MOMENTS LATER
+
+      Clarke climbs down.  The SIXTY PASSENGERS here are already 
+      gathering at the outer door where A YOUNG MAN in a guard s 
+      uniform is about to pull the release lever.
+
+                                  CLARKE
+                    STOP!!!
+
+      Everything stops.  The young man turns.  At 23, BELLAMY is 
+      five years older than even the oldest of the prisoners.    
+      His shirt and pants are splattered with blood.
+
+                                  CLARKE (CONT D)
+                    The air could be toxic! 
+
+      Bellamy watches her force her way through the crowd.  She 
+      sees the blood as she arrives, reaches to examine him...
+
+                                  CLARKE (CONT D)
+                    You re hurt.
+
+      He turns back to the door to avoid her hand...
+
+                                    BELLAMY
+                    If the air s toxic, we re all   
+                    dead anyway.  
+
+      He grabs the lever again.  Clarke knows he s right, but out 
+      of an abundance of caution is about to stop him anyway when a 
+      VOICE from behind does it for her:
+
+                                    OCTAVIA (O.S.)
+                    Bellamy?
+
+      Bellamy turns to see OCTAVIA, 16, strikingly beautiful, 
+      frozen on the ladder.  His face softens at the sight of her.  
+      Seeing that it s him, she jumps down and rushes toward him.
+
+                                    BELLAMY
+                          (suddenly emotional)
+                    ... My God, look how big you are.
+
+                                    OCTAVIA
+                          (leaping into his arms)
+                    What are you doing here?
+
+                                    BELLAMY
+                    Someone had to keep an eye on you.
+
+      It s a nice moment.  Clarke watches with dawning suspicion, 
+      finally noticing that Bellamy isn t wearing a wristband...                                                                                      14
+
+
+                                  CLARKE
+                    Where s your wristband?
+
+                                    OCTAVIA
+                          (openly hostile)
+                    You mind?  I haven t seen my 
+                    brother in three years.
+
+      The word  brother  causes a stir.  We ll gather from VARIOUS 
+      VOICES IN THE CROWD that on the Ark...
+
+                                    VARIOUS VOICES
+                    No one has a brother...  Why do you 
+                    think they locked her up?... That s 
+                    Octavia Black, the girl they found 
+                    hidden in the floor. 
+
+      Octavia s infamy, unlike Finn s, induces pity not admiration.  
+      She hates that.  Enraged, she recklessly lunges at the last 
+      person to speak.  Bellamy holds her back...
+
+                                    BELLAMY
+                    Octavia, no.  Let s give  em 
+                    something else to remember you by.
+
+                                    OCTAVIA
+                    Like what?!
+
+                                    BELLAMY
+                    Like being the first person on the 
+                    ground in a hundred years.
+
+      With that, he finally throws the lever.  
+
+      Clarke braces for anything, but as the door swings open, she 
+      is utterly unprepared for what she sees:     
+
+      Daylight streams in.  The sight of trees.  A breeze.
+
+      It s the same in all of their faces.  For a moment, no one 
+      can move.  They just stand there gazing out in awe at...  
+
+                                  CLARKE
+                    ... A forest.
+
+      The crowd surges, but Bellamy stands his ground, blocking the 
+      door as he gestures for his sister to lead the way.  
+
+      Octavia hesitates, but just for a moment, before seizing her 
+      chance to make history.                                                                                      15
+
+
+      EXT. THE DROPSHIP - CONTINUOUS
+
+      CLOSE ON THE DOOR as Octavia steps out, looking around in 
+      wide-eyed amazement.  Behind her, the others are waiting, 
+      mainly because Bellamy won t let anyone follow.  
+
+      As Octavia descends the short staircase, WE WIDEN OUT:    
+
+      The ship has come to rest in the middle of A PRIMORDIAL 
+      FOREST.  Fallen trees are everywhere, many still smoldering.  
+
+      Taking in everything, Octavia milks her  one small step for 
+      man  moment for several long seconds, before finally 
+      thrusting out her arms and BELLOWING:
+
+                                    OCTAVIA
+                    WE RE BACK, BITCHES!!
+
+      Neil Armstrong had nothing on Octavia.
+
+      It incites a mad rush from the ship.  
+
+      The STAMPEDE forces Clarke aside as they just keep coming, 
+      reveling in the warmth of the sun on their skin.  The scent 
+      of real air in their lungs.  The sight of so much green. 
+
+      Already we sense something primal happening here.  A century 
+      of pent-up instinct being released at once.  Soon reality 
+      will crash down, but, for these few moments the fact that 
+      they are young, alive, and on solid ground is combustible.  
+
+      Let the wild rumpus start.  
+
+      Clarke descends the stairs slowly, pausing on the bottom step 
+      to nod at the occasion, before finally, at long last, setting 
+      foot on the ground.  Something dreamt of all her life passes 
+      without fanfare.  There will be time for that later.  
+
+      For now, she can t shake the feeling that something is wrong.  
+
+      Determined to figure it out, she heads for the nearest tree.  
+
+      Passing a BOY using a rolled up map as a sword, she snatches 
+      it from him, puts it between her teeth, and starts to climb. 
+
+      WE CLIMB WITH HER, rising above the celebration, LAUGHTER and 
+      SHOUTS OF JOY receding as she pulls herself higher, finally 
+      stopping as the leaves thin and the view steals her breath:
+
+      DENSELY FORESTED, MIST-SHROUDED MOUNTAINS as far as the eye 
+      can see.  The stuff of fairy tales and nightmares.  
+
+      Finding a perch, she unrolls the map and holds it out, trying 
+      to orient it to the various surrounding peaks when she hears:                                                                                      16
+
+
+                                  FINN (O.S.)
+                    Why so serious, Princess?
+
+      Surprised she s not alone, she looks over, sees Finn already 
+      perched in a neighboring tree.
+
+                                  FINN (CONT D)
+                    It s not like we died in a fiery 
+                      explosion.
+
+      She looks back out, back to the map...
+
+                                  CLARKE
+                    Tell that to the two boys who 
+                    followed you out of their seats.
+
+      It strikes Finn hard, making the point: don t call her 
+      princess.  She points to a distant mountain top...
+
+                                  CLARKE (CONT D)
+                    You see that peak over there?  
+
+                                  FINN
+                    Yeah.
+
+                                  CLARKE
+                    Mount Weather.  There s a radiation 
+                    soaked forest between us and our 
+                    next meal. 
+
+      Having gotten what she came for, she re-rolls the map.
+
+                                  CLARKE (CONT D)
+                    They dropped us on the wrong 
+                    goddamn mountain.
+
+      Finn looks back out.  Shit.  A good view spoiled by the 
+      realization that they are well and truly fucked.   
+
+ 
+
+                                        END ACT ONE                                                                                      17
+
+
+                                            ACT TWO
+
+
+      EXT. SPACE - DAY
+
+      The beautiful mess that is the Ark drifts in pure silence two 
+      hundred and fifty-seven miles above the Earth.
+
+
+      INT. THE ARK - THE GOVERNMENT AND SCIENCE STATION - DAY
+
+      An agitated CROWD has gathered in the atrium that connects     
+      GO-SCI to the rest of the Ark through a system of tubes.
+
+      A good sample of the populace, they are hard-working and hard- 
+      edged.  Life in space is not easy and it shows on every face.
+
+      A GUARD UNIT backs up the Ark s Chief Communications Officer, 
+      CALLIE CARTWIG, 42; everyone calls her  Cece.    This is the 
+      part of her job that she hates.  The lying part.
+
+                                  CECE
+                    Folks, as I said, at this time,    
+                    we can t confirm or deny anything. 
+
+                                    VARIOUS VOICES
+                    I saw a ship launch...Not more than 
+                    20 minutes ago...Who was on it?...  
+                    Was it the prisoners?...They going 
+                    to Earth?...Has something changed? 
+
+      The guards are clearly about to move in when a WOMAN in the 
+      crowd WHISTLES loudly, bringing instant quiet.
+
+      Like many here, she s come from work, in her case as a 
+      mechanic.  Unlike most, RAVEN, 35, is in total control... 
+
+                                  RAVEN
+                    Cool it.  Our elected leaders  
+                    would never send our kids to die 
+                    without telling us.  Isn t that 
+                    right, ma am?
+
+      Cece holds her stare, offering her best bullshit smile. 
+
+
+      INT. EARTH MONITORING STATION - MINUTES LATER
+
+      Cece strides into a jury-rigged control room.  Wires are 
+      showing everywhere.  The mood here is dark, verging on panic.
+
+      As she heads for the HIGH-LEVEL GROUP at the center of the 
+      technological swirl, her eyes take ours to THE BIG BOARD:                                                                                      18
+
+
+      A monitor wall split into a grid of a hundred separate feeds, 
+      one for each wristband.  Vital signs and MUG SHOTS are there.  
+
+      Cece stops beside the man who is clearly in charge: 
+
+      KANE, 42, is handsome, but there s a coldness about him even 
+      at first glance.  He d call it professionalism.  At the 
+      moment, he s being briefed by a TECH as to why there was a... 
+
+                                    COMMUNICATIONS TECH 
+                    Total system failure!  That s what 
+                    we re looking at here.  We know 
+                    they were off course when we lost 
+                      contact... There s no way they 
+                    landed at Mount Weather.
+
+      That hits hard, darkening every expression.
+
+                                    COMMUNICATIONS TECH (CONT D)
+                    Other than telemetry from the 
+                      wristbands, we got nothing.  No 
+                    audio.  No video.  No computer 
+                    link.  Right now, we have to assume 
+                    they can t access the system from 
+                    the ground either.  That means 
+                      everything we programmed in to help 
+                    them is gone.  Other than a few old 
+                    maps, they re on their own.  
+
+      Kane is about to respond when he sees Cece at his side...
+
+                                  KANE
+                    Cece, we re a little busy.
+
+                                  CECE
+                    Rumors are spreading... sir.  Most 
+                    of them true.  We have to at least 
+                    tell the families something.
+
+                                  KANE
+                    Fine.  Take this down... We regret 
+                    to inform you that your delinquent 
+                    sons and daughters who will no 
+                    longer be consuming resources they 
+                    don t deserve may or may not be 
+                    dying in a radioactive haze on the 
+                    ground.  How s that?
+
+                                  CECE 
+                    Can t confirm or deny, it is.
+
+      With that, she heads for the board where we now see Abby 
+      monitoring wristband signals with her TEAM OF APPRENTICES.  
+      It s clear at once that Cece and Abby are dear friends...                                                                                      19
+
+
+                                  CECE (CONT D)
+                    Hey, darlin ... How s Clarke doing?
+
+                                  ABBY
+                    Third row, second square down.  
+                    Vital signs are strong.  Blood 
+                    sugar is low.  She hasn t eaten.
+
+      We see Clarke s defiant mug shot.  Emotion threatens, but as 
+      Kane strides up to address the medical team, she buries it.
+
+                                  KANE
+                    Okay.  Here it is:  Communication 
+                    is down.  Everything.  Unless one 
+                    of the prisoners can put it back 
+                    together on their end, it s gonna 
+                    stay that way.  Which means, 
+                      unfortunately, we re still blind to 
+                      conditions on the ground.  But... 
+                    thanks to Abby s wristbands, at 
+                    least we ll know how those 
+                      conditions affect the human body.  
+                    That s more than we ve had for a 
+                    hundred years.  So nice work...  
+                    Now what are they telling us?
+
+      His lack of emotion bothers Abby, but she stays focused.
+
+                                  ABBY
+                    Two dead kids.  The dark tiles.
+
+      Kane sees now that, indeed, two of the tiles on the big board     
+      are dark.  We recognize the mug shots of the dead floaters.
+
+                                  KANE
+                    At least it s not Clarke or Wells.
+
+                                  CECE
+                    Where is the Chancellor anyway?  
+
+                                  ABBY
+                    He ll be here... Dr. Jackson, 
+                    please share your theory with 
+                      Councillor Kane.
+
+      JACKSON, 27, Abby s chief apprentice, assumes the floor...
+
+                                    JACKSON
+                    Of course.  Granted, they ve only 
+                    been on the ground seven minutes, 
+                    but as of now, we believe that the 
+                      fatalities are due to the landing, 
+                    not to radiation levels.                                                                                      20
+
+
+                                  ABBY
+                    Both boys died at the same time we 
+                    lost contact with the dropship.
+
+                                  KANE
+                    Rough landing?  That s your theory?
+
+                                  ABBY
+                    The dots connect. 
+
+                                  KANE
+                    Would you agree that if it was 
+                      radiation, we d see the number of 
+                      fatalities climb fairly quickly 
+                    now?  Because I m noticing quite a 
+                    lot of red on your board, Doctor.
+
+      We notice it now, too:  Many of the tiles are lined in red.  
+
+                                  ABBY
+                    Spiking vital signs.  Two 
+                      possibilities.  One... injuries 
+                    sustained during landing.  
+
+                                  KANE
+                    And the other?
+
+                                  ABBY
+                    They re excited to be there.
+
+      Kane is concerned about wishful thinking, but before he can 
+      say so, a phone TRILLS on the console.  Abby answers...
+
+                                  ABBY (CONT D)
+                    This is Doctor Walters.
+                          (instantly deadly serious)
+                    On my way.
+                          (hanging up; then)
+                    Jackson, put the word out.  We need 
+                    blood.  A-neg.  A lot of it.  Then 
+                    get your ass to the OR.
+
+                                  CECE
+                    Abby?  What is it?
+
+                                  ABBY
+                    The Chancellor s been shot.  
+
+
+      EXT. EARTH - THE LANDING SITE - DAY
+
+      The Hundred have spread out amid the trees all around the 
+      incongruously located ship.                                                                                        21
+
+
+      For the most part, girls and boys are separate.  Athletes 
+      tend to hang together.  Delinquents, too.  The more things 
+      change... and all that.
+
+      But there s a more subtle segregation (that we ll explore in 
+      series), based on which of the Ark s stations a person comes 
+      from.  Station rivalries will make cooperation difficult, 
+      friendships rare, and romances potentially dangerous.
+
+      For now, the ongoing revelry blurs these fault-lines.     
+      It s clear at once that bad news has yet to arrive.    
+
+      Then Wells strides from the ship.  He spots Clarke kneeling 
+      over the map beside the stairs and drops down beside her...  
+
+                                  WELLS
+                    We got problems.
+
+      She doesn t look at him, still can t believe he s here.  
+
+                                  WELLS (CONT D)
+                    The communication system is dead.  
+                    I went to the roof.  A dozen panels 
+                    are missing.  Heat fried the wires.  
+
+                                  CLARKE
+                          (pushing past it)
+                    Right now all that matters is 
+                    getting to Mount Weather. 
+
+      Using the peaks she observed earlier in the tree above,    
+      she draws lines, tapping the spot where they intersect.
+
+                                  CLARKE (CONT D)
+                    This is us.
+                          (tapping Mount Weather)
+                    This is where we need to be if we 
+                    wanna survive.
+
+                                  WELLS
+                    Where d you learn to do that?
+
+      She looks over heavily.  He knows the answer.  Guilt returns.
+
+                                  WELLS (CONT D)
+                    Your father.
+
+                                  CLARKE
+                          (getting in his face)
+                    Let s get something straight, okay?  
+                    What I said on the way down, I 
+                    meant.  But you re here--God knows 
+                    why--so we re gonna have to work 
+                    together.  That does not mean --                                                                                      22
+
+
+                                  WELLS
+                    I chopped down the Last Tree.
+
+      It stops her cold.  She s dumbfounded...
+
+                                  CLARKE
+                    The willow?  I loved that tree.
+
+                                  WELLS
+                    Me, too.  We had our first kiss 
+                    under it... But I needed to do  
+                    something that would get me on   
+                    the dropship. 
+
+                                  CLARKE
+                    Good for you, Wells.  Now I hate 
+                    you and think you re a dick. 
+
+      Just then, a skinny 16-year-old boy steps up beside Clarke.  
+      JASPER is utterly nonthreatening and a total charmer...
+
+                                  JASPER
+                    Cool, a map.  They got a bar in 
+                    this town?  I ll buy yah a beer.
+
+      Clarke smiles.  Wells spins Jasper around, pushing him away.
+
+                                  WELLS
+                    You mind?  
+
+      ANOTHER BOY sees this and strides up.  This one is 
+        threatening.  So is the posse of DELINQUENTS behind him.  
+
+                                  BOY
+                    Hey!  Hands off!  He s with us!
+
+                                  WELLS
+                    Relax.  We re just trying to figure 
+                    out where we are.
+
+      Bellamy and Octavia wander up on the other side...
+
+                                    BELLAMY 
+                    We re on the ground.  That s not 
+                    good enough for you?
+
+                                  WELLS
+                    We need to find Mount Weather.
+                          (to the gathering crowd)
+                    You heard my father s message.  
+                    That has to be our first priority.
+
+      Gasoline meet fire.                                                                                        23
+
+
+                                    OCTAVIA
+                    Screw your father!  You think 
+                    you re in charge here?  You and 
+                    your little princess?
+
+                                  WELLS
+                    Don t call her princess.
+
+      Of course, that prompts calls of PRINCESS from all around.  
+      Clarke shakes her head slightly, then...
+
+                                  CLARKE
+                    You think we care who s in charge? 
+                    We need to find Mount Weather.   
+                    Not because the Chancellor said so, 
+                    but because the longer we wait, the 
+                    hungrier we ll get, the harder 
+                    it ll be.  How long do you think 
+                    we ll last out here without those 
+                    supplies? 
+
+      It cuts through.  Some people are just natural-born leaders.  
+
+                                  CLARKE (CONT D)
+                    We re looking at a 20 mile trek.  
+                    If we wanna make it before dark,  
+                    we need to leave... now.  
+
+                                    BELLAMY
+                    I got a better idea... You two go.  
+                    Find it for us.  Let the privileged 
+                    do the hard work for a change.
+
+      A CHEER goes up.  Bellamy is surprised by it, likes the 
+      feeling.  Clarke regards him warily.  Wells plows ahead...
+
+                                  WELLS
+                    You re not listening.  We all need 
+                    to go. 
+
+      Just then, a particularly rough boy, JOHN, 17, steps up, 
+      shoving Wells in the back.
+
+                                  JOHN
+                    Look, everybody.  It s the 
+                      Chancellor of Earth.
+
+      LAUGHTER from the crowd.  Wells rounds...
+
+                                  WELLS
+                    You think that s funny?
+
+      Without blinking, John executes a vicious leg sweep,  
+      throwing Wells to the ground.                                                                                      24
+
+
+                                  JOHN
+                    No... but that is.
+
+      Wells gets back to his feet, badly favoring one leg, but 
+      ready to fight.  
+
+      The crowd circles, relishing the chance to watch the 
+        Chancellor s son get the shit beat out of him.
+
+      Clarke wants to step in, but before she can, Finn drops from 
+      the trees above, riding a bending branch to the ground,  
+      touching down right between the two combatants.    
+
+      His presence has an instant effect.  The crowd is star-
+      struck, wowed by the acrobatic entrance...
+
+                                  JOHN (CONT D)
+                    Whoa.  Sweet.
+
+                                  FINN
+                    Thanks.  Hold this.
+
+      He hands the branch to John.  The moment the smaller boy has 
+      a hold, Finn lets go.  The recoil sends John flying.
+
+      The crowd ROARS with delight.  John s friends break his fall.  
+
+      And, just like that, the tension is gone.
+
+      Clarke is impressed, shooting Finn an appreciative glance,    
+      as Octavia steps between them...
+
+                                    OCTAVIA
+                    Hey, Spacewalker... Rescue me next?
+
+      Finn smiles, but says nothing as a GROUP OF FRIENDS from his 
+      home station surround to greet him warmly.  
+
+      WE HOLD ON OCTAVIA AND BELLAMY as she clocks her brother s 
+      obvious disapproval...
+
+                                    OCTAVIA (CONT D)
+                    What?  He s cute.
+
+                                    BELLAMY
+                    He s a criminal.  
+
+                                    OCTAVIA
+                    They re all criminals.  
+
+      Bellamy takes her arm, guides her aside, lowers his voice...
+
+                                    BELLAMY
+                    I came down here to protect you.                                                                                      25
+
+
+                                    OCTAVIA
+                    I don t need protecting!  I ve been 
+                    locked up, one way or another,   
+                    all my life.  I am done following 
+                    orders.  I need to have fun, Bell.  
+                    I need to do something crazy just 
+                    because I can.  And no one, 
+                    including you, is gonna stop me.
+
+      Bellamy understands, but, at the moment, he has bigger 
+      problems than his sister s need for excitement...
+
+                                    BELLAMY
+                    I can t stay with them, O.
+
+                                    OCTAVIA
+                    Now what are you talking about?
+
+                                    BELLAMY
+                    I did something, okay?  To get on 
+                    the dropship.  Something they ll 
+                    kill me for when they come down.  
+                          (before she can ask)
+                    I can t tell you what it is yet, 
+                    but you have to trust me.  You do 
+                    still trust me, don t you?
+
+      She hesitates, but nods.  He smiles slightly, then...
+
+                                    BELLAMY (CONT D)
+                    Good.  Then let s go.  You can help 
+                    me convince the guys from our 
+                    station to come with us.
+
+      Thinking it s settled, he walks off.  Octavia knows she 
+      should follow, but looks back to Finn instead.
+
+      ON FINN -- stepping to Clarke as she finishes examining  
+      Wells  ankle, her medical training in evidence...  
+
+                                  FINN
+                    When do we leave?
+
+      Wells was about to thank him, doesn t.  Takes Clarke a moment 
+      to realize he s volunteering for the trek to Mount Weather...  
+
+                                  CLARKE
+                    Right now.  
+
+      She stands.  Wells looks at her, his expression darkening.                                                                                      26
+
+
+                                  CLARKE (CONT D)
+                    We ll be back tomorrow with food.  
+                    Once the others know the supplies 
+                    are still there, they ll follow.
+
+                                  WELLS
+                    How are two of you gonna carry 
+                    enough food for a hundred? 
+
+      Without a word, Finn collars Jasper and ANOTHER BOY from   
+      the crowd.  We ll introduce them properly in the next act.  
+      For now, just know they re thrilled to get Finn s attention.
+
+                                  FINN
+                    Four of us.  Can we go now?
+
+      That s when Octavia sashays toward them...
+
+                                    OCTAVIA
+                    Sounds like a party.  Make it five. 
+
+      Bellamy hurries behind her, catching her arm...
+
+                                    BELLAMY
+                    What the hell are you doing?!  
+
+                                    OCTAVIA
+                    Going for a walk!
+
+      She tears her arm away.  Before Bellamy can figure out how to 
+      avoid a scene, Clarke makes one of her own, grabbing Finn s 
+      wristband, turning it to reveal what appear to be saw marks.
+
+                                  CLARKE
+                    Were you trying to take this off?
+
+                                  FINN
+                    Yeah.  So?
+
+                                  CLARKE
+                    So this wristband transmits your 
+                    vital signs to the Ark.  Take it 
+                    off and they ll think you re dead.  
+
+                                  FINN
+                    Should I care? 
+
+                                  CLARKE
+                    I don t know.  You want the people 
+                    you love to think you re dead?
+
+      It stops Finn.  Clearly, he doesn t.                                                                                            27
+
+
+                                  CLARKE (CONT D)
+                    You want them to follow you down 
+                    here in two months?  Because they 
+                    won t if they think we re dying. 
+
+      Bellamy s reaction to this warrants A CLOSE UP:  It s the 
+      look of someone being struck by a powerful idea.  
+
+      Finn nods, understanding.  Clarke drops his arm...
+
+                                  CLARKE (CONT D)
+                    Okay.  Then move out.
+
+      Finn walks off.  His two recruits follow.  Octavia wants to, 
+      but looks first to Bellamy.  He whispers conspiratorially...
+
+                                    BELLAMY
+                    If they think we re dying, they 
+                    won t follow us down.
+
+      Octavia doesn t understand, cares even less.  He has no 
+      choice but to let her...
+
+                                    BELLAMY (CONT D)
+                    Go.  I ve got work to do.
+
+      A kiss on his cheek and she hurries after the others.  
+
+      Finally, Clarke looks back to Wells...
+
+                                  CLARKE
+                    Find a walking stick and look    
+                    for water.  If they think they need 
+                    you, maybe they ll let you live.
+
+      With that, she walks off, too.  WE GO WITH HER as Octavia 
+      slows to let her catch up, looking over threateningly...
+
+                                    OCTAVIA
+                    Before you get any ideas...   
+                    Finn s mine.
+
+      Clarke is taken aback by her hostility, but recovers fast...
+
+                                  CLARKE
+                    Before you get any ideas...        
+                    I don t care.  
+
+      As they walk out of frame, we HOLD ON BELLAMY AND WELLS,  
+      each watching people they love get swallowed by the forest.  
+
+      Bellamy looks away first, turning his attention to the 
+      wristbands all around him, a sly smile telling us a plan is 
+      taking shape, as Wells watches him with deepening suspicion.                                                                                      28
+
+
+      INT. THE ARK - COUNCIL CHAMBER - DAY
+
+      Kane sits at the head of a huge table, Earth visible through 
+      a window behind him.  The NAMEPLATE tells us he s trying the 
+        Chancellor s chair on for size, liking the way it feels when 
+      he hears A DOOR OPEN, quickly stands and turns to the window.
+
+      If the uniformed COMMANDER OF THE GUARD knows what Kane was 
+      doing, he doesn t let on.  His devotion to Kane is clear... 
+
+                                  COMMANDER OF THE GUARD
+                    Excuse me, sir, you asked to be 
+                      interrupted if there was news. 
+
+      Kane doesn t turn.  In his face, we see that he thinks this 
+      is the moment he becomes Chancellor.  Then he hears: 
+
+                                  COMMANDER OF THE GUARD (CONT D)
+                    The Chancellor is still in surgery, 
+                    but we ve ID d the shooter.
+
+      Takes Kane a moment to push back disappointment.  By the time 
+      he turns, the Commander has summoned up an image on the huge 
+      touch screen monitor that doubles as the council table:
+
+      BELLAMY S FACE ON A SANITATION CREW ID CARD. 
+
+                                  COMMANDER OF THE GUARD (CONT D)
+                    Bellamy Black is the only person on 
+                    the Ark unaccounted for.
+
+                                  KANE
+                    Who is he?
+
+                                  COMMANDER OF THE GUARD
+                    He s no one.  A janitor.  We re 
+                    still working up a profile, but his 
+                    motive for going to Earth is clear.
+
+      He brings up the MUG SHOTS of the prisoners alongside 
+      Bellamy, selecting OCTAVIA S.  So young.  So afraid.  Nothing 
+      like the vivacious girl we re getting to know on the ground. 
+
+                                  KANE
+                    Sister.  I remember them.  Their 
+                    mother kept her hidden for almost 
+                    thirteen years.  Nearly a record. 
+
+      Something in the Commander s expression stops Kane...
+
+                                  KANE (CONT D)
+                    What is it, Commander Shumway?
+
+      The Commander hesitates.                                                                                      29
+
+
+                                  KANE (CONT D)
+                    Spit it out.
+
+                                  COMMANDER SHUMWAY
+                    We could start now.  As Chancellor 
+                    Pro Tempore, you can give the order 
+                    to begin reducing the population.  
+
+      It hangs there.  Kane is clearly tempted.  Then...
+
+                                  KANE
+                    Not yet.  The Chancellor s Hail 
+                    Mary mission to Earth is failing.  
+                    Once it s clear the ground still 
+                    isn t an option, the council will 
+                    get in line.  
+                          (looking back down to 
+                            Bellamy s picture)
+                    In the meantime, I d like to know 
+                    who helped this janitor get on that 
+                    dropship.  Because he sure as hell 
+                    didn t do it by himself.
+
+      The Commander says nothing, but clearly agrees.
+
+                                  KANE (CONT D)
+                    It seems we have a traitor in our 
+                    midst, Commander... 
+                          (looking to the mug shots)
+                    And the Hundred have an assassin  
+                    in theirs.
+
+
+
+                                        END ACT TWO                                                                                      30
+
+
+                                          ACT THREE
+
+
+      EXT. EARTH - THE ENDLESS WOODS - DAY
+
+      Several hours into the trek.  The group has fanned out amid 
+      the trees.  Sunlight dapples.  Wildflowers are everywhere.  
+
+      Clarke has assumed the lead and is setting a fast pace, 
+        appreciating none of it.
+
+      Behind her, Octavia, Finn, and his two recruits all wish that 
+      she would slow down to let them enjoy the scenery.  
+
+      JASPER and MONTY, both 15, are, on the surface, the furthest 
+      thing from delinquents.  They are clearly very intelligent 
+      and, it must be said, incredibly uncool.  The fact that 
+      they re studying Finn to remedy this will become clear.
+
+      As we arrive, Finn stops to pick a flower and slip it into 
+      Octavia s hair.  She d jump him here and now if he d let her.  
+
+      Jasper and Monty see this and exchange a glance...
+
+                                  JASPER
+                    That, my friend, is game.
+
+                                  MONTY
+                    That, my friend, is poison sumac.
+
+                                    OCTAVIA
+                          (swatting away the flower)
+                    Jesus, Finn!  Thank you.
+
+                                  MONTY
+                    Don t worry.  The flowers aren t 
+                      poisonous.  They re medicinal.  
+                    Calming actually.
+
+      He pops one in his mouth.  Finn and Octavia are curious.
+
+                                  JASPER
+                    His family grows all the 
+                      pharmaceuticals.
+
+                                  CLARKE
+                          (abruptly turning around)
+                    Hey!  Try to keep up.
+
+                                  FINN
+                    Come on, Clarke, look around you.  
+                    How do you block all this out?
+
+      Clarke scratches an X into a tree to mark their path, then...                                                                                      31
+
+
+                                  CLARKE
+                    It s simple.  I wonder: why haven t 
+                    we seen any animals?  Hm.  Maybe 
+                    it s because there are none.   
+                    Maybe we ve already been exposed  
+                    to enough radiation to kill us...  
+                    Sure is pretty, though.
+
+      With that, she strides onward.  The others follow, their buzz 
+        sufficiently killed.  
+
+                                    OCTAVIA
+                    Someone should slip her some  
+                    poison sumac.
+
+      Jasper LAUGHS a bit too loudly.  Monty smacks him.  
+
+                                  FINN
+                    I gotta know what you two did to 
+                    get busted.   
+
+                                  MONTY
+                          (after a beat)
+                    Sumac s not the only herb in the 
+                    garden, if you know what I mean.
+
+                                  JASPER
+                          (meaning Monty)
+                    Someone forgot to replace what    
+                    we took.
+
+                                  MONTY
+                    Someone s apologized like a 
+                    thousand times.
+
+                                  JASPER
+                    How  bout you Octavia?  What d they 
+                    get you for?
+
+      Looks for a moment like she isn t going to respond, then...
+
+                                    OCTAVIA
+                    Being born.
+
+      With that, she speeds up to catch Clarke. 
+
+                                  MONTY
+                    That is so not game.
+
+      Before Jasper can respond, they notice that Clarke has 
+      stopped and is holding out a hand for them to do the same.  
+
+      Octavia sees what Clarke sees and gestures the boys excitedly 
+      closer.  They creep up slowly.  Clarke points.                                                                                        32
+
+
+      WE SEE IT AS THEY DO:  A grazing deer.  Partially obscured by 
+      brush, it s the first sign of life other than insects and 
+      plants they ve seen and it has a profound effect on them all. 
+
+                                  FINN
+                    You were saying?
+
+                                  MONTY
+                    Can we eat it?
+
+      They all look at him in disgust.
+
+                                  MONTY (CONT D)
+                    Kidding.
+
+      Finn wants a better view, gestures for silence, pads closer.  
+
+      One step and the animal looks up, revealing, to their horror, 
+      that IT HAS TWO HEADS.  One is hideously deformed.    
+
+        A collective GASP and the mutant deer bolts.
+
+
+      EXT. THE LANDING SITE - DAY
+
+      Leaning on a walking stick, Wells limps into camp, a pile of 
+      kindling under one arm.  The mood here has dimmed a bit.  
+      People are hungry, thirsty.  Still they play, flirt, fight.  
+
+      TWO KIDS, covered in mud, approach Wells...  
+
+                                  ONE OF THE KIDS
+                    We finished burying the bodies.  
+                    You find any water yet?
+
+      Wells drops the sticks in a growing pile, then...
+
+                                  WELLS
+                    Not yet.  I m going out again if 
+                    you wanna join. 
+
+      They nod.  Wells is about to lead them back out when he sees 
+      a message scratched in the dirt.  His helpers see it, too:
+
+                                  FIRST SON/FIRST TO DYE
+
+      It s unsettling to say the least, but Wells swallows it and 
+      looks around to see who did it.  Doesn t take long.  
+
+      The boy who already assaulted him watches from nearby with 
+      another dangerous-looking lad, conveniently also named JOHN. 
+
+      Wells limps toward them, knows not to show fear...                                                                                      33
+
+
+                                  WELLS (CONT D)
+                    You spelled die wrong.  
+
+                                  JOHN #1
+                    You sure you wanna do this?        
+                    I don t see Finn or your daddy    
+                    in any of these trees.
+
+                                  WELLS
+                    Actually, I m sure I don t wanna do 
+                    this.  What I wanna do is find 
+                    water and make a fire because I m 
+                    thirsty and it s gonna be dark 
+                    soon... We could use some help.  
+
+      The Johns feel the eyes of the group.  John #1 draws a shiv 
+      and steps to Wells with unmistakable menace.
+
+      Wells stands his ground, but is clearly afraid.  This is not 
+      a situation he s faced before.  Not just schoolyard bullies.  
+
+                                  JOHN #1
+                          (a menacing whisper)
+                    My dad begged for mercy in the 
+                    airlock when your dad floated him.
+
+      Wells goes pale.  
+
+                                    BELLAMY (O.S.)
+                    What s the problem here?  
+
+      They see him approaching.  The uniform prompts an instinctive 
+      backing down.  The Johns melt into the crowd.  Wells is still 
+      suspicious of Bellamy, but appreciative nonetheless...
+
+                                  WELLS
+                    Thanks. 
+
+      He holds out a hand, but Bellamy doesn t take it...
+
+                                    BELLAMY
+                    I meant what s your problem?
+
+      The Johns drift back.  Wells summons courage...
+
+                                  WELLS
+                    My problem s the same as yours.  
+                          (looking to the group)
+                    The same as all of ours.  The more 
+                    of us who look for water, the more 
+                    likely we are to find it. 
+
+      He starts to walk off, but Bellamy snatches his walking 
+      stick.  Gritting his teeth against the pain, he keeps going.                                                                                      34
+
+
+      The effort draws a few more people to his side.  
+
+      ON BELLAMY -- Watching Wells go as the Johns return...
+
+                                  JOHN #1
+                    You re not really a member of the 
+                    Guard, are you?
+
+                                    BELLAMY
+                    No.  But the real Guard will be 
+                    here soon... unless we stop it.
+
+      It gets their attention.
+
+                                    BELLAMY (CONT D)
+                    You don t actually believe they re 
+                    gonna forgive your crimes?
+
+      They did believe it.
+
+                                    BELLAMY (CONT D)
+                    Even if they do.  Then what?  Guys 
+                    like you, you gonna be model 
+                    citizens now?  Get jobs?  If you re 
+                    lucky, maybe pick up their trash. 
+
+                                  JOHN #2
+                    You got a point?
+
+                                    BELLAMY
+                    No... I got a question.  They 
+                    locked you up.  Dumped you down 
+                    here like lab rats to die.  So why 
+                    are you helping them? 
+
+                                  JOHN #1
+                    The hell we are.
+
+                                    BELLAMY
+                    You re wearing those bracelets, 
+                    aren t you?  Right now, those 
+                    things are telling them whether or 
+                    not it s safe to follow us down.
+
+                                  JOHN #2
+                    You said we could stop it.  How? 
+
+      Bellamy pauses, realizes he s not recruiting rocket 
+      scientists here, manages a smile...
+
+                                    BELLAMY
+                    Take  em off.  The Ark will think 
+                    you re dead.  That it s not safe to 
+                    follow... You follow?                                                                                        35
+
+
+      It takes a moment, but they nod.
+
+                                  JOHN #1
+                    And if we do?  What s in it for us?
+
+                                    BELLAMY
+                    Someone s gotta help me run things.
+
+      Two Johns.  Two smiles.
+
+
+      INT. THE ARK - GO-SCI STATION - OPERATING ROOM - DAY
+
+      Abby has been operating on the Chancellor for hours.  
+      Jackson, her chief apprentice, assists.  Two NURSES.
+
+      Medical supplies, we are about to realize, like everything on 
+      the Ark, are severely rationed.  
+
+      Moments after we arrive, the patient starts to wake up mid-
+      surgery.  He jerks from the pain of it.  Vital signs dive.
+
+                                  ABBY
+                    Increase anesthesia.
+
+      The nurse whose job it is hesitates.  Abby looks over...
+
+                                  ABBY (CONT D)
+                    Your Chancellor is going into 
+                    shock.  Now do it!
+
+                                    JACKSON
+                    Abby, we re way over the line.  
+                    According to the law, we have to --
+
+                                  ABBY
+                    I ll do it myself.  Let  em come 
+                    after me.
+
+      Jackson turns into her path, stopping her, whispering...
+
+                                    JACKSON
+                    Boss, come on.  You really gonna 
+                    risk your life to save the man who 
+                    ordered your husband s execution?
+
+      Without hesitating, she turns the knob, releasing the gas.  
+      The Chancellor calms instantly.  Vitals stabilize. 
+
+
+      INT. GO-SCI STATION - CORRIDOR - DAY
+
+      Just out of surgery, Abby strides heatedly down a long 
+      connector tube.  Cece rushes to catch up...                                                                                      36
+
+
+                                  CECE
+                    Ab, slow down.  How is he?
+
+                                  ABBY
+                    Ask me again if he makes it  
+                    through the night.
+
+      Before Cece can respond, a MAINTENANCE WORKER on a ladder 
+      suddenly drops down into their path.  
+
+      It s Raven, Finn s mother as it turns out, and it s clear at 
+      once that Cece, not work, is the real reason she s here...
+
+                                  RAVEN
+                    Where the hell s my son?
+
+      Despite Raven s strong facade, the wounded mother in Abby  
+      senses a kindred spirit.  Cece checks her ID badge, then...
+
+                                  CECE
+                    Let s see your work order, Raven.  
+
+      Clearly, she doesn t have one.  Cece starts for a nearby 
+      intercom to report it, but Abby stops her...
+
+                                  ABBY
+                    It s okay.
+
+      The kindness gets Raven s attention.  She looks at Abby for 
+      the first time, recognizing her at once...
+
+                                  RAVEN
+                    Your kid s locked up, too.
+
+      Abby s taken aback.  Raven plows right through...
+
+                                  RAVEN (CONT D)
+                    My son, Finn Hawthorne, missed 
+                    message day today for the first 
+                    time in two years.  Same day folks 
+                    saw a ship leave.  One with seating 
+                    for a hundred.  I got friends who 
+                    worked on it.  A hundred.  Same as 
+                    the number of cells in the Sky Box.  
+                    You see where I m going with this? 
+
+                                  CECE
+                    Come on, Abby.  We have to go.
+
+      But before she can lead Abby past, Raven grabs Abby s arm...
+
+                                  RAVEN
+                    ... Wait.                                                                                        37
+
+
+      Her facade cracks.  Her desperation shows.  She hates that.
+
+                                  RAVEN (CONT D)
+                    I may not be important, but my son 
+                    means as much to me as your 
+                    daughter does to you.  Please... 
+                    tell me where my child is.
+
+      Abby holds her stare, trying to decide what to do.  
+
+
+      INT. EARTH MONITORING STATION - MOMENTS LATER
+
+      Abby leads Raven into the monitoring station.  Less chaotic 
+      than before.  They have entered watch and wait mode.  
+
+      It s clear from the shock in Raven s face that Abby brought 
+      her up to speed on the walk over.
+
+      The moment they enter, Abby s eyes go to the big board,  
+      where TWO MORE DARK SQUARES can now be seen.  Two more dead 
+      kids.  She tries to hide concern from Raven, but it s clear.
+
+                                  ABBY
+                    Nothing leaves this room.     
+                    Excuse me for one --
+
+                                  RAVEN
+                    You said two dead.  I count four.
+
+                                  ABBY
+                    Who else did we lose?
+
+      An apprentice punches buttons, isolating the wristband feeds 
+      and accompanying mug shots of THE TWO JOHNS. 
+
+                                  APPRENTICE
+                    Murphy and Mbege.  Both named John.   
+
+      Raven is relieved.  She turns to the board, wanders closer, 
+      searching for Finn s face as Abby joins her team.
+
+                                  APPRENTICE (CONT D)
+                    Neither was injured during landing.  
+
+                                    JACKSON
+                    I concur.  Something else killed 
+                    these two.  One second they were 
+                    fine, the next... bang.  
+
+                                  ABBY
+                    It wasn t radiation.                                                                                      38
+
+
+                                    JACKSON
+                    How can you be sure?
+
+                                  ABBY
+                    Because one-second-fine, the-next-
+                    bang is not how exposure to 
+                    radiation presents.  You know that.
+
+                                    JACKSON
+                    It could if there was enough of it.
+
+                                  ABBY
+                    If there was enough of it, they 
+                    would all be dead!  
+
+      It echoes.  She wishes she could take it back.  
+
+      Raven looks over, meeting her stare from across the room.   
+      No one else here knows how it feels.
+
+      ON RAVEN -- as she turns back to the board and we see that 
+      she s found Finn, HIS FACE now right in front of her.  Guy 
+      can t even take a bad mug shot.  In it, he is without fear.
+
+      Something primal stirs within her.  This is not the look of a 
+      woman who will stop at knowing the truth about her son.  It s 
+      the look of a mother who will stop at nothing to save him.
+
+
+      EXT. EARTH - THE ENDLESS WOODS - DUSK
+
+      ON FINN -- at the back of the pack now.  Daylight is fading.  
+
+      Octavia has the lead, the sway of her body keeping Jasper and 
+      Monty s minds off hunger, thirst, and exhaustion.  Finn, the 
+      one person she wants to notice, doesn t...
+
+                                  FINN
+                    You know what I d like to know?  
+                    Why send us down today, after 
+                      ninety-seven years?  What changed?
+
+                                    OCTAVIA
+                    Who cares?  I m just glad they did.  
+                    I woke up rotting in a cell.  Now 
+                    I m spinning in a forest.
+
+      She spins around a tree.  Jasper beams, but her eyes are on 
+      Finn, who, beginning to piss her off, still doesn t notice.
+
+                                  MONTY
+                    Maybe they found something on a 
+                      satellite.  You know, like an old 
+                    weather satellite or --                                                                                      39
+
+
+                                  CLARKE
+                    It wasn t a satellite.
+
+      The way she said it gets attention.  She keeps her secret for 
+      another moment, then...
+
+                                  CLARKE (CONT D)
+                    The Ark is dying.  
+
+      Although it lands hard, no one grasps the magnitude yet.  
+      Because Clarke keeps walking, they all do.
+
+                                  CLARKE (CONT D)
+                    At the current population level 
+                    there s roughly three months left 
+                    of life support, maybe four now 
+                    that we re gone.
+
+                                  FINN
+                    That s the secret they locked you 
+                    up to keep?  Why they kept you in 
+                    solitary?  Floated your old man?
+
+      Emotion threatens, but she keeps it down, nods...
+
+                                  CLARKE
+                    My father was the engineer who 
+                      discovered the flaw.  He thought 
+                    the people deserved to know.  The 
+                    council disagreed... My mother 
+                      disagreed.  They were worried it 
+                    would cause a panic.  My dad and I 
+                    decided to go public anyway.  
+
+                                  JASPER
+                    They found out before you could?
+
+      Another nod.  Back in control...
+
+                                  CLARKE
+                    Anyway, that s why today.  That s 
+                    why it was worth the risk.  Even if 
+                    we all die, at least they bought 
+                      themselves more time.  
+
+                                  MONTY
+                          (as it hits him)
+                    They re gonna kill more people, 
+                    aren t they?  If Earth still isn t 
+                    safe, they have to.
+
+      Clarke nods soberly.  Finn, Jasper, and Monty are gutted by 
+      what this means for their loved ones.  Octavia doesn t care.                                                                                      40
+
+
+                                    OCTAVIA
+                    Good.  After what they did to me,  
+                    I say let  em all die.   
+
+                                  JASPER
+                    You don t mean that.
+
+      Octavia doesn t respond, her eyes suddenly on something in 
+      front of them.  The others don t notice yet.
+
+                                  FINN
+                    We have to warn them.  
+
+      Clarke looks over, deeply affected by that.
+
+                                  CLARKE
+                    That s what my father said.
+
+      The fact that he reminds her of her father, who she loved 
+      more than anyone in the world, untethers her.  
+
+      Because of that, she runs smack into Jasper, who has stopped 
+      dead to watch OCTAVIA SUDDENLY PEEL OFF HER CLOTHES... 
+
+                                  JASPER
+                    Damn, I love Earth.
+
+      ON OCTAVIA -- She knows they re watching.  Loves that 
+      attention is back on her where it belongs.    
+
+      The others are IN THE SHOT behind her.  Finn s expression is 
+      more controlled than the other two boys, but only just.   
+
+                                  CLARKE
+                    Octavia, what the hell are you --
+
+      That s when Octavia, down to just her underwear, takes a step 
+      forward and SUDDENLY PLUNGES OUT OF VIEW.  
+
+      A moment of confusion for the others ends with a SPLASH!  
+      Fair to say it s the most amazing sound they ve ever heard. 
+
+      Instantly, they rush forward, stopping on the rim of A NARROW 
+      GORGE cut through the woods by A RIVER fifteen feet below.
+
+      They get there in time to see Octavia rise up, enraptured as 
+      she breaks the surface.  When you ve survived on drops of 
+      water a day your entire life, swimming is transcendent.
+
+                                  MONTY
+                    Octavia, can you swim?!
+
+                                    OCTAVIA
+                    No... but I can stand.                                                                                      41
+
+
+      With that, she rises like a sea goddess from the chest-high 
+      water.  In seconds, the boys are stripping down to join her.  
+      Only Clarke hesitates.  
+
+                                  FINN
+                    Clarke, take your damn clothes off.
+
+      She ignores him, moving to the edge, pulling out the map...
+
+                                  CLARKE 
+                    There s no river on the map.   
+                    We re going the wrong way.
+
+      Finn steps up behind her, pointing across the river...
+
+                                  FINN
+                    No, we re not.
+
+      We see it as Clarke does:  A man-made structure, the wreckage 
+      of one anyway, above the trees on the horizon.  Still too far 
+      away to be sure, but possibly an old guard tower.  
+
+                                  CLARKE
+                    ... Mount Weather.
+
+      She spins excitedly, her smile melting at the sight of Finn s 
+      rather amazing physique.  She peels off her shirt, too.  
+
+      At that moment, Jasper, about to jump, suddenly freezes,  
+      gripped by fear...
+
+                                  JASPER
+                    ... Octavia, get outta the water!!
+
+      All eyes shoot to the river where A LONG DARK SHADOW is 
+      rocketing toward Octavia.  
+
+      We won t get a good look here.  Could be a croc.  Or a giant 
+      snake.  Of course, it s possible that a hundred years 
+      marinating in radiation has created something else entirely.
+
+      Whatever it is, it s fast, it s aggressive, and it s hungry.
+
+      Before Octavia can react, the creature strikes, violently 
+      taking her under and dragging her away.
+
+
+
+                                        END ACT THREE                                                                                      42
+
+
+                                          ACT FOUR
+
+
+      EXT. THE RIVER - DUSK
+
+      Just where we left them.  
+
+      The UNSEEN beast drags Octavia away.  Fighting wildly, she 
+      breaks the surface SCREAMING, before being sucked back down.
+
+      Clarke, Finn, Monty, and Jasper race along the river s edge, 
+      15 feet above, desperate to keep her in sight.  
+
+                                  MONTY
+                    ... What the hell is it?!
+
+      Before anyone can venture a guess, Finn makes a decision.  
+      He s going in after her.  Clarke grabs his arm...
+
+                                  CLARKE
+                    Finn, no!  What are you gonna do?!
+
+                                  FINN
+                    Try not to get eaten.
+
+      With that, he jumps.  The moment he SPLASHES down, the shadow 
+      releases Octavia and whips around to check out the threat.
+
+                                  JASPER
+                    Octavia, now!!  Get to the edge!!
+
+                                  CLARKE
+                    Finn, it s coming!  Get out!!
+
+      Finn hears this and rushes back through the water, pulling 
+      himself up onto A LOWER BANK just in time.
+
+      The shadow darts instantly back to its meal, carrying Octavia 
+      away even faster now.  In seconds, she ll be gone.
+
+      UP ABOVE, Clarke has an idea.  She drops down behind a  
+      boulder poised at the edge of the cliff and starts to push.  
+      The boys don t understand, but drop down to help anyway.
+
+                                  CLARKE (CONT D)
+                    It thought Finn was a threat!  
+                    It ll let her go again!
+
+      The boulder rolls.  Clarke and Monty watch it go.  Not 
+      Jasper.  He s already moving again, racing along the edge.
+
+      The boulder SPLASHES down.  Sure enough, as Clarke predicted, 
+      the shadow whips around again.  As it does, Jasper launches 
+      himself, plunging in right beside Octavia, pulling her back.                                                                                        43
+
+
+      Here comes the still-unseen beast.  It ll be close.
+
+      Jasper shoves Octavia onto the lower bank, scrambling out 
+      beside her just as the malevolent shadow rockets past.  
+
+      Octavia collapses into Jasper s very thin arms.  Although the 
+      fact that he s holding a nearly naked girl does register, we 
+      see it more so on the face of his friend up above.  
+
+                                  MONTY
+                    Note to self: next time,        
+                    save the girl.
+
+      Clarke looks back to Finn, who is equally impressed...
+
+                                  FINN
+                    One good thing about outer space... 
+                    no giant, mutant river snakes.
+
+      Everyone LAUGHS.  Even Octavia, though just barely.  Then she 
+      sees the TEETH MARKS RUNNING RED on her thigh and goes still.  
+
+      UP ABOVE, Clarke sees it, too, looks to Monty...
+
+                                  CLARKE
+                    Help Jasper get her up here.  
+
+      Her eyes go across the river.  THE WRECKAGE OF THE TOWER is 
+      now a silhouette amid the trees against the setting sun.  
+
+      It kills her to stop with the goal in sight, but the light is 
+      nearly gone, one of her people is wounded, and a man-eating 
+      snake is blocking their path.  She SIGHS heavily, then...  
+
+                                  CLARKE (CONT D)
+                    We ll cross at first light.
+
+
+      INT. THE DROPSHIP - LOWER LEVEL - SAME TIME
+
+      It s dark.  The only light comes from a fire outside.     
+
+      We find Wells sitting at a console, trying in vain to coax a 
+      signal out of a dead communication system, clearly wallowing 
+      in self-pity, when MUSIC wafts in through the open door.  
+
+      It starts as a lament, GIRL S VOICE, haunting and beautiful.  
+      Fits Wells  mood perfectly, then ANOTHER VOICE takes it up.  
+      Spoken word poetry.  Very much like rap today.  CHEERS go up.  
+
+
+      EXT. THE LANDING SITE - MOMENTS LATER
+
+      Wells limps from the ship into the full light of a bonfire.                                                                                      44
+
+
+      The scene playing out around it is almost tribal, fire and 
+      MUSIC temporarily pushing hunger and thirst out of mind.
+
+      It draws Wells in, too, but just as he s about to give in to 
+      the primal forces, he sees what s taking place at the center:
+
+      Bellamy supervises as the two Johns, wristbands already gone, 
+      help a rough-looking GIRL take off hers.
+
+      For the record, the process is painful:  A rod is jammed in, 
+      then violently pried up, cracking the band, which is then 
+      ripped off.  Let s just say it leaves a mark.
+
+      The band gets tossed into the fire beside TEN OTHERS, then... 
+
+                                    BELLAMY
+                    Who s next?! 
+
+                                  WELLS
+                    What the hell are you doing?!
+
+      Bellamy turns.  The two Johns converge, but Bellamy holds out 
+      a hand, stopping them as a HUSH falls over the crowd.
+
+                                    BELLAMY
+                      Liberating ourselves, what s it  
+                    look like?
+
+                                  WELLS
+                    It looks like you re trying to get 
+                    us all killed.
+                          (then; to the group)
+                    Our communication system is fried.  
+                    These wristbands are all we ve got.   
+                    Take them off and the Ark will 
+                    think we re dying.  That it s not 
+                    safe for them to follow.
+
+                                    BELLAMY
+                    That s the point, Chancellor.     
+                    We can take care of ourselves.  
+                          (then; to the crowd)
+                    Can t we?
+
+      It draws CHEERS.  Bellamy clearly gets off on the feeling   
+      of power.
+
+                                  WELLS
+                    You think this is a game?!
+
+      It quiets again.  Wells looks to the crowd, jabbing a finger 
+      skyward to indicate the Ark...                                                                                      45
+
+
+                                  WELLS (CONT D)
+                    Those aren t just our parents and 
+                    our friends.  They re our farmers.  
+                    Our doctors.  Our engineers.  I 
+                    don t care what he tells you, we 
+                    won t survive here on our own.  
+                          (looking back to Bellamy)
+                    Besides, if it really is safe, how 
+                    could you not want the rest of our 
+                    people to come down?
+
+                                    BELLAMY
+                    My people already are down.  
+                          (pointing at the sky)
+                    Those people locked my people up.  
+                    Those people killed my mother for 
+                    the crime of having a second child.  
+                    Your father did that. 
+
+                                  WELLS
+                    My father didn t write the laws.
+
+                                    BELLAMY
+                    No, he enforced them.  But not 
+                    anymore.  Not here.  Here, there 
+                    are no laws.  Here, we do whatever- 
+                    the-hell we want, whenever-the-hell 
+                    we want.  
+
+      The crowd is poised to erupt.  Bellamy feels it.  Loves it.  
+
+                                    BELLAMY (CONT D)
+                    You don t have to like it, Wells.  
+                    You can even try to stop it, change 
+                    it, kill me.  You know why?  
+                      Whatever-the-hell we want.
+
+      John #1 suddenly pumps his fist in the air... 
+
+                                  JOHN #1
+                      Whatever-the-hell we want!
+
+      John #2 picks up the CHANT.  Then TWO MORE.  In seconds, 
+         WHATEVER-THE-HELL WE WANT  is booming through the trees.
+
+                                  THE GROUP
+                      Whatever-the-hell we want!
+                      Whatever-the-hell we want!
+
+      The intensity of it disturbs Wells.  Even some of those who 
+      had been helping him earlier are getting swept up in it.    
+      He wants to stop them, but knows that he s powerless to.  
+
+      Then something happens that stops it for him:  IT RAINS.                                                                                       46
+
+
+      Gently, at first, but hard enough to freeze everyone.      
+      All eyes go to the sky.  All faces fill with awe.  
+
+      Then the sky opens and it starts to pour, igniting a 
+      rapturous frenzy on the forest floor.
+
+      Arms flung wide.  Mouths open.  Drinking.  Bathing.
+
+      At the center of it all stand Wells and Bellamy.  Eyes meet.   
+      Bellamy shrugs as if to say  looks like we ve got water. 
+
+                                  WELLS
+                    We need to collect this!
+
+                                    BELLAMY
+                      Whatever-the-hell you want.
+
+      We stay here as Wells rushes away, no longer feeling pain, 
+      gathering A SMALL, BUT NOT INSIGNIFICANT GROUP to help him. 
+
+      As Bellamy watches him go, the thinking behind his eyes is 
+      clear: Wells is gonna be a problem.
+
+
+      INT. THE ARK - EARTH MONITORING STATION - SAME TIME
+
+      Abby and her team are standing before the big board,  
+      reacting to the flatlining of another ten of their children.  
+
+      ANOTHER TEN BLACK TILES on the board.
+
+      Although darkness is threatening, we sense that Abby, at 
+      least, is still pushing against the worst case scenario...
+
+                                  ABBY
+                    Ten more.  One after the next.  
+
+      Jackson notices something else:  Vital signs in the majority 
+      of wristband feeds moving in the same direction.  Heart rates 
+      rising.  Body temps falling.  PLASMA OSMOLARITY ticking up.
+
+                                    JACKSON
+                    Abby, look at plasma osmolarity.   
+                    It s going up across the board.
+
+                                  ABBY
+                    ... They found water.
+
+      It s the first hopeful sign they ve had since the landing and  
+      all of them gather to take it in.  
+
+      Unfortunately, before hope can take root, the door bursts 
+      open and a GUARD UNIT, led by Shumway, storms the room.                                                                                        47
+
+
+                                  COMMANDER SHUMWAY
+                      Councillor Abigail Walters, you are 
+                    under arrest for violating supply 
+                    chain order number twenty-four.
+
+      The guards surround, securing Abby s hands behind her back as 
+      Kane strides in behind them...  
+
+                                  KANE
+                    I m sorry this has to be public, 
+                    but the policy on these matters is 
+                    clear.  No special treatment.  
+
+      Abby holds his stare.  Even now, she won t give him an inch.
+
+                                  KANE (CONT D)
+                    How much blood did you use, Abby?
+
+                                    JACKSON
+                    Don t answer that.
+
+                                  ABBY
+                    I used whatever it took.
+
+      Jackson s face falls.  She s admitting it.
+
+                                  ABBY (CONT D)
+                    Breaking the law to keep you from 
+                    becoming Chancellor was the easiest 
+                    decision I ever made.
+
+                                  KANE
+                    In that case... given your 
+                      confession, in my role as 
+                      Chancellor Pro Tempore, I have no 
+                    choice but to find you guilty. 
+
+                                  ABBY
+                    We always have a choice, Kane.  You 
+                    chose to press charges against my 
+                    husband, your friend, even though 
+                    you knew he d get floated for it.  
+                    You chose to include my daughter in 
+                    those charges.  And now you re 
+                    choosing this.  Hiding behind the 
+                    law absolves you of nothing.
+
+                                  KANE
+                          (after a beat)
+                    Be that as it may, in accordance 
+                    with Penal Code One, because all 
+                    crimes committed by those above the 
+                    age of majority are capital crimes, 
+                    I hereby sentence you to death.                                                                                        48
+
+
+      Abby s team is terrified.  Cracks show in her calm facade.  
+
+                                  KANE (CONT D)
+                    Execution is set for the morning.
+                          (then; back to Abby)
+                    I choose, at every turn and at any 
+                    cost, to make sure that the human 
+                    race stays alive. 
+
+                                  ABBY
+                    There s the difference between us, 
+                    Kane.  I choose to make sure that 
+                    we deserve to stay alive.
+
+      Kane holds her stare for another moment, before nodding to 
+      Commander Shumway.
+
+                                  COMMANDER SHUMWAY
+                    Put her in her daughter s cell.
+
+      The guards lead Abby away.  Jackson falls in stride.  
+
+                                  ABBY
+                    Watch after the kids.  Connect the 
+                    dots.  You can do this.
+
+      With that, she s gone.  Jackson looks sharply back to Kane...
+
+                                    JACKSON
+                    This is madness.
+
+                                  KANE
+                    This is the law, Dr. Jackson.
+
+                                    JACKSON
+                    Then pardon her.  It s in your 
+                    power to do that... under the law.
+
+      Kane holds Jackson s pleading stare.  It may be in his power, 
+      but it s not in his heart...
+
+                                  KANE
+                    Judging from the number of black 
+                    squares on the board behind you, I 
+                    think it s now safe to say that a 
+                    return to Earth is still not an 
+                    option.  I ll need your suggested 
+                      parameters for population reduction 
+                    on my desk as soon as possible.  
+
+      Jackson pales.  Kane strides out.  Door SLAMS.  No one moves.                                                                                      49
+
+
+      INT. CLARKE S CELL - MINUTES LATER
+
+      Abby is led into her daughter s old cell.  The drawings still 
+      on the walls strike her at once, but she shows nothing.  
+
+      Handcuffs are removed.  Guards leave.  Door SLAMS.
+
+      Only now, alone, does she let the full weight of everything 
+      show in her face.  Tears stream from her eyes.
+
+      ABBY S POV -- A DRAWING OF THE WOODS AT NIGHT
+
+
+      EXT. EARTH - THE ENDLESS WOODS - NIGHT
+
+      CLOSE ON CLARKE, asleep on the ground near the others     
+      when her eyes suddenly snap open and fill with wonder.
+
+      As she slowly sits up, WE WIDEN TO REVEAL HER SURROUNDINGS:
+
+      Incredibly, the trees and flowers and ground are streaked 
+      with iridescent light.  Veins of luminescence.  Multiple 
+      colors.  The effect is surreal and spectacular.
+
+      A forest that glows in the dark. 
+
+      Appropriately agog, Clarke stands and moves amid the trees.   
+      The sound of the RUNNING RIVER adds to the splendor.  
+
+      Finally, her guard is down and we see the wide-eyed, 
+        inquisitive, passionate girl beneath the emotional armor.  
+
+      For the first time, she lets herself feel the wonder of being 
+      on Earth.  Only it s unlike the Earth she spent so much time 
+      dreaming about.  Indeed, it s practically another planet.
+
+      Her eyes wander to the stars, her mind to the Ark (or heaven) 
+      and her mother (or father), when she hears a low voice:  
+
+                                  FINN (O.S.)
+                    Pretty cool, huh?
+
+      Startled, she whirls, reverie replaced by embarrassment as 
+      she sees him returning through the psychedelic trees.  
+
+      Takes her a moment to react to the fact that he s carrying a 
+      cone fastened out of large leaves and filled with water.
+
+                                  CLARKE
+                    You went to the river?
+
+                                  FINN
+                    Figured it was worth losing a 
+                    finger or two.  Here.                                                                                      50
+
+
+      He moves the cone to her lips.  She takes a tentative sip.
+
+                                  FINN (CONT D)
+                    You call that a sip?  
+
+      She smiles.  Old habits.  She drinks again, deeply this time, 
+      letting it run down her face and neck.  
+
+      When she s done, she has to look away, vibrating from all of 
+      it, forcing herself to refocus on the glowing trees... 
+
+                                  FINN (CONT D)
+                    You think it means we re all gonna 
+                    grow two heads?
+
+      Clarke LAUGHS slightly.  
+
+                                  FINN (CONT D)
+                    What do you know?  She can laugh.
+
+      She gives him a look, then picks a neon leaf.  Incredibly, it 
+      dims as if being unplugged.  
+
+                                  CLARKE
+                    Oh, now that s cool.
+
+      There s that bright-eyed girl again.  Finn clearly likes this 
+      side of her.
+
+                                  CLARKE (CONT D)
+                    I ll have to run some tests, but, 
+                    right now, my operating theory is 
+                    that bioluminescence is an 
+                      adaptation.  Sort of a twist on 
+                      photosynthesis.  That s --
+
+                                  FINN
+                    Plants using sunlight to turn bad 
+                    air into good air.
+
+      She s impressed.  He shrugs...
+
+                                  FINN (CONT D)
+                    Woke up that day in science class.
+                    Come here.  You have to see this.
+
+      With that, he strides back through the trees.  She follows, 
+      trying to shake her hormonal response to this guy.
+
+      He stops in a particularly surreal spot, squatting to point 
+      out something on the ground.  WE SEE THEM AS SHE DOES:
+
+      Strange tracks in the dirt.  Hard to tell, but they could be 
+      simian.  A widely separated big toe is clear in some of them.                                                                                       51
+
+
+      She kneels, curious.  He points...
+
+                                  FINN (CONT D)
+                    That s a toe.  Plus, near as I can 
+                    tell, whatever it is, it s walking 
+                    on two feet.  My guess... monkeys.
+
+      Clarke LAUGHS at him.  He gives her a look.
+
+                                  CLARKE
+                    Sorry.  It s just... According to 
+                      everything I ve read, there were no 
+                    bipedal animals anywhere near here, 
+                    certainly not monkeys.
+
+                                  FINN
+                    Really?  You read anything about 
+                      glow-in-the-dark forests or man-
+                    eating snakes?
+
+      She meets his stare, sees his point: anything is possible. 
+
+      We sense that a kiss is imminent, or at least if he tried, 
+      that she d let him.  He doesn t try.  
+
+      Instead, he reaches back down, fitting his hand into one of 
+      the tracks.  He does this to prove his point, but all Clarke 
+      sees are the FRESH HACK MARKS on his wristband.
+
+                                  CLARKE
+                    Were you trying to take that     
+                    off again?
+
+                                  FINN
+                    What?  No... I was thinking about 
+                    the Ark.  There may be a way to 
+                    turn one of these things into a  
+                    two-way communication device. 
+
+      She looks at him, once again reminded of her father.
+
+                                  FINN (CONT D)
+                     Course, I ll have to run some 
+                    tests, but --
+
+      She SMACKS him playfully, LAUGHING again beneath the   
+      magical trees.  New world.  New possibilities.
+
+
+      INT. THE ARK - PART SUPPLY WAREHOUSE - NIGHT
+
+      Raven follows the hard-as-nails JUNK MAN through a shadow-
+      filled maze of satellite and space station parts.                                                                                      52
+
+
+                                  JUNK MAN
+                    They set a time for Finn s review?  
+
+      Raven nods slightly.  Hates lying, but she ll do it.
+
+                                  JUNK MAN (CONT D)
+                    Don t worry.  If I got through it, 
+                    he will.  No way they ll float 
+                    someone with skills like his.   
+                    Only person better with a wrench 
+                    than him is his mother. 
+
+                                  RAVEN
+                    I don t remember you being such a 
+                    talker, Red.
+
+      Red smiles, comes to a stop in front of something covered by 
+      a tarp, pulls it off to reveal a dilapidated ESCAPE POD. 
+
+      One look and we understand: Raven is going after her son.
+
+                                  JUNK MAN
+                    Russian.  They found it when they 
+                    reeled in Mir in  16.  
+
+                                  RAVEN
+                    Does it have a working radio?
+
+                                  JUNK MAN
+                    Yeah.  Why do you need a radio?
+
+
+      EXT. EARTH - THE LANDING SITE - PRE-DAWN
+
+      The group is asleep on the ground all around the smoldering 
+      campfire.  The trees here do not glow.  
+
+
+      INT. THE DROPSHIP - PRE-DAWN
+
+      Wells sleeps alone in the darkened cabin.  
+
+      Suddenly, THERE S A HAND OVER HIS MOUTH.  
+
+      It s Bellamy.  Wells struggles.  Bellamy holds up a gun.    
+
+      No more struggle.  
+
+                                        END ACT FOUR                                                                                      53
+
+
+                                          ACT FIVE
+
+
+      EXT. THE WOODS - PRE-DAWN
+
+      Wells walks ahead of Bellamy through the trees.  Far enough 
+      now from the dropship that it s no longer in sight.  The gun 
+      in Bellamy s hand is not aimed, but Wells senses it just the 
+      same.  He rarely turns.  Just keeps walking.
+
+                                    BELLAMY
+                    You re a smart kid, Wells.  I see 
+                    what you re doing.  The way you 
+                    gathered the wood.  Collected the 
+                    rain.  You re a natural leader.  
+                    Probably made your old man proud.  
+
+      The past tense of that gives Wells pause.  He naturally 
+      assumes it means he s about to become past tense.
+
+                                  WELLS
+                    Is that why you brought me out 
+                    here?  Eliminate your competition?
+
+      Bellamy just keeps walking.  The silence unnerves Wells...
+
+                                  WELLS (CONT D)
+                     Cause I m not your competition.  
+                    Clarke.  She s the one they ll 
+                    follow, not me.  Certainly not you.
+
+                                    BELLAMY
+                    That s far enough.  
+
+      They stop near two freshly filled graves.  Clearly, the boys 
+      who died on the dropship were buried here.  Wells swallows 
+      his fear of being the third, then turns to face Bellamy.     
+
+                                    BELLAMY (CONT D)
+                    I guess we got more in common than 
+                    meets the eye, huh?  We both came 
+                    down here to protect someone we 
+                    love... and neither one of them 
+                      appreciates it.  
+
+      Bellamy LAUGHS.  Wells can t find the humor in it.  Could be 
+      the gun.  Bellamy tracks his eyes to it, calmly holds it up.
+
+                                    BELLAMY (CONT D)
+                    I don t wanna shoot you, Wells.  
+                    Hell, I like you.  
+                          (pointing to the sky)
+                    But I do need them to think   
+                    you re dead.                                                                                       54
+
+
+                                  WELLS
+                    Why?  Why are you doing this?  For 
+                    real.  Not some crap about getting 
+                    to do what you want to do. 
+
+                                    BELLAMY
+                          (after a beat)
+                    I have my reasons.  I also have the 
+                    gun.  Which means I ask the 
+                      questions, and the question is... 
+                    why aren t you helping me?      
+                    Your father banished you, Wells.      
+                    Yet here you are still doing his 
+                    bidding.  Following the rules.  
+                    Aren t you tired of always doing 
+                    what s expected of you?  Stand up 
+                    to him.  Take off your wristband.  
+                    You ll be amazed how good it feels.  
+
+      Wells stares.  Bellamy thinks he s considering it.  He s not.
+
+                                  WELLS
+                    No.  Never.  Not gonna happen.    
+                    Is that clear enough for you?
+
+      Bellamy smiles slightly.  The kid s got balls.    
+
+                                    BELLAMY
+                    Yes, it is.  I m sorry it had to be 
+                    this way.
+
+      With that, he does something unexpected: tucks the gun away 
+      behind his back.  
+
+      Before Wells can make sense of it, BOYS APPEAR FROM BEHIND 
+      TREES ON ALL FOUR SIDES, the two Johns at Wells  back.  
+
+      Wells knows they mean to take off his wristband.  He tries to 
+      make a run for it, but the Johns catch him.  He struggles 
+      wildly, but the other two boys jump on and overpower him.
+
+      Bellamy stands apart from the violence, somewhat concerned by 
+      the intensity of what he s unleashed.  Not concerned enough 
+      to stop it.
+
+      The last thing we see is John #2 moving the rod to Wells  
+      wristband and jamming it in as Wells GROWLS in pain and rage.
+
+
+      EXT. SPACE - THE ARK - PRISON STATION - DAY
+
+      PUSHING IN ON A HANGAR BAY DOOR, a Chinese flag barely 
+      visible beneath the grime.                                                                                        55
+
+
+      INT. PRISON STATION - HANGAR BAY - DAY
+
+      Abby is being ceremonially led across the same hangar bay 
+      where her husband was executed.  An armed COLOR GUARD marches 
+      ten feet behind.  Jackson and Cece walk on either side.   
+
+      Abby is not crying, not showing fear.  Even as she s led to 
+      her death, her mind is on the kids...
+
+                                  ABBY
+                    How many more overnight?
+
+                                    JACKSON
+                    Abby --
+
+                                  ABBY
+                    Goddamn it, Jackson, answer me.
+
+                                    JACKSON
+                    Just one.
+
+      She looks at him.  Showing fear for the first time.  The way 
+      he said it could only mean Clarke.  Then she hears:
+
+                                    JACKSON (CONT D)
+                    Wells.
+
+      A moment of relief followed instantly by crushing sadness.    
+      She looks to Cece who clearly already knew.  
+
+                                    JACKSON (CONT D)
+                    Just over an hour ago.  Vital signs 
+                    spiked, then flatlined.
+
+      Abby knows this is bad.  Wells isn t some delinquent who 
+      would take off his wristband and he wasn t injured during 
+      landing.  For the first time, outwardly anyway, she 
+        acknowledges her deepest fear: she sent her daughter to die.
+
+      Cece takes her hand.  Takes Abby a moment to push past the 
+      fact that her world is crashing down, but she manages it...
+
+                                  ABBY
+                    Jackson, listen to me.  Kane will 
+                    wait until after he s sworn in to 
+                    begin reducing the population.
+
+                                  CECE
+                    Come on, Ab, the Chancellor could 
+                    still make it.
+
+                                  ABBY
+                    Even if he does, I won t be here to 
+                    argue against Kane.  
+                                  (MORE)                                                                                      56
+
+                                  ABBY (CONT'D)
+                          (back to Jackson)
+                    That has to be you now. 
+
+                                    JACKSON
+                    He already asked for 
+                      recommendations.
+
+                                  ABBY
+                    Good.  No, that s good.  First 
+                    thing you ll do is make the case 
+                    for a lottery.  If council members  
+                    families can be taken, they ll be 
+                    less likely to rubber-stamp Kane s 
+                    agenda.  You understand?
+
+      Jackson nods, amazed by her strength as they reach the symbol 
+      of the Ark on the floor directly below the hangar bay door. 
+      This is where they leave her.  Still, Abby s not done...
+
+                                  ABBY (CONT D)
+                    Listen to me.  While the council 
+                    drags its feet, you do everything 
+                    you can to reestablish contact with 
+                    the kids.  
+
+      Jackson gets pulled away by a guard.  Before the same can 
+      happen to Cece, she lunges forward, hugging her friend.
+
+                                  ABBY (CONT D)
+                          (fighting back tears)
+                    ... Watch over Clarke for me?  
+
+      Cece nods, WEEPING as she s dragged away and Abby is left 
+      there all alone.  Terror seeps in, but, remarkably, she 
+      buries it, calling after them...
+
+                                  ABBY (CONT D)
+                    Jackson!  Use the wristbands!  
+                    There may be a way to reverse 
+                    engineer them for communication.  
+                    Talk to Sinclair in engineering.  
+                    Nod if you understand!
+
+      Jackson nods as he and Cece are ushered through a door into 
+      an observation room.  Door SLAMS.  Abby is now utterly alone.
+
+
+      INT. OBSERVATION ROOM - MINUTES LATER
+
+      The witnesses to the execution stand before a wide window.  
+      Abby stands alone in a pillar of light across the bay.  
+      Prayers are MUTTERED.  Tears on every face, save Kane s.                                                                                      57
+
+
+      Another beat and he nods to the executioner.  The man lifts 
+      his hand, about to bring it down on the button when the door 
+      behind them bursts open.  
+
+      Everyone turns to see Chancellor Jaha in a wheelchair being 
+      pushed by a very out of breath ORDERLY.  There are tubes and 
+      wires coming out of him and he is visibly frail, but anger 
+      gives him the strength to stand.  
+
+      He rises in front of an already shaken Kane, then...  
+
+                                  CHANCELLOR JAHA
+                    Dr. Walters is pardoned.  
+
+      Relief soars.  Kane holds his stare.
+
+                                  CHANCELLOR JAHA (CONT D)
+                    I ll deal with you later.
+
+      Kane glances once more to Abby, who is already striding 
+      toward them, before walking off.  
+
+      A guard opens the door and Abby strides in, looking past all 
+      of the relieved faces, her eyes landing on the Chancellor...
+
+                                  ABBY
+                    I spent twelve hours putting your 
+                      intestines back together.  
+                          (to the orderly)
+                    Get him back into bed.  Now.  
+
+      The orderly tries to lower the Chancellor back to the chair, 
+      but he holds out a hand, stopping him.  
+
+      His eyes lock onto Abby s.  We won t be surprised to learn in 
+      series that he s in love with her...
+
+                                  CHANCELLOR JAHA
+                    I m sorry that I couldn t do this 
+                    for your husband.  
+
+      She says nothing, simply strides past him, out the door.   
+      The Chancellor knows he s unforgiven, looks to the others...  
+
+                                  CHANCELLOR JAHA (CONT D)
+                    Someone tell me about the Hundred.       
+                    Did they make it?
+
+
+      INT. KANE S QUARTERS - LATER
+
+      Kane stands in his spartan, meticulously neat quarters, 
+      downing a glass of moonshine, letting it warm him when the 
+      door opens and Cece strides in.  He says nothing.  She does:                                                                                      58
+
+
+                                  CECE
+                    You can t try to kill everyone who 
+                    disagrees with you, Kane.
+
+      He takes another deep drink, then... 
+
+                                  KANE
+                    You all think I m the bad guy,   
+                    but I m the only one willing to   
+                    do what it takes to save us.
+
+      Before she can respond, he pulls her in roughly, pressing his 
+      mouth to hers.  She SLAPS him across the face, holding his 
+      wide-eyed stare for a moment, before kissing him back.
+
+      Raw, angry passion.  Clearly, these two have secretly been 
+      fucking.  This time, before it can get past a kiss, Cece s 
+      conscience wins out and she abruptly pushes away from him...
+
+                                  CECE
+                    ... She s my best friend!
+
+                                  KANE
+                    What do you want me to say,      
+                    I m sorry?  I m not.
+
+      Cece stands there for another moment, wondering what the hell 
+      she s doing here, disgusted with herself as much as Kane, 
+      before finally turning without a word and striding back out.
+
+      Kane simply pours himself another drink.
+
+
+      EXT. EARTH - THE RIVER - DAY
+
+      Clarke stands with Octavia and Monty on the lip of the gorge.  
+      Finn and Jasper are above them in the branches of a tree.
+
+      We see at once that they have gathered several of the vines 
+      that are everywhere weeping toward the water and have woven 
+      them together to form a rope.  
+
+      At the moment, Finn is testing its strength.  It passes.    
+      He looks to Jasper...
+
+                                  FINN
+                    You re an evil genius, you      
+                    know that?
+
+                                  CLARKE
+                    You wanted to go first.  Now stop 
+                    stalling.                                                                                      59
+
+
+                                  JASPER
+                    Just hold on until the apogee and 
+                    you ll be fine.
+
+                                  FINN
+                    Apogee?  You mean the Indians?
+
+                                  JASPER
+                    Apogee not Apache.  
+
+                                  CLARKE
+                    He knows.  Today, Finn.
+
+                                  FINN
+                    Aye aye, Captain.
+                          (then; to Jasper)
+                    See yah on the other side.
+
+      With that, he launches, swinging down, then out over the 
+      river, letting go at the apogee, flying untethered the last 
+      twenty feet, before sticking the landing on the far bank.
+
+      For a moment, no one moves, then Finn spins to face them, 
+      thrusting his hands in the air like a conquering warrior...
+
+                                  FINN (CONT D)
+                    WE... ARE... APOGEE!!
+
+      As the others release their amazement in a collective joyous 
+      WHOOP, we begin the subtle use of an UNKNOWN POV.  Could be 
+      someone or something is watching them.  Maybe not.
+
+      In A SERIES OF SHOTS, we ll now track the others as they make 
+      the same jump.  Next up is Clarke.  
+
+      Her flight is good and her landing is solid, but the ground 
+      beneath her crumbles, threatening to pull her into the water.
+
+      Finn pulls her back just in time.  Holds on a moment longer 
+      than necessary.  She doesn t mind.
+
+      Octavia SCREAMS like a child on a roller-coaster, offering a 
+      special  fuck you  glance down to the river below, before 
+      landing gingerly on her bandaged leg.  
+
+      Although she doesn t need it, Jasper s there to catch her, 
+      prompting huge smiles from all.  
+
+      Within minutes, all are standing on the far bank, a clear 
+      sense of pride on each of their faces.  
+
+      Clearly, the journey has changed them, bonded them.  They are 
+      no longer prisoners.  No longer separated by which station 
+      they come from.  They are friends.  More.  A team.                                                                                       60
+
+
+                                  CLARKE
+                    Let s go find those supplies.
+
+      As they turn for the ruins of Mount Weather, Octavia is the 
+      first to notice that there s something hanging from the trees 
+      all around them.  She reaches up and pulls down an apple.  
+
+      The realization that they re standing in an overgrown orchard 
+      fills them each with wonder.
+
+      Octavia takes the first bite of fruit in a hundred years.  
+      The sweetness of it overwhelms her.   
+
+      Needing to share the experience, she looks to the others.  
+
+      The fact that she offers it to Jasper over Finn surprises her  
+      as much as Jasper.  Eating from her hand, he bites into it 
+      with abandon, nothing tentative for this kid.  Not anymore.  
+
+                                  JASPER
+                    You guys gotta try this.
+
+      The pure joy in his face prompts the others to reach for 
+      apples, too, when something happens that changes everything:
+
+      A SPEAR EXPLODES INTO JASPER S CHEST, killing him instantly, 
+      pinning him to the tree at his back, leaving him upright.
+
+      So sudden that, for a moment, it s as if none of the others 
+      understands what they re looking at.  
+
+      Then Octavia starts to SCREAM.
+
+      Wide, terror-filled eyes shoot back across the river as they 
+      take cover behind an outcropping of rocks.  No one is there.  
+
+      But someone was.  Someone who didn t come down on a dropship.  
+      Someone who grew up here, learned to throw a spear, to kill.  
+
+      Finally, the words drip like poison from Clarke s lips...  
+
+                                  CLARKE
+                    ... We re not alone.
+
+      BLACKNESS.
+
+
+
+                                            THE END

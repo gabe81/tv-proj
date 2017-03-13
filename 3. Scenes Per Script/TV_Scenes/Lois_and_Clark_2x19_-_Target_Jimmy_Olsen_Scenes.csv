@@ -1,0 +1,38 @@
+1,   INT DOCTOR FROSTS OFFICE  NIGHT                                  ,306
+2,   INT DAILY PLANET BULLPEN  DAY                                     ,217
+3,   INT HOSPITAL CORRIDOR  DAY                                          ,66
+4,   INT HOSPITAL CORRIDOR  LATER                                        ,129
+5,  EXT HOSPITAL  DAY  MINUTES LATER                                  ,63
+6,  INT APARTMENT HALLWAY  DAY  LATER                                 ,16
+7,  INT SARAH LONGLEYS APARTMENT  DAY  CONTINUOUS                    ,44
+8,  EXT STREET  DAY  MOMENTS LATER                                    ,24
+9,  EXT SKY  DAY                                                       ,113
+10,  INT DAILY PLANET BULLPEN  NIGHT                                  ,110
+11,  EXT MEDICAL PLAZA HIRISE  DAY   ESTABLISHING                   ,6
+12,  INT KATHERINE PEROTS OFFICE  DAY                                  ,142
+13,  INT LOIS APARTMENT  MORNING  DAY ,239
+14,  INT RETIRED OFFICERS CLUB  DAY                   ,161
+15,  INT DAILY PLANET BULLPEN  DAY  LATER                              ,203
+16,  EXT METROPOLIS BANK  DAY                                           ,98
+17,  INT DAILY PLANET CONFERENCE ROOM  NIGHT   LATER                 ,112
+18,  INT KATHERINE PEROTS EXAMINING ROOM  NIGHT                        ,77
+19,  INT KATHERINE PEROTS OFFICE  NIGHT  MOMENTS LATER                ,54
+20,  INT KATHERINE PEROTS OFFICE  MINUTES LATER       ,82
+21,  INT LOIS JEEP  NIGHT  MOMENTS LATER                              ,78
+22,  EXT MOUTH OF ALLEY  NIGHT                                          ,6
+23,  EXT ALLEY  NIGHT  CONTINUOUS                                      ,43
+24,  EXT ALLEY  NIGHT  LATER                                           ,15
+25,  INT LOIS JEEP  NIGHT  LATER                                      ,171
+26,  INT LOIS APARTMENT  NIGHT                                         ,153
+27,  INT DAILY PLANET BULLPEN  DAY                                    ,161
+28,  INT KATHERINE PEROTS EXAMINING ROOM  DAY                          ,67
+29,  INT DAILY PLANET BULLPEN  DAY  LATER                              ,122
+30,  EXT LOIS APARTMENT BUILDING  DAY                                  ,45
+31,  INT LOIS HALLWAY  DAY  MOMENTS LATER ,22
+32,  INT DAILY PLANET BULLPEN  DAY  SAME TIME                          ,34
+33,  INT LOIS HALLWAY  DAY  SAME TIME                                 ,17
+34,  INT LOIS APARTMENT  DAY  CONTINUOUS                               ,15
+35,  INT DAILY PLANET BULLPEN  DAY  SAME TIME                          ,92
+36,  INT LOIS APARTMENT  DAY                                            ,100
+37,  INT LOIS HALLWAY  SIMULTANEOUS                                     ,12
+38,  EXT LOIS APARTMENT BUILDING  DAY                                   ,24

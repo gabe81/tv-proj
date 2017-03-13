@@ -1,0 +1,3864 @@
+﻿ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+                                         Jacked  
+ 
+                                        #512/Ep. 91 
+ 
+ 
+                                        Written by  
+ 
+                                      Don McGill 
+ 
+ 
+ 
+                                        Directed by 
+ 
+                                  Stephen Gyllenhaal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                                                              Production Draft   10/30/08  
+                                                                Rev. FULL Blue   11/6/08  
+                                                              Rev. FULL Pink   11/11/08   
+                                                                  Rev. Yellow   11/13/08  
+                                                                    Rev. Green   11/17/08  
+                                                              Rev. Goldenrod   11/25/08 
+                                                                              (Pages:  48.) 
+ 
+ 
+  
+ 
+
+
+ 
+SCOTT FREE in association with CBS PARAMOUNT NETWORK TELEVISION, a division of CBS Studios. 
+ 
+  Copyright 2008 CBS Paramount Network Television.  All Rights Reserved. 
+ 
+This script is the property of CBS Paramount Network Television and may not be copied or 
+distributed without the express written permission of CBS Paramount Network Television.  This 
+copy of the script remains the property of CBS Paramount Network Television.  It may not be 
+sold or transferred and must be returned to: CBS Paramount Network Television Legal Affairs  
+4024 Radford Avenue Administration Bldg., Suite 390, Studio City, CA 91604 
+ 
+THE WRITING CREDITS MAY OR MAY NOT BE FINAL AND SHOULD NOT BE USED FOR PUBLICITY OR 
+ADVERTISING PURPOSES WITHOUT FIRST CHECKING WITH TELEVISION LEGAL DEPARTMENT.  
+
+                                       Jacked  
+ 
+
+  Ep. #512   Production Draft: Rev. Goldenrod   11/25/08 
+
+ 
+
+                          SCRIPT REVISION HISTORY 
+ 
+   COLOR  DATE    PAGES 
+   WHITE  10/30/08 (1-58) 
+    REV. FULL BLUE   11/6/08  (1-58)  
+          REV. FULL PINK   11/11/08  (1-59) 
+      REV. YELLOW    11/13/08   (1,3,4,6,10,11,17,18,19, 
+              21,25,27,29,30,30A,40,42, 
+              47,49,49A,50,51,53,55, 
+          55A,56,56A,57,59,60.) 
+      REV. GREEN    11/17/08  (3,6,19,21,35.)  
+  REV. GOLDENROD  11/25/08 (48.) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
+                                       Jacked  
+ 
+
+  Ep. #512   Production Draft: Rev. FULL Pink   11/11/08 
+
+ 
+
+                                      CAST LIST 
+ 
+
+  
+DON EPPES  
+
+CHARLIE EPPES  
+
+ALAN EPPES 
+
+DAVID SINCLAIR 
+
+LARRY FLEINHARDT 
+
+AMITA RAMANUJAN 
+
+COLBY GRANGER 
+
+LIZ WARNER 
+
+ 
+
+ 
+
+TIM KING 
+
+BUCKLEY 
+
+LEN WALSH 
+
+JACK SHULER/HAWAIIAN SHIRT GUY  
+
+CAITLIN 
+
+TODD 
+
+BUS DRIVER 
+
+MOTHER 
+
+BUS TECH 
+
+N.D. AGENT 
+
+ 
+
+ 
+
+ 
+ 
+  
+
+
+
+
+  
+
+                                       Jacked  
+ 
+
+  Ep. #512   Production Draft: Rev. FULL Pink   11/11/08 
+
+ 
+
+                                      SET LIST 
+  
+ 
+INTERIORS EXTERIORS 
+  
+FBI FBI 
+  BULLPEN    BRIDGE 
+  WAR ROOM  
+  TECH ROOM HOLLYWOOD STREET(S) 
+  INTERVIEW ROOM  
+  HALLWAY(S) SIGHTSEEING BUS 
+  LOBBY  
+     DOWNTOWN STREET(S) 
+EPPES HOUSE  
+   DINING ROOM AIRPORT ACCESS ROAD 
+   LIVING ROOM     MOBILE COMMAND VAN  
+  
+CALSCI * 
+   CHARLIE S OFFICE  
+   HALLWAY COLBY S CHARGER * 
+  
+SIGHTSEEING BUS  
+ 
+BUILDING OVERLOOKING ROAD 
+    
+BUS STATION 
+ 
+N.D. WAREHOUSE 
+    
+COLBY S CHARGER * 
+ 
+  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
+                                       Jacked  
+ 
+
+  Ep. #512   Production Draft: Rev. FULL Pink   11/11/08 
+
+    
+
+                                      TIME SPAN 
+ 
+                  This episode takes place over 1 day. 
+ 
+DAY/NIGHT     SCENES        NOTES  
+ 
+Day One:      1-69 * 
+Night One:        70-82 *    Scene 74 is omitted. * 
+ 
+ 
+ 
+ 
+ 
+     
+ 
+  
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     1.  
+
+
+
+                                          Jacked 
+
+                                            TEASER
+      BLACK BOX OPENING:
+
+      24.9                MILLION TOURISTS PER YEAR                           
+
+      128                 BIT ENCRYPTION KEY                                  
+
+      18                  MILLION DOLLARS                                     
+
+      4                   HOURS
+
+11EXT. HOLLYWOOD STREET - DAY   
+
+      A SIGHTSEEING BUS idles (the LOGO on the side reads 
+       HOLLYWOODLINE TOURS ).  PANNING ACROSS  Walk of Fame  stars 
+      WE FIND a PAIR OF GOOFY SHOES belonging to...
+
+22EXT./INT. SIGHTSEEING BUS - DAY   
+
+      The BUS DRIVER (40), who ushers TOURISTS on board the bus, 
+      trying his best to make the 10,000th time he s done this seem 
+      like the first --
+                                  BUS DRIVER
+                    Welcome to Hollywood, folks.  Watch 
+                    your step.   Breakin  a leg  here 
+                    doesn t mean good luck...
+
+      A MOTHER (38) boards with her son, TODD (14) --
+
+                                  TODD
+                    This blows.  At least the hotel had 
+                      video-games --
+
+                                  MOTHER
+                    You ve shot enough mutants today.
+                          (through gritted teeth)
+                    This is going to be fun.
+
+      The Driver gives her a sympathetic look.  OTHER TOURISTS get 
+      on, mostly couples.  A single male -- HAWAIIAN SHIRT GUY 
+      (JACK SHULER), 35 -- shoots the Driver a look...
+
+                                  HAWAIIAN SHIRT GUY
+                    Hope your A/C s working.
+
+      More TOURISTS board.  Among them... FOUR MEN WITH BACKPACKS 
+      (BUCKLEY, KIROV, HAYS, CRAYPO), their packs bulging more than 
+      you d expect for just a day-trip.  KIROV stumbles, an edgy 
+      vibe.  BUCKLEY grabs his bag, helps him on.  The Driver gives 
+      them the once-over.  BUCKLEY smiles it off --
+
+
+
+                                                                            (CONTINUED)          NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     2.  
+
+      CONTINUED:22
+
+                                    BUCKLEY
+                    Little too much partying last night.
+
+                                  BUS DRIVER
+                    Got his whole suitcase in there?
+
+                                    BUCKLEY
+                    We re staying at a hostel downtown.  
+                    Didn t want our stuff walking out.
+
+      The Driver nods.  The FOUR MEN grab seats.  An exchange of 
+      looks between them tells us the Driver may ve bought the 
+      story, but something here is definitely not right.  The LAST 
+      TOURIST gets on.  OFF the Driver closing the doors, CUT TO:
+
+33INT. SIGHTSEEING BUS - DAY - TRAVELLING  
+
+      The BUS on the move.  The Driver launching into his patter.
+
+                                  BUS DRIVER
+                    Hope you folks have your cameras.  
+                    The next two hours, we ll be hittin  
+                    all the spots.  Walk of Fame, Sunset 
+                    Strip, homes of the stars... a little 
+                    excursion down Rodeo Drive... 
+
+      He throws a smile back at the MOTHER of the teen --
+
+                                  BUS DRIVER (cont d)
+                    ...for the Pretty Woman in the back.
+
+      The MOTHER smiles back.  The SON rolls his eyes.  The MOTHER 
+      eyes KIROV beading sweat, looks to BUCKLEY --
+
+                                  MOTHER
+                    Your friend okay?
+
+                                    BUCKLEY
+                    He doesn t like crowds.
+
+                                  BUS DRIVER
+                          (resuming his patter)
+                    ...So sit back and relax.  And keep a 
+                    sharp eye.  Any of you sell a photo 
+                    to the Enquirer, I get ten percent.  
+                    First stop, Kodak Theatre, home of 
+                    the Oscars --
+
+      The TOURISTS press noses to the glass. On BUCKLEY s nod, the 
+      MEN open their packs. BUCKLEY and HAYS pull guns. KIROV takes 
+      out an ARRAY OF ELECTRONICS. CRAYPO grabs a PAINT PUMP 
+      SPRAYER. BUCKLEY advances on the Driver, gun levelled. 
+
+
+
+                                                                            (CONTINUED)          NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     3.  
+
+      CONTINUED:33
+
+                                    BUCKLEY
+                    Just keep driving.
+
+      The TOURISTS  attention is drawn to the gunmen.  They react -- 
+      some panic, some pray.  The MOTHER tries to calm her son --
+
+                                  MOTHER
+                    It s OK, everything s gonna be okay.
+
+                                    BUCKLEY
+                    Stay in your seats.  Do what I say, 
+                    no one will get hurt.
+
+      KIROV deploys his ELECTRONICS.  CRAYPO spray-paints the 
+      windows.  HAYS grabs a bag, starts down the aisle --
+
+                                    BUCKLEY (cont d)
+                    My associate s coming down the aisle.  
+                    Place all items -- wallets, cameras, 
+                    cell phones, everything -- in the bag.
+
+                                  MOTHER
+                    If it s our money you want, take it.
+
+                                    BUCKLEY
+                          (gun in her face)
+                    I don t want your money.
+
+                                  HAWAIIAN SHIRT GUY
+                    You don t need to do that.
+
+                                    BUCKLEY
+                    You want to stop me?
+
+      A hard look between them.  BUCKLEY moves on.  The MOTHER 
+      spies HAWAIIAN SHIRT GUY palming his cell.  He puts a finger 
+      to his lips -- shhh.
+
+      ANGLE ON THE BUS DRIVER... an odd STATIC NOISE directs his 
+      attention to KIROV, deploying a LOW-LEVEL NOISE CANCELLATION 
+      MACHINE, as... CRAYPO paints the windows with the PUMP 
+      SPRAYER (cocooning all except or small strip across the 
+      windshield and on the driver s side window, enough to see the 
+      road and side view mirror).  BUCKLEY turns to the Driver --
+
+                                    BUCKLEY (cont d)
+                    Cut the A/C.  Crank up the heat.
+                    Take the next right, the alley.
+
+      The Driver hits the turn signal.  His hand lingers near a RED 
+      PANIC BUTTON under the dash.  He steals a look at BUCKLEY.  
+      OFF the Driver, eyeing the BUTTON, debating his next move.             NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     4.  
+
+
+
+44INT. FBI - HALLWAY - DAY   
+
+      DAVID briefs DON, on the move --
+
+                                  DAVID
+                      Dispatcher received a panic button 
+                    distress call 20 minutes ago from one 
+                    of his company s sightseeing buses.  
+                    He radioed the driver, guy s not 
+                      responding.  With a busload of 
+                    tourists missing, they called us.
+
+      They move into...
+
+      INT. FBI - WAR ROOM - DAY - CONTINUOUS55
+
+      Where they find the company s Head of Security, LEN WALSH, 
+      45, and a BUS TECH, 25.  David does the introductions --
+
+                                  DAVID
+                    Agent Don Eppes... Len Walsh --
+
+                                  LEN WALSH
+                    -- Head of Security for HollywoodLine 
+                    Tours.  Appreciate your help.
+
+                                  DON
+                    You have any more information?
+
+                                  LEN WALSH
+                    No, but we have smart-VIT... vehicle 
+                      immobilization technology.  GPS-based 
+                      anti-hijacking software --
+
+                                  DAVID
+                    -- designed to stop a bus, remotely.
+
+                                  LEN WALSH
+                    After 9/11 we installed it on all our 
+                    buses.  To prevent terrorists from 
+                    stealing one, turning it into a weapon.
+
+                                  DAVID
+                    From here, they can access the bus s 
+                    onboard computer, hit a  kill-switch  
+                    to shut down the engine.
+
+                                  DON
+                    How soon?
+
+                                  LEN WALSH
+                    We re ready now.  Put it up...
+
+
+
+                                                                            (CONTINUED)          NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     5.  
+
+      CONTINUED:55
+
+      The BUS TECH puts up a SATELLITE MAP, a RED DOT (the BUS) 
+      MOVING on it...
+
+                                  LEN WALSH (cont d)
+                    ...GPS is feeding us real-time data.  
+                    Looks like they re heading downtown.
+
+      Don and David study the map, the path of the bus --
+
+                                  DAVID
+                    These guys want to make a statement, 
+                    they chose the right place.  City 
+                    Hall, Financial District, a half-
+                    dozen schools, churches, synagogues -- 
+                    max casualties and headlines.
+
+                                  DON
+                    We need to stop these guys now.
+
+66EXT. DOWNTOWN STREET - DAY   
+
+      The BUS is on the move.  It ZOOMS BY, WHIPPING PAST...
+
+77EXT./INT. COLBY S CHARGER - DAY   
+
+        Surveilling.  COLBY in driver s seat, LIZ shotgun.  Headsets. 
+
+                                  LIZ
+                    They re on 4th, crossing Mission.
+
+                                  DON (ON RADIO)
+                    Stay with  em.
+
+      They pull out, follow the BUS... as we CUT TO:
+
+88INT. FBI - WAR ROOM - DAY   
+
+      Don eyeing the SATELLITE MAP, a HIVE OF ACTIVITY around him.  
+      David walks up, with SWAT CDR TIM KING (#410,  Chinese Box ).
+
+                                  DAVID
+                    Cavalry s here.
+
+                                  KING
+                    Left my horse in the barn.
+                          (throws a look to David)
+                    Last time I saw this guy he was stuck 
+                    in an elevator with a maniac.
+
+                                  DAVID
+                    Been taking the stairs since.
+
+
+
+
+                                                                            (CONTINUED)          NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     6.  
+
+      CONTINUED:88
+
+      King smiles, looks at the SATELLITE MAP -- a single RED DOT 
+      (the bus) MOVING; ONE SMALLER BLUE DOT (COLBY S CHARGER) 
+      shadowing.
+
+      They cross to Walsh and the BUS TECH, working his laptop.
+
+                                  BUS TECH
+                    I m in.
+
+      ON THE LAPTOP we see:  smart-VIT SYSTEM PASSWORD ACCEPTED ...
+
+                                  DON
+                    Hit the kill-switch.
+
+      The Tech nods, hits the send key.  ON THE LAPTOP we see: 
+       INITIATING VEHICLE IMMOBILIZATION ... A  VIRTUAL 
+        SPEEDOMETER  display shows the bus slowing down.  CUT TO:
+
+      EXT./INT. COLBY S CHARGER - DAY - TRAVELLING99
+
+      COLBY S SPEEDOMETER dropping, as he and Liz tail the bus...  
+
+                                  COLBY
+                    They re slowing down, Don.
+
+                                  DON  (ON RADIO)
+                    SWAT s moving in.
+
+1010EXT. DOWNTOWN STREET - DAY   
+
+      TWO SWAT SUV S converge, block the street.  SIX SWAT GUYS get 
+      out, take cover, as... the BUS approaches.
+
+1111INT. FBI - WAR ROOM - DAY   
+
+      The TECH gets a sudden look of concern.  On the LAPTOP we see 
+      flashing:  ERROR: SYSTEM OVERRIDE.   The VIRTUAL SPEEDOMETER 
+      shows the bus speeding up: 22 mph...24...27...31...35...
+
+                                  BUS TECH
+                    What the hell...?
+
+      Don and crew circle around, as... the TECH feverishly types 
+      commands.  ON THE LAPTOP we see flashing:  ACCESS DENIED ...
+
+                                  BUS TECH (cont d)
+                    They ve over-ridden the system... I m 
+                    locked out.  I can t stop it.
+
+      OFF the  VIRTUAL SPEEDOMETER  gaining speed, CUT TO:          NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     7.  
+
+
+
+      INT./EXT. COLBY S CHARGER - DAY - TRAVELLING1212
+
+      COLBY S SPEEDOMETER increasing just as fast, as he and Liz 
+      watch the bus accelerating, closing fast on the SWAT UNITS --
+
+                                  LIZ
+                    They re gonna blow right through  em!
+
+1313INT. FBI - WAR ROOM - DAY   
+
+                                  KING
+                    Back off!  NOW!
+
+1414EXT. DOWNTOWN STREET - DAY   
+
+      The SWAT GUYS scramble back into their SUVs.  Hit the gas, 
+      pull away in the nick of time, as... the bus blows past them. 
+    The TWO SWAT SUVs burn rubber, follow the bus in hot pursuit. 
+
+                                  DON (ON RADIO)
+                    Stand down, Granger.  SWAT s got  em.
+
+      Colby and Liz pull to a stop, as... 
+
+1515INT. FBI - WAR ROOM - DAY   
+
+    ON PLASMA, we see  DASH-CAM  SURVEILLANCE VIDEO of the bus 
+      from one of the SWAT SUVs following.  The LAND LINE PHONE 
+      LIGHTS UP.  David answers, looks to Don --
+
+                                  DAVID
+                    Switchboard.  There s a guy asking 
+                    for the agent in charge...
+
+                                  DON
+                          (punches speakerphone)
+                    This is Don Eppes.  Who s this?
+
+                                  BUCKLEY  (ON PHONE)
+                    18 hostages.  We want 18 million 
+                    dollars.  Tell the bus company guy 
+                    standing next to you to call his 
+                    banker -- you have until 7.
+
+      CLICK.  DIALTONE.  Don punches off the speakerphone.  David 
+      eyes the clock on the War Room wall -- it s 3 p.m.
+
+                                  DAVID
+                    We ve got four hours.
+
+
+                                    END OF TEASER          NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     8.  
+
+
+
+                                        ACT ONE
+
+1616INT. EPPES HOUSE - DINING ROOM - DAY   
+
+      A 5-gallon BUCKET is on the table (protected by newspapers).  
+      CHARLIE, LARRY and AMITA enter, holding their noses. 
+
+                                  AMITA
+                    What s that smell?
+
+                                  LARRY
+                    The offending malodor seems to be 
+                    emanating from that conspicuous 
+                      centerpiece on the dining room table --
+
+      The kitchen door opens.  ALAN enters, carrying a small pail.
+
+                                    CHARLIE
+                    -- That s not the only place it s 
+                    coming from.  Dad, you smell like...
+
+                                  ALAN
+                    ...Cow manure puree? -- it is bad in 
+                    here.  
+
+                                    CHARLIE
+                    Why is there... puree  on the dining 
+                    room table?
+
+                                  ALAN
+                    Had to bring it inside.  Neighbors 
+                      complained.  The road to progress is 
+                    paved with naysayers.
+
+                                  AMITA
+                    Progress?
+
+                                  ALAN
+                    I m doing research for our Think Tank.
+
+                                  LARRY
+                    Perhaps  Stink Tank  is more apt --
+                          (off collective looks)
+                    I do allow myself one Borscht Belt 
+                      indiscretion per year.
+
+                                  ALAN
+                    I read about this project at MIT... 
+                    engineers added cow manure to a 
+                    bucket of charcoal -- the idea was to 
+                    generate enough electricity to power 
+                    a cell phone for a year --
+
+
+
+                                                                            (CONTINUED)          NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     9.  
+
+      CONTINUED:1616
+
+                                  AMITA
+                    Perfect for parts of the developing 
+                    world where electricity s scarce --
+
+                                    CHARLIE
+                    -- and  puree  isn t.
+
+                                  AMITA
+                    Does it work?
+
+                                  ALAN
+                    It s not soup yet.
+
+      Alan pours more manure puree from the pail into the bucket.
+
+                                    CHARLIE
+                    You re not using my blender, are you?
+
+                                  LARRY
+                    Alan, while I applaud the endeavor, 
+                    I m not sure such pursuits properly 
+                    fall under the purview of our 
+                    intended enterprise.
+
+                                  ALAN
+                    Meaning?
+
+                                  LARRY
+                      Scientific method is based on 
+                      theoretical inquiry, followed by  
+                    brute force experimentation.  I fear 
+                    we re putting the laboratory before 
+                    the laboratory of the mind.
+
+                                  ALAN
+                    I say if we re going to improve the 
+                    world, work from the ground up.
+                          (looks to Charlie)
+                    You re the Team Leader.  Am I right?
+
+      Charlie s on the hot seat, Alan and Larry staring at him.  
+      His cell RINGS, saving him.  He check the number, answers --
+
+                                    CHARLIE
+                    Hey, Don, what s up? -- Sure, I ll be 
+                    right there.
+
+1717EXT. DOWNTOWN STREET - DAY   
+
+      The BUS, on the move.  TWO FBI SUVs following behind.        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     10.  
+
+
+
+1818INT. FBI - HALLWAY - DAY   
+
+      PICK UP Colby briefing Don, on the move...
+
+                                  COLBY
+                    We re keeping eyes on the bus.
+
+                                  DON
+                    Where s it headed?
+
+                                  COLBY
+                      Nowhere... It just keeps looping 
+                    around downtown. 
+
+                                  DON
+                    What this guy s plan?
+
+                                  COLBY
+                    He s smart enough to beat the bus 
+                    company s system, he s gotta have 
+                      something... We figure out yet how 
+                    our bad guys over-rode the kill-
+                    switch?
+
+                                  DON
+                    I m hoping Charlie s got an answer.
+
+      INT. FBI - WAR ROOM - DAY1919
+
+      ON PLASMAS: the DASH-CAM VIDEO of the bus and COMPUTER CODE.  
+      Charlie at a laptop, studies the code; Don and Walsh observe.
+
+                                    CHARLIE
+                    Based on my analysis, I d say they 
+                    defeated the anti-hijacking system, 
+                      well...the old-fashioned way.
+
+                                  DON
+                    How s that?
+
+                                    CHARLIE
+                    They hacked in.
+
+                                  LEN WALSH
+                    When we installed smart-VIT on our 
+                    buses, we were told it was unhackable.
+
+                                    CHARLIE
+                    Nothing is unhackable.  But the truth 
+                    is, you gave them the key to the 
+                    front door when your Tech accessed 
+                    the system.  
+                                  (MORE)
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     11.  
+
+      CONTINUED:1919
+                                  CHARLIE (cont d)
+                    They were waiting -- tapped into the 
+                    bus s onboard computer -- ready to 
+                    steal the PIN password with a 
+                      decryption algorithm.
+
+                                  LEN WALSH
+                    That s how they got in, how d they 
+                    lock us out?  
+
+                                    CHARLIE
+                    They changed the password, altered 
+                    the PIN.
+
+                                  DON
+                    Can you get us back in, stop the bus?
+
+                                    CHARLIE
+                    Like I said, anything can be hacked.  
+                          (looks to Don)
+                    I want to get Amita in on this -- 
+                    it s a number theory problem.
+
+                                  DON
+                    Hack fast.  We got three-and-a-half 
+                    hours.
+
+2020INT. FBI - HALLWAY/BULLPEN - DAY   
+
+      Don and Walsh, on the move...
+
+                                  LEN WALSH
+                    You think he can pull it off?
+
+                                  DON
+                    If he can t, we go to Plan B.
+
+                                  LEN WALSH
+                    What s that?
+
+                                  DON
+                    I m working on it.
+
+      David, cradling his phone, looks up from his desk, to Don --
+
+                                  DAVID
+                    It s our guy.  Line One.
+
+      Don crosses to David s desk, hits the speakerphone --
+
+                                  DON
+                    Eppes.
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     12.  
+
+      CONTINUED:2020
+
+                                    BUCKLEY (ON PHONE)
+                    I see cops in my rear-view.
+
+                                  DON
+                    Really think we weren t gonna follow 
+                    you?
+
+                                    BUCKLEY (ON PHONE)
+                    What s the status on the money?
+
+                                  DON
+                    We re working on it.
+
+                                    BUCKLEY (ON PHONE)
+                    Let me guess -- it s gonna take time.  
+                    More than four hours.
+
+      Don swaps a look with David -- what s this guy s game?
+
+                                  DON
+                    It s a lot of cash to put together.
+
+                                    BUCKLEY (ON PHONE)
+                    Just so we re clear... for every 
+                    minute past 7, I kill a hostage.  Of 
+                    course, the price per head will drop 
+                    too.  If the company wants to bargain 
+                    down to zero, that s their decision.
+
+                                  DON
+                    I ll pass that along.  Now you gotta 
+                    give me something --
+
+                                    BUCKLEY (ON PHONE)
+                    -- Proof the hostages are unharmed?
+
+                                  DON
+                          (another look to David)
+                    ...That s right.
+
+      INT. SIGHTSEEING BUS - DAY2121
+
+      CLOSE ON a cell phone held up to... the MOTHER of the teen.
+
+                                  MOTHER
+                    Please... I ve got my son.  Give them 
+                    what they want.
+
+      FOLLOW the phone back to BUCKLEY --
+
+                                    BUCKLEY
+                      7 o clock.
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     13.  
+
+      CONTINUED:2121
+
+      He hangs up.  CLICK... DIALTONE carrying over...
+
+2222INT. FBI - HALLWAY/BULLPEN - DAY   
+
+      Don punches off the speakerphone.  Don, David, Walsh digest.
+
+                                  DAVID
+                    Guy s reading our playbook. 
+
+                                  LEN WALSH
+                    Hope Plan B s good.
+
+      Walsh exits, as... Liz walks up, an urgent vibe --
+
+                                  LIZ
+                    You re not gonna believe this... 
+                    We ve got eyes in the bus --
+
+      INT. FBI - TECH ROOM - DAY2323
+
+      Don and Liz enter.  ON PLASMA we see STREAMED LIVE VIDEO of 
+      the inside of the bus (skewed angle, degraded).  We see the 
+      FRIGHTENED PASSENGERS, the FOUR BAD GUYS with guns.
+
+                                  DON
+                    Where are we getting this from?
+
+                                  LIZ
+                    Miami P.D.
+
+      Liz ZOOMS IN ON... HAWAIIAN SHIRT GUY -- 
+
+                                  LIZ (cont d)
+                    Name s Jack Shuler.  Miami narcotics.  
+                    He s on vacation.
+
+                                  DON
+                    Guy picked the wrong bus.
+
+                                  LIZ
+                    Ten minutes ago, he made a video call 
+                    from his cell phone to his squad, 
+                    started streaming a live feed...
+
+                                  DON
+                    ...and now Miami s looping us.
+
+                                  LIZ
+                    Guy s got guts.
+
+      Don spies BUCKLEY giving orders to the other bad guys --
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     14.  
+
+      CONTINUED:2323
+
+                                  DON
+                    Looks like our alpha...
+
+      Liz nods to a TECH, working on a laptop.  ONSCREEN we see: 
+      FACES -- BUCKLEY and HAYS, ISO d and BLOWN UP, but DEGRADED.
+
+                                  LIZ
+                    Images are degraded, it s slowing 
+                    down facial recognition.
+
+                                  DON
+                    What about that thing Charlie did -- 
+                    the face in the mirror?
+
+                                  LIZ
+                      Diffeomorphic Matching?
+                          (off Don s look, wry)
+                    I pay attention.  We re using it.  
+                    Soon as we ve got faces, we ll run 
+                     em against fed and local databases. 
+
+                                  DON
+                    Run  em against the bus company, too. 
+
+                                  LIZ
+                    You re thinking someone in this crew 
+                    knows more than they should about the 
+                    company s anti-hijacking system.
+
+                                  DON
+                    We got faces, I want names.
+
+      Liz s cell RINGS.  She checks the display, turns it off --
+
+                                  DON (cont d)
+                      Everything okay?
+
+                                  LIZ
+                    Supposed to fly to Denver tomorrow. 
+                    I m meeting with the ADIC there.
+
+                                  DON
+                    What s the job?
+
+                                  LIZ
+                      Supervisor, organized crime unit.  
+                    They re looking to fill the post by 
+                    the end of the month.
+
+                                  DON
+                    You want it?
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     15.  
+
+      CONTINUED: (2)2323
+
+                                  LIZ
+                    Huge opportunity.
+                          (then, changing subject)
+                    I ll go find Walsh, tell him we re 
+                    gonna need his company s files.
+
+      Liz exits.  OFF Don, watching her go.
+
+2424INT. CALSCI - CHARLIE S OFFICE - DAY   
+
+      Charlie and Amita crunch away on their laptops, as Larry 
+      studies decryption equations on the board.  (ON MONITORS, 
+      Charlie has the DASH-CAM VIDEO from the SWAT SUV following 
+      the bus and the STREAMED VIDEO coming from inside it)
+
+                                    CHARLIE
+                    Our hacker knows what he s doing.
+
+                                  AMITA
+                    128-bit encryption key... he s 
+                      definitely not making our lives easy.
+
+                                  LARRY
+                    Perhaps an application of Shor s 
+                    algorithm is in order.
+
+                                    CHARLIE
+                    That s next if this doesn t work.
+
+      Off Larry s nod... Alan enters, takes in the scene --
+
+                                  ALAN
+                    Am I interrupting?
+
+                                    CHARLIE
+                    Just trying to rescue a busload of 
+                    tourists being held at gunpoint by 4 
+                    men demanding 18 million dollars.
+
+                                  AMITA
+                          (off Alan s look)
+                      ...Unfortunately, he s not joking.
+
+                                  ALAN
+                    Clearly you have more pressing 
+                    matters.  I just wanted to mention 
+                    that I stopped by Galuski s 
+                      Engineering class for a chat.  He s 
+                    on board with the cow manure fuel-
+                    cell idea.
+
+      Larry looks up, not happy --
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     16.  
+
+      CONTINUED:2424
+
+                                  LARRY
+                    You spoke with Galuski?
+
+                                  ALAN
+                    He s an associate member of our Think 
+                    Tank, I wanted his opinion.  Anyway, 
+                    he said I have his vote.
+
+                                  LARRY
+                    I had a similarly spirited discussion 
+                    with Brecker in Astrophysics.  He 
+                    thought perhaps we might better model 
+                    our efforts on Paul Davies   Cosmic 
+                    Think Tank  at Arizona State.
+
+                                  ALAN
+                    ...Paul Davies?
+
+                                  LARRY
+                      Cosmologist, theoretical physicist, 
+                    ponderer of quantum questions...
+
+                                  ALAN
+                    Sounds a little  head-in-the-clouds,  
+                    don t you think?
+
+                                  LARRY
+                    ...As opposed to  poo-on-the-table ?
+
+      Alan s not amused.  Charlie steps in --
+
+                                    CHARLIE
+                    Guys, this isn t the time. 
+
+                        ALANLARRY
+      Fair enough.Point conceded.
+
+                                  ALAN
+                    But the longer we wait to decide what 
+                    we re doing, the more time we waste.
+
+                                  LARRY
+                    On that we agree.
+
+      Charlie throws Amita a helpless look.
+
+2525INT. FBI - LOBBY - DAY   
+
+      David and Walsh walk and talk -- 
+
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     17.  
+
+      CONTINUED:2525
+
+                                  DAVID
+                    We got a hit off your employee 
+                    database.
+
+      David hands Walsh a file (a BUS CO. ID PHOTO OF PHIL CRAYPO 
+      attached).  Walsh looks at it --
+
+                                  LEN WALSH
+                    Phil Craypo.  Mechanic.  Terminated  
+                    three months ago for using drugs on 
+                    the job.
+
+                                  DAVID
+                    He know about the smart-VIT system?
+
+                                  LEN WALSH
+                    Man takes buses apart and puts them 
+                    back together... he knows enough.
+
+                                  DAVID
+                    File says you re the guy who fired him.
+
+                                  LEN WALSH
+                          (prickly)
+                    I fire a lot of people... when they 
+                    don t do their job.
+
+      They PASS THE MAIN DESK, where Liz is getting a visitor s 
+      badge for a PRETTY WOMAN (CAITLIN).  David eyes the woman --
+
+                                  LIZ
+                    This is Caitlin Dawes.  Her fiance is 
+                    on the bus...
+
+                                    CAITLIN
+                    ...Jack Shuler.  Works for Miami P.D.
+
+      Off which, CUT TO:
+
+2626INT. FBI - INTERVIEW ROOM - DAY   
+
+      Don and Liz, with Caitlin.
+
+                                  DON
+                    How did you know?
+
+                                    CAITLIN
+                    Jack texted me, told me he was going 
+                    to find a way to get word to the FBI.
+                          (beat, anxious)
+                    Is he okay?
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     18.  
+
+      CONTINUED:2626
+
+                                  DON
+                    I m sorry.  We can t discuss the case.
+
+                                    CAITLIN
+                    ...I understand.
+
+                                  LIZ
+                    Is there anyone you can stay with?
+
+                                    CAITLIN
+                    Jack and I are on vacation.  We re in 
+                    L.A. for the day.  We re supposed to 
+                    get married this weekend in Vegas.
+
+      She looks off, lost...
+
+                                    CAITLIN (cont d)
+                    This morning, I told him I didn t 
+                    want to go.  I hate touristy crap...
+                          (beat)
+                    It s gonna be okay... right?
+
+      They take in her sadness.  Liz s cell RINGS, she answers --
+
+                                  LIZ
+                    Warner...
+
+      She listens a beat, then hangs up.  Looks to Don --
+
+                                  LIZ (cont d)
+                    Charlie s hacked the hack.
+
+2727INT. FBI - WAR ROOM - DAY   
+
+      Don enters to find David and Walsh.  ON PLASMAS we see... The 
+      SATELLITE MAP, RED DOT (BUS) MOVING, BLUE DOTS (FBI SUVs) 
+      following.  We see the STREAMED VIDEO from inside the bus, 
+      BAD GUYS holding the PASSENGERS at gunpoint.  We see the DASH-
+      CAM VIDEO from the SWAT SUV following the bus.
+
+                                  DAVID
+                    They re heading toward Van Nuys 
+                    Airport.
+
+                                  LEN WALSH
+                    Escape plan, maybe.  Helicopter, 
+                    small plane...
+
+                                  DAVID
+                    We have Charlie on video-conference.
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     19.  
+
+      CONTINUED:2727
+
+      David punches up CHARLIE IN HIS OFFICE on ANOTHER SCREEN --
+
+                                  DON
+                    Hey, Charlie.  We good?
+
+                                    CHARLIE (ON VIDEO)
+                    I m ready.  Just say the word.
+
+                                  DAVID
+                          (points to a road)
+                    Most direct route is this access road.  
+                    We stop  em there... it s isolated, 
+                    snipers can maybe get a look. 
+
+      Don nods, heads for the door --
+
+                                  DON
+                    Call Colby and King, tell them to 
+                    meet me.
+                          (off David and Walsh)
+                    If I m gonna negotiate with this 
+                    bastard, I wanna be there.
+
+2828EXT. AIRPORT ACCESS ROAD - DAY   
+
+      The BUS ZOOMS toward us, FBI SUVs in pursuit.  WHIPPING PAST, 
+      as we CUT TO:
+
+2929EXT. AIRPORT ACCESS ROAD/MOBILE COMMAND VAN - DAY   
+
+      On MONITORS: the STREAMED VIDEO from the bus; DASH-CAM VIDEO 
+      from the SUV following the bus; the SATELLITE MAP showing the 
+      RED DOT (BUS) moving, BLUE DOTS (SUVs) close behind -- 
+      approaching a CLUSTER OF BLUE DOTS (MOBILE COMMAND VAN and 
+      SUVs at the ROADBLOCK) --
+
+                                  COLBY  (V.O.)
+                    Looks like David s hunch was right...
+
+      ANGLE ON DON, COLBY & KING standing at the back of a MOBILE 
+      COMMAND VAN, studying the  monitor. (NOTE: everyone on 
+      headset/mics) --
+
+                                  COLBY (cont d)
+                      ...They re coming right to us.
+
+      King nods to TWO SWAT SUVs pulling across the road, SIX SWAT 
+      GUYS getting out and taking cover behind them (TWO POLICE 
+      CARS positioning behind them) --
+
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     20.  
+
+      CONTINUED:2929
+
+                                  KING
+                      Roadblock s set...
+
+      He nods to SNIPERS in the windows of buildings overlooking --
+
+                                  KING (cont d)
+                      ...Snipers are in position.
+
+3030INT. FBI - WAR ROOM - DAY 
+
+      ON PLASMAS we see the same series of images: the SATELLITE 
+      MAPS, the STREAMED VIDEO, the surveillance camera angles on 
+      the bus and roadblock.  
+
+      David (with Walsh) sees the LAND LINE PHONE LIGHT UP.
+
+                                  DAVID
+                    Don.  He s on Line One.
+
+                                  DON
+                    Patch it through.
+
+      EXT. AIRPORT ACCESS ROAD/MOBILE COMMAND VAN - DAY3131
+
+      The PATCHED PHONE LINE LIGHTS UP.  Don punches the speaker 
+      (NOTE: he can see BUCKLEY via STREAMED VIDEO from the bus).
+
+                                  DON
+                    Eppes.
+
+                                    BUCKLEY (ON VIDEO)
+                    Sounds like you re outside -- taking 
+                    a lunch break?
+
+                                  DON
+                          (eyes Colby, guy s smart)
+                    Gettin  some air... Whatta you want?
+
+                                    BUCKLEY (ON VIDEO)
+                    Four duffle bags, equal splits.  50s 
+                    and 100s.  No consecutive serial 
+                    numbers, no new bills, no marked 
+                    bills.  No surprises in the bags. 
+
+                                  DON
+                    Where s the money going?
+
+                                    BUCKLEY (ON VIDEO)
+                    You ll know soon.
+
+      CLICK.  He hangs up.  Don punches off the speaker, troubled.  
+      Colby looks down the road to see...  The BUS approaching.
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     21.  
+
+      CONTINUED:3131
+
+                                  COLBY
+                    Here they come.
+
+                                  KING
+                    Any luck, we end this here.
+
+                                  DON
+                          (more measured...)
+                    ...Guy s smart.  How does he not know 
+                    we re waiting for him?
+
+                                  COLBY
+                          (re: approaching bus)
+                    We ve got to hit the kill-switch, 
+                    Don.
+
+                                  DON
+                          (beat; a decision)
+                    You ready, Charlie?
+
+3232INT. CALSCI - CHARLIE S OFFICE - DAY 
+
+      ON MONITORS, the same series of images: the SATELLITE MAPS, 
+      STREAMED VIDEO, DASH-CAM following the bus and surveillance 
+      cam angles on roadblock.  Charlie types on his laptop.  ON 
+      THE LAPTOP SCREEN we see flash:  smart-VIT SYSTEM PASSWORD 
+        ACCEPTED ... Charlie, on speakerphone --
+
+                                    CHARLIE
+                    I m in.
+
+                                  DON (V.O./ON HEADSET)
+                    ...Pull the plug.
+
+      Charlie hits the kill-switch key.  ON THE SCREEN we see: 
+       INITIATING VEHICLE IMMOBILIZATION ... The VIRTUAL 
+      SPEEDOMETER display shows the bus slowing down... CUT TO:
+
+3333EXT. AIRPORT ACCESS ROAD/MOBILE COMMAND VAN - DAY 
+
+      All watch as the BUS slows (the TWO SUVs trailing joined by 
+      TWO POLICE CARS hemming in the bus as it stops).  Colby looks 
+      at the STREAMING VIDEO, sees the bad guys start to react.
+
+                                  COLBY
+                    They know...
+
+      They watch the STREAMING VIDEO, BUCKLEY dialing his cell...  
+      The PATCHED-PHONE LINE LIGHTS UP.  Don punches the speaker --
+
+                                    BUCKLEY (ON VIDEO)
+                    What are you doing, Eppes?
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     22.  
+
+      CONTINUED:3333
+
+                                  DON
+                    We need to talk --
+
+                                    BUCKLEY (ON VIDEO)
+                    No, you need to listen.
+
+      As the bus stops, BUCKLEY grabs the MOTHER, holds a gun on 
+      her.  Her kid SCREAMS.  We can hear it and see it on video.
+
+                                    BUCKLEY (ON VIDEO) (cont d)
+                    Back off, re-start the engine.  Or the 
+                    next sound you hear you won t forget.
+
+      BUCKLEY yanks the MOTHER closer.  She begs for her life! 
+
+                                  DON
+                    Kill her, you know what comes next.
+
+                                    BUCKLEY (ON VIDEO)
+                    As many more as I can kill before you 
+                    make entry.  What s your acceptable 
+                    loss? -- Two?  Seven?  Ten? --
+
+                                  KING
+                          (hushed urgency, to Don)
+                    -- Zero.  We need to take the shot --
+
+                                  COLBY
+                    -- We don t have a visual --
+
+                                  KING
+                    -- One minute, my boys ll have thermal --
+
+                                  COLBY
+                    -- We don t have a minute.
+
+                                    BUCKLEY (ON VIDEO)
+                    ...I guess you ve made your decision.
+
+      As BUCKLEY levels his gun... Don reacts --
+
+                                  DON
+                    Wait!
+
+      -- and so does our Miami cop, JACK SHULER.  He jumps up --
+
+                                  JACK SHULER (ON VIDEO)
+                    I m a cop!
+
+      BUCKLEY trains his gun on Shuler, unsure what to do, as... 
+      Our guys watch the drama play out on the STREAMING VIDEO.
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     23.  
+
+      CONTINUED: (2)3333
+
+                                  JACK SHULER (ON VIDEO) (cont d)
+                    I m worth more to you than anyone 
+                    else here.  Take me.
+
+      BUCKLEY weighs his options. Lets the MOTHER go, takes Shuler.
+
+                                    BUCKLEY (ON VIDEO)
+                    I got a cop, Eppes.  One of yours...
+
+      Don agonizes, as BUCKLEY holds a gun to Shuler s head...
+
+3434INT. FBI - WAR ROOM - DAY 
+
+      The scene plays out on the PLASMA, David and Walsh watching.
+
+                                    BUCKLEY (ON VIDEO)
+                    Give me back my bus.  
+
+      David senses eyes watching behind him.  He turns to see... 
+
+      CAITLIN at the door.  She s slipped past her ND AGENT escort, 
+      who s just now arriving at her side.
+
+                                  DAVID
+                    Get her outta here!  NOW!
+
+      The ND AGENT pulls Caitlin from the room... 
+
+      OFF CAITLIN S POV -- her fiance with a gun to his head, our 
+      FBI guys seemingly powerless to stop the horror -- as she s 
+      pulled away, the WAR ROOM AND EVERYTHING IN IT GROWING 
+      SMALLER AND SMALLER IN FRAME...
+
+                                  END OF ACT ONE        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     24.  
+
+
+
+                                        ACT TWO
+
+3535EXT. AIRPORT ACCESS ROAD/MOBILE COMMAND VAN - DAY 
+
+      RESUME Buckley with a gun on Shuler, Don negotiating.
+
+                                  DON
+                    Let s just slow things down, okay?
+
+                                    BUCKLEY (ON VIDEO)
+                    It s simple, Eppes.  You give me my 
+                    bus, or I give you a bodybag.
+
+                                  DON
+                    We shut the bus down remotely, it s 
+                    gonna take us time to restart it. 
+
+                                    BUCKLEY (ON VIDEO)
+                    I m not stupid.
+
+                                  DON
+                    I know that.  I want those people 
+                    alive, you want your money -- we each 
+                    got a stake.  I just need some time.
+
+                                    BUCKLEY (ON VIDEO)
+                          (beat, deliberating)
+                    How long?
+
+                                  DON
+                    I have to get a Tech working on it.
+
+                                    BUCKLEY (ON VIDEO)
+                    You ve got one hour.
+                          (shoves Shuler into his 
+                            seat, gun on him)
+                    ...So does he.
+
+      CLICK.  OFF Don, dodging the bullet for now --
+
+3636INT. FBI - LOBBY - DAY   
+
+      Walsh heads for the exit, David pursuing him --
+
+                                  DAVID
+                    Where are you going?
+
+                                  LEN WALSH
+                    To talk to my boss.
+
+                                  DAVID
+                    You re gonna advise him to pay?
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     25.  
+
+      CONTINUED:3636
+
+                                  LEN WALSH
+                    Anything happens on that bus, it s on 
+                    me.  I want to see those eighteen 
+                    people go home to their families.
+
+                                  DAVID
+                    So do I...
+                          (making his pitch)
+                    We don t know anything about these 
+                    guys.  Say we let the bus go.  You 
+                    pay.  How do you know they won t kill 
+                    them?  As long as we have eyes on 
+                    that bus, those people have a chance.
+
+                                  LEN WALSH
+                    And if this turns into Waco?
+
+      OFF David s look, he knows he can t guarantee anything.
+
+3737EXT. AIRPORT ACCESS ROAD/MOBILE COMMAND VAN - DAY   
+
+      Don, Colby and King confab, eyes on the bus --
+
+                                  KING
+                    If we re gonna go for an insertion, 
+                    we gotta take  em down first.
+
+                                  DON
+                    Snipers have a shot?
+
+                                  KING
+                    Negative.  They ve got the heat 
+                    cranked up to defeat our thermal, low- 
+                    level jamming to kill eavesdropping.
+
+                                  COLBY
+                    So they ve got us blind.
+
+                                  KING
+                    Last time your brother did a little 
+                    magic with thermal signatures.  Think 
+                    he s got anything in his bag for this?
+
+3838INT. WAR ROOM/EXT. MOBILE COMMAND VAN/INT. CHARLIE S OFFICE - 
+      DAY (INTERCUT)   
+
+      David (in War Room) and Don (at Mobile Command Van) VIDEO-
+      CONFERENCE with Charlie (in Charlie s Office). 
+
+      (NOTE: All locations have: STREAMED VIDEO; DASH-CAM VIDEO; 
+        surveillance cam of roadblock.  WAR ROOM & MOBILE COMMAND VAN 
+      also are receiving CHARLIE on VIDEO-CONFERENCE) --
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     26.  
+
+      CONTINUED:3838
+
+                                  DON
+                    What do you think, Charlie?
+
+                                    CHARLIE (ON VIDEO)
+                    I think World Peace has a better shot 
+                    at happening in 60 minutes.
+
+                                  DON
+                    54.
+
+                                  DAVID
+                    No pressure.
+
+                                    CHARLIE (ON VIDEO)
+                    These guys have covered their bases, 
+                    Don.  They have the edge.
+
+      David s eyes drift toward the PLASMA...the STREAMED VIDEO.
+
+                                  DAVID
+                    We ve got an edge they don t know 
+                    about -- the video.
+
+      Charlie s eyes land on the STREAMED VIDEO on his laptop...
+
+                                    CHARLIE (ON VIDEO)
+                    Yeah...
+                          (light bulb going off)
+                    Maybe I could use a Voxel-Based 3-D 
+                    Capture.  
+                          (then, explaining)
+                    I created a CAD program for the 
+                      Architecture Department last year...
+
+      OFF the image of Charlie ON VIDEO, transition to:
+
+      BEGIN AUDIENCE VISION
+
+      A CAD  room,  filled with virtual furniture, lamps, etc...
+
+                                  CHARLIE (cont d)
+                    It allows designers to see what a 
+                    space will look like from different 
+                    angles, using different floorplans.
+
+    The POV and the objects in the room now move around (and move 
+      around Charlie) -- light, shadow and perspective changing...
+
+                                  CHARLIE (cont d)
+                    As the observer and the objects move 
+                    around, the CAD algorithm calculates 
+                    light, shadow, perspective...
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     27.  
+
+      CONTINUED: (2)3838
+
+      FOCUS now on one object (a floorlamp) -- vectors and numbers 
+      emerge from the light and shadow, calculating its position...
+
+                                  CHARLIE (cont d)
+                    ...Working backwards, those same 
+                    elements can provide an exact 
+                      measurement of an object s location 
+                    in the room, down to the millimeter. 
+
+      BACK TO SCENE
+
+                                    CHARLIE (ON VIDEO) (cont d)
+                    Using the streamed video and the bus 
+                      manufacturer s specs, I could run a 
+                    CAD program on the bus s interior.
+
+                                  DAVID
+                    ...The bus becomes the room.
+
+                                    CHARLIE (ON VIDEO)
+                    ...And the bad guys, the furniture in 
+                    it.  The algorithm should give the 
+                    snipers the targeting data they need. 
+
+                                  DON
+                    Let s do it.
+
+3939EXT. FBI - BRIDGE - DAY   
+
+      Caitlin looking out over the city.  Liz joins her.
+
+                                    CAITLIN
+                    I suppose it s no use asking...
+
+      Off Liz s look, there s nothing she can say --
+
+                                    CAITLIN (cont d)
+                    It was a mistake coming down here.
+
+                                  LIZ
+                    If I were in your shoes, I d do the 
+                    same thing.
+
+                                    CAITLIN
+                    It s not like I don t know the drill.  
+                    Watching  em go out the door, knowing 
+                    that may be the last time you see  em.
+
+                                  LIZ
+                    It s different... being the one on 
+                    the other side, the one going to the 
+                    job.
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     28.  
+
+      CONTINUED:3939
+
+                                    CAITLIN
+                    Two days away from getting married... 
+                    you think I ll ever be a cop s wife?
+
+                                  LIZ
+                    We re doing everything we can.
+
+4040EXT. AIRPORT ACCESS ROAD/MOBILE COMMAND VAN - DAY   
+
+      Don, Colby and King keep eyes on the bus, study the STREAMED 
+      VIDEO (bad guys with guns on the hostages).  King s edgy --
+
+                                  KING
+                    Shut out, no communication... all we 
+                    got is this crap video from the guy s 
+                    phone.  Soon as Charlie comes through, 
+                    I say we take  em down, go in.
+
+                                  DON
+                    We re not doing anything  til we 
+                    figure out what this guy s up to.
+
+                                  KING
+                    They got guns on 18 people, holding 
+                    us up for 18 million bucks -- what 
+                    more do you need to know?
+
+                                  COLBY
+                    I m with Don.  It doesn t make sense.  
+                    What s their endgame?
+
+                                  KING
+                    It s always the same -- they ask for 
+                    a police car, a chopper, an escort to 
+                    the airport.  The longer we wait, the 
+                    more time we give them... We take the 
+                    shot, everyone goes home.
+
+                                  COLBY
+                    Except maybe they don t.
+
+      A tense look between Colby and King.  Don steps in --
+
+                                  DON
+                    We wait... until we can t.
+
+                                  KING
+                    Your call, but we re all gonna have 
+                    to live with it.
+
+                                  DON
+                    You re right... It s my call.
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     29.  
+
+      CONTINUED:4040
+
+      OFF Don s look.  Then, the STREAMED VIDEO, MATCH CUT TO:
+
+      INT. CALSCI - CHARLIE S OFFICE - DAY4141
+
+      ...The STREAMED VIDEO NOW ON CHARLIE S LAPTOP.  Next to it, 
+      ANOTHER LAPTOP showing the CAD SCHEMATIC of the interior of 
+      the bus (VIRTUAL PASSENGERS seated, VIRTUAL BAD GUYS in the 
+      aisle).  Charlie works feverishly.  Amita enters with coffee.
+
+                                  AMITA
+                    How s it going?
+
+                                    CHARLIE
+                    Almost there.
+
+                                  AMITA
+                    You know the situation is 
+                      deteriorating, right?
+
+                                    CHARLIE
+                    My 3-D Capture will be done in time.
+
+                                  AMITA
+                    I m talking about Larry and Alan.  I 
+                    just saw them nearly come to blows at 
+                    the cafe.  Theresa, the check-out 
+                    lady, had to step in.
+
+                                    CHARLIE
+                    Brave woman.
+
+                                  AMITA
+                    Look, I realize we ve got bigger 
+                    issues right now, but you do get that 
+                    sooner or later you re gonna have to 
+                    step in, yourself.
+
+                                    CHARLIE
+                    They re both grown men.  Just because 
+                    they re not acting like it --
+
+                                  AMITA
+                    -- Means you have to.
+                          (beat)
+                    We both know Larry s depressed about 
+                    the shutdown of the CERN collider, the 
+                    freeze on our Higgs  research... and 
+                    your dad, well, he s being your dad.
+
+                                    CHARLIE
+                    I don t want to pick winners and 
+                    losers...
+                                  (MORE)
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     30.  
+
+      CONTINUED:4141
+                                  CHARLIE (cont d)
+                          (then, frustrated)
+                    Who elected me Team Leader, anyway?
+
+                                  AMITA
+                    They did.
+                          (off his look)
+                    Don t look at me -- I voted for 
+                    myself.
+
+      Charlie s computer BEEPS.  He checks the read-out --
+
+                                    CHARLIE
+                      ...Bullseye.
+
+      INT. FBI - TECH ROOM/EXT. MOBILE COMMAND VAN - DAY (INTERCUT)4242
+
+      David (in Tech Room) briefs Don and Colby (at Command Van).
+
+                                  DAVID
+                    Got ID s on the rest of our crew...
+
+      David punches up a BUS COMPANY I.D. PHOTO of PHIL CRAYPO 
+      (same images will appear on screens of the Mobile Command 
+      Van) --
+
+                                  DAVID (cont d)
+                      ...Craypo, the mechanic, we know.
+
+      David punches up a MUGSHOT/SURVEILLANCE PHOTO of BUCKLEY --
+
+                                  DAVID (cont d)
+                    ...Our alpha, John Buckley.  He s 
+                    pulled mostly high-end jobs -- jewelry 
+                    store robberies, bank heists...
+
+                                  COLBY
+                    Going for the home run this time.
+
+      David punches up a MUGSHOT/SURVEILLANCE PHOTO of HAYS --
+
+                                  DAVID
+                    ...Andrew Hays.  Drug-runner.  Worked 
+                    for the Colombians as a pilot.
+
+                                  KING
+                    Confirms the airport getaway plan.
+
+      David punches up a MUGSHOT/SURVEILLANCE PHOTO of KIROV --
+
+                                  DAVID
+                    Our hacker.  Victor Kirov.  Aside from 
+                    getting caught, he s one of the best.
+                                  (MORE)
+
+
+                                                                            (CONTINUED)      NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     30A.  
+
+      CONTINUED:4242
+                                  DAVID (cont d)
+                          (then)
+                    Good news is none of them has a 
+                    history of violence.
+
+                                  COLBY
+                    Bad news is there s always a first 
+                    time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     31.  
+
+      CONTINUED: (2)4242
+
+                                  DON
+                    How re these guys connected?
+
+                                  DAVID
+                    They re not.  Arrest records read 
+                    like a travelogue, all over the 
+                    country.  No common denominator.
+
+                                  COLBY
+                    Operation like this... a crew doesn t 
+                    just hook up on MySpace.
+
+                                  DON
+                    Where s Charlie on our math?
+
+                                  DAVID
+                    I talked to him five minutes ago.  He 
+                    was working the last bugs out.
+
+      David s cell RINGS, he checks the display --
+
+                                  DAVID (cont d)
+                    ...Looks like he s done.
+
+4343INT. CALSCI - CHARLIE S OFFICE - DAY 
+
+      ON CHARLIE S MONITORS: STREAMED VIDEO from the bus; Charlie s 
+      CAD SCHEMATIC of the VIRTUAL INTERIOR of the bus alongside a 
+      VIRTUAL EXTERIOR showing the windows; a REAL-TIME VIDEO FEED 
+      FROM the SIERRA ONE (SNIPER s) VIDEO-SCOPE.  Charlie types 
+      commands on his laptop...
+
+                                    CHARLIE
+                    Program s booting up...
+
+4444INT. FBI - WAR ROOM - DAY   
+
+      ...David and Walsh observe the same display on the PLASMAS -- 
+      the STREAMED VIDEO; and CHARLIE S CAD SCHEMATIC split-screen 
+      of the VIRTUAL INTERIOR/VIRTUAL EXTERIOR; the SNIPER s FEED.
+
+                                  DAVID
+                    ...We re ready, Don.
+
+4545EXT. AIRPORT ACCESS ROAD/MOBILE COMMAND VAN - DAY 
+
+      Don, Colby and King at the command center, with the same 
+      displays.
+
+                                  DON
+                    Let s light  em up.        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     32.  
+
+
+
+      INT. CALSCI - CHARLIE S OFFICE - DAY4646
+
+      Charlie lines up the shot on CRAYPO, his math coordinating 
+      between interior and exterior, using a  virtual laser dot.  
+
+                                    CHARLIE
+                    I ve got the first one.
+
+4747EXT. AIRPORT ACCESS ROAD/MOBILE COMMAND VAN - DAY  
+
+      King follows the targeting on the command center monitor.
+
+                                  KING
+                    Sierra One, you copy?
+
+4848INT. BUILDING OVERLOOKING THE ROAD - DAY   
+
+      SIERRA ONE has a sniper rifle (its mounted VIDEO CAMERA SCOPE 
+      sending the VIDEO FEED to Charlie).  He s using an eyepiece 
+      that s receiving Charlie s  virtual  laser dot transmission 
+      to do his targeting.  As he lines up Charlie s  virtual  
+      laser dot with his real laser dot --
+
+                                  SIERRA ONE (V.O.)
+                    Sierra One.  I ve got the shot.
+
+4949INT. CALSCI - CHARLIE S OFFICE - DAY 
+
+      Charlie repeats the same procedure (with SIERRA TWO s REAL-
+      TIME VIDEO FEED from his VIDEO CAMERA SCOPE), targeting HAYS.
+
+                                    CHARLIE
+                    ...Got Number Two.
+
+      ON Charlie s display, the virtual and real dots line up --
+
+                                  SIERRA TWO (V.O.)
+                    Sierra Two.  I ve got the shot.
+
+5050INT. FBI - WAR ROOM - DAY   
+
+      David spies BUCKLEY (ON VIDEO) dialing his cell...
+
+                                  DAVID
+                    Don --
+
+5151EXT. AIRPORT ACCESS ROAD/MOBILE COMMAND VAN - DAY   
+
+                                  DON
+                    -- I see him.
+
+      The PATCHED LAND LINE LIGHTS UP, Don hits the speaker.
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     33.  
+
+      CONTINUED:5151
+
+                                    BUCKLEY (ON VIDEO)
+                    Your hour s up.
+
+                                  DON
+                    We need more time.
+
+                                    BUCKLEY (ON VIDEO)
+                    Sorry to hear that.
+
+      BUCKLEY (ON VIDEO) yanks Shuler out of his seat --
+
+5252INT. FBI - WAR ROOM - DAY   
+
+      David and Walsh watch their CAD display as SIERRA THREE lines 
+      up his real laser dot with Charlie s virtual laser dot.
+
+                                  SIERRA THREE (V.O.)
+                    Sierra Three.  I ve got the shot.
+
+5353EXT. AIRPORT ACCESS ROAD/MOBILE COMMAND VAN - DAY   
+
+                                    BUCKLEY (ON VIDEO)
+                    You just want more time to work 
+                    whatever angle it is you re working --
+
+                                  DON
+                    -- Nobody s working anything.
+
+                                    BUCKLEY (ON VIDEO)
+                    You re prolonging the situation, 
+                    letting me think I m in control.  But 
+                    I am in control --
+
+                                  DON
+                    Five minutes.  That s all I m asking.
+
+                                    BUCKLEY (ON VIDEO)
+                    Why five minutes?  What s your play, 
+                    Eppes? -- Sounds to me like you re 
+                    getting ready to insert...
+
+      ANGLE ON COLBY AND KING
+
+                                  KING
+                    We gotta do this.
+
+                                  COLBY
+                          (into his headset mic)
+                    How re we doing, Charlie?        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     34.  
+
+
+
+5454INT. CALSCI - CHARLIE S OFFICE - DAY  
+
+      Charlie works feverishly, getting a video feed from SIERRA 
+      FOUR S SCOPE.  The last target -- BUCKLEY (ON VIDEO and 
+      CAD/VIRTUALLY) -- is agitated, moving too much.  Charlie s 
+      virtual laser dot can t get a fix...
+
+                                    CHARLIE
+                    He s moving, I can t get a lock.
+
+5555EXT. AIRPORT ACCESS ROAD/MOBILE COMMAND VAN - DAY   
+
+                                    BUCKLEY (ON VIDEO)
+                    ...What makes you think you can pull 
+                    it off? -- You re blind...
+
+      BUCKLEY, edgier now, starts looking around.  Eyes searching.
+
+      ANGLE ON COLBY AND KING
+
+                                  KING
+                    -- We gotta pull the trigger --
+
+                                  COLBY
+                    -- We re not there yet --
+
+                                    BUCKLEY (ON VIDEO)
+                    ...unless you re not.
+
+      BUCKLEY s eyes are still searching... then he sees it!  The 
+      CELL PHONE streaming the VIDEO.  He stares into the lens!  
+
+                                    BUCKLEY (ON VIDEO) (cont d)
+                    You son of a bitch.
+
+      BUCKLEY shoves Shuler into his seat and grabs the MOTHER.
+
+                                    BUCKLEY (ON VIDEO) (cont d)
+                    I said I d kill the cop.  I m 
+                    doubling down.
+
+                                  DON
+                    Wait, let s talk --
+
+      ANGLE ON COLBY AND KING
+
+                                  KING
+                    -- He s gonna kill her --
+
+                                  COLBY
+                    -- He knows what ll happen --
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     35.  
+
+      CONTINUED:5555
+
+                                  KING
+                    -- Maybe he doesn t care.
+
+      BUCKLEY points the gun at the MOTHER, she screams.  Her son 
+      and the other passengers freak out!
+
+                                  COLBY
+                          (urgent, into his mic)
+                      Charlie...
+
+      INT. CALSCI - CHARLIE S OFFICE - DAY5656
+
+      Charlie s finally lined up the shot!
+
+                                    CHARLIE
+                    ...I got him, I got him!
+
+5757EXT. AIRPORT ACCESS ROAD/MOBILE COMMAND VAN - DAY 
+
+                                    BUCKLEY (ON VIDEO)
+                    Tell the bus company you just got 
+                    them a discount.
+
+      BUCKLEY throws the MOTHER to the floor, levels his gun --
+
+                        DONJACK SHULER (ON VIDEO)
+      Wait! --Wait!
+
+      Shuler jumps out of his seat --
+
+                                  JACK SHULER (ON VIDEO)
+                    ...I put it there.  The FBI had 
+                    nothing to do with it.
+
+      A beat, as BUCKLEY processes.  He aims his gun at Shuler --
+
+                                    BUCKLEY (ON VIDEO)
+                    ...You just can t help yourself.
+
+      On the CAD display we see SIERRA FOUR s real laser dot line 
+      up with Charlie s virtual laser dot --
+
+                                  SIERRA FOUR (V.O./ON HEADSETS)
+                    Sierra Four.  I ve got the shot.
+
+                                  DON
+                    Do it!  Take it!  Take it!
+
+                                  KING
+                    Take the shot!  Take the shot!
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     36.  
+
+      CONTINUED:5757
+
+      The SNIPERS (SIERRA TEAM) fire!  The BULLETS pierce the 
+      painted windows of the bus.  Don orders the SWAT TEAM in!
+
+                                  DON
+                    Let s go!  Let s go!  Let s go!
+
+      Don, Colby, King and the SIX SWAT GUYS storm the bus! --
+
+      INT. SIGHTSEEING BUS - DAY5858
+
+      -- to find it empty!  Except for the BUS DRIVER, seated in 
+      the driver s seat, wearing a headset, a bomb belt around his 
+      waist.  Scared to death.  He gestures to the bomb belt --
+
+                                  BUS DRIVER
+                    Get me outta this thing!
+
+      King takes one look at the bomb -- 
+
+                                  KING
+                    They forgot the grounding wire.
+
+      -- and yanks the detonator.  The Driver flinches, nothing 
+      happens.
+
+                                  DON
+                    Where are the passengers?
+
+                                  BUS DRIVER
+                    Gone.
+
+      Colby looks up to see... a VIDEO CAMERA rigged above them.
+
+                                  COLBY
+                    He s watching us...
+
+                                    BUCKLEY (O.S.)
+                    ...Wrong bus, Eppes.
+
+      They FOLLOW THE VOICE to a MONITOR at the Driver s feet, 
+      displaying the SAME STREAMED VIDEO we ve been watching, 
+      BUCKLEY still holding his gun on Shuler --  
+
+5959INT. FBI - WAR ROOM - DAY   
+
+      David and Walsh are watching, too as... 
+
+                                    BUCKLEY (ON VIDEO)
+                    You think I d really let some cop sneak 
+                    video out right under my nose?  I told 
+                    you I m in control.  See for yourself --
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     37.  
+
+      CONTINUED:5959
+
+      BUCKLEY fires twice!  TWO SLUGS rip into Shuler s chest.  He 
+      falls to the floor, dead.  
+
+      BUCKLEY leans into the cell camera lens... then smashes it 
+      with his gun.  OFF THE IMAGE GOING TO SNOW...
+
+                                  END OF ACT TWO        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     38.  
+
+
+
+                                      ACT THREE
+
+6060EXT. AIRPORT ACCESS ROAD - DAY   
+
+      Don and Colby question the Bus Driver, off the bus, no bomb 
+      belt.
+
+                                  DON
+                    What the hell happened?
+
+                                  BUS DRIVER
+                    After they took over the bus, they 
+                    made me drive to an alley.  There was 
+                    another bus there waiting, they 
+                      transferred over the passengers.
+                          (beat)
+                    They knew about the panic button.  
+                    They put the bomb belt on me, told me 
+                    to push it, send the distress call.
+
+                                  COLBY
+                    They wanted us to follow you.
+                          (then, to Don)
+                    Only time we didn t have eyes on them 
+                    was those first few minutes.
+
+                                  BUS DRIVER
+                    They gave me the headset so they 
+                    could radio me instructions...
+
+                                  COLBY
+                      ...Leading us on a wild-goose chase 
+                    for the next two hours.
+
+      Don and Colby step away to confer --
+
+                                  COLBY (cont d)
+                    They could be anywhere by now.
+
+                                  DON
+                    He played us.
+
+                                  COLBY
+                    And killed a cop... showing us he s in 
+                    the driver s seat, we can t stop him.
+
+      Don sees KING debriefing his SNIPERS.  Colby senses his mood. 
+
+                                  COLBY (cont d)
+                    You made the right call, Don.  There 
+                    was no way to know.
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     39.  
+
+      CONTINUED:6060
+
+                                  DON
+                    Maybe we pushed him... if I hadn t 
+                    called for the shot, he wouldn t have 
+                    pulled the trigger.
+
+                                  COLBY
+                    You can t be inside the guy s head.
+
+                                  DON
+                    That s my job.
+
+6161INT. FBI - BULLPEN - DAY   
+
+      Liz briefs David, on the move --
+
+                                  LIZ
+                    The second bus was stolen from the 
+                    company s repair yard last night.
+
+                                  DAVID
+                    Another security screw-up.
+
+      David looks across the Bullpen, to WALSH, in the War Room --
+
+                                  DAVID (cont d)
+                    Kinda makes you wonder, doesn t it?
+                    Walsh has been itching to pay.
+
+                                  LIZ
+                    You think he s in on it?
+
+                                  DAVID
+                    I m still looking for the link to tie 
+                    our bad guys together.  Maybe the 
+                    connection s right in front of us.
+
+                                  LIZ
+                          (beat, looks to David)
+                    What do I tell his fiancee?
+
+                                  DAVID
+                    He died doing his job.  Beyond that...
+                          (eyeing Liz)
+                    You want me to do it?
+
+                                  LIZ
+                    No.  I should.
+
+    An ND AGENT walks up, interrupts --
+
+                                  ND AGENT
+                    Line One.  It s him.
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     40.  
+
+      CONTINUED:6161
+
+      They cross to David s desk, he hits the speakerphone --
+
+                                  DAVID
+                    This is Agent Sinclair.
+
+                                    BUCKLEY (ON PHONE)
+                    Where s Eppes?
+
+                                  DAVID
+                    Taking a leak.  What do you want?
+
+                                    BUCKLEY (ON PHONE)
+                    Now that you spent the past two hours 
+                    chasing your tails, getting a cop 
+                    killed... let s get down to business. 
+                    You ve got 90 minutes.
+
+                                  DAVID
+                    You said seven o clock.
+
+                                    BUCKLEY (ON PHONE)
+                    You lost a hostage and a half-hour.
+
+      CLICK.  David punches off the speaker, swaps a look with Liz. 
+
+                                  LIZ
+                    He s moving the goalposts.  What now?  
+
+                                  DAVID
+                    We try to move them back.
+
+      Off which, CUT TO:
+
+      INT. FBI - WAR ROOM/CHARLIE S OFFICE - DAY (INTERCUT)6262
+
+      Charlie (ON PLASMA) VIDEO-CONFERENCES with David and Walsh. 
+
+                                    CHARLIE (ON VIDEO)
+                    Clearly he s keeping us off-balance.  
+                    The diversion tactics... shifting 
+                      deadlines... threats.  Classic.  
+                    Perfect for an Inverse Game Theory 
+                      Analysis...
+
+                                  LEN WALSH
+                    I think I missed that day in school.
+
+                                    CHARLIE (ON VIDEO)
+                    You play poker?
+
+                                  LEN WALSH
+                    Yeah...
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     41.  
+
+      CONTINUED:6262
+
+                                    CHARLIE (ON VIDEO)
+                    So this is a poker game...
+
+      BEGIN AUDIENCE VISION
+
+    DON and BUCKLEY, shades and cigars, play Five Card Draw.  
+      Charlie joins in, sits down and deals the cards...
+
+                                  CHARLIE (cont d)
+                    ...Two players, each dealt a finite 
+                    number of cards from a finite deck...
+
+    DON and BUCKLEY fan out their hands, study their cards --
+
+                                  CHARLIE (cont d)
+                    ...just like the FBI has a finite number of 
+                    tools at its disposal... The kidnappers, a 
+                    finite number of bargaining chips.
+
+      ANGLE ON BUCKLEY, measuring DON...
+
+                                  CHARLIE (cont d)
+                    Right now, the kidnappers have the 
+                    advantage.  They ve studied our 
+                      procedures, tendencies...
+
+      REVEAL that DON s cards are facing out, BUCKLEY can see them.
+
+                                  CHARLIE (cont d)
+                    They know our hand.  And they re 
+                    playing accordingly...
+
+      BUCKLEY wins, sweeps the pot toward him.  New deal...
+
+                                  CHARLIE (cont d)
+                    But what they don t know is, the more they 
+                    play, the more they reveal their own game --
+
+      BUCKLEY gathers his hand, but this time one of his cards is 
+      facing out (so DON can see it).
+
+                                  CHARLIE (cont d)
+                    -- giving us a clearer picture of 
+                    their own decision-making process.
+
+      More and more of BUCKLEY s cards begin to face out, until all 
+      become visible to DON...
+
+      BACK TO SCENE
+
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     42.  
+
+      CONTINUED: (2)6262
+
+                                    CHARLIE (ON VIDEO) (cont d)
+                    By analyzing the kidnappers  moves -- 
+                    modeling their strategy -- I may be 
+                    able to level the game.
+
+                                  LEN WALSH
+                    Except this isn t a game.  I ve 
+                    already lost one hostage.
+                          (looks hard at David)
+                    Next time the phone rings, I m doing 
+                    the talking.
+
+      OFF David measuring Walsh, his suspicions growing.
+
+6363INT. FBI - INTERVIEW ROOM - DAY   
+
+      Liz with Caitlin, who cups her hands around a mug of hot tea.
+
+                                  LIZ
+                    Jack was a hero.  You need to know that.
+
+                                    CAITLIN
+                    Maybe someday that ll make it easier, 
+                    but right now...
+                          (beat, looking at Liz)
+                    I can t go back to that hotel room, 
+                    see his things...
+
+                                  LIZ
+                    I can send someone with you.
+
+                                    CAITLIN
+                    Do you think I could just... stay 
+                    here another hour or two, at least 
+                    until I get my feet under me.  
+
+      Liz holds Caitlin s look, something suddenly bothering her.
+
+                                  LIZ
+                    A couple hours... Sure.  Let me get 
+                    you some more tea.
+
+      Liz takes Caitlin s tea mug.  She gets up, exits into...
+
+      INT. FBI - BULLPEN - DAY6464
+
+      ...where, en route to the kitchen, she stops at a cubicle.  
+      She puts the tea mug down in front of an ND AGENT.
+
+                                  LIZ
+                    Bag this and send it to the lab.  Put 
+                    a rush on the prints.        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     43.  
+
+
+
+6565INT. CALSCI - HALLWAY - DAY  
+
+      Charlie and Amita walk and talk --
+
+                                    CHARLIE
+                    ...It isn t making sense.
+
+                                  AMITA
+                    What isn t?
+
+                                    CHARLIE
+                    The kidnappers  game play.  They re 
+                    like a  streak  poker player.  They 
+                    go on a run, then suddenly go cold. 
+                    Make mistakes an amateur would make.
+
+                                  AMITA
+                    Maybe we re overestimating them.
+
+                                    CHARLIE
+                    We re missing a variable.
+
+      As they near the corner, they hear VOICES, elevated --
+
+                                  LARRY (O.S.)
+                    We re not getting anywhere, Alan.
+
+                                  ALAN (O.S.)
+                    You don t have to tell me.  We ve 
+                    been having this same conversation 
+                    for twenty minutes.
+
+      Amita and Charlie hustle around the corner to find... Alan 
+      and Larry in tense discussion.
+
+                                  ALAN (cont d)
+                    Larry, you re not listening --
+
+                                  LARRY
+                    I am listening.  I m just not finding 
+                    your argument very persuasive --
+
+                                  ALAN
+                    Because you re not listening!
+
+                                    CHARLIE
+                    Guys!  Stop it! -- This is getting 
+                    out of hand.  You two need to start 
+                    acting like adults.
+
+                                  ALAN
+                    We are.
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     44.  
+
+      CONTINUED:6565
+
+      Off Charlie s skeptical look --
+
+                                  LARRY
+                    We were engaged in a legitimate 
+                      discourse.
+
+                                    CHARLIE
+                    ...About whose idea is better, I know.
+
+                                  ALAN
+                    Actually, we were discussing the 
+                    merits of each other s ideas --
+
+                                  LARRY
+                    -- Alan and I have each decided to 
+                    concede.  Of course, that itself has 
+                    become a new point of contention.
+
+                                  AMITA
+                    Wait a minute.  You two are at each 
+                    other s throats over... not being at 
+                    each other s throats.
+
+      Larry and Alan enjoy the absurdity --
+
+                                  ALAN
+                    We could do a Think Tank on that.
+
+                                  LARRY
+                    The  Eppes-Fleinhardt Paradox. 
+
+                                  ALAN
+                       Fleinhardt-Eppes. 
+                          (then, eyeing Larry)
+                    Did you just trick me into taking 
+                    second position?
+
+      Larry smiles.  So does Amita --
+
+                                  AMITA
+                     Rabbit Season/Duck Season ...
+                          (off confused looks)
+                    Bugs Bunny tricks Daffy Duck into 
+                    declaring  duck season  by declaring 
+                     rabbit season.   Elmer Fudd shoots 
+                    Daffy, his beak spins around... it s a 
+                    good one...
+
+      Amita s lost them.  She appeals to Charlie --
+
+                                  AMITA (cont d)
+                    ...Am I alone here?
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     45.  
+
+      CONTINUED: (2)6565
+
+      -- but Charlie has that faraway look...
+
+                                    CHARLIE
+                    ...It s a paradox.
+
+                                  LARRY
+                    What are you talking about, Charles?
+
+                                    CHARLIE
+                    The kidnappers.  The mistakes they ve 
+                    been making aren t mistakes.  Because 
+                    they re making them on purpose...
+                    I ve gotta go.
+
+      Charlie rushes off.
+
+                                  ALAN
+                    That was predictable.
+
+                                  LARRY
+                    Is it me, or is it possible our Think 
+                    Tank just had its first breakthrough?
+
+6666INT. FBI - BULLPEN - DAY   
+
+      Don and Liz stare across the Bullpen at... Caitlin, alone in 
+      the Coffee Room, drinking tea --
+
+                                  LIZ
+                    I tracked down Jack Shuler s partner 
+                    in Miami.  He s never heard of any 
+                    Caitlin Dawes, let alone a fiancee.
+
+      Liz hands him a file (MUG SHOT/SURVEILLANCE PHOTO attached) --
+
+                                  LIZ (cont d)
+                    Real name s Caitlin Rienzi.  Series 
+                    of collars for fraud.  One of them an 
+                    identity theft scheme, stealing 
+                    houses from retirees.  Guy running 
+                    the scam was John Buckley --
+
+                                  DON
+                    -- our alpha...
+
+                                  LIZ
+                    She s in on it.  Watching our every 
+                    move, stepping out to make calls to 
+                    Buckley, keeping him in the loop.
+
+                                  DON
+                    How d you know?
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     46.  
+
+      CONTINUED:6666
+
+                                  LIZ
+                    Most  grieving widows  want to get 
+                    away from this place as fast as they 
+                    can.  She wanted to stay... two more 
+                    hours.
+
+                                  DON
+                    ...To make sure we were paying the ransom.
+
+                                  LIZ
+                    You want to throw her in the box?
+
+                                  DON
+                    She ll lawyer up.  She wants to stay, 
+                    let her stay --
+
+                                  LIZ
+                    -- And we keep eyes on her.
+
+      David walks up, interrupts.  Urgent --
+
+                                  DAVID
+                    I found our crew s connection.
+
+6767INT. FBI - WAR ROOM - DAY   
+
+      -- PICK UP Don, David and Liz entering, on the move --
+
+                                  LIZ
+                    Let me guess, Walsh.
+
+                                  DAVID
+                    No...  
+
+      David punches up our FOUR BAD GUYS on the PLASMA --
+
+                                  DAVID (cont d)
+                      ...Buckley, Hays, Kirov, Craypo.  Four 
+                    years ago, they were all swept up in a 
+                    series of drug raids --
+
+                                  LIZ
+                    -- Part of a RICO investigation of 
+                    the Cuban cartel.  But they were all 
+                    busted in different cities...
+
+                                  DAVID
+                      ...interviewed at different times.  
+                    One of the guys doing the interviews 
+                    was a narcotics detective TAD d to 
+                    the feds...  From Miami P.D.
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     47.  
+
+      CONTINUED:6767
+
+      David punches up a MIAMI P.D. ID PHOTO of JACK SHULER, it 
+      ZOOMS FORWARD FULL-SCREEN...
+
+                                  DON
+                    Shuler? -- You gotta be kidding me.
+
+                                  DAVID
+                    Buckley s the brains, but Shuler put 
+                    the crew together.
+
+                                  LIZ
+                    I don t get it.  Shuler s the one who 
+                    sent us the video, he tried to stop 
+                    these guys.
+
+                                  DAVID
+                    Second thoughts, maybe.  Buckley 
+                    starts threatening women and 
+                    children, the cop in him comes out...
+
+      Charlie enters, joining them (having heard this last) --
+
+                                    CHARLIE
+                    Guess again.
+
+      Off their looks --
+
+                                    CHARLIE (cont d)
+                    I was struggling with my model of the 
+                      kidnappers  strategy.  There were too 
+                    many inconsistencies in their 
+                    otherwise high level of play.  Then 
+                    it hit me -- the best way to cheat is 
+                    to not seem like you re cheating.
+
+                                  DON
+                    I don t follow you.
+
+                                    CHARLIE
+                    They ve been showing us their hand.  
+                    But only the cards they wanted us to 
+                    see.  Think about it -- the driver 
+                    hitting the panic button, the obvious 
+                    route to the airport, all their 
+                       mistakes  we thought we were 
+                      capitalizing on... it was a cheat.  
+                      Stagecraft.  And they saved the best 
+                    show for last --
+
+                                  LIZ
+                          (putting it together)
+                    ...The video.        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     48.  
+
+
+
+      INT. FBI - TECH ROOM - DAY6868
+
+      ON PLASMA, the STREAMED VIDEO... Don, David, Colby watching.
+
+                                  DON
+                    Slow the last part down.
+
+                                  DAVID *
+                    Go frame by frame. *
+
+      The TECH runs the VIDEO in EXTREME SLO-MO... final seconds 
+      when BUCKLEY shoots Shuler.  In SLO-MO, BLOOD-SQUIBS pop-pop 
+      on Shuler slightly before the gun s muzzle flashes!
+
+                                  COLBY
+                    The shots are out of sync.  Bullet-hits 
+                    are popping before the gun s firing...
+
+                                  DON
+                    Only one way that happens --
+
+                                  DAVID
+                    Buckley was firing blanks --
+
+                                  COLBY
+                    -- And the bullet-hits were fake.
+
+                                  DON
+                    Run it back.  Push in on our Hacker.
+
+      The TECH plays it back, ZOOMS IN ON KIROV (the Hacker).  We 
+      see him working a hand-held remote, in sync with the squibs.
+
+                                  COLBY
+                    He rigged the phony blood hits, 
+                    triggered them remotely. 
+
+                                  DON
+                    It was all staged -- 
+
+                                  DAVID
+                    -- the streamed video, murdering the 
+                    cop... they put on a show for us and 
+                    we bought it. 
+
+                                  COLBY
+                    And somewhere they re still holding a busload 
+                    of hostages with guns to their heads.
+
+      OFF the image of the  dead  Jack Shuler...
+
+                                  END OF ACT THREE        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     49.  
+
+
+
+                                        ACT FOUR
+
+      INT. FBI - TECH ROOM - DAY6969
+
+      ON THE PLASMA... Reprise the last seconds of the SLO-MO VIDEO 
+      of Shuler s faked death.  The TECH STOPS the VIDEO, as we... 
+
+      ...REVEAL WALSH now watching, with David, Liz and Charlie.
+
+                                  LEN WALSH
+                    The girl s in on it, too?
+
+                                  DAVID
+                    They wanted insurance.
+
+                                  LIZ
+                      Confirmation we were taking the bait.
+
+                                  LEN WALSH
+                    At least I don t have a dead cop on 
+                    my conscience.
+
+                                  DAVID
+                    They re still holding 17 other people.
+
+                                  LIZ
+                    They haven t killed anyone yet, but 
+                    that could change if we don t give 
+                    them what they want.
+
+                                    CHARLIE
+                    ...I m not so sure.
+                          (off their looks)
+                    Consider the game they re playing.  
+                    So far, every step of the way, their 
+                    strategy has shown a marked 
+                      inclination toward non-violence.  In 
+                    fact, they ve gone out of their way 
+                    not to kill anyone.
+
+                                  DAVID
+                          (putting it together)
+                    ...The bomb belt was a dud, the 
+                    murder of Shuler was faked...
+
+                                  LIZ
+                      ...consistent with their rap sheets -- 
+                    no history of violence.
+
+                                    CHARLIE
+                    They want us to believe they re 
+                    capable of killing -- 
+
+
+
+                                                                            (CONTINUED)      NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     49A.  
+
+      CONTINUED:6969
+
+                                  LIZ
+                    -- but you don t think they are.
+
+                                    CHARLIE
+                    Illusion is their weapon.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     50.  
+
+      CONTINUED: (2)6969
+
+                                  LEN WALSH
+                    You re not seriously suggesting we 
+                    should call their bluff...
+
+                                  DAVID
+                    We can t take that chance.
+
+                                    CHARLIE
+                    We don t have to.
+                          (off David s look)
+                    The dynamic s shifted.  We re seeing 
+                    all their cards now -- including the 
+                    ones they didn t want us to see.  We 
+                    have the edge, this time for real.
+
+7070INT. FBI - WAR ROOM - NIGHT  
+
+      THE LAND LINE PHONE LIGHTS UP... Don and Walsh look at the 
+      clock on the wall: 6 pm.
+
+                                  DON
+                    You ready?
+
+      Walsh nods.  A beat, then Walsh hits the speakerphone.
+
+                                  LEN WALSH
+                    This is Len Walsh.  Head of Security, 
+                      HollywoodLine Tours.
+
+                                    BUCKLEY (ON PHONE)
+                    It s about time.  Where s Eppes?
+
+                                  LEN WALSH
+                    I told the FBI to take a step back.
+
+                                    BUCKLEY (ON PHONE)
+                    So you re the boss now.  Okay, boss,  
+                    change of plans.  I want the money 
+                    wired to an account in the Caymans.  
+                    I just e-mailed instructions to your 
+                    office.
+
+                                  LEN WALSH
+                    ...Okay.
+
+                                    BUCKLEY (ON PHONE)
+                    As soon as I have confirmation the 
+                    money s been sent, you ll receive 
+                    another message with the location of 
+                    the hostages.  Play nice, everyone 
+                    gets to go home and the cop s family 
+                    gets a body to bury.
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     51.  
+
+      CONTINUED:7070
+
+                                  LEN WALSH
+                    How do I know you ll stick to your 
+                    side of the bargain?
+
+                                    BUCKLEY (ON PHONE)
+                    There s only one thing you can count 
+                    on.  If I don t get my money by 6:30, 
+                    a kid s not gonna have a mom.
+
+      CLICK.  Don punches off the speakerphone, looks to Walsh --
+
+                                  DON
+                    Now we wait for the messenger.
+
+      INT. BUS STATION - NIGHT7171
+
+      CAITLIN moves through the crowd, on her cell --
+
+                                    CAITLIN
+                    ...It s me.  I just left the FBI.  
+                    After you called, two bank guards 
+                    showed up with the money.  They 
+                    loaded it into four duffle bags.  
+                    You ve never seen so much green...
+
+      A beat as she listens... watches a FIGURE moving toward her, 
+      ballcap pulled low.  He looks up -- it s JACK SHULER.
+
+                                    CAITLIN (cont d)
+                    ...Jack s here.  We ll be at the safe 
+                    house in an hour.
+
+      She hangs up.  Comes face to face with Shuler --
+
+                                    CAITLIN (cont d)
+                    You look good for a dead guy.
+
+                                  JACK SHULER
+                    A share of 17 million has a healing 
+                    effect.
+
+      She smiles.  Then spies TWO MEN (ND AGENTS) now standing at 
+      the ENTRANCE, watching.  Her eyes dart to the STAIRWAY 
+      LEADING TO THE EXIT AT THE BACK, same thing.  All the exits 
+      are covered.
+
+                                  JACK SHULER (cont d)
+                    What s wrong?
+
+      Caitlin feels eyes on her.  She turns around to see... LIZ.
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     52.  
+
+      CONTINUED:7171
+
+                                  LIZ
+                      ...There s the happy couple.  The bus 
+                    for Vegas just left.
+
+      Shuler goes for his waistband.  A GUN jabs his ribs. 
+
+      REVEAL DAVID behind Shuler, his gun under a jacket on his 
+      arm.  Shuler s hand lingers near his waistband for another 
+      beat.  David presses his gun harder into Shuler s ribs --
+
+                                  DAVID
+                    You want to die twice in one day?
+
+      Shuler eases his hand back.  
+
+                                  DAVID (cont d)
+                    You re gonna show us where that bus 
+                    is.
+
+      OFF Shuler s look -- he doesn t have much choice... CUT TO:
+
+7272INT. ND WAREHOUSE -  NIGHT   
+
+      STEALTHING THROUGH, we come upon THE BUS.  Surrounded by the 
+      trappings of low-tech film F/X -- make-shift movie lights, 
+      four speakers on stands (simulating traffic noise), a 2-by-4 
+      wooden board jammed under a tire to simulate road movement. 
+
+      REVEAL KING and COLBY with TWO SWAT GUYS moving, keeping eyes 
+      on the bus.  They spy... 
+
+      CRAYPO, HAYS and KIROV guarding the perimeter, AKs slung. 
+
+      King and Colby get on their headset mics --
+
+                                  KING
+                    Bus is inside, same deal as before -- 
+                    windows painted, can t get a visual.  
+                    We got three bad guys with AKs  
+                    guarding the perimeter.
+
+                                  COLBY
+                      ...Buckley and the hostages must 
+                    still be inside the bus.
+
+                                  KING
+                    What s the plan?
+
+      ANGLE ON DON with TWO MORE SWAT GUYS moving in from another 
+      direction, keeping eyes on the bus (INTERCUT BETWEEN THEM) --
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     53.  
+
+      CONTINUED:7272
+
+                                  DON
+                    We ve got five minutes before the 
+                    phone rings.  You take out the guys 
+                    with the AKs.
+
+                                  COLBY
+                    What about Buckley?
+
+                                  DON
+                    I got him covered.
+
+      Off Don s look, TIME CUT TO:
+
+7373INT. ND WAREHOUSE - NIGHT - MOMENTS LATER  
+
+      BAD GUY #1 (CRAYPO) paces, AK slung over his shoulder.
+
+      COLBY AND KING, with the TWO SWAT GUYS watch from behind a 
+      line of pillars twenty yards away.  King looks to Colby --
+
+                                  KING
+                    You got 20 bucks?
+
+                                  COLBY
+                    You going out for cigarettes?
+
+      King holds his hand out -- give.  Colby shrugs, digs into his 
+      pocket.  CUT TO:
+
+      CRAYPO, pacing.  He looks down, sees a $20 bill on the 
+      ground.  The wind blows it toward the line of pillars.  
+
+      CRAYPO can t help himself.  He chases the bill, slides his 
+        trigger-hand off the gun to reach for it.  A HAND GOES ACROSS 
+      HIS MOUTH, GUN TO HIS HEAD.  It s King.  Colby and the TWO 
+      SWAT GUYS have guns pointed at him.  OFF CRAYPO, giving up --
+
+      ANGLE ON DON with the TWO OTHER SWAT GUYS.  They close in. 
+      Don keeps his eyes on the bus.  He checks his watch, as...
+
+      OMITTED7474
+
+      INT. SIGHTSEEING BUS - NIGHT7575
+
+      Buckley checks his: it s 6:30.  Buckley reaches for his cell, 
+      as...
+
+7676INT. ND WAREHOUSE - NIGHT   
+
+      BAD GUYS #2 and #3 (HAYS and KIROV) follow a HISSING SOUND to 
+      the rear of the bus.  They find a NAIL jammed in a TIRE, air 
+      escaping.  HAYS and KIROV bend down to get a closer look...
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     54.  
+
+      CONTINUED:7676
+
+                                  COLBY (O.S.)
+                    You wanna call Triple-A?
+
+      They turn to see Colby and King, guns in their faces, the TWO 
+      SWAT GUYS behind them with more firepower.  OFF which --
+
+7777INT. FBI - WAR ROOM - NIGHT  
+
+      David, with Walsh, sees the LAND LINE PHONE LIGHT UP.
+
+                                  DAVID
+                          (on radio, to Don)
+                    6:30.  He s calling, Don.
+
+                                  DON (ON RADIO)
+                    Patch it through.
+
+7878INT. ND WAREHOUSE - NIGHT  
+
+      Don, still closing on the bus with the TWO SWAT GUYS, answers 
+      his cell --
+
+                                  DON
+                    Eppes.
+
+      INT. SIGHTSEEING BUS - NIGHT7979
+
+      Buckley on his cell --
+
+      INTERCUT PHONE CONVERSATION:
+
+                                    BUCKLEY
+                    Bus company guy get fired?
+
+                                  DON
+                    I think it s time we really got down 
+                    to business.  You and me.
+
+      Don s phrasing sets Buckley on edge -- no acting this time.  
+      He drops the cell to his side, grabs his walkie-talkie --
+
+                                    BUCKLEY
+                          (into walkie-talkie)
+                    Hays, you there...?
+                          (no response, just static)
+                    Kirov...?  Craypo...?
+
+      No response, STATIC.  Buckley peers through the windshield, 
+      sees SHADOWS.  He gets back on the cell, plays it cool --
+
+                                  DON
+                    You got no way out.
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     55.  
+
+      CONTINUED:7979
+
+                                    BUCKLEY
+                    I think you re wrong.
+
+      Buckley hangs up.  He points his gun at the PASSENGERS --
+
+                                    BUCKLEY (cont d)
+                    Everybody on your feet.  Now!
+
+      INT. ND WAREHOUSE - NIGHT - MOMENTS LATER8080
+
+      Don, joined by Colby and King, FOUR SWAT GUYS with them, 
+      hunker down and take cover behind a wall.  They watch as...
+
+      BUCKLEY advances on foot toward them, into a pool of light.  
+      He s encircled by the PASSENGERS, using them as a shield.  He 
+      holds the MOTHER closest to him.
+
+                                  KING
+                    Nice work, Eppes.  You got us a 
+                    visual...
+
+      He nods to THREE SNIPERS in position along the upper walkway.
+
+                                  KING (cont d)
+                    ...My boys are ready.
+
+                                  DON
+                    No one takes a shot  til I say so.
+
+      Off King s hard look... BUCKLEY calls out to Don --
+
+                                    BUCKLEY
+                    Back your guys off, Eppes.
+                          (nods to MOTHER)
+                    She and I are driving out of here.
+
+                                  DON
+                    It s not gonna happen.
+
+                                    BUCKLEY
+                    How many people do you want to see 
+                    die?
+
+                                  DON
+                    No one s dying.
+
+      Don steps out, hands stretched out away from him, no gun.  As 
+      Colby, King, SWAT and the SNIPERS cover him, he edges toward 
+      BUCKLEY, addresses the PASSENGERS surrounding him.
+
+
+
+
+
+                                                                            (CONTINUED)      NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     55A.  
+
+      CONTINUED:8080
+
+                                  DON (cont d)
+                    Listen to me, all of you.  I want you 
+                    to step away, one by one.  As soon as 
+                    you re clear, make your way to the 
+                    SWAT guys.  You ll be safe with them.
+
+      The PASSENGERS look around confused.  BUCKLEY reacts --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     56.  
+
+      CONTINUED: (2)8080
+
+                                    BUCKLEY
+                    Are you nuts?
+                          (to the Passengers)
+                    I ll kill the first one who tries.
+
+                                  DON
+                    He s not going to kill anyone.
+
+      The MOTHER speaks up, frightened --
+
+                                  MOTHER
+                    He killed a cop, we saw him.  They 
+                    dragged his body off the bus.
+
+                                  DON
+                    You mean the guy over there.
+
+      Don throws a look to a PILLAR.  TWO SWAT GUYS step out from 
+      behind it.  SHULER, in cuffs, is with them, clearly visible.  
+
+                                  DON (cont d)
+                    It was all a show.  He had blanks in 
+                    the gun, same gun he has now.
+
+      Again, Don makes his plea to the PASSENGERS --
+
+                                  DON (cont d)
+                    Walk away.  He s not gonna stop you.  
+                    Just take that first step.  You ve 
+                    gotta trust me.
+
+      A beat, as the PASSENGERS trade confused looks...
+
+      The SNIPERS  fingers are on the triggers, ready to fire...
+
+      Colby and King watch as...
+
+      ONE OF THE PASSENGERS makes his choice.  He peels away 
+      slowly, then runs to a waiting SWAT GUY.  
+
+      BUCKLEY does nothing.  Seeing this, one by one, the 
+      PASSENGERS test the waters themselves, start to peel away and 
+      run.  The trickle becomes a flood.  BUCKLEY watches, helpless 
+      to stop them.  
+
+      He tries to hang onto the MOTHER.  But it s no use.  She 
+      shoves him away, breaks free and runs to a waiting SWAT GUY.  
+      Her SON falls into her arms.
+
+      BUCKLEY is left exposed, gun at his side. 
+
+
+
+
+                                                                            (CONTINUED)      NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     56A.  
+
+      CONTINUED: (3)8080
+
+                                  DON (cont d)
+                    Put the gun down.
+
+                                    BUCKLEY
+                    Why would I do that?
+
+                                  DON
+                    Blanks or no blanks... the longer you 
+                    stand there, the better the chance 
+                    one of these guys is gonna shoot you.
+
+      A beat, as BUCKLEY holds Don s look.  A thin smile crosses 
+      his face.
+
+                                    BUCKLEY
+                    You win.
+
+      He slowly puts the gun down on the ground.
+
+      Don, Colby, King and TWO SWAT GUYS move in to take BUCKLEY 
+      into custody.  Colby checks Buckley s gun, looks to Don --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     57.  
+
+      CONTINUED: (4)8080
+
+                                  COLBY
+                      ...Blanks.
+
+                                    BUCKLEY
+                    How did you know?
+
+                                  DON
+                    I didn t.
+                          (then)
+                    But I got this Game Theory guy... he 
+                    was pretty sure.
+
+      As King cuffs BUCKLEY, he looks to Don --
+
+                                  KING
+                          (wry)
+                    I did have the shot.
+
+      A buddy-cop nod between them.  OFF Buckley being led away... 
+      CUT TO:
+
+      INT. FBI - BULLPEN - NIGHT8181
+
+      ND AGENTS escort CAITLIN and SHULER, in cuffs, toward the 
+      elevator (taking them down to booking).
+
+      REVEAL Don observing.  David walks up, joins him --
+
+                                  DAVID
+                    Liz took off.
+
+                                  DON
+                    She s got an early flight.
+
+                                  DAVID
+                    I heard.  Denver... She gonna take 
+                    the job?
+
+                                  DON
+                    Guess we ll know soon.
+
+      Don watches Shuler, as he throws a last look back to Don --
+
+                                  DON (cont d)
+                    I thought for sure I got him killed.
+
+                                  DAVID
+                    You kept your focus, you were a 
+                    leader... and nobody died today.
+
+                                  DON
+                    And tomorrow?
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     58.  
+
+      CONTINUED:8181
+
+                                  DAVID
+                    You ll get it right all over again.
+                          (beat)
+                    You gotta have a little faith.
+
+                                  DON
+                    I m trying.
+
+      Don looks at David.  OFF the two of them exchanging a smile.
+
+      INT. EPPES HOUSE - LIVING ROOM - NIGHT8282
+
+      A CHAMPAGNE CORK POPS!  Charlie pours for Amita and himself, 
+      as Larry pops the top on a bottle of beer.  O.S. we HEAR the 
+      front door close.  Alan enters --
+
+                                  ALAN
+                    Looks like I m late to the party.
+                    Beer and champagne -- isn t that 
+                    overkill?
+
+                                    CHARLIE
+                    It s symbolic... of Amita s brilliant 
+                    solution to the great Think Tank 
+                      controversy.
+
+                                  ALAN
+                    Which is...?
+
+                                  AMITA
+                    Rabbit Season/Duck Season... who says 
+                    you can t have both? 
+                            (explaining)
+                    JPL s looking for a team to consult on 
+                    the next-generation planetary rover --
+
+                                  LARRY
+                    Key to exploration of the fundamental 
+                    questions of science and philosophy -- 
+                    how did the world come to be, why are 
+                    we here, what is our destiny...?
+
+                                    CHARLIE
+                    ...But also critical to advancements 
+                    in robotics -- for search and rescue 
+                    missions, oil and gas exploration, 
+                    surgery, you name it...
+
+      Alan considers the idea, looks to Larry --
+
+                                  ALAN
+                    You good with this?
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     59.  
+
+      CONTINUED:8282
+
+                                  LARRY
+                    I am.  ...You?
+
+                                  ALAN
+                    I like it.
+                          (then, to Amita)
+                    This is your plan?
+
+                                  AMITA
+                    That s right.
+
+                                    CHARLIE
+                      ...Appropriate given that Amita is 
+                    our new Team Leader.
+
+                                  ALAN
+                    Since when?
+
+                                    CHARLIE
+                    This afternoon.  I enlisted Galuski 
+                    and Brecker in engineering a coup.  
+                    With me and Amita, the voting 
+                      majority s spoken.
+
+                                  LARRY
+                      ...Wisely, I d say.
+
+                                  ALAN
+                          (grabbing a beer)
+                    Well, this calls for a toast.
+
+      All raise glasses and bottles --
+
+                                  ALAN (cont d)
+                    To Rabbit Season.
+
+                                  LARRY
+                    ...Duck Season.
+
+                                  ALAN
+                    I like Rabbit Season.
+
+                                  LARRY
+                    ...Duck Season.
+
+                                    CHARLIE
+                          (looks to Amita)
+                    You want a recount?
+
+                                  AMITA
+                    I m thinking about it.
+
+
+
+
+                                                                            (CONTINUED)        NUMB3RS: 512/91 - "Jacked" - Rev. Goldenrod - 11/25/08     60.  
+
+      CONTINUED: (2)8282
+
+                                  ALAN
+                    Load up!
+
+      OFF glasses and bottles raised, CLINKING, the party 
+      starting...
+
+                                  END OF EPISODE

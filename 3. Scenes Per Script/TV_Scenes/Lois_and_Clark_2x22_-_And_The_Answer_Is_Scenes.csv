@@ -1,0 +1,46 @@
+1,   INT  LOIS APARTMENT  DAY                                         ,414
+2,   EXT ALLEY  DAY                                                     ,42
+3,   EXT ANOTHER ALLEY  DAY  CONTINUOUS                                ,25
+4,   INT JACES PENTHOUSE  SAME TIME                                    ,102
+5,   INT JACES APARTMENT  DAY                                          ,110
+6,   INT CLARKS BEDROOM  DAY                                           ,114
+7,  INT CLARKS LIVING ROOM  DAY  CONTINUOUS                         ,77
+8,  INT DAILY PLANET BULLPEN  DAY                                     ,95
+9,  INT CONFERENCE ROOM  DAY  CONTINUOUS                             ,102
+10,  INT BUNKER  DAY                                                   ,82
+11,  INT CLARKS APARTMENT  DAY                                        ,182
+12,  EXT STREET  DAY                                                   ,70
+13,  INT BUNKER DAY                                                     ,118
+14,  EXT MARVINS GARDENS FLORIST SHOP  DAY                            ,88
+15,  INT DAILY PLANET BULLPEN  NIGHT                                 ,126
+16,  EXT ALLEY  NIGHT                                                  ,10
+17,  EXT BARRINGTON JEWELRY MART  NIGHT                                ,6
+18,  INT JEEP  CONTINUOUS                                              ,14
+19,  INT MAZIKS JEWELRY  NIGHT                                        ,26
+20,  INT BACK AREA  NIGHT CONTINUOUS                                   ,7
+21,  EXT JELLICOS HOUSE OF JEWELS  NIGHT                              ,6
+22, INT JEEP  CONTINUOUS                                               ,9
+23, INT BACK AREA  MAZIKS JEWELRY  NIGHT                             ,22
+24,  INT MAZIKS JEWELRY  NIGHT CONTINUOUS                             ,31
+25,  EXT MAZIKS JEWELRY  NIGHT                                        ,20
+26,  EXT PARK  NIGHT                                                   ,17
+27,  INT JACES PLACE  NIGHT                                           ,80
+28,  INT JACES PLACE  NIGHT                                           ,23
+29,  EXT  CLARKS APARTMENT  NIGHT                                     ,120
+30,  INT DAILY PLANET  DAY                                           ,251
+31,  INT BUNKER  DAY                                                   ,70
+32,  INT DAILY PLANET  DAY                                             ,77
+33,  INT JACES PLACE  DAY                                             ,126
+34,  INT DAILY PLANET  DAY                                             ,84
+35,  INT DAILY PLANET  CONTINUOUS                                      ,75
+36,  INT LOIS APARTMENT  DAY                                         ,82
+37,   INT JACES BUNKER  HALL  DAY                                    ,69
+38, INT BUNKER ROOM  DAY                                               ,28
+39,  INT BUNKER HALL  DAY                                              ,6
+40, INT BUNKER ROOM  DAY                                               ,9
+41,  INT BUNKER HALL  DAY                                              ,52
+42,  INT BUNKER ROOM  DAY                                              ,22
+43,  INT BUNKER HALL  DAY                                              ,72
+44,  INT JACES APARTMENT  DAY                                         ,62
+45,  INT PLANET  CONFERENCE ROOM  DAY                                 ,68
+46,  INT PLANET  DAY                                                   ,68

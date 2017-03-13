@@ -1,0 +1,30 @@
+1,    INT LOISS APARTMENT  NIGHT                               ,262
+2,    INT ANNETTES HOTEL SUITE  BEDROOM  NIGHT                  ,111
+3,    INT RESTAURANT  ENTRY DOORS  NIGHT                         ,293
+4,   INT CEILING CRAWL SPACE  HANS  NIGHT                      ,123
+5,   INT DAILY PLANET  COFFEE AREA  DAY                      ,173
+6,   INT ANNETTES HOTEL SUITE  NIGHT                         ,68
+7,   EXT CLARKS DOORSTEP  NIGHT                                ,29
+8,   EXT DICK AND JULIES HOUSE PORCH  MORNING  DAY          ,60
+9,   INT CLARKS BATHROOM  ON RADIO  MORNING                   ,13
+10,   INT ANNETTES HOTEL ROOM  ON CONSOLE  MORNING             ,26
+11,   INT CLARKS SHOWER                                          ,59
+12,   INT LOIS LIVING ROOM  DAY                                 ,100
+13,   INT CLARKS LIVING ROOM  DAY                               ,54
+14,   INT DAILY PLANET  LOIS DESK  TAKEOUT TRAY  DAY         ,205
+15,   INT ANNETTES HOTEL ROOM  DAY                              ,149
+16,   INT DAILY PLANET CONFERENCE ROOM  DAY                      ,121
+17,   INT CLARKS APARTMENT  NIGHT                             ,26
+18,   EXT SOMEWHERE OUTSIDE  NIGHT                               ,18
+19,   INT CLARKS  WITH CLARK                                    ,10
+20,   INT CLARKS BEDROOM  NIGHT                                 ,100
+21,   INT STAR LABS  DAY                                       ,82
+22,   INT DAILY PLANET  LATE MORNING                             ,198
+23,   EXT GLOOMY ALLEY  DUSK                                     ,118
+24,   INT CLARKS APARTMENT  NIGHT                             ,32
+25,   INT BATHROOM  NIGHT                                        ,66
+26,   INT LOISS KITCHEN  LATE NIGHT                             ,219
+27,   INT STAR LABS  ON MAGAZINE ARTICLE  MORNING  DAY       ,138
+28,   INT DOLL HOUSE  ON DOORKNOB  EARLY MORNING                ,75
+29,   INT DOLL HOUSE ROOM                                         ,276
+30,   INT DAILY PLANET  ON FRONT PAGE  NIGHT                  ,65

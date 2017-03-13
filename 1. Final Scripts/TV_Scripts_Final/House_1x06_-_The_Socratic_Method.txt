@@ -1,0 +1,3641 @@
+﻿  Executive Producer: Paul Attanasio 
+  Executive Producer: Katie Jacobs 
+  Executive Producer: David Shore 
+  Executive Producer: Bryan Singer 
+    Co-Executive Producer: John Mankiewicz 
+  Supervising Producer: Matt Witten 
+  Supervising Producer: Thomas L. Moran 
+  Producer: Gerrit van der Meer 
+  Consulting Producer: Peter Blake 
+  Consulting Producer: Sara B. Cooper 
+  Associate Producer: Marcy Kaplan 
+  Associate Producer: Bruce Nachbar 
+  Director: Peter Medak 
+ 
+
+ 
+ 
+
+ 
+
+
+
+                              HOUSE 
+
+ 
+
+ 
+                                   The Socratic Method  
+ 
+                                        EPISODE  #2 
+ 
+
+ 
+ 
+                                        Written by 
+ 
+                                    John Mankiewicz 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+  E#5502 Production Draft July 21, 2004 
+
+   Full Blue Revisions July 23, 2004 
+   Full Pink Revisions July 27, 2004 
+
+   Yellow Revisions July 30, 2004 
+   Green Revisions July 30, 2004 
+   Goldenrod Revisions August 2, 2004 
+
+   Buff Revisions August 5, 2004 
+   Salmon Revisions August 6, 2004 
+
+   Cherry Revisions August 9, 2004 
+   Tan Revisions August 11, 2004 
+ 
+
+ 
+
+    COPYRIGHT   2004 ALL RIGHTS RESERVED. THIS MATERIAL IS THE PROPERTY OF UNIVERSAL NETWORK TELEVISION LLC AND IS INTENDED 
+  AND RESTRICTED SOLELY FOR STUDIO USE AND BY STUDIO PERSONNEL.  DISTRIBUTION AND/OR DISCLOSURE OF THE MATERIAL TO 
+    UNAUTHORIZED PERSONS IS PROHIBITED.  THE SALE, COPYING AND REPRODUCTION OF THE MATERIAL IN ANY FORM IS ALSO PROHIBITED. F                                         HOUSE 
+
+ 
+                                    Character List 
+                        Episode 5502   Yellow Revisions 
+ 
+ 
+  Dr. Gregory House 
+  Dr. James Wilson 
+  Dr. Lisa Cuddy 
+
+  Dr. Allison Cameron 
+  Dr. Robert Chase 
+  Dr. Eric Foreman 
+ 
+ 
+  Lucille  Lucy  Palmero  
+  Lucas  Luke  Palmero  
+  Dr. Wells 
+
+  Dr. Bergin 
+  Sally 
+  Clark 
+  Trina Wyatt 
+  Male Truant Officer 
+  Terri 
+  Wendy 
+  Nurse * 
+
+ 
+  Female Voice/Frog Voice 
+  EMT Voice 
+  Hospital P.A. Voice 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                         HOUSE 
+
+ 
+                                    Location List 
+                        Episode 5502   Tan Revisions 
+ 
+ 
+ 
+  INTERIORS 
+
+  Hospital 
+
+   Hallway   Patients  Floor 
+   Patient Floor Lounge  
+   Hallway   Admin. Floor 
+   Lobby   Main Floor  
+   E.R. Waiting Room 
+   Elevator 
+  House s Office 
+   Outer Office 
+
+   Inner Office 
+  Lab  
+  Clinic  
+   Exam Room #1 
+   Exam Room #2 
+  Cuddy s Office 
+  Lucy s Hospital Room 
+   Hallway Outside 
+
+  Hallway Outside Surgical Suite * 
+  Men s Room 
+ 
+  New Jersey State Unemployment Office 
+  Lucy s Apartment 
+   Outside Front Door 
+   Her Bedroom  
+   Luke s Bedroom 
+
+   Tiny Kitchen 
+  House s Apartment 
+ 
+ 
+  EXTERIORS 
+
+ 
+  Princeton - Aerial Shot 
+  Hospital - E.R. Entrance 
+
+
+
+
+
+
+
+
+                                                 HOUSE - Ep5502 - CHERRY - 8-9-04  1.
+
+
+
+                                            TEASER
+
+      FADE IN:
+
+      TIGHT - LUCY PALMERO
+
+      Rocks her head slowly to a private, painful rhythm.  38, but
+      looks older.  A pale round face.  A frozen, mirthless half
+      smile.  The blank, flattened affect of schizophrenia.
+
+      The murmur of public business in a big room.  And then, aimed
+      right at her, vaguely menacing, from out of nowhere --
+
+                                      FEMALE VOICE
+                    ... Cat got your tongue?
+
+      Lucy blinks.  PUSH IN.  Blue eyes, scared, fill the screen.
+
+                                      FEMALE VOICE (CONT'D)
+                    Nah.  You killed the cat.  Cut off
+                    its head.
+
+      Lucy stops rocking.  Then, very faint, from the real world --
+
+                                      SALLY (V.O.)
+                    ...need to take a look at this -
+
+                                      LUKE'S VOICE (V.O.)
+                    Mom...  Mom.
+
+      Lucy startles, turns to Luke's voice.  WIDER to REVEAL we're:
+
+11INT. NEW JERSEY STATE UNEMPLOYMENT OFFICE -- DAY
+
+      The Disabilities Benefits desk.  Lucy's teenaged son LUKE -
+      thin, anxious, highly organized -- sits next to her.  The
+      Caseworker (SALLY) -- 50ish, plump -- behind a desk featuring
+      a colored GLASS FROG PAPERWEIGHT.  Re: a form --
+
+                                      SALLY
+                    Just a couple of questions, before I
+                    can authorize extending her benefits.
+
+      Lucy's confused.  Drooling now.  Bobbing her head.  Re: Sally -
+
+                                    LUCY
+                    I don't like her.  She's fat.
+
+      Luke flashes a nervous look to Sally, who nicely lets him
+      off the hook; she's not offended.
+
+                                      SALLY
+                    I could lose a little weight.
+
+
+
+                                                                (CONTINUED)                                                HOUSE - Ep5502 - CHERRY - 8-9-04  2.
+
+1CONTINUED:1
+
+      As Lucy rubs her right calf, distracted, CAMERA SLAMS IN:
+
+      TIGHT - LUCY'S CALF - VFX
+
+      PUSHING through fat, bone and muscle to discover a dangerous
+      looking thrombus -- a blood clot, inside Lucy's deep vein.
+
+      RESUME - UNEMPLOYMENT OFFICE
+
+                                    LUKE
+                          (worried)
+                    You all right?
+
+      Lucy releases her calf --
+
+                                      SALLY
+                    Actually, before she signs --
+
+                                    LUCY
+                    -- I killed the cat... So much blood.
+
+      Off Sally's look --
+
+                                    LUKE
+                    It's okay.
+
+      Sally sighs.  She wants to give the kid a break. 
+
+                                      SALLY
+                    I have questions about a couple of
+                    these dates.  The first diagnosis --
+
+                                    LUKE
+                    -- Schizophrenia, Dr. Walters, May
+                    11 last year.  Letter's in the medical
+                    file.
+
+      Sally nods.  Gets it.  Off the form:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                (CONTINUED)                                                  HOUSE - Ep5502 - PINK - 7-27-04  3.
+
+1CONTINUED: (2)1
+
+                                      SALLY
+                    And April 6.  That was her last day
+                    of work.
+
+                                    LUKE
+                    The termination letter's dated March
+                    5, I know, it's confusing, but yeah,
+                    her last pay stub was for the week
+                    ending April 6.
+
+                                      SALLY
+                    But she received unemployment benefits
+                    that week.  A week she worked.
+
+                                    LUKE
+                    No.  That's a mistake.
+
+      Off Luke, shook, grabbing a thick file, looking --
+
+      BACK INSIDE THE VEIN - VFX - AS BEFORE
+
+      SEE a SMALL PIECE of the BIG CLOT in the calf breaks off and
+      flows up Lucy's body.  Bad news.
+
+      RESUME - UNEMPLOYMENT OFFICE
+
+      Luke still looking.  It's got to be there.
+
+                                      SALLY
+                    It's a big problem, it could nullify
+                    her entire claim.
+
+                                    LUKE
+                    We fixed that.  I know we did.  We
+                    returned the money.
+
+      Finally -- he's found what he needs.  He hands her a document.
+
+                                    LUKE (CONT'D)
+                    That's the canceled check... Not the
+                    real one.  You know.  A copy.
+
+                                      SALLY
+                          (irony, a compliment)
+                    And you're the dependent.
+
+                                    LUKE
+                    No, that's my little brother.  I'm
+                    18.  Just helping out.
+
+      A weird beat.  Sally looks at him.  Smiles.  STAMPS the form.
+
+
+
+
+                                                                (CONTINUED)                                                HOUSE - Ep5502 - GREEN - 7-30-04  4.
+
+1CONTINUED: (3)1
+
+                                      SALLY
+                    You're all set.  Just need a
+                      signature.
+
+                                    LUCY
+                          (fast, urgent)
+                    Shut up shut up shut up.
+
+      Lucy's agitated, paranoid, eyes locked tight on --
+
+      TIGHT - THE FROG PAPERWEIGHT ON THE DESK - LUCY'S POV
+
+                                    FROG (THE FEMALE VOICE)
+                    The cat's first.  Now it's your turn,
+                    Lucy.
+
+      WIDER - Lucy reacts, frightened and in pain, jerks her chair
+      backwards.  Tense.
+
+                                    LUKE
+                    It's okay.  She just needs some water.
+
+                                      SALLY
+                    I'll get it.
+
+      Sally moves off, Luke slips his Mom an airplane sized bottle
+      of vodka.  She guzzles it.
+
+                                    LUKE
+                    Mom, just hold on.  When she comes
+                    back, sign it, and we're done --
+
+                                    LUCY
+                    -- The voices.
+
+                                    LUKE
+                    -- The voices aren't real.
+
+      Lucy nods.  Then she gasps, twists, in real pain, as CAMERA
+      DIVES DOWN, and we're back --
+
+      INSIDE HER BODY - VFX - THE BLOOD CLOT
+
+      Slams through the chambers of her heart, and into a narrowing
+      artery, crashing to a stop with a wet fat THUNK, blocking
+      blood flow, and thus oxygen, to Lucy's lungs.
+
+      RESUME - UNEMPLOYMENT OFFICE
+
+      Lucy gasps horribly, can't get any air.  Luke is helpless,
+      Lucy's eyes flutter closed, the whole world SLOWS DOWN, and --
+
+
+
+
+                                                                (CONTINUED)                                              HOUSE - Ep5502 - GREEN - 7-30-04  4A.
+
+1CONTINUED: (4)1
+
+      LUCY'S COLLAPSE - VARIOUS
+
+      Lucy falls off the chair... Luke tries to catch her... her
+      dead weight spins him sideways... he SLAMS his wrist on the
+      desk... her hand hits the glass frog... it flies off the
+      desk... smashes and separates in a shower of glass... Lucy
+      lands on the ground hard...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                (CONTINUED)                                              HOUSE - Ep5502 - YELLOW - 7-30-04  5.
+
+1CONTINUED: (5)1
+
+      BACK TO REAL TIME -- Sally's back, calling 911, and Lucy's
+      on the floor, unconscious.  Off the blank stare of what's
+      left of the frog's eyes, and Luke, terrified, cradling his
+      mother's head --
+
+      POP TO MAIN TITLES
+
+                                      END OF TEASER                                                HOUSE - Ep5502 - CHERRY - 8-9-04  6.
+
+
+
+                                          ACT ONE
+
+      FADE IN:
+
+22EXT. PRINCETON - AERIAL SHOT -- DAY
+
+      A SIREN, the sound of an ambulance pulling up and--
+
+                                    EMT VOICE
+                          (filtered, thru radio)
+                    38 year old Caucasian woman, status
+                    post respiratory arrest in the field,
+                      intubated, oxygenating poorly...
+
+33OMITTED
+
+44INT. E.R. WAITING ROOM -- DAY
+
+      Quiet.  Luke paces, restless, past a MAN reading the COMICS. 
+      When he lowers the paper, we see it's House.  Annoyed.
+
+                                    LUKE
+                          (a question)
+                    This is a good hospital.
+
+                                      HOUSE
+                    Depends what you mean by good.
+                          (considers, then)
+                    I like these chairs.
+
+      Off Luke's look, as House goes back to the comics --
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                (CONTINUED)                                                HOUSE - Ep5502 - GREEN - 7-30-04  7.
+
+4CONTINUED:4
+
+                                      HOSPITAL P.A. VOICE
+                    Dr. Gregory House, please call Dr.
+                    Cuddy at extension 3731.
+
+      House ignores the page.  E.R. DOC WELLS enters, early 30s,
+      Luke moves quickly towards him --
+
+                                    LUKE
+                    How is she?
+
+                                      WELLS
+                    Stable, okay.  Your mom had a small
+                    pulmonary embolism, a blood clot
+                    that got stuck in her lungs.  Blocked
+                    the oxygen.
+
+      Luke winces as he pulls out his notebook -- his wrist hurts. 
+      (Throughout the following, House looks like he's just reading
+      the paper, not paying attention.  Think again.)
+
+                                    LUKE
+                    But the pain started in her leg.
+
+                                      WELLS
+                          (nods, that's right)
+                    Where the clot started.  Her calf. 
+                    That's called a deep vein thrombosis,
+                    basically a bigger clot --
+
+                                    LUKE
+                    -- it never hurt before, I would've
+                    noticed --
+
+                                      WELLS
+                    -- A piece of that broke off, went
+                    up the vein, through her heart, and
+                    blocked blood flow to her lungs.  No
+                    blood flow, no oxygen.
+
+                                    LUKE
+                          (writing fast)
+                    Got it.  Wait a sec --
+
+                                      WELLS
+                    -- Is your dad here?  I have some
+                    things I need to talk to him --
+
+                                    LUKE
+                    -- My dad's running a little late;
+                    he's dead.  Talk to me.  I take care
+                    of her.
+
+
+
+
+                                                                (CONTINUED)                                                HOUSE - Ep5502 - GREEN - 7-30-04  8.
+
+4CONTINUED: (2)4
+
+                                      WELLS
+                    All right.  Your Mom's blood alcohol
+                    was point one two, 10:30 in the
+                    morning --
+
+                                    LUKE
+                    -- I gave it to her.  Two ounces of
+                    vodka.  It cools her out.
+                          (flips through book)
+                    The last time was Monday.  Three
+                    days ago.  I'm real careful.
+                          (beat)
+                    She hears voices.
+
+                                      WELLS
+                          (a question)
+                    She's schizophrenic.
+                          (off Luke's nod)
+                    Explains the DVT.  The alcohol makes
+                    her pass out, she's immobile for
+                    long periods --
+
+                                    LUKE
+                    -- that doesn't happen.  She's not
+                    an alcoholic.
+
+                                      WELLS
+                    Fine.  She only drinks when you give
+                    it to her.
+                          (end of story)
+                    We put her on blood thinners, you
+                    can probably take her home tomorrow.
+
+      Wells stands.
+
+                                    LUKE
+                    It's not the alcohol.  It's gotta be
+                    something else.
+
+      Out of nowhere --
+
+                                      HOUSE
+                    Of course it's the alcohol.  Hello.
+
+      As he gets up, moves toward them --
+
+                                      HOUSE (CONT'D)
+                          (re: Wells)
+                    This guy's a professional doctor. 
+                    Plays golf and everything, I bet.
+                          (to Luke)
+                    He's not gonna tell you your Mom's
+                    an alcoholic, not without proof.
+                                      (MORE)
+
+
+                                                                (CONTINUED)                                                  HOUSE - Ep5502 - PINK - 7-27-04  9.
+
+4CONTINUED: (3)4
+
+                                      HOUSE (CONT'D)
+                    I'm sure he scoped for varices,
+                    checked her esophagus, ran all kinds
+                    of blood tests... Doctors like this,
+                    they don't make assumptions, they do
+                    the work.
+
+      Wells doesn't like being jerked around.
+
+                                      WELLS
+                    I'd be happy to refer you the case,
+                    Doctor House, you seem so interested --
+
+                                      HOUSE
+                    -- what case, it's over, you're
+                    sending her home --
+                          (to Luke)
+                    How old is she?
+
+                                    LUKE
+                    You're a doctor?
+
+                                      HOUSE
+                    Own my own stethoscope.  Did I ask
+                    you how old she was, I forget --
+
+                                    LUKE
+                    She's 38.
+
+                                      HOUSE
+                          (significant)
+                    Ah. 
+
+                                    LUKE
+                    Are you gonna take the case?
+
+55INT. HOUSE'S OFFICE -- DAY
+
+      House and the team -- CHASE, FOREMAN and CAMERON.  As House
+      writes "Deep Vein Thrombosis" and "female, 38 yrs," on the
+      empty whiteboard --
+
+                                      HOUSE
+                    -- Come on people, it didn't just
+                    come in the mail.  A 38 year old
+                    woman with no previous symptoms or
+                    history presents with Deep Vein
+                      Thrombosis, how did she get it?
+
+                                      FOREMAN
+                    The usual three big risk factors for
+                    DVT are immobility, injury to the
+                    vein, or the blood itself.
+
+
+
+                                                                (CONTINUED)                                            HOUSE - Ep5502 - YELLOW - 7-30-04  10.
+
+5CONTINUED:5
+
+                                      CAMERON
+                    An inherited clotting disorder.
+
+                                      FOREMAN
+                    If she's European.
+
+      As House scrawls the possibilities on the whiteboard --
+
+                                      HOUSE
+                    Lucy Palmero.  Italian.  Dr. Chase. 
+                    Is Italy in Europe?
+                          (off Chase's look)
+                    You look sleepy, you're from there,
+                    thought I'd give you an easy one.
+
+                                      CHASE
+                    Italy's in Europe.  Australia's not.
+
+                                      HOUSE
+                    Fun geographical facts, always good
+                    for bar bets, thanks, she's European,
+                    the Factor V blood disorder's more
+                    likely, what else? 
+
+                    CAMERON
+          Infections and
+          inflammatory diseases. CHASE
+        Lupus, Crohn's Disease,-- She said "lupus," she
+          rheumatoid arthritis,always says lupus --
+        they can stimulate
+        clotting.
+
+                                      FOREMAN
+                          (hard, fast)
+                    -- and pregnancy, especially third
+                      trimester, oral contraceptives,
+                    smoking, diabetes, obesity, and what's
+                    the point here?  A DVT's a DVT.  Put
+                    her on IV Heparin to prevent new
+                    clots.  What's the big mystery?
+
+                                      HOUSE
+                    Fine, you're all sleepy, you need a
+                    clue --
+                          (circles "38," hard, as)
+                    She's thirty-eight years old.  She's
+                    twenty years too young to get a Deep
+                    Vein Thrombosis.
+
+                                      FOREMAN
+                    I took care of a twelve year old
+                    girl, soccer player, kicked in the
+                    leg --
+
+
+
+                                                                (CONTINUED)                                                HOUSE - Ep5502 - PINK - 7-27-04  11.
+
+5CONTINUED: (2)5
+
+                                      HOUSE
+                    -- There's no trauma; none of the
+                    risk factors. 
+
+                                      CAMERON
+                          (skeptical)
+                    You took a history?
+
+                                      HOUSE
+                    I have some notes.  Not mine, but
+                    reliable, I think, for the purposes
+                    of this discussion.
+
+      He shows them Luke's notebook, and, glancing through it --
+
+                                      HOUSE (CONT'D)
+                    As for immobility, she's real active
+                    now, of course, the paranoia keeps
+                    her limber, but before that, she
+                    worked at the library for twelve
+                    years, putting away books.  And this
+                    was before e-books and CD's, so there
+                    was a real weight to --
+
+      They've all caught the reference, but it's --
+
+                                      FOREMAN
+                    -- Whoa whoa whoa, back it up. 
+                    Paranoia?
+
+                                      HOUSE
+                    Oh yeah, she's schizophrenic.  And
+                    her kid wrote this, so it might be a
+                    little biased, having to take care
+                    of his nutso mom and all.
+                          (beat, off the looks)
+                    What.  You think there's a connection? 
+                    Do we include schizophrenia in the
+                      differential for DVT?
+
+                                      FOREMAN
+                    Well --
+
+                                      HOUSE
+                    -- The answer's no.  Abnormal
+                      dopaminergic pathways in the brain
+                    do not cause blood clots. 
+                      Schizophrenia does not cause DVT.
+                          (beat)
+                    It's something else.
+
+66INT. HOSPITAL HALLWAY - PATIENT FLOOR -- DAY
+
+      House and Wilson walk and talk, mid-conversation --
+
+
+                                                                (CONTINUED)                                          HOUSE - Ep5502 - GOLDENROD - 8-2-04  12.
+
+6CONTINUED:6
+
+                                      HOUSE
+                    On the other hand, we don't know
+                    anything about schizophrenia.  So
+                    maybe it is connected.
+
+                                      WILSON
+                    The schizophrenia does explain one
+                    mystery.  Why you're so fascinated
+                    by some woman with a bump in her
+                    leg.  It's like Picasso deciding to
+                    white wash a fence.
+
+                                      HOUSE
+                    -- Thanks, but I'm more of a Leroi
+                    Neiman man; and this is only about
+                    the DVT; she's 38, she shouldn't --
+
+                                      WILSON
+                    -- right, solve this one, you're
+                    headed for Stockholm --
+
+                                      HOUSE
+                    We don't even know how to treat it. 
+                    Come on: fumigation of the vagina?
+
+                                      WILSON
+                    A little louder, I don't think they
+                    heard you in Labor and Delivery --
+
+                                      HOUSE
+                    -- Two thousand years ago, that's
+                    how Galen treated schizophrenics. 
+                    The Marcus Welby of ancient Greece.
+
+                                      WILSON
+                    Right.  Clearly you're not interested.
+
+                                      HOUSE
+                          (still on his rant)
+                    Because, obviously, all the symptoms
+                    were caused by malposition of the
+                    uterus.
+
+                                      WILSON
+                    There's a better place for it?
+
+
+
+
+
+
+
+
+
+
+                                                                (CONTINUED)                                              HOUSE - Ep5502 - GREEN - 7-30-04  13.
+
+6CONTINUED: (2)6
+
+                                      HOUSE
+                    And since then, what?  Lobotomies,
+                    rubber rooms, electric shock -- that
+                    Galen was so primitive.
+
+      House hangs a right.
+
+                                      WILSON
+                    Where are you going?
+
+                                      HOUSE
+                    Taking her history; I'm a doctor,
+                    it's what I do.
+
+                                      WILSON
+                    You won't talk to patients because
+                    they lie; but give you somebody who
+                    doesn't know what reality is and
+                    you're--
+
+                                      HOUSE
+                    --If it wasn't for Socrates, a raving,
+                    untreated schizophrenic, we wouldn't
+                    have the Socratic Method, the best
+                    way to teach everything except
+                    juggling chain saws, and without
+                    Isaac Newton, we'd be floating on
+                    the ceiling.
+
+                                      WILSON
+                    Dodging chain saws, no doubt.
+
+                                      HOUSE
+                    And that guitar player, you know, in
+                    that English band.  He was great.
+
+      At the room, about to enter, he sees Wilson's smug smile and --
+
+                                      HOUSE (CONT'D)
+                    You think it's the schizophrenia. 
+
+                                      WILSON
+                    Pretty sure of it.
+
+
+
+
+
+
+
+
+
+
+
+                                                                (CONTINUED)                                              HOUSE - Ep5502 - GREEN - 7-30-04  14.
+
+6CONTINUED: (3)6
+
+                                      HOUSE
+                    Galen was pretty sure about the
+                      fumigation thing.
+                          (a beat, it comes to
+                            him)
+                    Pink Floyd.
+
+      He goes inside.
+
+77INT. LUCY'S HOSPITAL ROOM -- CONTINUOUS
+
+      House enters.  In bed, Lucy's monitored, got a central line. 
+      Weak, but the schizophrenic symptoms -- the rictus-smile,
+      the higher voice, the disassociated thought -- are in full
+      bloom.  Luke stands by the bed as House looks down and --
+
+                                    LUKE
+                    Mom, this is --
+
+                                      HOUSE
+                    -- Gregory House, nice to meet you. 
+                    Would it be all right if we talked
+                    alone for a while?
+
+                                    LUKE
+                          (anxious)
+                    But you need me --
+
+                                      HOUSE
+                          (re: note book)
+                    -- I've got your chart notes, Doctor.
+                          (hands him a twenty)
+                      Cafeteria's downstairs, get yourself
+                    anything you want, as long as there's
+                    enough left over for a Reuben sandwich
+                    to go, dry, no fries, hold the
+                    pickles.  Should run you about five
+                    eighty with tax.
+                          (gives him his pager)
+                    I'll page you when we're done.
+                          (smiles)
+                    Get a receipt.
+
+                                    LUCY
+                          (soft)
+                    No pickles.
+
+      Luke leaves.  House sits by the bed.
+
+                                      HOUSE
+                    Nice kid.  How much do you really
+                    drink?
+
+      Off her look:                                              HOUSE - Ep5502 - GREEN - 7-30-04  15.
+
+
+
+88INT. PATIENT FLOOR LOUNGE -- DAY
+
+      With Chase and Foreman, reeling.  As Luke walks past --
+
+                                      FOREMAN
+                    He's really talking to a patient?
+
+                                      CHASE
+                          (nods, then)
+                    I don't know who I am anymore.
+
+99INT. LUCY'S HOSPITAL ROOM -- DAY
+
+      As before, Lucy and House --
+
+                                      HOUSE
+                    And the meds?
+
+                                    LUCY
+                    Baseball.  I like baseball.
+
+                                      HOUSE
+                    Very nice.
+
+                                    LUCY
+                    Very sad.
+                          (softer)
+                    We went to a game.  Me and the boy.
+
+                                      HOUSE
+                    Meds.  Not Mets.  Medicine.
+
+      Lucy turns away.  House moves to the other side of the bed.
+
+                                      HOUSE (CONT'D)
+                    You take what he tells you to take.
+
+                                    LUCY
+                          (small nod, then)
+                    The Mets lost.                                                  HOUSE - Ep5502 - BUFF - 8-5-04  16.
+
+
+
+1010INT. PATIENT FLOOR LOUNGE -- DAY
+
+      The team and Wilson.  Waiting.  Cameron opens an envelope
+      from the MEDICAL SOCIETY OF NEW JERSEY.  The conversation
+      proceeds as Cameron opens a form, looks at it, realizes,
+      smiles to herself, and throws it away --
+
+                                      FOREMAN
+                    Some nurse saw him go in; maybe it
+                    never happened; like the guy waking
+                    up in Central Park without a kidney;
+                    it's always a friend of a friend.
+
+                                      WILSON
+                    I saw him. 
+
+      Beat.  They consider the significance of all this...
+
+                                      CHASE
+                    What's he gonna find out that we
+                    couldn't?
+
+      Wilson gives him a look - is that what this is?  A turf issue?
+
+                                      WILSON
+                    Think of it as calling in a
+                      specialist.
+
+1111INT. LUCY'S HOSPITAL ROOM -- DAY
+
+      House standing now, leaning against the wall, as --
+
+                                    LUCY
+                          (too loud, with edge)
+                    Why why why?  Why why why?
+
+                                      HOUSE
+                    Because I like your voice.
+
+      Lucy gives a short, barking laugh.  House sits back down.
+
+                                      HOUSE (CONT'D)
+                          (re: her leg)
+                    You told Luke it never hurt before.
+
+                                    LUCY
+                    Just rough.  They didn't hurt.
+
+
+
+
+
+
+
+
+                                                                (CONTINUED)                                                HOUSE - Ep5502 - PINK - 7-27-04  17.
+
+11CONTINUED:11
+
+      Lucy wiggles her legs underneath the sheets.  House takes
+      note...
+
+                                      HOUSE
+                            (thoughtful)
+                    They didn't.
+
+                                    LUCY
+                    Don't lie to him, Limpy.  Lively
+                    Lucy never lies to Lucas.
+                          (softer, serious)
+                    Look what I do to him.
+                          (beat)
+                    Now.  My leg hurts now.
+                          (beat, softer)
+                    Yours too.
+
+1212INT. PATIENT FLOOR LOUNGE -- DAY
+
+      As House approaches from the patient's room...
+
+                                      WILSON
+                    Learn anything from the human
+                      connection?
+
+                                      HOUSE
+                    Yeah.  The Mets suck.
+
+      They look at each other:  that's it?
+
+                                      HOUSE (CONT'D)
+                    Also, for the last couple of months,
+                    she hasn't shaved her legs, because
+                    of the tremors, she cuts herself --
+
+                                      CHASE
+                    -- the tremors aren't new, she must
+                    always cut herself --
+
+                                      HOUSE
+                    -- Exactly.  Something changed, two
+                    months ago.  I'm thinking the amount
+                    of blood when she cut herself.   
+                          (to Foreman, sitting)
+                    Let's do some blood work; collect
+                    and send for clotting studies -- PT,
+                    PTT, Factor V, protein C&S.  The
+                    whole shebang. 
+
+      Luke comes in, hands House his pager and a bagged sandwich.
+
+                                    LUKE
+                    No pickles.  And it's cold now.
+
+
+
+                                                                (CONTINUED)                                          HOUSE - Ep5502 - GOLDENROD - 8-2-04  18.
+
+12CONTINUED:12
+
+                                      CAMERON
+                    If it's a Reuben, that's how he likes
+                    it.
+
+                                      HOUSE
+                    Everyone, this is Luke.
+
+                                      CAMERON
+                    Allison Cameron, glad to meet --
+
+                                      HOUSE
+                    -- Save it, we're busy -- Luke, give
+                    us another half hour with your Mom,
+                    we need to do some tests.
+
+      Luke goes off.
+
+                                      HOUSE (CONT'D)
+                    Nice kid.  Keep her on the IV Heparin
+                    to prevent future clotting, and take
+                    her off the psych meds -- that way
+                    we can see what's what on the physical
+                    side, and who knows, we might get
+                    more out of her.
+
+      They move off.  Except for Cameron...  He takes a bite of
+      his sandwich then notices her still standing there.
+
+                                      HOUSE (CONT'D)
+                    Don't worry... no pickles.
+
+      She debates, then:
+
+                                      CAMERON
+                    ...Happy birthday.
+
+                                      HOUSE
+                    Okay; whose?
+
+      He really doesn't know what she's talking about, but Cameron
+      thinks he just doesn't want to talk about it. 
+
+                                      CAMERON
+                    I was just going through your mail,
+                    it was on a form --
+                          (beat)
+                    Happy Birthday.
+
+                                      HOUSE
+                    Oh.
+
+      Nothing.
+
+
+
+
+                                                                (CONTINUED)                                          HOUSE - Ep5502 - GOLDENROD - 8-2-04  19.
+
+12CONTINUED: (2)12
+
+                                      CAMERON
+                    Just wanted to say it.  No big deal. 
+                    It's a custom on this planet, you'll
+                    catch on.
+
+      Cameron leaves. 
+
+1313INT. LUCY'S HOSPITAL ROOM -- DAY
+
+      Foreman and a Nurse with a rack of blood tubes.
+
+                                    LUCY
+                    No blood.  Not mine.
+
+                                      FOREMAN
+                    For the tests, Dr. House told you
+                    about them --
+
+      Lucy SPITS in his face.
+
+                                    LUCY
+                    You're gonna steal it.  Sell it.
+
+      As Foreman wipes his face, the Nurse presses a button.  A
+      moment later, a couple of larger nurses enter --
+
+                                      FOREMAN
+                    Haldol, 5 milligrams, STAT.
+
+                                    LUCY
+                    No!
+
+      As a Nurse produces a needle, Lucy struggles, terrified. 
+      Foreman and two Nurses hold her down as --
+
+                                    LUCY (CONT'D)
+                    No... don't...
+
+      She twists, sees the Haldol go into the IV.  Foreman watches
+      her face go SLACK and DULL.  She stops struggling; he uncaps
+      the needle to draw the blood...
+
+1414INT. CLINIC - EXAM ROOM 2 -- DAY
+
+      TERRI - mid-30's, fit, very attractive, in tight fashionable
+      clothes, and WENDY, her ever so slightly overweight 12 year
+      old daughter, who has a sore throat and wears baggy jeans. 
+      House walks in as Terri adjusts Wendy's thin gold bracelet. 
+      She's got a matching one.
+
+                                      HOUSE
+                    Well, good news, the lab says it's
+                    not strep, so we're done.
+
+
+
+                                                                (CONTINUED)                                                HOUSE - Ep5502 - PINK - 7-27-04  20.
+
+14CONTINUED:14
+
+      Wendy hops off the exam table, but --
+
+                                      TERRI
+                          (to her daughter)
+                    Wait a second.
+
+                                      HOUSE
+                    Really not strep.  The boys in the
+                    lab, sure, they're hard drinkers,
+                    but they're pros.  Plus your kid
+                    actually has none of the symptoms
+                    for strep; I just figured running
+                    the test was easier than arguing
+                    with you.  My point is: go.
+
+                                      TERRI
+                    I wanted your opinion, doctor.  She's
+                    having a birthday party next week,
+                    and she's upset that I'm getting a
+                    sugarless cake.
+
+                                      WENDY
+                    The other kids hate it.
+
+                                      HOUSE
+                    That's why you're here.
+
+                                      TERRI
+                    Sugar is --
+
+                                      HOUSE
+                    -- You want a doctor to scare her
+                    about the dangers of sugar.
+
+                                      TERRI
+                    She has to get her weight under
+                    control.
+
+      Beat.  House considers his options, then:
+
+                                      HOUSE
+                    Well, I feel sorry for those other
+                    kids, Wendy, because they don't have
+                    a Mom like yours, who knows that
+                    sugar causes heart disease,
+                      appendicitis, and athlete's foot.
+
+                                      TERRI
+                    That's not fair --
+
+                                      HOUSE
+                    -- Sure it is.  I get it.
+                                      (MORE)
+
+
+
+                                                                (CONTINUED)                                                HOUSE - Ep5502 - PINK - 7-27-04  21.
+
+14CONTINUED: (2)14
+
+                                      HOUSE (CONT'D)
+                    You want her to slim down a little
+                    so she can wear pretty outfits, just
+                    like yours.  Love the bracelets. 
+                    Hey, what about matching outfits? 
+                    You could be twins.
+                          (a character)
+                    My gosh, that can't be your daughter;
+                    it's impossible, you're way too young. 
+
+      He turns to go, then turns back:
+
+                                      HOUSE (CONT'D)
+                          (to the kid)
+                    And happy birthday. 
+                          (to mom)
+                    Get the kid a damn ice cream cake.
+
+      And he leaves.  Mom tries to hold in her anger; daughter
+      tries to hold in her glee. 
+
+1515INT. CLINIC -- CONTINUOUS
+
+      House emerges from Exam Room One and Luke is waiting for
+      him.
+
+                                    LUKE
+                    You drugged her.
+
+                                      HOUSE
+                    Actually, I didn't, I've taken her
+                    off all --
+
+                                    LUKE
+                    -- your guy Foreman gave her Haldol.
+
+                                      HOUSE
+                          (takes a beat, recovers)
+                    We needed blood for tests.  I assume
+                    that was the only way to get it.
+
+                                    LUKE
+                          (blocking House)
+                    He knocked her out.
+
+                                      HOUSE
+                          (get out of my way)
+                    I've got a cane and I know how to
+                    use it.
+
+                                    LUKE
+                          (still blocks him)
+                    I hired you, you work for me.
+
+
+
+                                                                (CONTINUED)                                            HOUSE - Ep5502 - YELLOW - 7-30-04  22.
+
+15CONTINUED:15
+
+                                      HOUSE
+                    Okay.  Can I go now, boss?
+
+      House walks away, Luke lets him, stays there as --
+
+                                    LUKE
+                    She says the Haldol changes her. 
+                    Makes her soul numb.
+                          (softer)
+                    Don't give it to her.
+
+      House keeps moving, Luke getting smaller behind him.
+
+1616INT. LUCY'S HOSPITAL ROOM -- NIGHT
+
+      In dim light, Luke's by the bed, reading to his whacked out
+      Mom from a well-worn collection of W.B. Yeats.
+
+                                    LUKE
+                    -- If there be rags enough he will
+                    know her name, and be well pleased
+                      remembering it --
+                          (off Lucy's cough)
+                    You okay?
+
+      Even numbed by Haldol, she's heard this poem so many times
+      from her boy before...
+
+                                    LUCY
+                          (prompting)
+                    ...Old days.
+
+      Luke smiles and continues...
+
+                                    LUKE
+                    'For in the old days, though she had
+                    young men's praise and old men's
+                    blame, among the poor both old and
+                    young gave her praise --
+
+      Another COUGH.  A wet SMACK of something.  The open book --
+      suddenly flecked with RED DOTS.  Confused, Luke touches the
+      page, the dots SMEAR.
+
+      WIDER to INCLUDE Lucy, sitting up now, helpless, a river of
+      something dark streaming from her mouth.  She retches,
+      throwing up HUGE VOLUMES of HOT RED BLOOD.
+
+      Luke grabs his mom's arm as he yells toward the door --
+
+                                    LUKE (CONT'D)
+                    Help!  Somebody help!                                              HOUSE - Ep5502 - CHERRY - 8-9-04  23.
+
+
+
+16A16AOMITTED
+
+                                                                              FADE OUT:
+
+                                        END ACT ONE                                              HOUSE - Ep5502 - GREEN - 7-30-04  24.
+
+
+
+                                          ACT TWO
+
+      FADE IN:
+
+1717INT. HOUSE'S INNER OFFICE -- DAY
+
+      Foreman and House, mid argument, as --
+
+                                      HOUSE
+                    When I said no psych meds, I'm just
+                    curious, which word didn't you
+                      understand?
+
+                                      FOREMAN
+                    The Haldol had nothing to do with
+                    the bleed, you know that; I used it
+                    purely as a chemical restraint --
+
+                                      HOUSE
+                    -- Great, good to know, then she
+                    won't experience any of those pesky
+                    little side effects you get when
+                    your motives aren't pure.
+
+                                      FOREMAN
+                          (give me a break)
+                    Those side effects are rare and --
+
+                                      HOUSE
+                    -- passing out, increased confusion,
+                      depression -- none of that's gonna
+                    happen; none of that's gonna screw
+                    up our diagnosis, because you just
+                    used it to restrain her.  I am so
+                    relieved.
+
+      PULLING BACK THRU GLASS to...
+
+1818INT. HOUSE'S OUTER OFFICE -- CONTINUOUS
+
+      Cameron's there as Chase enters with a big envelope.  Foreman
+      and House go at it, muffled, behind the glass.
+
+                                      CHASE
+                          (re: envelope)
+                    The clotting studies.  Pretty fast,
+                    you promise to date the whole lab?
+
+                                      CAMERON
+                          (taking it from him)
+                    No, I save that for emergencies.  I
+                    told them the patient bled out two
+                    units and if it happens again she'll
+                    die.
+
+
+                                                                (CONTINUED)                                                HOUSE - Ep5502 - PINK - 7-27-04  25.
+
+18CONTINUED:18
+
+      Chase sits down as Cameron opens the envelope.
+
+                                      CHASE
+                    If it had happened at home, she'd be
+                    dead. 
+                          (off Cameron's look)
+                    The ER Doc.  He was going to send
+                    her home.
+
+      Chase sees House and Foreman through the glass.  Gives Cameron
+      a look re: House and Foreman --
+
+                                      CAMERON
+                    They're picking a movie.
+
+      Coming out of the inner office, with Foreman behind him --
+
+                                      HOUSE
+                    Why did this patient bleed out?
+
+      Cameron looks up from the results as --
+
+                                      CAMERON
+                    The clotting studies.  So far they're
+                    normal --
+
+                                      HOUSE
+                          (he knows)
+                    -- cover your ears if you don't want
+                    me to spoil the ending.
+                          (off the looks)
+                      I couldn't wait, I tried that crazy
+                    new telephone gadget, I think it
+                    could catch on.
+                          (beat)
+                    It's all normal, except for a
+                    prolonged PT time.  What's that mean?
+
+      Chase and Cameron look at Foreman, they know exactly what it
+      means: Foreman screwed up.
+
+                                      FOREMAN
+                    Usually it means whoever drew the
+                    blood didn't do it right.
+                          (low, to Chase and
+                            Cameron)
+                      Appreciate the confidence.
+
+                                      HOUSE
+                    Oh, that's right, you drew the blood. 
+                    But you were precise, because you
+                    knew the tube was purely for the PT
+                    study.
+
+
+
+                                                                (CONTINUED)                                              HOUSE - Ep5502 - GREEN - 7-30-04  26.
+
+18CONTINUED: (2)18
+
+                                      FOREMAN
+                    That's right.
+
+                                      HOUSE
+                    And I'm right with you.  I trust
+                    this result.  For two reasons: a)
+                    you are a good doctor and b) 5
+                      milligrams of IV Haldol makes for a
+                      spectacularly cooperative patient.
+                          (waits, no response)
+                    Fine, I'll go.  The prolonged PT
+                    time makes me think she's got a
+                    Vitamin K deficiency, which,
+                      aggravated by the Heparin, caused
+                    the bleed.
+
+                                      FOREMAN
+                    Fine, but it does nothing to explain
+                    the DVT you're so curious about.
+                          (mutters)
+                    Or why.
+
+                                      HOUSE
+                    Hipbone, thighbone.  Without vitamin
+                    K, protein C doesn't work, without
+                    protein C, she clots.  Thinning and
+                    clotting all at the same time. 
+                          (ta da)
+                    DVT and bleeding.
+
+                                      CAMERON
+                    Awfully obscure.  What about another
+                    drug interacting with Heparin.  An
+                      anti-biotic, like ampicillin.  That
+                    could cause a bleed.  And some other
+                    drug could --
+
+                                      HOUSE
+                    -- Clever, but she's not on
+                      ampicillin.
+
+                                      CAMERON
+                    But she has it.  According to the
+                    book of Luke.
+                          (off Luke's notebook)
+                    -- a couple of months ago, she had a
+                    sore throat, he got her some
+                      ampicillin --
+
+                                      HOUSE
+                          (weak theory)
+                    -- which she refused to take then. 
+                    Why would she take an anti-biotic
+                    now?
+
+
+                                                                (CONTINUED)                                          HOUSE - Ep5502 - GOLDENROD - 8-2-04  27.
+
+18CONTINUED: (3)18
+
+                                      CAMERON
+                          (re: the book)
+                    He just says she didn't take them. 
+                    What is it, everybody lies, except
+                      schizophrenics and their children?
+
+                                      CHASE
+                          (re: Cameron's theory)
+                    It's more likely than malnourishment. 
+                    Why not scurvy, or the plague? 
+
+                                      HOUSE
+                    Gee, I wish my idea was as cool and
+                    with it as yours, and what is yours,
+                    do you have one?
+
+                                      CHASE
+                    Alcohol.  Simple.
+
+                                      FOREMAN
+                    First thing we did was scope for
+                    varices; there's no gastritis, no
+                      esophageal tear, LFT's were okay,
+                    plus the kid says--
+
+                                      CHASE
+                    --The kid's a kid.  And she's an
+                      alcoholic; even if they're not
+                      schizophrenic, they're liars.
+                          (to House, appealing
+                          on his terms)
+                    Alcohol fits the symptoms.  It causes
+                      immobility, which explains the DVT. 
+                    It also causes cirrhosis, which
+                    explains the bleed and the prolonged
+                    PT time.  Let's go the extra mile. 
+                      Ultrasound the liver.
+
+      House thinks, then...
+
+                                      HOUSE
+                    Check her place for the ampicillin
+                    and diet.
+                          (to Chase)
+                    And then ultrasound her liver.  Let's
+                    find out who's right before she bleeds
+                    to death. 
+
+      Off House, as they leave --
+
+1919INT. LUCY'S APARTMENT - OUTSIDE FRONT DOOR -- DAY
+
+      Chase and Foreman at the door.  Chase tries it.  It's locked. 
+      Chase takes out a credit card. 
+
+
+                                                                (CONTINUED)                                              HOUSE - Ep5502 - GREEN - 7-30-04  28.
+
+19CONTINUED:19
+
+                                      FOREMAN
+                    House says the kid's sensitive, thinks
+                    he takes good care of her.  If we
+                    don't find anything, why let him
+                    know we did it in the first place? 
+                    What's the point?
+
+      Chase struggles; the credit card's stuck in the doorjamb.
+
+                                      FOREMAN (CONT'D)
+                    Why not just make old Foreman lift
+                    the key from the kid's backpack?
+
+      Chase looks up.  Foreman grins.  Holds the KEY.
+
+2020OMITTED
+
+2121INT. LUCY'S APARTMENT - MOMENTS LATER
+
+      Chase and Foreman move through a small hallway into a living
+      room/bedroom, and into Lucy's bedroom.  It's neat, simple,
+      sunny. 
+
+      Foreman keeps moving (into a bathroom) as Chase sees a chest
+      of drawers.  Chase opens a drawer and finds an entire outfit --
+      shirt, shorts, underwear, socks -- as Foreman is in the
+      doorway --
+
+                                      FOREMAN
+                          (entering)
+                    Her medication's not in the bathroom. 
+
+      Chase looks up from the drawer.  A little rocked.  Foreman
+      gets it, too --
+
+                                      FOREMAN (CONT'D)
+                    Oh man.  He lays out her clothes.
+
+      Chase closes the drawer.  Maybe talking about himself, too --
+
+                                      CHASE
+                    Enough organization, enough lists,
+                    you think you can control the
+                      uncontrollable.  Fix her meds, fix
+                    her clothes, maybe you can fix her.
+
+
+
+
+
+
+
+
+
+
+                                                                (CONTINUED)                                              HOUSE - Ep5502 - GREEN - 7-30-04  29.
+
+21CONTINUED:21
+
+                                      FOREMAN
+                    You pick that up on your psych
+                    rotation?
+
+      Chase doesn't answer, just moves to a bureau drawer, opens
+      it, and --
+
+                                      FOREMAN (CONT'D)
+                    I'll check Luke's room.
+
+      Foreman leaves.  Chase stops, looks at a pre-schizophrenia
+      PHOTO of Luke and Lucy at a ball game.  She's present,
+      laughing -- it's heartbreaking. 
+
+2222INT. LUCY'S APARTMENT - LUKE'S BEDROOM -- MOMENTS LATER
+
+      Foreman's on the single bed, with an open lock box of meds --
+      twenty bottles of prescriptions, and a print out MEDS LOG. 
+      As Chase enters...
+
+                                      FOREMAN
+                      Trifluoperazine, Thorazine, 
+                      Clozarile.  They tried everything.
+                          (off a pill bottle)
+                    Abilify.
+
+                                      CHASE
+                    That's what we took her off of, right? 
+
+                                      FOREMAN
+                          (off the log)
+                    She'd been on it for a couple of
+                    months.  Last refill was the 14th. 
+                    One a day, she missed a dose the day
+                    of the DVT, should be 18 left.
+
+      Foreman counts.  Chase looks at the neat desk, the computer,
+      the stack of library books on Schizophrenia.  The poetry. 
+      The disability info.  Paid and unpaid bills.
+
+                                      FOREMAN (CONT'D)
+                    18.  The kid's on top of it.
+                          (another bottle)
+                    The ampicillin.  Never touched it.
+
+
+
+
+
+
+
+
+
+
+                                                                (CONTINUED)                                            HOUSE - Ep5502 - YELLOW - 7-30-04  29A.
+
+22CONTINUED:22
+
+                                      CHASE
+                          (doesn't want House
+                          to be right)
+                    God, I hope it's not a Vitamin K
+                      deficiency.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                (CONTINUED)                                              HOUSE - Ep5502 - GREEN - 7-30-04  30.
+
+22CONTINUED: (2)22
+
+      And he exits...
+
+2323INT. LUCY'S APARTMENT - TINY KITCHEN -- MOMENTS LATER
+
+      Chase opens the refrigerator.  It's almost empty.  Then tries
+      the freezer.
+
+                                      CHASE
+                    Damn.
+
+      The freezer's packed tight with boxes of FROZEN BURGERS.
+
+                                      FOREMAN
+                      Breakfast, lunch and dinner.  It's a
+                    Vitamin K deficiency.
+
+      Chase literally can't believe it.  Off the box of burgers --
+
+2424INT. LAB -- DAY
+
+      DING - A burger in the microwave. 
+
+      House removes it and carries it to the table where the rest
+      of the box from Lucy's freezer sits.  House is mid-
+        conversation with Luke, who's upset --
+
+                                    LUKE
+                    This is the only thing she'll eat --
+
+                                      HOUSE
+                    Problem is, you can't actually live
+                    on the stuff --
+
+                                    LUKE
+                    -- I checked it out.  I looked on
+                    the box.  The nutritional values are
+                    solid.  Plenty of calories, protein --
+
+                                      HOUSE
+                    Vitamin A and C, but no K.  That's
+                    why your mom got sick.
+
+                                    LUKE
+                    What's the plan now?
+
+                                      HOUSE
+                    Load her up with Vitamin K.
+
+                                    LUKE
+                    That's it?
+
+
+
+
+
+                                                                (CONTINUED)                                                HOUSE - Ep5502 - PINK - 7-27-04  31.
+
+24CONTINUED:24
+
+                                      HOUSE
+                    If it all checks out, you can take
+                    her home in a couple of days.
+                          (Luke is upset)
+                    Oh God, you're upset about something;
+                    you're going to open up to me, aren't
+                    you?
+
+                                    LUKE
+                    It's my fault.
+
+                                      HOUSE
+                    Here we go.
+                          (has to get him off
+                            this)
+                    I'm gonna say this once.  You've
+                    done a very good job taking care of
+                    your mother; if this was all she'd
+                    eat, what could you do?  Gosh, just
+                    being a kid is a full time job --
+
+                                    LUKE
+                    -- Shut up.  I'm 18.  I should be
+                    able to take care of my mom.
+                          (beat)
+                    I almost killed her.
+
+                                      HOUSE
+                    Good example.  Just the time it takes
+                    to express all those ridiculous,
+                      self-centered teenage ideas -- I
+                    don't envy your schedule.
+
+      House takes a bite of the burger, pleased.
+
+                                      HOUSE (CONT'D)
+                    No pickles. 
+
+                                    LUKE
+                    My mom doesn't like 'em either.
+
+                                      HOUSE
+                    Smart woman.
+
+      Luke knows she once was a smart woman.  Beat, then...
+
+                                    LUKE
+                    When I was a kid I got her a hot dog
+                    once, tried to sneak some relish on
+                    it to see if she'd notice.  She yelled
+                    at me.
+
+                                      HOUSE
+                    You got off easy.
+
+
+                                                                (CONTINUED)                                          HOUSE - Ep5502 - CHERRY - 8-9-04  32-33.
+
+24CONTINUED: (2)24
+
+                                    LUKE
+                    Before she got sick, I didn't like
+                    how bossy she was, always telling me
+                    what to do, the right way to do it. 
+                    Never thought I'd miss that.
+
+      House digs in.  Meeting's over.  Luke hefts his backpack to
+      leave, and winces.  House notices.  Re: Luke's wrist:
+
+                                      HOUSE
+                    You should get that looked at...
+
+2525OMITTED
+
+2626OMITTED                                              HOUSE - Ep5502 - CHERRY - 8-9-04  34.
+
+
+
+2727INT. HOUSE'S INNER OFFICE -- DAY
+
+      With Luke, House SLAPS the wrist X-Rays on a light board and
+      studies them.
+
+                                      HOUSE
+                    It's not broken.
+                          (indicates)
+                    This, right here... The epiphyseal
+                    plate... otherwise known as the growth
+                    plate --
+
+                                    LUKE
+                    -- what's wrong with it?
+
+                                      HOUSE
+                    An amazing thing, this bone.  If you
+                    know how to read it, it can tell you
+                    how old someone really is.  Exactly
+                    how old.
+
+                                    LUKE
+                    Great, it's not broken.  Thanks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                (CONTINUED)                                          HOUSE - Ep5502 - GOLDENROD - 8-2-04  35.
+
+27CONTINUED:27
+
+      House is looking at the X-Ray.
+
+                                      HOUSE
+                          (studying)
+                    Not even 15.  Almost though.  Two
+                    weeks away.  A month, maybe --
+
+                                    LUKE
+                    -- Last week.  I was 15 last week.
+
+                                      HOUSE
+                    Happy birthday to us.  If you're
+                    going to lie, go big, go 21; then
+                    you won't need your crazy mom to
+                    help you buy vodka.
+
+                                    LUKE
+                    Great, thanks for the tip.  When I
+                    bring my mom home, is there anything
+                    I need to know about taking care of
+                    her? 
+
+      As Luke takes out his notebook --
+
+                                      HOUSE
+                    I suppose your big worry isn't the
+                    booze.  You're 15; with basically no
+                    mom.  If Child Welfare let kids get
+                    away with that they wouldn't need
+                    all those nice foster homes; that'd
+                    make them sad.
+
+                                    LUKE
+                    They'd put her someplace, too.  My
+                    life is working.
+
+                                      HOUSE
+                    Not the word I'd use.  Most 15 year
+                    old kids are doing what they're
+                    supposed to be doing, you know --
+                    huffing glue, catching crabs --
+
+                                    LUKE
+                    If you turn me in, I'll sue you.
+                          (the X-ray)
+                    That's privileged information.
+
+                                      HOUSE
+                    Oh relax, that's not even your X-
+                    ray.                                            HOUSE - Ep5502 - CHERRY - 8-9-04  35A.
+
+
+
+2828INT. LUCY'S HOSPITAL ROOM -- DAY
+
+      Lucy's asleep as Cameron enters.  Chase has just started the
+      ultrasound.
+
+                                      CAMERON
+                    Vitamin K's not good enough for you? 
+                    You're still testing for cirhossis?
+
+                                      CHASE
+                          (needs to know)
+                    Doctors never cancel tests.
+
+      Cameron takes a look at the monitor, marking the read out --
+
+                                      CAMERON
+                          (re: Lucy)
+                    She's awfully calm.
+
+                                      CHASE
+                          (doesn't approve)
+                    House wrote new orders.
+
+      He grabs the empty airplane bottle of vodka off the
+      nightstand, puts it in his lab coat pocket.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                (CONTINUED)                                              HOUSE - Ep5502 - CHERRY - 8-9-04  36.
+
+28CONTINUED:28
+
+      Chase manipulates the Ultrasound on Lucy's stomach. 
+
+                                      CAMERON
+                    A little bit of scarring.  Not much,
+                    not enough to --
+
+                                      CHASE
+                    -- It's cirrhosis.
+                          (a little edge)
+                    But she doesn't drink. 
+
+      Chase looks away from the monitor, at Lucy, still sleeping.
+
+                                      CAMERON
+                      Congratulations, you win.
+
+      Cameron reacts to something she sees on the monitor -- a
+      lightly outlined shape on the liver -- speckled.
+
+                                      CAMERON (CONT'D)
+                      Actually... nobody wins.
+
+      Chase moves to the monitor.
+
+                                      CHASE
+                    A tumor.  Cystic?
+
+                                      CAMERON
+                          (wish it was)
+                    Solid mass.  Cancer.
+
+2929OMITTED
+
+3030INT. HOUSE'S INNER OFFICE -- DAY
+
+      The ultrasound and an MRI photo are up on the light board. 
+      Wilson examines them.  The team and House await his verdict.
+
+                                      WILSON
+                    The Vitamin K caused the DVT, and
+                      aggravated the liver, the tumor's
+                    the real reason for the blood
+                    problems.  The tumor's the problem.
+
+      Off House's tight nod, as he turns away --                                                HOUSE - Ep5502 - PINK - 7-27-04  37.
+
+
+
+3131INT. HOSPITAL HALLWAY - OUTSIDE LUCY'S ROOM -- NIGHT
+
+      As Luke comes out of the room, Cameron and Wilson approach,
+      and --
+
+                                      WILSON
+                    I'm Dr. Wilson.  Dr. Cameron and I
+                    need to talk to you about what's
+                    going on. 
+
+                                    LUKE
+                    Sure. 
+
+                                      WILSON
+                    We need to talk to your mom, too.
+
+      They enter the room.  Close the door.  CAMERA SLIDES down to
+      the window, watches Wilson and Cameron deliver the bad news
+      to mother and son.
+
+      As Luke asks questions and takes notes, NOTICE that Lucy
+      says nothing.  She's FOCUSED only on her son.  Nothing else
+      exists.
+
+      Luke puts his book down.  Stands up.  Asks something.  Wilson
+      nods.  Luke turns away, doesn't want his face seen - he thinks
+      he might cry.  Lucy's eyes follow him. 
+
+      Luke takes a few deep breaths, doesn't cry.  He turns back,
+      picks up his book and asks another question - he has to handle
+      this.  If he stops he won't be able to start again. 
+
+      Off Lucy's unreadable look as she watches her son take care
+      of her --
+
+                                                                              FADE OUT:
+
+                                      END OF ACT TWO                                                  HOUSE - Ep5502 - TAN - 8-11-04  38.
+
+
+
+                                        ACT THREE
+
+      FADE IN:
+
+3232*OMITTED
+
+3333INT. HOUSE'S OFFICE -- DAY
+
+      House watches his team debate the limited treatment options.
+
+                                      FOREMAN*
+                    Needle biopsy confirms hepatocellular*
+                      carcinoma.  A T2 lesion.  Stage 2. *
+                    It's big, five point eight
+                      centimeters.
+
+                                      CHASE
+                    We do nothing, she dies from liver
+                    failure within 60 days.
+
+                                      CAMERON
+                    She needs a transplant.
+
+                                      HOUSE
+                    That's gonna happen.
+
+      As Wilson walks in -- 
+
+                                      CAMERON
+                          (thinks it should)
+                    She's 38 years old.  She's a mother --
+
+                                      HOUSE
+                    -- A schizophrenic mother with no
+                    money, on the public dole, in fact,
+                    who knocks back vodka when a breeze
+                    blows her way.
+
+                                      FOREMAN
+                    Mickey Mantle had a whole bar named
+                    after him.  He got a transplant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                (CONTINUED)                                          HOUSE - Ep5502 - GOLDENROD - 8-2-04  39.
+
+33CONTINUED:33
+
+                                      HOUSE
+                    Lucy can't switch hit.  Plan B,
+                    surgery to resect the tumor.
+
+      He looks at Wilson:
+
+                                      CHASE
+                    Joe Bergin does the gamma knife thing. 
+                    Laser cauterizes while it cuts; saves
+                    more liver.
+
+                                      WILSON
+                    The tumor's way too big.  He won't
+                    even consider it.
+
+                                      FOREMAN
+                    Not a big risk-taker, Bergin.
+
+                                      HOUSE
+                    Won't drink milk on its expiration
+                    date.
+
+                                      WILSON
+                    He has no discretion.  5.8 centimeters
+                    is past surgical guidelines.
+
+                                      HOUSE
+                    You think he'd do it at 4.6?
+
+                                      CAMERON
+                    Why don't we say it's zero, then we
+                    don't need him at all.  Tumors grow;
+                    they don't shrink.
+
+                                      HOUSE
+                    This one does. 
+
+      Off House's look: he has a plan.
+
+3434OMITTED
+
+3535INT. LUCY'S HOSPITAL ROOM -- DAY
+
+      Wilson and Cameron watch Lucy's liver on the ULTRASOUND
+      monitor.  As he fills a big hypodermic needle, standing over
+      Lucy  --
+
+                                      WILSON
+                      Ninety-five percent ethanol.
+
+
+
+
+
+
+                                                                (CONTINUED)                                              HOUSE - Ep5502 - GREEN - 7-30-04  40.
+
+35CONTINUED:35
+
+      Guided by the MRI, Wilson injects the needle into Lucy's
+      liver --
+
+      INSIDE THE NEEDLE - VFX
+
+      Follow the needle's path to her LIVER, and as the alcohol is
+      injected in the tumor --
+
+                                      WILSON (V.O.) (CONT'D)
+                    The ethanol dehydrates the tumor
+                    cells --
+
+      SEE the tumor SHRINK, and HEAR a SUCKING SOUND, as
+
+                                      WILSON (V.O.) (CONT'D)
+                    -- Literally sucks them dry --
+
+      RESUME - SCENE
+
+                                      WILSON (CONT'D)
+                    It shrinks the tumor temporarily.
+
+                                      CAMERON
+                    How temporarily?
+
+                                      WILSON
+                    If we're lucky, just long enough to
+                    fool the surgeon.
+
+      Wilson withdraws the needle --
+
+3636INT. CLINIC - EXAM ROOM 1 -- DAY
+
+      House with a patient named CLARK -- 30ish, bit of a combover --
+      as Clark HICCUPS.  Looks miserable.
+
+                                      CLARK
+                    I've tried everything.
+
+                                      HOUSE
+                          (off the chart)
+                    Pulling the tongue, ice bags on the
+                    throat, hitting yourself in the
+                    face... the groin pinch, well, you've
+                    sure covered all the normal medical
+                    bases.
+                          (an idea)
+                    How are you hitting yourself?  Open
+                    hand or fist?
+
+                                      CLARK
+                    Open hand.
+
+
+
+
+                                                                (CONTINUED)                                              HOUSE - Ep5502 - CHERRY - 8-9-04  41.
+
+36CONTINUED:36
+
+                                      HOUSE
+                          (should work)
+                    That's how they teach it at Harvard
+                    Med.  How hard, though?
+
+      As Cuddy comes in the door, Clark WHACKS himself across the
+      face.
+
+                                      HOUSE (CONT'D)
+                          (should've worked)
+                    That's about right.
+                          (to Cuddy)
+                    Hiccups.
+
+                                      CUDDY
+                    I need to speak to you.  Now.
+
+      It's a choice between Cuddy and Clark.  Not a good choice.
+
+                                      HOUSE
+                    I think I have to go pee pee.
+                          (to patient, as he
+                            leaves)
+                    Dial it up a notch, try one more shot.
+
+      And he walks out.  Cuddy follows as Clark hits himself a
+      little harder and then... HICCUPS.
+
+3737INT. MEN'S ROOM -- MOMENTS LATER
+
+      House splashes water on his face, looks up to SEE Cuddy in
+      the mirror behind him; she followed him in.
+
+                                      HOUSE
+                    Girl in the boys' bathroom, ooh, very
+                    dramatic.  Must be very important,
+                    what she has to say to me.
+
+                                      CUDDY
+                    Yesterday your patient's tumor was
+                    5.8 centimeters, today it's 4.6; how
+                    does that happen?
+
+                                      HOUSE
+                    My guess would be: "this Dr. House
+                    must be very, very good; why am I
+                    wasting him at the clinic?"
+                          (heads for the urinals)
+                    I wash before and after.
+
+                                      CUDDY
+                    You also requisitioned 20 ccs of
+                    ethanol.  Which patient would that
+                    be for?  Or are you planning a party?
+
+
+                                                                (CONTINUED)                                              HOUSE - Ep5502 - CHERRY - 8-9-04  42.
+
+37CONTINUED:37
+
+                                      HOUSE
+                    Do me a favor?
+
+      Cuddy turns on the water.
+
+                                      HOUSE (CONT'D)
+                    I was going to say 'leave,' but hey,
+                    that works.
+
+                                      CUDDY
+                    You shrunk the tumor.
+
+                                      HOUSE
+                    Only way to get this guy to do the
+                    surgery.
+
+                                      CUDDY
+                    Fraud?  Fraud was the only way?
+
+      A Doctor comes into the bathroom.  Cuddy gives him a look,
+      and the Doctor heads right back out.
+
+                                      CUDDY (CONT'D)
+                    There's a reason we have those
+                      guidelines.
+
+                                      HOUSE
+                    I know.  To save lives.  Specifically,
+                    doctors' lives.  And not so much
+                    their lives as their lifestyles. 
+                    Don't want to operate on anybody
+                    really sick, they might die, spoil
+                    our batting average.
+
+                                      CUDDY
+                    Bergin has a right to know what he's
+                    operating on.
+
+                                      HOUSE
+                    True.  I got all focused on her right
+                    to live and forgot.  You do what you
+                    think is right.
+
+      Pompous jerk.  She turns to go, then turns back --
+
+                                      CUDDY
+                    Your patient's kid slept here three
+                    nights in a row.  I'm not running a
+                    homeless shelter.
+
+
+
+
+
+
+                                                                (CONTINUED)                                              HOUSE - Ep5502 - GREEN - 7-30-04  43.
+
+37CONTINUED: (2)37
+
+                                      HOUSE
+                          (give me a break)
+                    He's 15 years old; he takes care of
+                    his mom.
+
+                                      CUDDY
+                    It's supposed to be the other way
+                    around.
+
+      Cuddy leaves.  Beat.  House is still at the urinal.  Finally,
+      he sighs...
+
+3838INT. HOUSE'S INNER OFFICE -- DAY
+
+      House is working.  Cameron enters.
+
+                                      CAMERON
+                    ...You really didn't know?
+
+                                      HOUSE
+                    No, I didn't, and frankly, I'm angry. 
+                    Which I'm guessing is the correct
+                    response.  Of course, I'll know better
+                    once you tell me what you're talking
+                    about.
+
+                                      CAMERON
+                    Your birthday.
+
+                                      HOUSE
+                    Oh.  Anger was a bad guess.
+                          (then)
+                    Normally, I put on a festive hat and
+                    celebrate the fact that the earth
+                    has circled the sun one more time. 
+                    I really didn't think it would make
+                    it this year, but darn it if it wasn't
+                    the little engine that could all
+                    over again.
+
+                                      CAMERON
+                    It's a birthday.  It's an excuse to
+                    be happy.  You think that's lame?
+
+      She feels sorry for him - and that makes him miserable.
+
+                                      HOUSE
+                    Why are you here?  Did you buy me a
+                    pony?
+
+                                      CAMERON
+                          (there's nothing to
+                          do)
+                    I'm just waiting for the surgery --
+
+
+                                                                (CONTINUED)                                            HOUSE - Ep5502 - TAN - 8-11-04  44-47.*
+
+38CONTINUED:38
+
+                                      HOUSE
+                    -- Loeb's 4th law of medicine.  Go
+                    scrub in.
+
+38A38A*INT. HALLWAY OUTSIDE SURGICAL SUITE -- DAY
+
+      Cameron and DR. JOE BERGIN move through the doors, immediately*
+      post surgery, wrung out from a tense operation, blood on*
+      their scrubs.  PUSHING CAMERA BACK, real smooth, but with*
+      sharp edge underneath --
+
+                                      BERGIN*
+                    -- that tumor didn't just walk into*
+                    a bar and buy itself a double shot
+                    of ethanol.  Someone shrunk it down --*
+
+                                      CAMERON*
+                    -- I'm sorry, Doctor Bergin, it was*
+                    very very wrong --*
+
+                                      BERGIN*
+                    -- House is lucky I didn't just close*
+                    her up.  He tries it again, that's*
+                    what happens.*
+
+                                      CAMERON*
+                    I'll pass it on.*
+
+      Bergin moves past CAMERA as we HOLD Cameron, who stops.  Off*
+      her small smile -- the plan worked, they got what they wanted --*
+
+3939*OMITTED
+THRUTHRU
+4141                                            HOUSE - Ep5502 - YELLOW - 7-30-04  48.
+
+
+
+4242INT. LUCY'S HOSPITAL ROOM -- DAY
+
+      Lucy's sleeping.  Chase and Luke talk quietly in the corner. 
+      Luke's got his notebook out --
+
+                                      CHASE
+                    It looks like the surgeon got it
+                    all, but she's going to have to have
+                    some chemotherapy --
+
+                                    LUKE
+                          (writing)
+                    -- what kind is it? 
+
+                                      CHASE
+                    Stop.  Writing.
+
+      Luke does.
+
+                                      CHASE (CONT'D)
+                          (he knows...)
+                    If you stop for a second it won't
+                    all fall apart.  Give yourself a
+                    break once in a while.  The fact is,
+                    your Mom's gonna take an extra drink
+                    once in awhile --
+
+                                    LUKE
+                    -- she won't, she doesn't --
+
+                                      CHASE
+                    Fine. 
+                          (beat)
+                    There are some things you can't fix,
+                    that's all I'm saying.
+
+      A beat.  Luke nods.  As if he gets it, but --
+
+                                    LUKE
+                    That's how you'd handle it.  Something
+                    like this.  You'd give up.
+
+      Not really surprised, Chase realizes Luke didn't hear any of
+      it.
+
+                                      CHASE
+                    No.  I'd do it just like you.
+
+      Chase pulls a chemo pamphlet from his coat, hands it to Luke
+      and --
+
+                                      CHASE (CONT'D)
+                    It's an infusion.
+                                      (MORE)
+
+
+                                                                (CONTINUED)                                                HOUSE - Ep5502 - PINK - 7-27-04  49.
+
+42CONTINUED:42
+
+                                      CHASE (CONT'D)
+                    She'll have a drain in her abdomen,
+                    you're going to have to check for
+                    possible infection --
+
+      Luke is writing again as --
+
+                                      TRINA WYATT (O.S.)
+                    Lucas Palmero?
+
+      She's in the doorway.  40ish, official looking.  Moving in,
+      talking low, aware of the sleeping Lucy --
+
+                                      TRINA WYATT (CONT'D)
+                    Trina Wyatt.  Child Services, state
+                    of New Jersey.
+
+                                      CHASE
+                    Can I help you?  This is a private--
+
+                                      TRINA WYATT
+                          (moving toward Lucas)
+                    He's 15 years old, a minor, in a
+                    very tough living situation.  We
+                    want to help him. 
+
+                                    LUKE
+                    I don't need your help.
+
+                                      CHASE
+                          (genuinely surprised)
+                    Fifteen?
+
+                                      TRINA WYATT
+                    Lucas.  You have to come with us. 
+                    Right now.
+
+                                    LUKE
+                    I don't think so. 
+
+                                      CHASE
+                    Where are you taking him?
+
+                                      TRINA WYATT
+                    Until the investigation is complete,
+                    and a determination is made, he'll
+                    be housed at Children's Services --
+
+                                    LUKE
+                    -- I don't want to be housed.  I
+                    live with my mother.
+
+
+
+
+                                                                (CONTINUED)                                                HOUSE - Ep5502 - PINK - 7-27-04  50.
+
+42CONTINUED: (2)42
+
+                                      TRINA WYATT
+                    Not for the next few days.  Come on. 
+                    Let's not make this difficult.
+
+      Lucy stirs.  Luke looks at her.  Still asleep.  You can see
+      it in his face -- he's smart, knows he has to go with them,
+      but just might not do it.
+
+                                    MALE TRUANT OFFICER (O.S.)
+                    How we doin'?
+
+      A uniformed TRUANT OFFICER in the doorway.  Implied muscle.
+
+                                      TRINA WYATT
+                          (at Luke, a question)
+                    I think we're okay. 
+
+      A tense beat.  Then, kissing his Mom on her forehead --
+
+                                    LUKE
+                          (whispers)
+                    I love you, Mom.
+
+      Lucy grabs his hand.  Her hand shakes on his.  She's awake.  
+
+                                    LUCY
+                    The Mets lost.  You remember?
+
+                                    LUKE
+                      I remember.
+
+                                    LUCY
+                    I love you.  
+
+      Luke is crying.  Lucy closes her eyes, turns away.  Luke
+      lets go of her hand, turns fast, blows by the Truant Officer,
+      and leaves the room.  Trina Wyatt and the officer follow
+      him, and, off Lucy alone in bed, and Chase...
+
+4343INT. HOSPITAL LOBBY - MAIN FLOOR -- DAY
+
+      House and Wilson, mid-conversation, walking toward the
+      elevators --
+
+                                      WILSON
+                    Cuddy hasn't said anything about
+                    pushing Bergin to finish the surgery?
+
+                                      HOUSE
+                    Not a word.  Some kind of mind game. 
+                    She's waiting for me to crack.
+
+                                      WILSON
+                    Either that or she's just being nice.
+
+
+                                                                (CONTINUED)                                                HOUSE - Ep5502 - PINK - 7-27-04  51.
+
+43CONTINUED:43
+
+      House glances wryly to Wilson, then notices Luke come out of
+      the elevators fast, pissed off, followed by Trina Wyatt and
+      the Truant officer.  House stops.  He knows something's up.
+
+                                      HOUSE
+                          (not a chance of that)
+                    Right.
+
+      Ten feet away, Luke looks up, and House can see tears on his
+      face.  House steps toward Luke, and, as Luke blows right by
+      him (bumping him a little) --
+
+                                    LUKE
+                          (bitter)
+                    You said you wouldn't call.  You're
+                    a real bastard, you know?
+
+                                      HOUSE
+                    Yeah, I get that a lot.
+
+      House watches Luke head for the front door, trailed by the
+      Truant Officer and Trina Wyatt.  TIGHT ON HOUSE, thoughtful,
+      putting something together... Luke exits.  House turns to
+      Wilson, and --
+
+                                      HOUSE (CONT'D)
+                    ...I don't think mom's crazy.
+
+                                                                              FADE OUT:
+
+                                      END ACT THREE                                                HOUSE - Ep5502 - PINK - 7-27-04  52.
+
+
+
+                                            ACT FOUR
+
+      FADE IN:
+
+4444INT. CUDDY'S OFFICE -- DAY
+
+      Cuddy works.  House enters - there's something he's got to
+      check out.
+
+                                      CUDDY
+                    What?
+
+                                      HOUSE
+                    You paged me.
+
+                                      CUDDY
+                    Three days ago.  I forget why.
+
+      She goes back to her work.
+
+                                      HOUSE
+                      ...Children's Services; they do nice
+                    work; you did the right thing ratting
+                    the kid out.
+
+      She reacts - this reaction is what he came to see, and
+      assess...
+
+                                      CUDDY
+                    You got me pegged as the anonymous
+                    caller?
+
+                                      HOUSE
+                    If in doubt, I always blame you.
+
+      He continues to study her as:
+
+                                      HOUSE (CONT'D)
+                    None of my people even knew he was
+                    15, which doesn't impress me, but
+                    gets them off the hook.  Tag, you're
+                    it. 
+
+                                      CUDDY
+                    Never thought I'd say this to you,
+                    but maybe you've gotten too involved
+                    in this case.  On a personal level.
+
+                                      HOUSE
+                    It's like you can see right through
+                    me.  I feel so vulnerable.
+
+      And he leaves. 
+
+
+
+                                                                (CONTINUED)                                                HOUSE - Ep5502 - PINK - 7-27-04  53.
+
+44CONTINUED:44
+
+                                      HOUSE (V.O.) (CONT'D)
+                          (reading, very low)
+                    I have gone about the house, gone up
+                    and down.
+
+44A44AINT. LUCY'S HOSPITAL ROOM -- DAY
+
+      ON THE BOOK.  House reads from the collection of Yeats. 
+      It's open to the page that's spattered in blood.
+
+      REVEAL, he's reading to Lucy, who's still weak from the
+      surgery, in bed, hooked up to a machine.  Eyes closed.
+
+                                      HOUSE
+                          (very low)
+                    Among the poor both old and young
+                    gave her praise.
+
+      He shuts the book, hard.  Lucy opens her eyes.
+
+                                      HOUSE (CONT'D)
+                    You called Social Services.  It was
+                    you.
+
+                                    LUCY
+                    No.  No no no.
+
+      Her eyes are sharp.  Manic.
+
+                                      HOUSE
+                    It's okay.  I get it.  He'll have an
+                    easier time dealing with the system. 
+                    Sure, he won't be with his real
+                    mother... but his real mother's sick.
+                          (beat)
+                    Someone needs to take care of him.
+
+                                    LUCY
+                    I'm not gonna live here.
+
+                                      HOUSE
+                    What would his future have been? 
+                    Taking you to chemo and back on the
+                    bus... He'll have to fit school in
+                      somewhere, too.  And even if the
+                    cancer's in complete remission, he'll
+                    still have a mother who hears voices.
+
+                                    LUCY
+                          (very low)
+                    Talk no more.  Talk no more.
+
+
+
+
+                                                                (CONTINUED)                                                HOUSE - Ep5502 - PINK - 7-27-04  54.
+
+44ACONTINUED:44A
+
+                                      HOUSE
+                    'Look what I do to him; Limpy.'  You
+                    said that.
+
+      She's got a little drool.  House wipes it off.
+
+                                      HOUSE (CONT'D)
+                          (re: the bedside phone)
+                    I checked the phone records.  Only
+                    one call from this room; smart, they
+                    charge you two bucks a call.  It was
+                    to Social Services, State of New
+                    Jersey.
+
+      Lucy's mouth stiffens in a schizophrenic smile.  A tear rolls
+      down her cheek.  House gets up.
+
+                                      HOUSE (CONT'D)
+                    You're his mother.  You couldn't do
+                    it to him anymore.
+                          (beat)
+                    Good for you.
+
+      Lucy closes her eyes.  House turns out the light, and leaves.
+
+4545INT. HOSPITAL HALLWAY - ADMIN. FLOOR -- DAY
+
+      Wilson and House, walk and talk away from House's office. 
+      House is wound up, working on a theory --
+
+                                      WILSON
+                      Schizophrenics can make rational
+                      decisions.
+
+                                      HOUSE
+                    On the small stuff, yeah.  When to
+                    sleep, what to drink, maybe -- you
+                    know -- no lemonade, but I'll take
+                    some hemlock if you've got it.   
+
+                                      WILSON
+                    -- Your man Socrates -- 
+
+                                      HOUSE
+                    -- but giving up your son, because
+                    it's better for him, that's so sane,
+                    so rational -- self-sacrifice is not
+                    a symptom of schizophrenia, it
+                    excludes the diagnosis.
+
+                                      WILSON
+                          (a question)
+                    She's not schizophrenic. 
+
+
+
+                                                                (CONTINUED)                                          HOUSE - Ep5502 - GOLDENROD - 8-2-04  55.
+
+45CONTINUED:45
+
+                                      HOUSE
+                    She's 36 when she first presents --
+
+                                      WILSON
+                    -- A little late, but within the
+                    range --
+
+                                      HOUSE
+                    -- The internist sends her to the
+                    shrink, one shrink sends her to the
+                    next; she tells all of them she's
+                    not crazy.  The drugs don't work --
+                    why would they, if she's not a head
+                    case -- she got clearer when I took
+                    her off the psych meds.
+
+      Wilson stops.  Off his look:
+
+                                      HOUSE (CONT'D)
+                    You think I'm crazy.
+
+                                      WILSON
+                    Yeah, but that's not the problem.
+                          (beat)
+                    Didn't we just leave your office?
+
+      WIDER to SEE House has led them back to his office.
+
+                                      HOUSE
+                    I like to walk.
+
+      And House returns to his office, leaving Wilson in the
+      hallway.
+
+4646INT. HOUSE'S APARTMENT -- NIGHT
+
+      Not much furniture.  Functional.  Gliding past a clock that
+      says 3:36AM, we HEAR a piano, Bach (same as we heard in the
+      operating room).
+
+      House is alone at the grand piano in the big empty apartment. 
+      Still in his clothes.  Thoughtful.  He's a good player.
+
+      He stops.  Takes a pill.  Then, with one finger, he PLUNKS
+      out the first nine notes of Happy Birthday. 
+
+      Then, suddenly --
+
+      HOUSE - BY HIS DOOR
+
+      Rummaging through his bag, looking hard for something.  As
+      he finds the copy of Luke's medical journal --
+
+
+
+
+                                                                (CONTINUED)                                                  HOUSE - Ep5502 - BUFF - 8-5-04  56.
+
+46CONTINUED:46
+
+      HOUSE - AT HIS DESK
+
+      Off an entry in the journal, he stands, hunts for a book,
+      yanks it from the shelf -- the MEDICAL SOCIETY OF NEW JERSEY --
+
+      HOUSE - ON THE PHONE
+
+      Punches out a number from a listing in the book and --
+
+                                      HOUSE
+                          (into phone)
+                    Dr. Jeffrey Walters?... This is Greg
+                    House, I'm a doctor over at... oh is
+                    it?  I'm sorry, my watch must've
+                      stopped... I'm calling about a patient
+                    you diagnosed about 18 months ago,
+                    woman named Lucille Palmero.  I was
+                    wondering if you did any tests for --
+
+      The CLICK, the guy's hung up --
+
+                                                                          JUMP CUT TO:
+
+      HOUSE - ON ANOTHER CALL
+
+      Another name from Luke's book --
+
+                                      HOUSE (CONT'D)
+                          (English accent)
+                    Oh, how terribly foolish of me,
+                    doctor, is it that late?  I'm calling
+                    from London, you see, must've gotten
+                    my times mixed up --
+
+      CLICK.  Another hang up.
+
+      WIDER - HIS APARTMENT
+
+      House grabs Luke's book and is gone.  The door slams behind
+      him.
+
+4747INT. HOUSE'S OFFICE -- NIGHT
+
+      House and the team, called out of their sleep, and not real
+      happy about it.
+
+                                      FOREMAN
+                    Drooling, spastic movements, attention
+                    loss, rocking -- this woman has
+                    classic schizophrenia --
+
+
+
+
+
+                                                                (CONTINUED)                                              HOUSE - Ep5502 - GREEN - 7-30-04  57.
+
+47CONTINUED:47
+
+                                      HOUSE
+                    I have a headache.  That's my only
+                    symptom.  I go see three doctors:
+                          (to Foreman)
+                    The neurologist says it's an aneurysm.
+                          (to Cameron)
+                    The immunologist says I've got hay
+                    fever.  
+                          (to Chase)
+                    The intensivist can't be bothered,
+                    sends me to a shrink who tells me
+                    I'm punishing myself because I want
+                    to have sex with my mommy.
+
+                                      FOREMAN
+                          (pointed)
+                    -- maybe you're just not getting
+                    enough sleep --
+
+                                      HOUSE
+                    Pick your specialist and you pick
+                    your disease.
+
+      Cameron yawns, she can't help it, she's half asleep.
+
+                                      CAMERON
+                    This isn't about the DVT?  Or the --
+
+                                      HOUSE
+                            (frustrated)
+                    It was never about the DVT.
+
+                                      FOREMAN
+                    Get over to Pompeii, warn them about
+                    the volcano.
+
+                                      HOUSE
+                    If it's not schizophrenia, what else
+                    presents with psych symptoms?
+
+      A beat.  House is not going to get off this.
+
+                                      CAMERON
+                      Porphyria.
+
+                                      CHASE
+                    Madness of King George.
+
+                                      CAMERON
+                    Kuru.  Beri-Beri.
+
+
+
+
+
+                                                                (CONTINUED)                                              HOUSE - Ep5502 - GREEN - 7-30-04  58.
+
+47CONTINUED: (2)47
+
+                                      HOUSE
+                    Lucy Palmero likes cheeseburgers, I
+                    don't think she's been eating brains
+                    in southeast Asia.
+
+                                      CAMERON
+                    The copper thing.  What's it called? 
+                    It's genetic, body accumulates too
+                    much copper.
+
+                                      CHASE
+                    Wilson's Disease.
+
+                                      HOUSE
+                    Very rare...  Nice.  I like it.
+
+      A beat.
+
+                                      FOREMAN
+                          (edge)
+                    If any of us did this, you'd fire
+                    us.
+
+                                      HOUSE
+                    Funny, I thought I encouraged you to
+                    question --
+
+                                      FOREMAN
+                    -- you're not questioning.  You're
+                    hoping.  You want it to be Wilson's. 
+                    Give her a couple of drugs, boom,
+                    she's okay.
+
+      House picks up Luke's book.
+
+                                      HOUSE
+                    June 17.  Appointment with a Dr.
+                    Karn--
+
+                                      CAMERON
+                    --She didn't go; she didn't keep a
+                    single shrink appointment he made
+                    after --
+
+                                      HOUSE
+                    -- No.  Karn isn't a shrink; I looked
+                    it up.  He's an ophthalmologist. 
+                    Why would she need her eyes checked?
+
+                                      CAMERON
+                          (this is thin)
+                    Wilson's presents with cataracts.  I
+                    think.
+
+
+
+                                                                (CONTINUED)                                              HOUSE - Ep5502 - GREEN - 7-30-04  59.
+
+47CONTINUED: (3)47
+
+                                      HOUSE
+                    Yes, it does.  It can also cause the
+                    slight cirrhosis Dr. Chase so eagerly
+                      attributed to alcohol.  Why are we
+                    still here?
+
+4848OMITTED
+
+4949INT. LUCY'S HOSPITAL ROOM -- NIGHT
+
+      BLACK
+
+                                      HOUSE (V.O.)
+                    Lucy?  Lucy?
+
+      It's her POV; she opens her eyes and sees House and the team
+      around her bed.
+
+      NORMAL SHOT
+
+      She's groggy.
+
+                                      FOREMAN
+                    Can you sit up for a second?
+
+      Lucy's eyes WIDEN, she thinks she's dreaming.
+
+                                    LUCY
+                    No thank you.
+
+                                      FOREMAN
+                    Please, sit up.
+
+      They help her up.
+
+                                      HOUSE
+                    I don't think you're crazy.
+
+                                    LUCY
+                    Neither do I. 
+                          (laughs)
+                    But I'm crazy.
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                (CONTINUED)                                              HOUSE - Ep5502 - CHERRY - 8-9-04  60.
+
+49CONTINUED:49
+
+      House nods to Chase, who puts Lucy's face into a SLIT LAMP
+      (like at the ophthalmologist's's office.)
+
+      TIGHT - LUCY'S EYES - THRU SLIT LAMP (SPECIAL VISUAL EFFECT)
+
+      As Foreman RACKS Focus to see the different depths of field
+      in her eyes, and suddenly -- clear, strong and very dramatic,
+      the copper colored Keyser-Fleisher rings come into view.
+
+                                      FOREMAN
+                    I guess we should start treating her
+                    for Wilsons.
+
+                                      HOUSE
+                    That's what I'd do.
+
+      Pleased, he heads for the exit.
+
+                                                                            DISSOLVE TO:
+
+5050INT. LUCY'S HOSPITAL ROOM -- DAY (MOS)
+
+      PANNING OFF the IV Pole as a Nurse starts penicillamine and
+      potassium sulfide to SEE Lucy in bed with full schizophrenic
+      symptoms -- tremors, drooling, staring -- and then, as we
+      MOVE OFF her in a CIRCLE around the room, we HEAR, in a clear
+      voice we've never heard before --
+
+                                    LUCY (V.O.)
+                          (low)
+                    "I will talk no more of books or the
+                    long war/But walk by the dry thorn
+                    until I have found/Some beggar
+                      sheltering from the wind/and
+                      there/Manage the talk until her name
+                    come round.  If there be rags enough
+                    he will know her name/And be well
+                    pleased remembering it --
+
+      -- And come right back to Lucy, (five days later) sitting up
+      in bed now, transformed -- present, bright-eyed, back to
+      normal.  A person we've never seen.  Glasses on, reading
+      Yeats as --
+
+                                    LUCY (CONT'D)
+                    For in the old days/Though she had
+                    young men's praise and old men's
+                      blame/Among the poor both old and
+                    young gave her praise.
+
+      She puts down the book.                                                HOUSE - Ep5502 - TAN - 8-11-04  60A.
+
+
+
+5151INT. LUCY'S HOSPITAL ROOM -- LATER
+
+      The IV's are gone, Lucy's sitting up in bed.  Ready to leave
+      the hospital.  As Chase enters --*
+
+                                      CHASE*
+                    Hi, Mrs. Palmero, you all set to go
+                    home?
+
+                                    LUCY
+                    Almost.
+
+      She looks at her watch.  Waiting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                (CONTINUED)                                                  HOUSE - Ep5502 - TAN - 8-11-04  61.
+
+51CONTINUED:51
+
+                                    LUKE (O.S.)
+                    Mom?
+
+      WIDER to REVEAL Luke, standing in the doorway.  Chase watches*
+      as Luke crosses the room and embraces her.*
+
+      She pulls back to take a good long look at him.
+
+                                    LUKE (CONT'D)
+                          (not sure what to
+                            expect)
+                    How are you?
+
+                                    LUCY
+                    A little tired.  But good.  I feel
+                    good now.
+
+      She hugs him again.  Holds him extremely tightly --
+
+                                    LUCY (CONT'D)
+                          (very low)
+                    I am so sorry.
+
+                                    LUKE
+                    Mom.
+
+                                    LUCY
+                    It's okay.
+
+                                    LUKE
+                    Mom.
+                          (she's squeezing his
+                            neck)
+                    You're hurting me.
+
+      She releases him.  Tears on her face.
+
+                                    LUCY
+                    Oh boy.
+                          (beat)
+                    You really need a haircut.
+
+      And for the first time in years, Luke is a child again, in
+      his mother's arms.  As a Nurse comes into the room with a
+      wheelchair for checkout, Chase leaves.  Off Luke and his Mom --*
+
+5252INT. HOSPITAL HALLWAY - PATIENT FLOOR -- DAY
+
+      Luke is pushing his mom's wheelchair, waiting for the
+      elevator.  The door opens, revealing House and Wilson.
+
+                                    LUCY
+                    Dr. House.
+
+
+
+                                                                (CONTINUED)                                                HOUSE - Ep5502 - PINK - 7-27-04  62.
+
+52CONTINUED:52
+
+      Lucy's glad to see him.  Luke isn't, he's about to pull his
+      Mom away, but --
+
+                                    LUCY (CONT'D)
+                    Luke, come on, we're making Dr. House
+                    wait.
+
+                                      HOUSE
+                    It's okay.  He can get another ride.
+
+                                    LUCY
+                    Don't be silly.  Luke.
+
+      It's been a long time since he's heard his Mom's voice like
+      that.  They get on.  The doors close.
+
+5353INT. ELEVATOR -- CONTINUOUS
+
+      An awkward beat.
+
+                                    LUCY
+                    I'm being discharged. 
+
+                                      HOUSE
+                    I heard a rumor.
+
+                                    LUCY
+                    Thank God I had cancer, huh?
+
+      House smiles, knows what she's getting at.
+
+                                    LUCY (CONT'D)
+                    It's terrible having everybody think
+                    you're nuts.
+
+                                      HOUSE
+                          (works for me)
+                    Really?
+
+                                    LUCY
+                    I called to thank you, did you get
+                    the message?
+
+                                      HOUSE
+                    Yes.
+                          (thinks, then)
+                    You're welcome.
+
+      A beat.  The car's moving.  Lucy can't see House and Luke
+      behind her, but she can HEAR, and REACT to:
+
+
+
+
+
+                                                                (CONTINUED)                                                HOUSE - Ep5502 - PINK - 7-27-04  63.
+
+53CONTINUED:53
+
+                                    LUKE
+                          (very low)
+                    I'm never thanking you.  You turned
+                    me in.
+
+      Lucy looks a little worried.  Wilson wonders what's up too.
+
+                                    LUKE (CONT'D)
+                    I told you, we were doing okay, and
+                    it was none of your --
+
+                                      HOUSE
+                    -- I don't care how you were living. 
+                    I just wanted you out of my life.
+
+      Lucy reacts, relieved that House is covering for her.  House
+      glances to Wilson, then:
+
+                                      HOUSE (CONT'D)
+                    That's why I had Dr. Cuddy call Social
+                    Services.
+
+      DING.  The doors open.
+
+                                    LUCY
+                    Luke.  Come on.  Let's go.
+
+5454INT. HOSPITAL LOBBY - MAIN FLOOR -- CONTINUOUS
+
+      Luke pushes her out; House and Wilson step out behind them,
+      watching them cross the lobby, heading for the doors...
+
+                                      WILSON
+                    You okay?
+
+                                      HOUSE
+                    ...You were right.  It wasn't the
+                    DVT.  It was the schizophrenia.
+
+                                      WILSON
+                    I know.
+
+                                      HOUSE
+                    She's not nearly as interesting
+                    anymore.
+
+      HOLD House, alone, and --
+
+                                                                        FADE TO BLACK:
+
+                                      WILSON (V.O.)
+                    Isn't your birthday around now?
+
+                                            THE END

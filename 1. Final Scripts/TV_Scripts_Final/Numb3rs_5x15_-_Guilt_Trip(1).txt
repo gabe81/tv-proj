@@ -1,0 +1,3682 @@
+﻿ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+                                       Guilt Trip  
+ 
+                                        #515/Ep. 94 
+ 
+ 
+                                        Written by  
+ 
+                                  Mary Leah Sutton 
+ 
+ 
+                                        Directed by 
+ 
+                                Gwyneth Horder-Payton 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+                                                              Production Draft   12/11/08 
+                                                              Rev. FULL Blue   12/18/08  
+                                                              Rev. FULL Pink   12/22/08  
+                                                                    Rev. Yellow   1/6/09  
+                                                                    Rev. Green   1/12/09 
+                                                                  (Pages: 11,11A,27,27A.) 
+ 
+ 
+  
+ 
+
+
+
+
+ 
+SCOTT FREE in association with CBS PARAMOUNT NETWORK TELEVISION, a division of CBS Studios. 
+ 
+  Copyright 2008 CBS Paramount Network Television.  All Rights Reserved. 
+ 
+This script is the property of CBS Paramount Network Television and may not be copied or 
+distributed without the express written permission of CBS Paramount Network Television.  This 
+copy of the script remains the property of CBS Paramount Network Television.  It may not be 
+sold or transferred and must be returned to: CBS Paramount Network Television Legal Affairs  
+4024 Radford Avenue Administration Bldg., Suite 390, Studio City, CA 91604 
+ 
+THE WRITING CREDITS MAY OR MAY NOT BE FINAL AND SHOULD NOT BE USED FOR PUBLICITY OR 
+ADVERTISING PURPOSES WITHOUT FIRST CHECKING WITH TELEVISION LEGAL DEPARTMENT.  
+
+                                     Guilt Trip  
+ 
+
+        Ep. #515   Production Draft: Rev. Green   1/12/09 
+
+ 
+
+                          SCRIPT REVISION HISTORY 
+ 
+   COLOR  DATE    PAGES 
+   WHITE  12/11/08 (1-56) 
+    REV. FULL BLUE   12/18/08  (1-56) 
+    REV. FULL PINK   12/22/08  (1-56) 
+      REV. YELLOW    1/6/09     (10,15,19,20,21,22,23,25, 
+                                                          27,28,29,30,31,34,35,36, 
+                                                          37,41,42,43,46,49,50,51, 
+                                                          51A,52,53,54,55,55A.) 
+              REV. GREEN    1/12/09   (11,11A,27,27A.) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+
+                                     Guilt Trip  
+ 
+
+  Ep. #515   Production Draft: Rev. FULL Pink   12/22/08 
+
+ 
+
+                                      CAST LIST 
+  
+DON EPPES  
+
+CHARLIE EPPES  
+
+ALAN EPPES 
+
+DAVID SINCLAIR 
+
+COLBY GRANGER 
+
+NIKKI BETANCOURT 
+
+ 
+
+ROBIN BROOKS 
+
+DAMIAN LAKE * 
+
+MITCH LANGFORD * 
+
+GREGG SILVER/JUSTIN CERF * 
+
+FOX CARTER 
+
+MATT LI 
+
+ERICA DANIELS 
+
+CARL DANIELS 
+
+ARLENE MONTGOMERY * 
+
+LINDA PARKER 
+
+TRISHA MORENO 
+
+ROY DETCHEMENDY * 
+
+DEFENSE ATTORNEY 
+
+CLERK 
+
+MAID 
+
+LAWYER 
+
+JUDGE 
+
+ 
+  
+
+
+
+
+  
+
+                                     Guilt Trip  
+ 
+
+        Ep. #515   Production Draft: Rev. Yellow   1/6/09 
+
+ 
+
+                                      SET LIST 
+  
+ 
+INTERIORS EXTERIORS 
+  
+FBI FBI 
+  BULLPEN    ENTRANCE WAY * 
+  WAR ROOM  
+  TECH ROOM  FEDERAL COURTHOUSE  
+  INTERVIEW ROOM  
+  INTERROGATION ROOM DAMIAN LAKE ESTATE 
+  HALLWAY(S)    DRIVEWAY/GATE  
+      
+EPPES HOUSE PARK 
+   FRONT DOOR/DINING ROOM  
+   GARAGE AVENUE DELI 
+  
+CALSCI SILVER S APARTMENT BUILDING 
+   CHARLIE S OFFICE    FIRE ESCAPE/ROOF 
+   HALLWAY(S)  
+   CLASSROOM ARUBA 
+    PRIVATE RESIDENCE * 
+HOTEL  
+   LOBBY/ELEVATOR/STAIRS ECHO PARK BOATHOUSE 
+   SECOND FLOOR  
+     
+COURTHOUSE  
+   COURTROOM 
+   OFFICE 
+ 
+MITCH LANGFORD S OFFICE 
+    
+LOGAN S APARTMENT BUILDING 
+   HALLWAY 
+   LOGAN S APARTMENT 
+      HALLWAY/KITCHEN 
+ 
+MONTGOMERY HOUSE 
+   LIVING ROOM 
+ 
+DAMIAN LAKE ESTATE  
+   FRONT DOOR  
+ 
+AVENUE DELI 
+ 
+SILVER S APT BUILDING 
+   HALLWAY/STARIWELL  
+ 
+
+  
+ 
+
+                                     Guilt Trip  
+ 
+
+  Ep. #515   Production Draft: Rev. FULL Pink   12/22/08 
+
+    
+
+                                      TIME SPAN 
+ 
+                  This episode takes place over 7 days. 
+ 
+DAY/NIGHT         SCENES                NOTES  
+ 
+Day One:          1,3,5,7,9-11      Flashback Scenes 
+ 
+Day Two:     2,4,6,8 
+ 
+Day Three:    12-15 
+ 
+Day Four:     16-26 
+Night Four:    27-30 
+ 
+Day Five:     31-38 
+ 
+Day Six:     39-50* 
+Night Six:    51-54* 
+ 
+Day Seven:    55* 
+Night Seven:    56-58       
+     
+ 
+ 
+ 
+ 
+     
+ 
+  
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+  
+
+
+
+
+                 NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    1. 
+
+
+
+                                       Guilt Trip 
+
+
+                                          TEASER
+
+      BLACK BOX OPENING:
+
+      1,055,995 ... Eligible Jurors
+
+      $15 ... Daily Juror Wage
+
+      481-5162342 ... Juror ID Number
+
+      1 ... Verdict
+
+      INT. HOTEL - LOBBY - DAY11
+
+        A continuous flow of GUESTS, VISITORS and EMPLOYEES moving 
+      through and mingling in a large, high-end hotel lobby.  
+      Everyone seems to be enjoying the day --
+
+      -- all except one. DAMIAN LAKE.  38.  Handsome, well-groomed, 
+        business-casual.  Could be mistaken for a doctor, producer, 
+      financial adviser -- if it weren t for the observant, 
+      predatory eyes.
+
+      Lake s eyes flicker toward TWO MEN: also casually dressed.  
+      But their build and demeanor suggests military experience.
+
+      From a cloistered seating area -- DAVID SINCLAIR watches.     
+      He speaks softly into a concealed mic.
+
+                                  DAVID
+                    Suspect, plus two, on the move.
+
+      As we PUSH in TIGHT on Lake s face, the image FREEZES --
+
+                                                                              PRELAP:
+                                  ROBIN (V.O.)
+                    Would you please identify that man?
+
+      INT. COURTHOUSE - COURTROOM - DAY22
+
+      -- PULL OUT from the image revealing it s VIDEO SURVEILLANCE.  
+      We re inside a packed courtroom. A trial is underway. ROBIN S 
+        prosecuting. David s on the witness stand.
+
+                                  DAVID
+                    Damian Lake.
+
+                                  ROBIN
+                    Is he in this courtroom right now?
+
+
+
+                                                                            (CONTINUED)                NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    2. 
+
+      CONTINUED:22
+
+      David points to the defendant, the man from the hotel.  
+      Beside him is a DEFENSE ATTORNEY and Jury Consultant MITCH 
+      LANGFORD, 55.  Langford, an imposing presence, eyes the 
+      JURORS.
+
+                                  ROBIN (cont d)
+                    Let the record show, the witness 
+                      identified the defendant.
+                          (to David)
+                    And then what happened?
+
+      INT. HOTEL - LOBBY - DAY33
+
+      ERICA DANIELS, 31, gorgeous, impeccably attired.  But too 
+      intelligent and determined-looking to be just eye candy. 
+
+      She approaches Lake with a confident smile.
+
+                                  ERICA
+                    Baby, there you are...
+
+                                  LAKE
+                    Where s our friend?
+
+      -- watching all of this from nearby is NIKKI --
+
+      INT. COURTHOUSE - COURTROOM - DAY44
+
+      Nikki s on the stand; Robin paces --
+
+                                  ROBIN
+                    Why was the FBI surveilling Mr. 
+                    Lake?
+
+                                  NIKKI
+                    Damian Lake owns Consultants 
+                      International, which operates a 
+                    fleet of cargo planes suspected in 
+                    the transfer of illegal weapons to 
+                    elements in 16 countries including 
+                    Somalia, Iraq and Afghanistan. 
+
+                                  ROBIN
+                    Why was the FBI at the Crown Prince 
+                    Hotel that day?
+
+                                  NIKKI
+                    We set a meeting between Mr. Lake 
+                    and an undercover agent.                NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    3. 
+
+
+
+      INT. HOTEL - LOBBY - DAY55
+
+      COLBY waits, in plain-clothes, shopping bag in hand, as Erica 
+      walks Lake up to him.  
+
+                                  COLBY
+                    Lake?  Jack Higgins.
+
+      Colby extends a hand.  Lake eyes Colby.  Doesn t shake.
+
+                                  COLBY (cont d)
+                    If we re not gonna deal, there s an 
+                    excellent spa here.  A win either 
+                    way for me.
+
+                                  LAKE
+                    Jack -- heard you got your start 
+                    supplying the IRA when the Libyan 
+                    pipeline ran dry in  97.
+
+                                  COLBY
+                      Opportunity knocked.  Fortunately 
+                    in this business, when one market 
+                    dries up, there s always another.
+
+      OFF Erica, nervously watching the exchange --
+
+      INT. COURTHOUSE - COURTROOM - DAY66
+
+      Colby testifies --
+
+                                  COLBY
+                    Erica Daniels was an FBI informant.
+
+                                  ROBIN
+                    She was also Mr. Lake s girlfriend. 
+                    Why did she agree to work with the 
+                    FBI?
+
+                                  COLBY
+                    Her brother s done two tours in 
+                      Afghanistan. The idea that a weapon 
+                    Lake sold to Al Qaeda might be used 
+                    to kill him was intolerable to her.  
+
+                                  ROBIN
+                    What was her role in the operation?
+
+                                  COLBY
+                    To present me as a buyer looking to 
+                    purchase missile guidance chips.                 NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    4. 
+
+
+
+      INT. HOTEL - LOBBY - DAY77
+
+      Colby with Lake and Erica --
+
+                                  LAKE
+                    How d you find me?  You don t look 
+                    up fire-and-forget guidance systems 
+                    in the Yellow Pages.
+
+                                  COLBY
+                    Viktor Tramasco --
+
+                                  LAKE
+                    Viktor.  Terrible thing what 
+                    happened in Barranquilla.
+
+                                  COLBY
+                    The good thing about Viktor s death 
+                    -- it was quick. FARC rebels 
+                    would ve tortured him.
+
+                                  LAKE
+                    The other good thing is you don t 
+                    have to pay Viktor s finder s fee.
+
+                                  COLBY
+                    Would ve paid it. Anti-tank 
+                    missiles without targeting chips -- 
+                    pretty damn worthless.   
+
+      Lake signals; one of his men (FOX) approaches --
+
+      ON NIKKI -- DAVID -- DON -- ND AGENTS -- all plainclothes -- 
+      maintaining  civilian  movement -- watching as- 
+
+      -Fox pulls out a small metal CASE from his jacket.  He 
+      unlatches it.  Inside, SIX MISSILE GUIDANCE CHIPS.
+
+                                  DAVID
+                          (into radio)
+                    Product delivered.
+
+      Back with Lake, Colby and Erica-
+
+                                  LAKE
+                    Plug  n play trackers for your FGM-
+                    148 Javelin s.
+
+                                  COLBY
+                    He s no Vanna --
+                          (re: chips)
+                    But I d like to buy  em.
+
+
+
+                                                                            (CONTINUED)                NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    5. 
+
+      CONTINUED:77
+
+                                  LAKE
+                    I take cash.
+
+      Colby lowers his shopping bag next to Lake s feet.  Fox steps 
+      toward Colby -- about to hand him the METAL CASE.
+
+      Erica relaxes, lets out a breath.  Lake sees, signals Fox to 
+      stop.
+
+                                  LAKE (cont d)
+                    You look relieved.
+
+                                  ERICA
+                    What -- what do you mean? 
+
+      Lake gives her a hard look. Erica gets scared, instinctively 
+      looks to Colby for help. She shouldn t have...
+
+                                  LAKE
+                          (to Fox)
+                    Take a walk.
+
+      Fox pockets the CASE, heads off- 
+
+      ON DAVID -- watching --
+
+                                  DAVID
+                          (into radio)
+                      Something s wrong.  Product s 
+                    leaving.
+
+                                  NIKKI (O.S.)
+                    I m on it.
+
+      ON DON -- watching --
+
+                                  DON
+                          (into radio)
+                    B-team one.  Move in.
+
+      ON DAVID -- as he and other ND AGENTS break their civilian 
+      patterns and close in on Lake, Colby and Erica.
+
+                                  DAVID
+                          (into radio)
+                    Everyone watch your line.
+
+      ON NIKKI -- following FOX through the crowd --
+
+      ON LAKE -- watching FOX -- catching sight of Nikki following. 
+
+
+
+
+                                                                            (CONTINUED)                NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    6. 
+
+      CONTINUED: (2)77
+
+                                  COLBY
+                    We doing business or not?
+
+      Lake looks past him, sees DAVID other ND AGENTS -- knows he s 
+      trapped, and Fox is about to be stopped with the evidence. 
+
+      Lake smoothly slides behind Erica, sticks a gun in her back.
+
+                                  COLBY (cont d)
+                    You don t want to do that.
+
+                                  LAKE
+                          (deadly calm)
+                    Please shut up. 
+
+      David, badge and gun low, trying not to alarm the crowd --
+
+                                  DAVID
+                    FBI. Put down the gun.
+
+      Lake turns, swinging Erica in front of him. He pushes her 
+      through a crowd of CONVENTION GUESTS, moving toward the exit.
+
+      ON NIKKI -- as Fox expertly disappears in the crowd -- 
+
+      Lake eyes AGENTS at the main exit -- changes course toward 
+      the elevator, but standing in the way is Don.
+
+      INT. COURTHOUSE - COURTROOM - DAY88
+
+      Don s on the witness stand.
+
+                                  DON
+                    He had Ms. Daniels at gun point.
+
+                                    DEFENSE ATTORNEY
+                    Did you see the defendant hold the 
+                    gun on Ms. Daniels?
+
+                                  DON
+                    No.  It was behind her back.
+
+                                    DEFENSE ATTORNEY
+                    So all you really saw was the 
+                    defendant standing with Ms. Daniels --
+
+      INT. HOTEL - LOBBY/ELEVATOR - DAY99
+
+      Lake charges forward, using Erica as a shield. Don unholsters 
+      his gun, hides it from view, trying to avoid public panic --    
+
+
+
+
+                                                                            (CONTINUED)                NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    7. 
+
+      CONTINUED:99
+
+      Lake and Don at an impasse until DING! -- an ELEVATOR opens. 
+      Several GUESTS emerge, several more start to board.
+
+                                  LAKE
+                    Everyone out!
+
+      Lake fires TWO SHOTS into the air --
+
+      A STAMPEDE erupts -- the crowd rushes out right for Don.     
+
+      Lake shoves Erica into the empty elevator. Don fights his way 
+      through the crowd, trying to get to her before...
+
+      -- it s too late --
+
+      Don arrives as the doors shut; he runs to the --
+
+      INT. HOTEL - STAIRS - CONTINUOUS1010
+
+      Don scales them -- two by two.  He reaches the --
+
+      INT. HOTEL - SECOND FLOOR - CONTINUOUS1111
+
+      Just as...
+
+      -- a muffled GUNSHOT from inside the elevator --  
+
+      Don aims his weapon at the -- ELEVATOR DOORS -- as they open.
+
+      Inside -- Lake stands.  On the floor -- ERICA S BODY.  Bullet 
+      to the chest, dead, gun lying beside her.
+
+      DON -- weapon trained at LAKE.
+
+                                  LAKE
+                    She grabbed the gun, it went off. 
+                          (cold)
+                    We should get her some help. 
+
+      INT. COURTHOUSE - COURTROOM - DAY1212
+
+      Lake s attorney paces --
+
+                                    DEFENSE ATTORNEY
+                    My client was there that day to 
+                    meet a business contact. The FBI 
+                    claims he was there to sell 
+                      contraband, but the supposed item 
+                    was not found, there is no evidence 
+                    it even exists. There is no 
+                    evidence my client harmed Erica 
+                    Daniels.  
+                                  (MORE)
+
+
+                                                                            (CONTINUED)                NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    8. 
+
+      CONTINUED:1212
+                                  DEFENSE ATTORNEY (cont'd)
+                    He was trying to protect her from 
+                    what appeared, to him, to be an 
+                    armed robbery. FBI agents created 
+                    these circumstances, failed to 
+                    identify themselves appropriately, 
+                    creating panic and chaos. Ms. 
+                    Daniels, fearing for her life, 
+                    struggled with the one person who 
+                    was trying to help her. Her death 
+                    is a tragedy that should be laid at 
+                    the feet of those responsible. The 
+                    FBI agents at the scene.  
+
+      INT. COURTHOUSE - COURTROOM - MINUTES LATER1313
+
+      Robin stands in front of the jury. She makes deliberate eye 
+      contact with each juror. We also get a good look at them --
+
+                                  ROBIN
+                    Erica Daniels was the one person 
+                    willing to testify against Damian 
+                    Lake.  Now he wants you to believe 
+                    that by some cruel twist of fate, she 
+                    was accidentally killed just as 
+                    federal agents were closing in on him.  
+                    But there s no twist.  No fate... 
+                          (points to Lake)
+                    Just cruelty. This case is exactly 
+                    what it looks like -- it s murder.
+
+      INT. CALSCI - CLASSROOM - DAY1414
+
+      TIGHT on a clear GLASS filled with water. CHARLIE S eyes peer 
+      back at us from the other side --
+
+                                    CHARLIE
+                    What do you see?
+
+      REVEAL we re in a classroom; Charlie s lecturing to STUDENTS.
+
+                                    CHARLIE (cont d)
+                    A glass of water, obviously.  But 
+                    there s more than meets the eye.
+
+      The students exchange puzzled looks...
+
+                                    CHARLIE (cont d)
+                    Math is a universally effective 
+                    tool that can transcend any box, or 
+                    glass -- and allow us to  see  -- 
+                    or define and quantify things that 
+                    are not readily observable.
+
+
+
+                                                                            (CONTINUED)                NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    9. 
+
+      CONTINUED:1414
+
+      Charlie reaches into the glass, pulls out a fist full of gel-
+      like spheres completely hidden in the water. 
+
+                                    CHARLIE (cont d)
+                      Hydrophilic spheres. They start off 
+                    as hard crystals, but drop them in 
+                    water and they expand 300 times 
+                    their size.  Since the sphere 
+                    crystals are mostly water -- 
+
+      He drops them back in the cup, they disappear again.  
+
+                                    CHARLIE (cont d)
+                    They become invisible when 
+                    submerged due to an identical index 
+                    of refraction with the liquid.
+
+      Charlie scrawls the short equation on the blackboard.
+
+                                    CHARLIE (cont d)
+                    Our tendency is to see what we 
+                    expect to see.  Blue sky, white 
+                    light, a clear glass of water...
+                          (taps the equation)
+                    Math teaches us to expect more, 
+                    hidden beneath the surface.
+
+      INT. COURTHOUSE - COURTROOM - DAY1515
+
+      The courtroom buzzes with energy and anticipation. Don looks 
+      over at Lake.  Lake feels Don s stare -- returns it with a 
+      calm, confident look.  
+
+      The jury files in; everyone stands. The BAILIFF hands the 
+      JUDGE the verdict. He reviews it, and then -- 
+
+                                  JUDGE
+                    In the case of United States vs. 
+                    Lake on the count of first-degree 
+                    murder, the jury finds the 
+                    defendant --  not guilty.
+
+      -- GASPS of shock and outrage. The judge BANGS his gavel. 
+      Damian Lake smiles, pats Langford s back.  OFF Don -- OFF 
+      Robin.  This can t be happening... 
+
+
+                                    END OF TEASER              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    10. 
+
+
+
+                                        ACT ONE
+
+      INT. FBI - WAR ROOM - DAY1616
+
+      David, Colby and Nikki with Don.  PHOTOS of the crime scene, 
+      Damian Lake and video surveillance on the screens.
+
+                                  COLBY
+                    Damian Lake murdered Erica Daniels.  
+                      Practically in front of us.
+
+                                  NIKKI
+                    So why the hell couldn t we 
+                    convince twelve people?
+
+      They exchange looks; no answer.  
+
+                                  DON
+                    I wanna hear options.
+
+                                  DAVID
+                    Double jeopardy protects Lake from  
+                    retrial.
+
+                                  NIKKI
+                    On the murder charge. What about 
+                    RICO action?
+
+                                  COLBY
+                    Lake s company was a cut-out he 
+                    created for the British Secret 
+                      Intelligence Service to move 
+                    weapons around the world.  When he 
+                    retired, he kept the company intact 
+                    and freelanced.  Except for the 
+                    selling any weapon to any buyer 
+                    part, his company is legit.
+
+                                  DAVID
+                    MI6 taught him well.  And he s only 
+                    gotten better with practice. 
+
+                                  DON
+                    Don t compliment him --
+                          (pointed)
+                    Find a way to get him.
+
+                                  NIKKI
+                    For what?
+
+                                  DON
+                    For whatever we can make stick.
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    11. 
+
+      CONTINUED:1616
+
+      Nikki sees CARL DANIELS, 28, buzz cut, being escorted into  *
+      the FBI.*
+
+                                  NIKKI *
+                    Who s that? *
+
+                                  COLBY *
+                    Erica Daniels  brother. *
+
+      INT. EPPES HOUSE - GARAGE - DAY1717
+
+      CLOSE ON A LAPTOP SCREEN -- an ANIMATED MODEL of 12 numbered 
+      balls; it resembles the POWERBALL LOTTERY.
+
+      Charlie works  jury  math on a board.  ALAN enters --
+
+                                  ALAN
+                          (re: the model)
+                    Hope you ll share the jackpot.
+
+                                    CHARLIE
+                    I m not predicting the lottery. And 
+                    for the last time -- I can t. 
+
+                                  ALAN
+                          (kidding)
+                    Can t... or won t?
+
+                                    CHARLIE
+                    It s a Spatial Dynamic Jury 
+                    Model... a statistical model of 
+                    jury behavior.
+
+                                  ALAN
+                    Was it developed by twelve angry 
+                      mathematicians?
+
+                                    CHARLIE
+                    I m trying to understand how Lake s 
+                    jury reached its verdict by using a 
+                    sliding variable scale that allows 
+                    for multiple parameters affecting 
+                    the dynamics of voting -- such as 
+                    the weight a juror places on the 
+                    votes of others, conviction floor, 
+                    acquittal ceiling, jury size...
+
+                                  ALAN
+                    A simple  yes  would ve sufficed.
+                          (then)
+                    When you re done, mind looking at 
+                    something for me?
+
+
+
+                                                                            (CONTINUED)            NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    11A. 
+
+      CONTINUED:1717
+
+                                    CHARLIE
+                    What is it -- ?  
+
+                                  ALAN
+                    My profile... I joined Facebook.
+                          (off Charlie)
+                    I m back in the college scene; it s 
+                    popular with students. 
+                                  (MORE)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    12. 
+
+      CONTINUED: (2)1717
+                                  ALAN (cont'd)
+                    Maybe I ll reconnect with old 
+                    friends, meet new ones with similar 
+                      interests...
+
+                                    CHARLIE
+                    In what,  High School Musical? 
+
+                                  ALAN
+                    It s not just kids. Lots of folks 
+                    are on the site and others like it.  
+
+                                    CHARLIE
+                    Yes, hundreds of millions, making 
+                    the odds of finding any one person  
+                    pretty high. 
+
+                                  ALAN
+                    Which is why I come to you. What do 
+                    I put in my profile so the right 
+                    people can find me? 
+
+                                    CHARLIE
+                      Specifics, lots of them, so the 
+                    website s algorithm can match you 
+                    against a range of terms. Your 
+                    interest in arts and crafts design, 
+                    green engineering, koi fish, chess, 
+                    the Lakers, Dave Brubeck, Jimmy 
+                    Stewart movies -- and one-dish 
+                    recipes featuring Gruy re cheese 
+                    and/or ground turkey.  
+
+                                  ALAN
+                    What about having a son who s a 
+                      mathematician and another who s an 
+                    FBI agent.   
+
+                                    CHARLIE
+                    Yeah, if you re looking to meet 
+                    parents of college professors and 
+                    FBI agents.
+
+      Alan shrugs a  not so much.  
+
+                                  ALAN
+                    But you think these networking 
+                    sites are pretty effective? 
+
+      Charlie gestures toward his laptop. 
+
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    13. 
+
+      CONTINUED: (3)1717
+
+                                    CHARLIE
+                    They re run by powerful math, 
+                    similar to what I m using here. 
+                    Consider that I ve got far less 
+                    data on these 12 jurors, yet I 
+                    should be able to analyze why they 
+                    voted to acquit a murderer. 
+
+                                  ALAN
+                    While you re at it, consider that 
+                    comment about my cooking bought you 
+                    a week of turkey au gratin.
+
+      INT. FBI - INTERVIEW ROOM - DAY1818
+
+      Carl Daniels sits across from Colby and Robin.   
+
+                                  CARL
+                    I was on the other side of the 
+                    world when Erica was killed.
+                          (considers the irony)
+                    She worried about me over there.  I 
+                    was always the little brother she 
+                    had to take care of.  
+
+                                  ROBIN
+                    She was proud of you.
+
+                                  CARL
+                          (emotional)
+                    She thought she could make the world 
+                    safer by stopping one gun-runner?
+
+                                  COLBY
+                    Erica thought it would make you 
+                    safer.  Make a lot of men serving 
+                    this country safer.  
+
+                                  ROBIN
+                    When she realized what kind of man Lake 
+                    was, she tried to do the right thing.
+
+                                  CARL
+                    My sister made a lot of mistakes in 
+                    her life. I didn t think trusting 
+                    the government to protect her would 
+                    be one of them.
+
+      INT. FBI - WAR ROOM - DAY1919
+
+      Don s reading Lake s background file (with PHOTO of Lake).  
+      Robin enters, paces --
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    14. 
+
+      CONTINUED:1919
+
+                                  ROBIN
+                    I keep going over it in my head. 
+                    The trial, what I said, what I did.  
+
+                                  DON
+                    You ran a good case.  
+                          (off her look)
+                    I d tell you if you didn t.
+
+                                  ROBIN
+                    I lost.
+
+                                  DON
+                    We lost.
+
+                                  ROBIN
+                    Erica s brother -- is the one who 
+                    really lost.
+
+      Robin sits, emotionally exhausted.  They share a look.
+
+                                  DON
+                    It doesn t make sense.  Lake was 
+                    ours.  We had him.
+
+                                    CHARLIE (O.S.)
+                    You re right... 
+
+      Charlie appears in the doorway.
+
+                                    CHARLIE (cont d)
+                    It doesn t make sense.
+
+      He enters; David walks in behind him...
+
+      Charlie plugs in a laptop, hits a key -- his jury model  
+      appears on the screen, the 12 balls bounce inside the box.
+
+                                    CHARLIE (cont d)
+                    You re looking at a Spatial Dynamic 
+                    Jury Model, a visual rendering of 
+                    the jury s deliberation process.
+
+                                  ROBIN
+                    This is supposed to tell us how the 
+                    jurors came to their verdict?
+
+                                    CHARLIE
+                    Not how.  But whether the verdict 
+                    was a probable or improbable 
+                    outcome for this particular jury.
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    15. 
+
+      CONTINUED: (2)1919
+
+                                  DAVID
+                    You can predict how people will 
+                    think using math -- 
+
+                                    CHARLIE
+                    Using probabilities.
+
+      ENTER AUDIENCE VISION:
+
+      Charlie steps out of blackness --
+
+                                    CHARLIE (cont d)
+                    Think of a standard coin flip. Two 
+                    outcomes -- heads or tails.
+
+      He shows us the coin...
+
+                                    CHARLIE (cont d)
+                    Normally, this is considered a 
+                    random event.  Impossible to 
+                    predict.  But using probability 
+                      calculations, you can make a more 
+                    educated guess by factoring in such 
+                    variables as...
+
+      He flips the coin, calculations whirl through the air --
+
+                                    CHARLIE (cont d)
+                    The velocity of the coin, its 
+                    weight, flips per second, the time 
+                    and distance traveled...
+
+      The coin hits the ground.
+
+                                    CHARLIE (cont d)
+                    Knowing these variables shifts the 
+                    odds in your favor.  Apply this 
+                    same approach to a jury and it 
+                    increases your understanding of how 
+                      a particular outcome was reached.   
+
+      Coins rain down from above, at first randomly, then quickly 
+      coming together to spell out the word --  GUILTY ...
+
+      RETURN TO SCENE:
+
+                                    CHARLIE (cont d)
+                    Due to factors including quality of 
+                    evidence and witness testimony, the 
+                      probability that Lake s jury would 
+                    convict is overwhelming.
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    16. 
+
+      CONTINUED: (3)1919
+
+                                  DON
+                    Are you saying it was rigged?
+
+                                  ROBIN
+                    The jury was anonymous, only the 
+                    judge knew their identities. They 
+                    were sequestered and guarded.
+
+                                  DON
+                    That s not going to stop someone 
+                    like Lake.  He thinks he can get 
+                    away with anything.
+
+                                    CHARLIE
+                    There is the QJS.
+
+                                  DAVID
+                    QJS -- Qualitative Jury Software?
+
+                                  ROBIN
+                    That s right -- courts rely on it 
+                    to facilitate the juror selection 
+                    process.
+
+                                    CHARLIE
+                    The software uses a pseudo-random 
+                    number generator called the 
+                    Mersenne Twister to assemble lists 
+                    of potential jurors from DMV 
+                    records and voter registration.  
+
+                                  ROBIN
+                    The software has access to the 
+                    jurors  names, addresses, social 
+                    security numbers -- 
+
+                                  DON
+                    So who has access to the software?
+
+      INT. COURTHOUSE - OFFICE - DAY2020
+
+      David and Colby with the COURT CLERK.  
+
+                                  CLERK
+                    Any technical questions about the 
+                    court s software, you ll need to 
+                    ask the company who makes it -- 
+                    JuryFind. 
+
+                                  COLBY
+                    You re a court clerk, don t you 
+                    keep an eye on all operations?
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    17. 
+
+      CONTINUED:2020
+
+                                  CLERK
+                    I keep an eye out for problems, and 
+                    JuryFind on speed dial. Their techs 
+                    are the only ones with clearance to 
+                    access the system.
+
+                                  DAVID
+                    Any problems lately?
+
+                                  CLERK
+                    Let s see -- it always summons 
+                    people who hate jury duty. 
+
+                                  COLBY
+                    When s the last time the company 
+                    sent someone out?
+
+                                  CLERK
+                    About six weeks ago.  Guy installed 
+                      a software patch.
+
+                                  COLBY
+                          (to David)
+                    Right before Lake s trial.
+
+                                  DAVID
+                    You know the tech? 
+
+                                  CLERK
+                    I know he cusses in Vulcan.
+                          (off their looks)
+                    He had ID, forgot his parking pass. 
+                    Dude s car got towed from the lot. 
+
+                                  COLBY
+                    Do you remember his name?
+
+                                  CLERK
+                    No, but I remember suppressing the 
+                    urge to ask him --  What would 
+                    Spock do? 
+
+      David and Colby exchange a look, then:
+
+                                  DAVID
+                    We re gonna need the number for the 
+                    tow truck company.
+
+                                  CLERK
+                    Got that one on speed dial, too.              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    18. 
+
+
+
+      INT. MITCH LANGFORD S OFFICE - DAY2121
+
+      An impressive office.  Nikki sits across from Mitch Langford.
+
+                                  LANGFORD
+                    Mr. Lake s defense team hired my 
+                    services as a jury consultant.
+
+                                  NIKKI
+                    In other words, you helped Damian 
+                    Lake s attorneys select a jury that 
+                    would return a favorable verdict 
+                    for their client.
+
+                                  LANGFORD
+                    Jury consulting is part of the 
+                      adversarial process.  Check my 
+                    records; I work for the prosecution 
+                    just as often as I do the defense.  
+
+                                  NIKKI
+                    Seems to me everything you tell 
+                    them, they could get from a 
+                      questionnaire.
+
+                                  LANGFORD
+                      A questionnaire can t tell them 
+                    that a juror s attitude is a 
+                    stronger indicator of bias than 
+                    their demographic -- or that 
+                    attitudes towards rape are better 
+                      verdict-predictors than gender.
+
+                                  NIKKI
+                    Is that your scientific opinion, or 
+                    the way you convince rapists to pay 
+                    your fee?
+
+                                  LANGFORD
+                    I use calculated judgement to 
+                    uncover what people don t want to 
+                    admit. On paper, or to themselves.  
+                          (beat)
+                    I m an observer, Agent Betancourt.  
+                    Want to know what I see?
+
+      Before she can stop him --
+
+                                  LANGFORD (cont d)
+                    You dress like a Fed but walk like 
+                    a cop. 
+                                  (MORE)
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    19. 
+
+      CONTINUED:2121
+                                  LANGFORD (cont d)
+                    You ve had training in debate and 
+                    rhetoric, makes me guess you made 
+                    the jump to the bureau with, let s 
+                    see, a law degree?
+
+      She reacts slightly, he smiles as he sums up.
+
+                                  LANGFORD (cont d)
+                    You have much loftier ambitions 
+                    than your colleagues know... I m 
+                    thinking, politics. 
+
+                                  NIKKI
+                    Shining a spotlight on others is a good 
+                    way to stay hidden in the shadows.
+
+                                  LANGFORD
+                          (touch )
+                    Let me know when you run for 
+                    office.  You ve got my vote.
+
+      OFF Nikki --
+
+      EXT. DAMIAN LAKE ESTATE - DRIVEWAY/GATE - DAY2222
+
+      An imposing property.  Lake walks out the front door toward a 
+      Bentley convertible.  Standing there, leaning against his SUV 
+      is Don -- waiting.  Lake doesn t show a trace of surprise.
+
+                                  LAKE
+                    Really should consider something a 
+                    bit more fuel efficient.
+
+                                  DON
+                    Gate was open.
+
+                                  LAKE
+                    Let me guess -- this is where you 
+                    tell me that it s not over, that 
+                    you re going to find another way to 
+                    put me in jail.
+
+      Don nods matter-of-factly.
+
+                                  DON
+                    You got a half dozen federal agencies 
+                    on your ass. Just a matter of time. 
+
+                                  LAKE
+                          (dry)
+                    I m haunted by my inescapable fate.  
+                    Happy now?
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    20. 
+
+      CONTINUED:2222
+
+                                  DON
+                    Just know -- when you go down, 
+                    it ll be for killing Erica Daniels. 
+
+                                  LAKE
+                    That s a legal impossibility.  
+                    Something called  double jeopardy.   
+                    Maybe you ve heard of it.
+
+                                  DON
+                    Yeah?  Ever heard of a mistrial? 
+
+      Don smiles slightly, knowingly.  Lake stares.  Trying to 
+      gauge what Don knows or doesn t know.
+
+                                  LAKE
+                    Maybe -- it s just that you and the 
+                    DA did a bad job.  I m a innocent 
+                    man, free to leave the country.  Go 
+                    wherever I want.  There s a world 
+                    of places where you can t touch me.
+
+      Lake pulls around the SUV and drives out the gate.
+
+      INT. CALSCI - CHARLIE S OFFICE/HALLWAY - DAY2323
+
+      Charlie at the chalkboard -- Alan enters.
+
+                                  ALAN
+                    Hey.  Wanna grab lunch?  I m meeting an 
+                    old buddy from high school.
+
+                                    CHARLIE
+                    Kinda had plans with Amita -- but 
+                    sounds like this social networking 
+                    process is working for you. 
+
+                                  ALAN
+                      Surprisingly well so far.   
+
+                                    CHARLIE
+                    I wonder if the anthropologists 
+                    studying community networks in 
+                    southern Africa imagined their 
+                    research leading to  friending  and 
+                       scrabulous. 
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    21. 
+
+      CONTINUED:2323
+
+                                  ALAN
+                    Like the space program giving us 
+                    Tang and Velcro. How s your 
+                    research into jury tampering going?
+
+                                    CHARLIE
+                    My analysis says there s a good 
+                      probability the jury s verdict was 
+                    the result of tampering. But 
+                      probability isn t enough for a 
+                    judge.
+
+                                  ALAN
+                    Can t blame Don for taking this one 
+                    hard. The system let them down. 
+
+                                    CHARLIE
+                    The system s not flawless. 
+
+                                  ALAN
+                    No, it s not. Once you involve 
+                    human judgment, you re going to get 
+                    mistakes. No way around that. 
+
+                                    CHARLIE
+                    Unless -- instead of always mopping 
+                    up, we keep the mess from ever 
+                      happening.  
+
+                                  ALAN
+                    How would you go about that?   
+
+                                    CHARLIE
+                    I don t know yet.  But probability 
+                    can be used as a predictive tool.  
+                    Maybe you can alter the 
+                      circumstances so the potential 
+                    crime is less likely to take place. 
+
+      OFF Alan, giving that thought.
+
+      INT. FBI - BULLPEN - DAY2424
+
+      Colby s at his desk.  David finds him, urgent --
+
+                                  DAVID
+                    Company that towed the software 
+                    tech s car from the court s parking 
+                    lot -- ID d him as Robert Logan.
+                          (then)
+                    Checked with JuryFind -- they have 
+                    no record of a Robert Logan.
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    22. 
+
+      CONTINUED:2424
+
+      Colby, on his feet, grabbing his jacket --
+
+                                  COLBY
+                    If he doesn t work for JuryFind, 
+                    who does he work for?
+
+                                  DAVID
+                    Exactly.
+
+      They head off to --
+
+      INT. LOGAN S APARTMENT BUILDING - HALLWAY/DOOR - DAY2525
+
+      CLOSE on a door, slightly ajar. David KNOCKS --
+
+                                  DAVID
+                            (announcing)
+                    Mr. Logan, FBI.
+
+      No response. David and Colby, taking out their guns --
+
+                                  DAVID (cont d)
+                    Just once I wish there was a 
+                    surprise party behind one of these 
+                    ominously open doors.
+
+      They enter, cautiously...
+
+      INT. LOGAN S APARTMENT - HALLWAY/KITCHEN - CONTINUOUS2626
+
+      It s dark -- only the light from the hallway -- and the glow 
+      of a LAPTOP screen.  Colby moves one way; David moves the 
+      other.  David finds a light in the kitchen area.  CLICK.
+
+                                  COLBY
+                    David.
+
+      David follows Colby s eyeline to the desk where the laptop 
+      sits -- and behind the desk is --
+
+      LOGAN S DEAD BODY
+
+      -- slumped in a chair, bullet to the head --
+
+                                  COLBY (cont d)
+                    There was a surprise.  
+                          (beat)
+                    It just wasn t for us.
+
+
+                                  END OF ACT ONE              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    23. 
+
+
+
+                                        ACT TWO
+
+      INT. FBI - BULLPEN - NIGHT2727
+
+      Colby and David with Don.  ID and crime scene PHOTOS.
+
+                                  COLBY
+                    Robert Logan did time for 
+                    e-crime. ID theft, phishing -- 
+
+                                  DAVID
+                      A hacker-for-hire; he breaks into 
+                    the system, gains access to the 
+                    jury pool...
+
+                                  COLBY
+                    Gotta figure whoever hired him, 
+                    killed him to cover their tracks.
+
+                                  DON
+                    Can we connect him to Lake?  
+
+                                  DAVID
+                    Techs are dusting the scene and 
+                    we re pulling phone records.
+
+                                  DON
+                    Okay, let me know.
+
+      Don leaves.  Colby settles in a chair reading Logan s file.
+
+                                  DAVID
+                    So. I wanted to run something by 
+                    you.
+
+                                  COLBY
+                    Yeah?
+
+                                  DAVID
+                    I m puttin  in for the primary 
+                    relief supervisor position. 
+
+                                  COLBY
+                    So when Don s not here, you d be in 
+                    charge. You asking if I m cool with 
+                    you being my boss?  
+
+                                  DAVID
+                    I m not asking -- I thought you 
+                    should hear it from me. 
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    24. 
+
+      CONTINUED:2727
+
+                                  COLBY
+                    I think it s great, man.
+                          (then)
+                    Have you told Don?
+
+                                  DAVID
+                    Not yet.
+
+                                  COLBY
+                    Hey... did you know that I ve got 
+                    high score for the office on the 
+                    combat pistol range? 
+
+                                  DAVID
+                    Yeah.  Why?
+
+                                  COLBY
+                      I dunno... something to think about 
+                    when you order me to get your 
+                    coffee.
+
+      OFF David, smiles.
+
+      INT. FBI - HALLWAY - NIGHT2828
+
+      Don s on the move; Nikki falls in step.
+
+                                  NIKKI
+                    Fox Carter, Lake s No. 2. We ve 
+                    been watching him, tracking his 
+                    contacts, seeing if he and Lake are 
+                    still in business together. 
+
+      She hands over a SURVEILLANCE PHOTO of Fox...
+
+                                  DON
+                    And what he s up to?
+
+                                  NIKKI
+                    Not much. The chips he was supposed 
+                    to deliver the day we arrested 
+                    Lake?  They recently turned up on 
+                    the black market in Sudan. 
+
+                                  DON
+                    Lake s people got them out of the 
+                    country. 
+
+                                  NIKKI
+                    Any point to staying on Fox?
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    25. 
+
+      CONTINUED:2828
+
+                                  DON
+                    Yeah, Lake s threatening to 
+                      disappear. If he does, Fox might be 
+                    our only way to find him.
+
+      OFF the image of Fox --
+
+      INT. FBI - TECH ROOM - NIGHT2929
+
+      FBI TECH MATT LI at a computer; Charlie beside him. Colby s 
+      listening.   
+
+                                  MATT LI
+                    Your dead hacker, Robert Logan, 
+                    created an administrator password 
+                    allowing him to bypass security 
+                    measures.
+
+                                    CHARLIE
+                    Once we break it, we can track his 
+                    activity in the court s software.
+
+                                  MATT LI
+                    -- got it.
+                          (re: the screen)
+                    His password s  LeonardSheldon4A?   
+
+                                  COLBY
+                    Does that mean something?
+
+                                    CHARLIE
+                    Means he watches  Big Bang Theory. 
+                          (off Colby s look)
+                    4A is the apartment number of the 
+                    guys on the show.
+
+      Matt scans the screen --
+
+                                  MATT LI
+                    Logan accessed the jury pool; their 
+                    names, addresses... 
+
+                                  COLBY
+                    So much for an anonymous jury.
+
+                                    CHARLIE
+                    The hacker got their identities, 
+                    but we have something better. 
+
+                                  COLBY
+                    What do you mean?
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    26. 
+
+      CONTINUED:2929
+
+                                    CHARLIE
+                    The jury filled out questionnaires 
+                    prior to the trial -- I can use 
+                    that data to calculate profile 
+                    scores. Give us insight into the 
+                    jury s dynamic.
+
+      INT. EPPES HOUSE - FRONT DOOR/DINING ROOM - NIGHT3030
+
+      The front door opens.  Robin s on the stoop; Alan greets her.
+
+                                  ALAN
+                    Robin, hi. Come on in.
+
+                                  ROBIN
+                    Thanks.
+
+                                  ALAN
+                    Donnie isn t here...
+
+                                  ROBIN
+                    He called to say he d be late. I 
+                    was already on my way.
+
+      Robin s restless; Alan senses it.
+
+                                  ALAN
+                    How  bout something to drink?
+
+                                  ROBIN
+                    I d love that.
+
+      He starts towards the kitchen --
+
+                                  ALAN
+                    How do you take your coffee?
+
+                                  ROBIN
+                    With a red wine chaser.
+
+      He disappears into the kitchen. Robin takes a seat at the 
+      table. Alan returns with a bottle of wine, two glasses.
+
+                                  ALAN
+                    A lady shouldn t drink alone.
+
+      He pours the wine --
+
+                                  ALAN (cont d)
+                    Let s see, to get the boys to open 
+                    up about what was on their mind, I 
+                    used to bribe them with ice cream.
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    27. 
+
+      CONTINUED:3030
+
+                                  ROBIN
+                    And what do you do now?
+
+                                  ALAN
+                    I find ice cream still works.
+
+      Alan takes a seat.  Robin smiles, staring off... until --
+
+                                  ROBIN
+                    As a prosecutor... I m used to 
+                    fighting for victims. As a good 
+                      prosecutor, I m used to winning 
+                    those fights.
+                          (beat)
+                    Erica Daniels is gone, her killer 
+                    walks free. I failed her... twice.
+
+                                  ALAN
+                    You and Donnie -- you hold 
+                      yourselves to a perfect standard, 
+                    but it s an imperfect system. 
+                    Innocent people are convicted, 
+                    guilty people are acquitted.
+
+                                  ROBIN
+                    That doesn t make it okay.
+
+                                  ALAN
+                    Well, your fight isn t over.
+
+      Robin considers for a moment, then:
+
+                                  ROBIN
+                    I m scared the damage is done.
+
+      OFF Robin --
+
+      INT. MITCH LANGFORD S OFFICE - DAY3131
+
+      Langford s at his desk as Nikki and Colby walk in. *
+
+                                  LANGFORD *
+                    My favorite future senator. Here to  *
+                    ask for a campaign donation? *
+
+      Nikki drops a copy of phone records in front of him.   *
+
+                                  NIKKI
+                    These phone records show Robert 
+                    Logan called your office several 
+                    times in the past few months.
+
+
+
+
+                                                                            (CONTINUED)            NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    27A. 
+
+      CONTINUED:3131
+
+                                  LANGFORD
+                    Who s Robert Logan? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    28. 
+
+      CONTINUED: (2)3131
+
+                                  COLBY
+                    He was a computer programmer with a 
+                    record for hacking.
+
+                                  NIKKI
+                    Now he s a dead guy with a bullet 
+                    in his brain.
+
+      That news hits Langford.  They see it.  But he holds it 
+      together.
+
+                                  COLBY
+                    We ve connected Logan to 
+                      malfeasance affecting the Lake 
+                    trial.
+
+                                  NIKKI
+                    What did you speak to Robert Logan 
+                    about?
+
+                                  LANGFORD
+                    I don t recall any conversations 
+                    with a Robert Logan. Even if I did, 
+                    if he was involved with the Lake 
+                    case, as a consultant for the 
+                    defense I m covered by attorney-
+                    client privilege.
+
+                                  NIKKI
+                    Not if you broke the law and aided 
+                    in a plot to tamper with the jury, 
+                    you re not. 
+
+                                  LANGFORD
+                    That s a pretty wild claim.  Can 
+                    you prove it?
+
+                                  NIKKI
+                    Working on it.
+
+                                  COLBY
+                    Have you noticed how people around 
+                    Lake sometimes turn up dead?
+
+                                  LANGFORD
+                          (lying)
+                    No, I haven t.   
+
+                                  NIKKI
+                    You called yourself  an observer?   
+                    What does your observation of 
+                    Damian Lake tell you?
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    29. 
+
+      CONTINUED: (3)3131
+
+      She smiles at him, then she and Colby walk off.  Leaving 
+      Langford watching after them, troubled.
+
+      EXT. FBI - ENTRANCE WAY - DAY3232
+
+      Robin and Don, on the move --
+
+                                  ROBIN
+                    The judge reviewed the evidence of 
+                    software hacking into the 
+                      Qualitative Jury Software. He s 
+                    releasing the names of the jurors 
+                    to the FBI.  
+
+                                  DON
+                    Do we have enough to get a 
+                    mistrial?
+
+                                  ROBIN
+                    No. Not yet. 
+
+      She stops.  Don s beside her --
+
+                                  ROBIN (cont d)
+                    We can t prove what, if anything, 
+                    Logan did with the information he 
+                    obtained from the system.
+
+                                  DON
+                    Charlie s working on the jury math.
+
+                                  ROBIN
+                    I can t go to the judge with an 
+                    equation.
+
+      Don smiles, off Robin s look --
+
+                                  DON
+                    I m usually the one saying that.
+
+      INT. CALSCI - CHARLIE S OFFICE - DAY3333
+
+      Charlie pushes up his chalkboard, revealing another one 
+      underneath displaying a web of DATA SETS and PROFILE SCORES.  
+
+                                    CHARLIE
+                    These data sets factor in the 
+                      information gathered from the 
+                      questionnaires.  
+
+      REVEAL Robin --
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    30. 
+
+      CONTINUED:3333
+
+                                  ROBIN
+                    What do the profile scores tell us?
+
+      ON THE BOARD:  A scale from 1 - 100 is broken into three 
+      sections (47 and below) (48 - 52) (52 and above); each juror 
+      is listed on the scale according to their score.  
+
+                                    CHARLIE
+                    Probable juror bias.  
+                          (re: the board)
+                    A score of forty-seven and below 
+                    indicates the juror was pro-
+                      prosecution. Fifty-two and above is 
+                      pro-defense. In between means their 
+                    bias was negligible.  
+
+                                  ROBIN
+                          (reads off the board)
+                    According to this -- six jurors 
+                    leaned toward conviction, two 
+                      acquittal, four in the middle.
+                          (beat)
+                    How are you measuring bias?
+
+                                    CHARLIE
+                    With SJS...
+
+                                  ROBIN
+                      Scientific Jury Selection?
+
+                                    CHARLIE
+                    SJS operates under the assumption 
+                    that demographics predict attitudes 
+                    -- attitudes predict verdicts. 
+
+                                  ROBIN
+                    Sounds like profiling.
+
+                                    CHARLIE
+                    Which, by definition, presupposes 
+                      statistical analysis.  It comes 
+                    down to group dynamics. Kinda like -
+                    - herding cattle.  
+
+      ENTER AUDIENCE VISION:
+
+      Charlie walks across a western landscape. 
+
+
+
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    31. 
+
+      CONTINUED: (2)3333
+
+                                    CHARLIE (cont d)
+                    In the Old West, you d have maybe 
+                    10 cowboys to drive thousands of 
+                    cattle. 
+
+      BEYOND Charlie, a massive herd of CATTLE on the move.
+
+                                    CHARLIE (cont d)
+                    Instead of trying to control an 
+                    entire herd, they d pick a lead 
+                    steer. They d well, steer him...  
+
+      A cowboy herds a large steer -- 
+
+                                    CHARLIE (cont d)
+                    ...and the entire herd would 
+                    follow. 
+
+      REVEAL the herd following behind... 
+
+                                    CHARLIE (cont d)
+                    They manipulated thousands by 
+                      controlling one.
+
+      RETURN TO SCENE:
+
+                                    CHARLIE (cont d)
+                    To determine the leader on a jury, 
+                    SJS factors in characteristics such 
+                    as age, gender, occupation, 
+                      education. 
+
+      Robin scans the board --
+
+                                  ROBIN
+                    Your analysis left out the 
+                    alternate juror. Juror 7 was 
+                    excused for a death in the family, 
+                    The alternate took her place. 
+
+                                    CHARLIE
+                    Who died -- and how? 
+
+                                  ROBIN
+                    The juror s husband was killed in a 
+                    car accident.  Why, think there s 
+                    something more to it? 
+
+                                    CHARLIE
+                    Given the parameters of this case -- 
+                    I d say there s a high probability.              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    32. 
+
+
+
+      INT. MONTGOMERY HOUSE - LIVING ROOM - DAY3434
+
+      David admires a framed PHOTO of TWO LITTLE GIRLS.
+
+                                  ARLENE (O.S.)
+                    They look like their father.
+
+      ARLENE MONTGOMERY approaches...
+
+                                  DAVID
+                    According to CHP, the investigating 
+                    officer ruled your husband s 
+                    accident a single car wreck?
+
+                                  ARLENE
+                    They said he was speeding. With me 
+                    on that jury, Paul had to juggle 
+                    work, the house, the girls. Maybe 
+                    he was overwhelmed, in a hurry... 
+
+                                  DAVID
+                    Had he been in accidents before?
+
+                                  ARLENE
+                    He d had a few tickets in the past, 
+                    but not since the girls were born.   
+                          (then)
+                    Do you have children, Agent?
+
+                                  DAVID
+                    No, ma am.
+
+                                  ARLENE
+                    Kids change you... 
+
+      Arlene picks up the photo of her daughters -- 
+
+                                  ARLENE (cont d)
+                    From the moment they re born, you 
+                    look at life differently.     
+                          (looking at the photo)
+                    Parents wanna be around for their 
+                    children as long as they can.
+
+      OFF David --
+
+      INT. CALSCI - CHARLIE S OFFICE - DAY3535
+
+      Charlie works.  Alan enters. 
+
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    33. 
+
+      CONTINUED:3535
+
+                                  ALAN
+                    Robin stopped by last night. This 
+                    Lake case has her pretty upset. 
+
+                                    CHARLIE
+                    She and Don feel responsible for 
+                    getting Erica Daniels killed. 
+
+                                  ALAN
+                    I know, but they didn t kill her, 
+                    Damian Lake did.
+
+                                    CHARLIE
+                    That s the problem with a lot of 
+                    law enforcement. It s messy and 
+                    reactive. Innocent people can get 
+                    in the way.  
+
+                                  ALAN
+                    Still thinking about trying to find 
+                      a pre-emptive approach? 
+
+                                    CHARLIE
+                    It s like a doctor in an ER trying 
+                    to find better ways to treat people 
+                    thrown through car windshields. The 
+                      breakthrough isn t better medical 
+                    care, it s seat belts.  I m tired 
+                    of treating the symptom. I want a 
+                    way to attack the problem.
+
+      OFF Charlie...
+
+      INT. FBI - BULLPEN - DAY3636
+
+      David finds Don, with news --
+
+                                  DAVID
+                    CHP s report on Paul Montgomery s 
+                    accident.  There are trace elements 
+                    of paint at the scene that don t 
+                    match his car.
+
+                                  DON
+                    They didn t follow up?
+
+                                  DAVID
+                    They re slammed -- and they had no 
+                    reason to suspect foul play...
+
+                                  DON
+                    But we do.  
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    34. 
+
+      CONTINUED:3636
+
+      Colby appears, urgent:
+
+                                  COLBY
+                    Judge s record lists the alternate 
+                    juror as one Justin Cerf. Ran his 
+                    social -- it was stolen from a 
+                    deceased man in Norco.
+
+                                  DON
+                    Guy got on the jury with a fake ID?
+
+                                  COLBY
+                    Yeah, though first he got in the 
+                    jury pool --
+
+                                  DAVID
+                          (puts it together)
+                    Then, he got on the jury. After 
+                    Arlene Montgomery s husband was 
+                    killed.
+
+                                  COLBY
+                    Lake needs an open slot, he kills 
+                      Montgomery s husband to make it 
+                    happen. 
+
+      As this quickly sinks in --
+
+                                  DON
+                    I want Lake in custody.
+
+                                  DAVID
+                    We can t arrest him until the judge 
+                    grants the mistrial.
+
+                                  COLBY
+                    I ll call Robin --
+
+                                  DON
+                    I don t care what it takes.  I want 
+                    him here.  Now.
+
+      EXT. DAMIAN LAKE ESTATE - DAY3737
+
+      STREET LEVEL P.O.V. -- of a DOZEN BLACK BOOTS creeping 
+      towards the property...
+
+      DAVID AND COLBY -- with FOUR FBI SWAT, approaching, stealth.              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    35. 
+
+
+
+      INT. DAMIAN LAKE ESTATE - FRONT DOOR - SAME3838
+
+      -- BAM! -- The front door s busted in ... 
+
+      SWAT hits the house; Colby and David enter -- 
+
+      -- find a MAID, wide-eyed, paralyzed in shock. 
+
+                                  MAID
+                          (in Spanish)
+                     Qu  pasa? --  qui nes son ustedes?  
+                    -- No pueden estar aqu ...  
+                    [What s going on -- who are you?  
+                    You can t be here...]
+
+                                  COLBY
+                          (in Spanish)
+                    FBI, senora... Por favor calmese --
+                    Estamos buscando a Damian Lake--  
+                    [FBI, ma am.  Please calm down...
+                    We re looking for Damian Lake --]
+
+                                  MAID
+                          (in Spanish)
+                    Se fue --
+                    [He s gone, he left --]
+
+                                  COLBY
+                          (in Spanish)
+                     Ad nde? 
+                    [Where did he go?]
+
+                                  MAID
+                          (in Spanish)
+                    -- a Costa Rica.                   
+                    [-- to Costa Rica.]
+
+      Colby exchanges a look with David --
+
+                                  DAVID
+                    Yeah... I got that last part.
+
+
+                                  END OF ACT TWO              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    36. 
+
+
+
+                                      ACT THREE
+
+      INT. FBI - BULLPEN - DAY3939
+
+      Don exits the elevator, on the move; Colby falls in step --
+
+                                  COLBY
+                    Lake chartered a private plane to 
+                    Costa Rica yesterday. Interpol s 
+                    issued a green notice. Agents have 
+                    Lake s picture; they re tailing 
+                    known associates, surveilling the 
+                    places he frequents.
+
+                                  DON
+                    Pick up Fox Carter.
+
+                                  COLBY
+                    Lake s lieutenant?
+
+                                  DON
+                    Find out if he knows where his boss 
+                    is.  Where are we on the mistrial?
+
+                                  COLBY
+                    Granted twenty minutes ago.
+
+      Don moves off to the--
+
+      INT. FBI - WAR ROOM - CONTINUOUS4040
+
+      --where Charlie and David are waiting for him.  On the SCREEN 
+      -- DRIVERS LICENSE of JUSTIN CERF.
+
+                                  DON
+                    We ID the fake juror yet?  
+
+                                  DAVID
+                    He had a state-issued driver s 
+                    license under his fake name, so 
+                    we ve pulled that ID photo to run 
+                    through facial recognition.
+
+                                    CHARLIE
+                    I ran an asymptotic analysis of the 
+                    program s Mersenne Twister 
+                    algorithm -- the system used to 
+                    pick jurors out of the county pool. 
+                          (explains)
+                    Broke it down to see if it s 
+                    working properly.    
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    37. 
+
+      CONTINUED:4040
+
+                                  DON
+                    It wasn t?
+
+                                    CHARLIE
+                    No, when Robert Logan hacked the 
+                    software, he planted Cerf into the 
+                    system.
+
+                                  DAVID
+                    High-tech jury tampering.
+
+                                    CHARLIE
+                    There s more...
+                          (beat)
+                      I reviewed Cerf s questionnaire. He 
+                      methodically presented himself as 
+                    the ideal candidate for the 
+                      prosecution. 
+                          (then)
+                    Advanced degree, brother in the 
+                    military, victim of home invasion. 
+                    If you think of the questionnaire 
+                    as a test, this guy knew the 
+                    answers beforehand. 
+
+                                  DAVID
+                    Lake had to make him look appealing 
+                    to Robin. She had a say in whether 
+                    or not he was empaneled.  
+
+                                    CHARLIE
+                    Either Cerf had knowledge of 
+                      Scientific Jury Selection, or 
+                    someone coached him.
+
+                                  DAVID
+                    Someone like a jury consultant. We 
+                    have phone records of Logan calling 
+                    Mitch Langford s office. 
+
+                                  DON
+                    He s in the middle of this. Get 
+                    serious with him.  
+
+      Don leaves. David follows him out --
+
+      INT. FBI - HALLWAY - CONTINUOUS4141
+
+                                  DAVID
+                    Don, got a sec --
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    38. 
+
+      CONTINUED:4141
+
+                                  DON
+                    What s up?
+
+                                  DAVID
+                    I put in to be your primary relief 
+                      supervisor.
+
+                                  DON
+                          (absorbs)
+                    Okay...
+
+      David waits for more; it doesn t come...
+
+                                  DAVID
+                    To complete my application, the 
+                    career board needs a letter of 
+                      recommendation from you. 
+
+                                  DON
+                    I know what they need.
+
+      He heads off. Leaving David watching after him.
+
+      EXT. PARK - DAY4242
+
+      Fox paces, waiting, when --
+
+                                  COLBY (O.S.)
+                    Still lookin  to sell those chips?
+
+      Fox spins around, finds Colby approaching. He quickly starts 
+      off in the opposite direction, only to run into...
+
+                                  NIKKI
+                    Always leavin  the party early --
+
+                                  FOX
+                          (resigned)
+                    Aw, come on guys. 
+
+                                  COLBY
+                    Maybe we should take a look in that 
+                    white van across the street. Think 
+                    we ll find any illegal firearms?
+
+      Fox shakes his head, exasperated. 
+
+                                  FOX
+                    Go look in the van if you want. 
+                    You re gonna find a lot of nothing.     
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    39. 
+
+      CONTINUED:4242
+
+                                  NIKKI
+                    Then what are you doing here? 
+
+                                  FOX
+                    I m trying to meet a guy who s 
+                    supposed to set me up with some -- 
+                    what I would call merchandise -- 
+                    but you guys might consider stolen 
+                      electronic goods.   
+
+      He shrugs helplessly --
+
+                                  FOX (cont d)
+                    Can t arrest me for being stood up. 
+                    And that s my life these days -- 
+                    nobody s doing business with me.
+
+                                  COLBY
+                    Oh boo hoo. We only need one thing 
+                    from you:  Where s Lake?
+
+                                  FOX
+                    Where s Lake?  Would I be out here 
+                    looking to meet some lowlife fence 
+                    if I was still in business with 
+                    Damian Lake?
+
+                                  NIKKI
+                    You re his No. 2. You know where he 
+                    is --
+
+                                  FOX
+                    You don t get it.  He dropped his 
+                    local network, all of us. Burned a 
+                    lot of people -- bagged out on 
+                    deals, stiffed buyers. Wherever s 
+                    he s gone, he s never coming back. 
+
+                                  COLBY
+                    Hands behind your back.
+
+      He goes to cuff him --
+
+                                  FOX
+                    Oh come on, really? 
+
+                                  NIKKI
+                    Unless you got something to give, 
+                    we still like you for stuff you did 
+                    when you were working for Lake.
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    40. 
+
+      CONTINUED: (2)4242
+
+                                  FOX
+                    Okay, -- I ll tell you one thing 
+                    you might not know.
+
+                                  NIKKI
+                    Yeah? We re all ears.
+
+                                  FOX
+                    Lake did something to mess with the 
+                    jury on his case.
+
+                                  COLBY
+                    Like what exactly?
+
+                                  FOX
+                    I don t know, but something. He 
+                    said he wouldn t go to jail, he was 
+                    positive about it.  
+
+                                  NIKKI
+                    Did he give you any specifics? 
+
+                                  FOX
+                    No, he didn t say exactly --
+
+                                  COLBY
+                    Bzzz. Wrong answer.
+
+      He handcuffs Fox. 
+
+                                  FOX
+                    Not cool.
+
+      EXT. FEDERAL COURTHOUSE - DAY4343
+
+      Robin stands, alone in thought.  Don joins her --
+
+                                  DON
+                    I m not used to this.
+
+                                  ROBIN
+                    What s that?
+
+                                  DON
+                    Seeing someone else carry all the 
+                    guilt.   
+
+                                  ROBIN
+                    I ve worked cases where murderers 
+                    beat the rap, but this case... Lake 
+                    beat the system.
+                                  (MORE)
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    41. 
+
+      CONTINUED:4343
+                                  ROBIN (cont'd)
+                          (beat)
+                      I believed in the system.
+
+                                  DON
+                    You did your job.
+
+                                  ROBIN
+                    And now what do I do?
+
+                                  DON
+                    Let me carry some of that burden.
+
+      OFF Don and Robin -- 
+
+      INT. CALSCI - CHARLIE S OFFICE - DAY4444
+
+      Charlie s at his desk, the 14 JUROR FILES scattered, his 
+      computer s running the analysis. David s waiting, reading 
+      something he s pulled off a shelf.  
+
+                                    CHARLIE
+                    Ever consider thinking up new ways 
+                    to do the job?  
+
+                                  DAVID
+                    You re talking to a guy who s spent 
+                    his career in the back seat.  The 
+                    FBI s a top-down organization, and 
+                    no one s looking to me for 
+                      suggestions.    
+
+                                    CHARLIE
+                    Don values you.  He has a hard time 
+                    showing that -- but you can take my 
+                    word for it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    42. 
+
+      CONTINUED:4444
+
+                                  DAVID
+                      I appreciate that.  But, it s his 
+                    word I need.
+
+                                    CHARLIE
+                    For what?
+
+                                  DAVID
+                    Personal work stuff I probably 
+                    shouldn t be discussing with his 
+                    brother.  
+
+                                    CHARLIE 
+                    Good point.
+
+                                  DAVID
+                    You know -- Lake put Cerf on the 
+                    jury to influence the other jurors.  
+                    We assume he used bribes, threats -- 
+                    but all eleven jurors?  And no one 
+                    talked?
+
+                                    CHARLIE
+                    Lake didn t need all of them... 
+
+                                  DAVID
+                    He needed a unanimous vote.
+
+                                    CHARLIE
+                      A consistent minority is often more 
+                      influential than a majority. 
+
+                                  DAVID
+                    I m usually up for drinkin  the 
+                    math Kool-Aid, but that doesn t 
+                    sound right.
+
+                                    CHARLIE
+                    Okay, look at it this way. My dad 
+                    recently joined Facebook -- 
+
+                                  DAVID
+                    Alan -- really?
+
+                                    CHARLIE
+                    Yeah, I know.  Anyway, the website 
+                    relies on people with high SNP -- 
+                    social networking potential -- to 
+                    expand its user base. People who 
+                    are known for their ability to 
+                    exert influence on other people. 
+                                  (MORE)
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    43. 
+
+      CONTINUED: (2)4444
+                                  CHARLIE (cont'd)
+                    They re tastemakers, the style 
+                    leaders, what Michael Lewis calls 
+                     mavens.  Successful marketing 
+                    campaigns target these individuals.
+
+                                  DAVID
+                    So a couple key people on the jury 
+                    could influence the others?  And 
+                    Cerf knew who to pick? 
+
+                                    CHARLIE
+                    Langford, as a jury consultant, 
+                    would know how to run an analysis 
+                    to select those people. 
+
+      Charlie glances at his laptop --
+
+                                    CHARLIE (cont d)
+                    Just as my model s doing right now. 
+                    It s close to identifying which 
+                    jurors were his likely targets, 
+                    chosen to turn the entire jury.
+
+      INSERT COMPUTER SCREEN --
+
+      Two balls are orange, the rest are black. The model plays out 
+      until -- all the balls change to orange =  not guilty. 
+
+                                    CHARLIE (cont d)
+                    Linda Parker and Roy Detchemendy.
+                          (then)
+                    Parker s a single mother, a 
+                      homemaker, a unifier. Detchemendy s 
+                      a personnel director for a large 
+                    financial institution, educated, a 
+                      communicator. 
+                          (looks up, to David)
+                    The probability s high these two 
+                    jurors, plus Cerf, were the 
+                      influential ones who lead the 
+                    entire group.
+
+      INT. FBI - INTERROGATION ROOM - DAY4545
+
+      David sits across from ROY DETCHEMENDY, 50s, conflicted.  His 
+      LAWYER addresses David --
+
+                                  LAWYER
+                    My client will talk if he s 
+                      guaranteed immunity.   
+
+      INTERCUT WITH:              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    44. 
+
+
+
+      INT. FBI - INTERVIEW ROOM - DAY4646
+
+      With Colby and LINDA PARKER, 40s, nervous.
+
+                                  COLBY
+                    Ms. Parker, we can protect you, but 
+                    you have to tell us what happened.
+
+      DAVID WITH ROY:
+
+                                  ROY
+                    When I got the summons, it couldn t 
+                    have been worse timing. I d just 
+                    lost my job, we were facing 
+                      foreclosure...
+
+      David listens intently, as we return to --
+
+      COLBY WITH LINDA:
+
+                                  LINDA
+                    One night at the hotel, an envelope 
+                    was slipped under my door. Pictures 
+                    of my children... with bullseyes 
+                    over their faces. On the back were 
+                    two words --
+
+      DAVID WITH ROY:
+
+                                  ROY
+                     Not guilty. 
+                          (beat)
+                    -- written beside my bank s routing 
+                    number and the money I needed to 
+                    keep my house.
+
+      He looks down in shame.
+
+      COLBY WITH LINDA:
+
+      She looks up at Colby --
+
+                                  LINDA
+                    There were three of us who pushed 
+                    for the acquittal. 
+
+                                  COLBY
+                    Were they being threatened as well?
+
+                                  LINDA
+                    I didn t ask; I didn t know who to 
+                    trust. 
+                                  (MORE)
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    45. 
+
+      CONTINUED:4646
+                                  LINDA (cont'd)
+                    We were sequestered and guarded. If 
+                    they could get to me -- they could 
+                    get to my children.  
+
+      DAVID WITH ROY:
+                                  DAVID
+                    What can you tell me about Justin 
+                    Cerf?
+
+                                  ROY
+                    He s okay, I guess, friendly.  
+
+                                  DAVID
+                    You talk about anything personal?  
+
+      COLBY WITH LINDA:
+
+                                  LINDA
+                    We all kept it professional.  
+                    Except, well, the jury foreman 
+                    teased him --  
+
+                                  COLBY
+                    About what?
+
+                                  LINDA
+                    Justin had a thing for the delivery 
+                    girl from the deli where we ordered 
+                    lunch... flirted with her a lot. 
+
+      INT. AVENUE DELI - DAY4747
+
+      A bustling deli. David and Colby question TRISHA MORENO, part-
+      time delivery girl, full-time flirt --
+
+                                  TRISHA
+                    Juror guy, yeah, I remember him.  
+                    Chicken salad on rye.
+
+                                  COLBY
+                    Did he ask for your number?
+                          (off her look)
+                    Did you give it to him?
+
+                                  TRISHA
+                    I don t go for chicken salad.
+                          (eyes Colby)
+                    More of a roast beef kinda girl.  
+
+                                  DAVID
+                    If he tries to contact you...  
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    46. 
+
+      CONTINUED:4747
+
+                                  TRISHA
+                    If it s contact you want --
+
+      Trisha pulls out a slip of paper with a phone number it.
+
+                                  TRISHA (cont d)
+                    I hung onto the number.
+                          (re: their looks)
+                    Just because I don t go for chicken 
+                    salad, doesn t mean chicken salad 
+                    don t go for me.
+
+4848EXT. AVENUE DELI - MINUTES LATER 
+
+      Colby s on his cell; David walks beside him -- 
+
+                                  COLBY
+                          (into phone)
+                    Thanks...  
+                          (hangs up)
+                    The phone number comes back to 
+                    Gregg Silver.  DMV photo matches 
+                    Justin Cerf s ID.   
+
+                                  DAVID
+                    Call it in.  Get an address.
+
+      As he s dialing...
+
+                                  COLBY
+                    Do I seem like a roast beef guy to 
+                    you?
+
+                                  DAVID
+                    I don t discuss another man s meat.
+
+      INT. SILVER S APARTMENT BUILDING - HALLWAY/STAIRWELL - DAY4949
+
+      Colby and David round a corner, hear a door open, see --
+
+      A MAN steps out at the far end of the hall. JUSTIN CERF/GREGG 
+      SILVER.  COLBY and DAVID lock eyes on him.
+
+                                  DAVID
+                    Gregg Silver?
+
+      Gregg Silver stares a beat -- can t tell who he s looking at 
+      until -- Colby and David raise badges.
+
+                                  COLBY
+                    FBI.
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    47. 
+
+      CONTINUED:4949
+
+      Silver sprints off and up a stairwell -- Colby and David 
+      pursue --
+
+      EXT. SILVER S APARTMENT BUILDING - ROOF/FIRE ESCAPE - DAY5050
+
+      Silver emerges onto the roof.  No way off -- except for a 
+      fire escape.  Colby and David appear as Silver climbs onto 
+      the fire escape.  David quickly backtracks as Colby pursues.
+
+      Silver makes his precarious descent, racing down the stairs -- 
+      until he sees David emerge out of the building, onto the fire 
+      escape platform one story below.
+
+                                  DAVID
+                    Hey!  Stop right there.
+
+      Silver glances up -- Colby above him. Options dwindling.  40 
+      feet away, an OPEN WINDOW.  Desperation drives him out --
+
+      -- onto a narrow LEDGE.  Silver starts traversing the ledge.  
+      David watching -- not sure what to do.
+
+                                  DAVID (cont d)
+                    Gonna get yourself killed.  How 
+                     bout we discuss this inside? 
+
+      SILVER S POV -- vertigo is setting in... 
+
+                                  SILVER
+                    I m dead either way, man.
+
+      Silver inches toward the open window -- hand reaching out to 
+      the edge of the window frame.  But he suddenly loses balance, 
+      one foot slips -- about to fall, when -- 
+
+      Colby grabs Silver s arm, pulls him to safety.
+
+
+                                  END OF ACT THREE              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    48. 
+
+
+
+                                        ACT FOUR
+
+      INT. FBI - INTERROGATION ROOM - NIGHT5151
+
+      Colby with Gregg Silver.  He s smart, guarded.
+
+                                  SILVER
+                    I didn t know what I was hired to 
+                    do. I just did what I was told.
+
+                                  COLBY
+                          (reads off file)
+                    You re a diversified con-man, I ll 
+                    give you that. Multiple convictions 
+                    for fraud -- mail, phone, wire...
+
+                                  SILVER
+                    I don t hurt people. 
+
+                                  COLBY
+                    A lot of people got hurt in this 
+                    case.
+
+                                  SILVER
+                    I don t know anything about that.
+
+                                  COLBY
+                    What I care about -- is what you 
+                    did while you were on the jury.
+
+      Silver considers his options, then:
+
+                                  SILVER
+                      I listened to the evidence, I 
+                      deliberated with the other jurors, 
+                    I cast a vote. Same vote as 
+                    everybody else. Why single me out?
+
+                                  COLBY
+                    You created a fake identity, went 
+                    along with a plan to put that fake 
+                    person on a jury.  That much we can 
+                    prove, and that s a serious felony.
+
+                                  SILVER
+                    Talking to you doesn t get me 
+                    anything.
+
+
+
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    49. 
+
+      CONTINUED:5151
+
+                                  COLBY
+                    If you ve got nothing else to say, 
+                    we ll just stick you back out on 
+                    the street, and make sure everybody 
+                    knows you were in here.
+
+      Silver looks alarmed. 
+
+                                  COLBY (cont d)
+                    You can go hang out with your buddy 
+                    Robert Logan. Oh that s right. He s 
+                    dead. 
+
+      OFF Silver s realization of how screwed he is.
+
+      EXT.  ECHO PARK BOATHOUSE - NIGHT5252
+
+      The front door swings open, in walks --
+
+      MITCH LANGFORD.  Standing in the shadows is Gregg Silver. 
+
+                                  LANGFORD
+                    What the hell are you thinking?
+
+                                  SILVER
+                    I don t want to end up like Logan.
+
+      Langford slips him a thick envelope --
+
+                                  LANGFORD
+                    You won t. Just make sure I don t 
+                    see your face again.
+
+                                  NIKKI (O.S.)
+                    How about my face?
+
+      Langford spins around, finds Nikki standing behind him.  
+
+      He eyes the door, about to make a run for it -- when DAVID 
+      comes in -- weapon drawn.
+
+                                  DAVID
+                    Hands on your head.
+
+      Langford complies -- eyes Silver.
+
+      INT. FBI - INTERROGATION ROOM - NIGHT5353
+
+      Langford s seated.  ND Agent present.  Robin enters --
+
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    50. 
+
+      CONTINUED:5353
+
+                                  LANGFORD
+                    Round two?
+
+                                  ROBIN
+                    This isn t a game.
+
+                                  LANGFORD
+                    Sure it is.
+
+                                  ROBIN
+                    You and I look at the justice 
+                    system differently.
+
+                                  LANGFORD
+                    We re products of the system... 
+                          (then)
+                    You re a prosecutor -- you try to 
+                    predict what the defense will do, 
+                    you attack and counter-attack, you 
+                    hide things that damage your case, 
+                    take advantage of an opponent s 
+                    weakness --
+
+                                  ROBIN
+                    I don t break the rules.
+
+                                  LANGFORD
+                      Rules...you re admitting it s a 
+                    game without even realizing it.
+
+      Robin takes a hard look at Langford.
+
+                                  ROBIN
+                    Right now we re reviewing recent 
+                    money transfers into and out of 
+                    your accounts.
+                          (off his look)
+                    Silver s talked.  You were the 
+                      mastermind behind the scheme, but 
+                    the guy who paid for it s gone. 
+                    It s all coming down on you. Two 
+                    murders, a dozen felony charges. 
+                    Life in prison without parole. 
+                    Unless you answer one question, and 
+                    answer it right. 
+
+      Langford s shaken.  She lets it hang a beat, then:
+
+                                  ROBIN (cont d)
+                    Where s Lake?  And don t tell me 
+                    Costa Rica because we know he s not 
+                    there.
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    51. 
+
+      CONTINUED: (2)5353
+
+                                  LANGFORD
+                    I don t know.  If I could tell you 
+                    where he is, I d be dead. 
+
+                                  ROBIN
+                    Show us how he paid you. Every 
+                    record, every bank routing number. 
+
+                                  LANGFORD
+                    That won t help you.  He had 
+                      everything encrypted, untraceable.
+
+                                  ROBIN
+                    Maybe he s not as smart as he 
+                    thinks he is.  
+
+                                  LANGFORD
+                    I hope to hell you re right.  
+                    Otherwise your list of charges 
+                    against Lake -- will include the 
+                    murder of a jury consultant.
+
+      INT. FBI - TECH ROOM - NIGHT5454
+
+      Matt Li s at the computer; Charlie s beside him. Don enters --
+
+                                  MATT LI
+                    The activity in Langford s account 
+                    is encrypted, in addition to being 
+                    routed through numerous overseas 
+                    banks -- makes it hard to track.
+
+                                    CHARLIE
+                    But not impossible.
+                          (then)
+                    You re looking at a worldwide 
+                    financial messaging network that 
+                    links over 9,000 institutions in 
+                    200 countries.
+
+                                  MATT LI
+                    Its database routes some 11 million 
+                      transactions daily.
+
+                                  DON
+                    You can find Lake in all that?
+
+                                    CHARLIE
+                    We re using encrypted material from 
+                      Langford s accounts to trace the  
+                    Bank Identifier Code from which 
+                    Lake made the transfers.
+
+
+
+                                                                            (CONTINUED)            NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    51A. 
+
+      CONTINUED:5454
+
+                                  DON
+                    Isn t the system designed to 
+                    prevent exactly what you re doing?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    52. 
+
+      CONTINUED: (2)5454
+
+                                    CHARLIE
+                    Well yes, but --
+
+      He grins --
+
+                                  MATT LI
+                    Charlie here s got the NSA hook-up.
+
+                                  DON
+                    Who in DC do I owe for this one? 
+
+                                    CHARLIE
+                    It s okay, I called in one of my 
+                    favors.
+
+                                  MATT LI
+                    And here s what we re looking for --
+
+      An eight digit code pops up -- CBAVAW3R --
+
+                                  MATT LI (cont d)
+                    The first four characters are the 
+                    bank code, the next two are the 
+                    country code, followed by the 
+                    branch code.
+
+                                  DON
+                          (reads off the screen)
+                    So what country is AW?
+
+                                    CHARLIE
+                    Pack sunscreen.
+
+      EXT. ARUBA - PRIVATE RESIDENCE - DAY5555
+
+      An opulent, personal paradise.  Lake lounges in a recliner. 
+
+      A SHADOW 
+
+      -- over him. He glances up at the bottom of a drink tray. 
+
+                                  LAKE
+                    Leave it on the table.
+
+      The drink is placed beside him; Lake reaches for it, when --
+
+      -- SNAP -- his wrist is handcuffed -- he looks up to find...
+
+      TWO LOCAL POLICE OFFICERS -- standing over him.
+
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    53. 
+
+      CONTINUED:5555
+
+                                  LAKE (cont d)
+                    Guys -- you re making a big 
+                    mistake.  This is a private 
+                      residence, you can t just --
+
+                                  DON (O.S.)
+                    Don t worry.  You re going to get 
+                    plenty of privacy where you re 
+                    going.
+
+      Don appears -- yanks Lake up onto his feet --
+
+      INT. FBI - BULLPEN - NIGHT5656
+
+      Nikki at her desk. Colby and David approach, drop off 
+      paperwork.
+
+                                  NIKKI
+                    Just keeps comin , doesn t it?
+
+                                  COLBY
+                    Politics of the job...
+                          (off her look)
+                    -- Senator.
+
+                                  NIKKI
+                    Langford said that, not me.
+
+                                  COLBY
+                    You didn t deny it.
+
+                                  DAVID
+                    That true, Betancourt?
+
+                                  NIKKI
+                    All I m sayin  -- twenty years from 
+                    now I don t aspire to be at this 
+                    desk doing paperwork.
+                          (jibes)
+                    Or lookin  at your two mugs.
+
+                                  COLBY
+                    Twenty minutes from now I aspire to 
+                    be picking up a hot delivery.
+
+                                  DAVID
+                    Sandwich girl?
+
+                                  COLBY
+                    Roast beef works, why fight it?
+
+      Colby leaves.  
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    54. 
+
+      CONTINUED:5656
+
+                                  NIKKI
+                    Sinclair, I hear rumors you re a 
+                    man with plans. Going to be running 
+                    this office one day?   
+
+                                  DAVID
+                    I have no idea where d you hear 
+                    something like that. Better check 
+                    your sources. 
+
+      Nikki gives him a grin, stands.
+
+                                  NIKKI
+                    My sources are pretty good.
+
+      She walks away; David approaches his desk, a document lies on 
+      his chair.  He picks it up, revealing --
+
+      A LETTER OF RECOMMENDATION addressed to the career board ...
+
+      -- signed by Don Eppes --
+
+      OFF David --
+
+      INT. FBI - HALLWAY - NIGHT5757
+
+      Through the glass we see Robin speaking with Carl Daniels 
+      (Erica s brother).  He s emotional, but thankful...
+
+      Watching this -- DON.  Robin exits the room, approaches -- 
+
+                                  ROBIN
+                    How was your flight? 
+
+                                  DON
+                    I enjoyed it. A lot.  
+                          (off Daniels)
+                    How s he doing?
+
+                                  ROBIN
+                    He s grateful Lake won t get away 
+                    with murdering his sister. But it 
+                    doesn t change what happened. He 
+                    feels kinda lost, and so do I. 
+
+      Don absorbs this, then -- 
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    55. 
+
+      CONTINUED:5757
+
+                                  DON
+                    You can never really be lost, 
+                    Someone s already marked the way.
+
+      Robin looks to him, curious.
+
+                                  ROBIN
+                    What are you talking about?
+
+                                  DON
+                    Jewish law, Halakha -- derived from 
+                      scripture. It means  the path.  
+                    I ve been studying it. Comforting, 
+                    you know...
+
+      Robin nods, thinking.
+
+                                  ROBIN
+                    I ve never told you this... never 
+                    told anyone -- I almost dropped out 
+                    of law school.
+
+                                  DON
+                    Why? 
+
+                                  ROBIN
+                    A lecture I heard on the philosophy 
+                    of law --  Nietzsche argued that 
+                     real justice  cannot exist in a 
+                    society where people have differing 
+                    levels of power. That the powerful 
+                    will always exploit the weak.
+
+                                  DON
+                          (gently joking)
+                    Isn t that why people become 
+                    lawyers? 
+
+      Robin smiles -- 
+
+                                  ROBIN
+                    Yeah, maybe some of them. But it 
+                    made me want to help balance that 
+                    fight.  And every case, every 
+                    criminal we put away -- brings us 
+                    one step closer to  real justice.  
+
+      OFF Robin --
+
+      INT. EPPES HOUSE - GARAGE - NIGHT5858
+
+      Charlie stares at his boards. Alan comes in.
+
+
+
+                                                                            (CONTINUED)            NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    55A. 
+
+      CONTINUED:5858
+
+                                  ALAN (O.S.)
+                    Charlie? You gonna stay out here 
+                    all night?
+
+                                    CHARLIE
+                    That depends... if it takes until 
+                    morning.
+
+                                  ALAN
+                    I thought the case was wrapped up.
+
+                                    CHARLIE
+                    It was... it is. But taking one 
+                    criminal off the streets doesn t 
+                    solve the problem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                            (CONTINUED)              NUMB3RS: 515/94: "Guilt Trip" - Rev. Green - 1/12/09    56. 
+
+      CONTINUED: (2)5858
+
+                                  ALAN
+                    It s a lot better than leaving the 
+                    bad guy out there.
+
+                                    CHARLIE
+                    There s always another one, or 10, 
+                    to take his place.  
+
+                                  ALAN
+                    Yeah, I know you were saying you 
+                    want to find a way to prevent the 
+                    crimes, not just solve them after 
+                    they ve taken place. That s a great 
+                    goal, but is it realistic?
+
+                                    CHARLIE
+                    I don t know. I just feel like I ve 
+                    been putting Band-aids on bullet 
+                    holes. 
+
+      Charlie turns back to his boards, taking it all in --
+
+                                    CHARLIE (cont d)
+                    And I want to find a way to stop 
+                    the bullet.
+
+      Alan backs out, leaving Charlie alone with his work...
+
+
+                                  END OF EPISODE

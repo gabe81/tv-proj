@@ -1,0 +1,75 @@
+1,     EXT STREET  DAY                                                ,513
+2,     EXT STREET FAIR  DAY                                             ,65
+3,     EXT HOSPITAL  DUSK                                               ,92
+4,     EXT STREET FAIR  NIGHT                                         ,7
+5,    EXT ANOTHER STREET  NIGHT                                       ,39
+6,    INT DR FRISKINS OFFICE  DAY                              X,79
+7,    INT DAILY PLANET  DAY                                           ,79
+8,    EXT CALVIN DREGGS HOUSE  DAY                                   ,104
+9,    INT BARRY BARKERS OFFICE  DAY                                  ,76
+10,    EXT METROPOLIS  NIGHT                                         ,8
+11,    INT BARRY BARKERS OFFICE  NIGHT                                ,21
+12,    EXT SKIES  NIGHT                                                ,10
+13,    INT BARRY BARKERS OFFICE  NIGHT                                ,35
+14,    INT LOIS APARTMENT  NIGHT                                      ,21
+15,    INT PHONE BOOTH  NIGHT                                          ,126
+16,    INT LOISS APARTMENT  NIGHT                                     ,108
+17,    INT LOIS APARTMENT  NIGHT                                      ,46
+18,    INT CONSTANCE HUNTERS OFFICE  DAY                            ,62
+19,    INT DAILY PLANET  DAY                                           ,115
+20,    INT CONSTANCES OFFICE  DAY                                     ,59
+21,    EXT SIDEWALK CAFE  DAY                                          ,239
+22,    EXT STREET  DAY                                                 ,18
+23,    EXT SIDEWALK CAFE  DAY                                          ,38
+24,    INT CLARKS APARTMENT  NIGHT                                  ,17
+25,    INT CLARKS APARTMENT  NIGHT                                    ,67
+26,    INT CLARKS APARTMENT  NIGHT  MINUTES LATER                    ,24
+27,    EXT METROPOLIS COURT HOUSE  DAY                               ,52
+28,    INT COURT ROOM  DAY                                             ,16
+29,    INT COURT HALL  DAY                                             ,30
+30,    INT COURT ROOM  DAY                                             ,17
+31,    INT COURT ANTEROOM  DAY                                         ,24
+32,    INT  COURT ROOM  DAY                                            ,21
+33,    EXT COURT HOUSE  DAY                                            ,89
+34,    INT DARK HALLWAY  NIGHT                                       ,57
+35,    INT ELEVATOR  NIGHT                                             ,31
+36,    INT DARK HALLWAY  NIGHT                                         ,13
+37,    INT ANOTHER HALL  NIGHT                                      X,33
+38,    INT DARK HALL  NIGHT                                            ,5
+39,    INT ANOTHER HALL  NIGHT                                      X,15
+40,    INT DARK HALL  NIGHT                                            ,63
+41,    EXT STREET MINUTES LATER                                         ,6
+42,    INT BILL JRS LIMO  NIGHT                                     ,36
+43,    INT CONSTANCE HUNTERS OFFICE  NIGHT                            ,70
+44,    INT LOIS APARTMENT  BEDROOM  NIGHT                            ,5
+45,    INT CLARKS APARTMENT  NIGHT                                    ,5
+46,    INT LOIS APARTMENT  LIVING ROOM  NIGHT                        ,6
+47,    INT CLARKS APARTMENT  NIGHT                                    ,5
+48,    INT LOIS APARTMENT  NIGHT                                      ,5
+49,    INT CLARKS APARTMENT  NIGHT                                    ,5
+50,    INT LOIS APARTMENT  NIGHT                                      ,5
+51,    INT CLARKS APARTMENT  NIGHT                                    ,5
+52,    INT LOIS APARTMENT  NIGHT                                      ,5
+53,    INT CLARKS APARTMENT  NIGHT                                    ,5
+54,    EXT LOIS APARTMENT  NIGHT                                      ,5
+55,    EXT CLARKS APARTMENT  TERRACE  NIGHT                          ,9
+56,    EXT STREET  NIGHT                                               ,5
+57,    EXT SKY  NIGHT                                                  ,5
+58,    EXT CLARKS APARTMENT  NIGHT                                    ,6
+59,    EXT SKY  NIGHT                                                  ,5
+60,    EXT LOIS APARTMENT  NIGHT                                      ,51
+61, A  EXT SKY  NIGHT                                              A   ,15
+62, B  INT CLARKS APARTMENT  DAY                                B   ,24
+63,    INT DR FRISKINS OFFICE  DAY                                   ,56
+64,    EXT COURT HOUSE  TO ESTABLISH  DAY                             ,6
+65,    INT COURT ROOM  DAY                                             ,92
+66,    INT COURT ROOM  WITNESS STAND  LATER                           ,35
+67,    EXT PARK ACROSS FROM COURT HOUSE  DAY                           ,29
+68,    INT COURT HALL  DAY                                             ,66
+69,    INT COURTROOM  DAY                                              ,12
+70,    INT COURT ROOM  DAY                                             ,78
+71,    INT COURTROOM  DAY                                              ,32
+72,   INT COURT  DAY                                                 ,178
+73,   INT COURT HALL  DAY                                            ,92
+74,   INT CLARKS APARTMENT  NIGHT                                 ,35
+75,   INT LOIS APARTMENT  NIGHT                                     ,24

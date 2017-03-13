@@ -1,0 +1,3451 @@
+notes:
+
+To pop everything into place...
+
+use Courier 10 (or 10 characters per inch)
+
+set top margin at 0.4", bottom margin at 0.4" (or minimums)
+left margin at 1", right margin at .25 (or minimum)
+   (I had to tell the program I was using legal paper)
+
+page breaks in hard copy indicated by ---page break---
+
+regular tabs, hard returns and right flushes are used 
+to position things to look as much like original as possible
+
+sometimes the formatting changes slightly (as in the numbers at the
+end of the lines), but I'm going to keep consistent because it's
+easier
+
+logo on front page will be noted when used but not included here
+
+as this may be sent in .txt, originally underlined words will 
+look like   _this_
+
+Notes: 
+
+Cover:  "Contact" Written by Chris Ruppenthal [and] Directed by Daniel
+Attias are all in large, bold print.  WARNER BROS. TELEVISION is in an
+arial-type font. The remainder of the script is in Courier 10.
+
+Typos noted:
+
+                           <Logo; see script.bmp>
+
+                                 "Contact"
+
+                                EPISODE THREE
+
+                                Prod. 0457403
+
+
+                                  Written by
+
+                               Chris Ruppenthal
+
+
+                                  Directed by
+
+                                 Daniel Attias
+
+
+
+
+
+
+
+WARNER BROS. TELEVISION                      _Production Draft_
+                                             July 24, 1995
+
+                           ---page break---
+                             _LOIS & CLARK_
+
+                               "_Contact_"
+
+                                  _CAST_
+
+
+CLARK KENT/SUPERMAN
+
+LOIS LANE
+
+JIMMY OLSEN
+
+PERRY WHITE
+
+MARTHA KENT
+
+JONATHAN KENT
+_________________________________________________________________
+
+BOB FENCES
+
+STAR
+
+DR. MARTIN SOLSVIG
+
+SIMONE
+
+THIEF #1
+
+WOMAN VENTRILOQUIST
+                           ---page break---
+                             _LOIS & CLARK_
+
+                               "_Contact_"
+
+                               _CHRONOLOGY_
+
+
+                      SC.   1 - 3       DAY 1
+
+                      SC.   4 - 5       NIGHT 1
+
+                      SC.   6 - 24      DAY 2
+
+                      SC.  25 - 33      NIGHT 2
+
+                      SC.  34 - 52      DAY 3
+
+                           ---page break---
+                             _LOIS & CLARK_
+
+                               "_Contact_"
+
+                                _LOCATIONS_
+
+
+_INTERIORS_:                        _EXTERIORS_:
+
+Daily Planet                        Daily Planet Street
+   Newsroom
+   Conference Room                  Airport
+   Perry's Office
+                                    Lois's Apartment Building
+Lois's Apartment
+   Living Room                      Country Road
+   Kitchen
+   Bedroom                          Nanosoft Headquarters
+
+Lois's Jeep
+
+Clark's Kitchen
+
+The Kent's Bedroom
+
+Bob Fence's Office
+
+Dr. Solsvig's Lab
+
+Zenith Chip Corporation
+
+Helicopter
+
+Flashback - Hazy White Space
+
+                           ---page break---
+                             _LOIS & CLARK_
+
+                      _The New Adventures of Superman_
+
+                               "Contact"
+
+                                 _TEASE_
+
+    FADE IN:
+
+ 1  EXT. AIRPORT - AFTERNOON - DAY #1                                 1   
+
+    LOIS suddenly bursts through the rear doors of the baggage 
+    terminal building, running at full speed.
+
+                                    LOIS
+                         (yelling)
+                   Stop!  Stop!
+
+    Two THIEVES (#1 and #2), dressed as airline baggage
+    handlers, flee on a little baggage tractor, pulling several
+    open carts of luggage.  Lois sprints across the concrete,
+    legs driving, arms pumping, and leaps onto the last cart.
+    She starts climbing her way forward. Thief #1 starts
+    hurling luggage at her from the first cart, trying to knock
+    her off, as Thief #2 drives faster and faster.
+
+
+ 2  CLARK                                                             2   
+
+    suddenly steps out of another door in the terminal and for
+    the first time hears Lois's cries.
+
+                                    CLARK
+                   Lois?!
+
+    Spotting the trouble, he reaches to loosen his tie as he
+    dashes forward.  He passes behind another luggage cart piled
+    high with baggage and when he emerges from the other side,
+    he's SUPERMAN, disappearing in a streak.
+
+
+ 3  THIEF #2                                                          3   
+
+    a look of horror on his face, slams on the brakes and stops
+    the tractor; he was about to run into Superman.  Thief #1
+    catapults back into his seat.
+
+                                    THIEF #1
+                         (groaning)
+                   Oh, man...
+
+                                    SUPERMAN
+                   Gee, that must've been painful.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95        2.    
+
+
+ 3  CONTINUED:                                                        3   
+
+    Superman steps close, his arms blur, and a second later he's 
+    tied the two thieves wrists to the steering wheel with their
+    windbreakers.  Lois runs up from the last cart.
+
+                                    SUPERMAN
+                   Lois, are you okay?
+
+                                    LOIS
+                   They couldn't've hit me if I'd been
+                   standing next to them!
+
+                                    SUPERMAN
+                         (smiles)
+                   Wait right here.  I've gotta drop 
+                   them off at the police, then I'll 
+                   see you home.
+
+                                    LOIS
+                   You don't have to do that.
+
+                                    SUPERMAN
+                   Lois...
+
+                                    LOIS
+                         (mimics his tone)
+                   Superman...
+
+    The two thieves perk up; is this a little domestic spat 
+    they're watching?  Embarrassed, Superman gestures Lois a few 
+    steps away.  They speak in whispers.
+
+                                    SUPERMAN
+                   Lois, I'd feel better if you'd wait 
+                   for me.  It's going to be dark 
+                   soon.
+
+                                    LOIS
+                   Clark, I've driven home alone for 
+                   as long as you've known me.  And 
+                   like two million times before that.
+                   I'll be fine.
+
+                                    SUPERMAN
+                   But...
+
+                                    LOIS
+                   Look, okay, I admit, ever since I 
+                   figured out... you know... maybe 
+                   I've taken a few more chances 
+                   because I always know you'll be 
+                   there.  But it's not like I'm six, 
+                   Clark.  I can cross the street 
+                   _fine_.
+
+    Superman relents.  He can't help it.  He loves her.
+
+                                                       (CONTINUED)
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95        3.    
+
+
+ 3  CONTINUED:  2                                                     3   
+
+                                    SUPERMAN
+                   Don't forget to buckle up.
+
+    Lois smiles and leaves.  Superman turns back to the two 
+    hapless thieves.
+
+                                    THIEF #1
+                   Girlfriend trouble?
+
+                                    SUPERMAN
+                         (to himself)
+                   Don't get me started.
+
+    He reaches to untie the thieves.
+
+                                                       CUT TO
+
+ 4  EXT. COUNTRY ROAD - NIGHT #1                                      4   
+
+    Lois drives her Jeep along the empty road.
+
+
+ 5  INT. LOIS'S JEEP - NIGHT                                          5   
+
+    Lois hums a little tune to herself. Suddenly, her car dies.
+    It coasts to a stop.  Lois tries the ignition.  Click click.
+    Nothing.
+
+                                    LOIS
+                         (puzzled)
+                   Hey?
+
+    All of a sudden, a blinding WHITE LIGHT descends from above.
+    It engulfs Lois and her car, completely whiting out the
+    screen.  Then the light abruptly vanishes... and Lois is
+    gone.
+
+                                                       FADE OUT.
+
+                              _END OF TEASE_
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95        4.    
+
+                            _ACT ONE_
+
+    FADE IN:
+
+ 6  EXT. LOIS'S APARTMENT BUILDING - DAWN - DAY #2                    6   
+
+    A 1972 Cutlass 442 convertible, stacked high with personal
+    belongings, is parked in front; the passenger door hangs 
+    open, more belongings spilled onto the sidewalk.  Lois pulls 
+    up in her Jeep behind it.
+
+    She drags herself out.  She carries notepads, purse, and a 
+    bulging canvas tote bag slung over one shoulder.  The tote 
+    bag has the Daily Planet logo and "Lois Lane" embroidered on 
+    it.  Lois looks shook-up and uncertain.  STAR ADAMS, a young 
+    woman about the same age as Lois, is energetically moving 
+    stuff from the Cutlass to the lobby.  She's dressed in 
+    casual, but funky clothes and wears a small crystal on a 
+    chain around her neck.  Star notices Lois heading up the 
+    steps and brightly turns to greet her.  She always speaks in 
+    bursts.
+
+                                    STAR
+                   Oh. wow!  Don't tell me _you_ live
+                   here!  This is so cool!  You're 
+                   Lois Lane, right?  The Daily 
+                   Planet?  That must be a great place
+                   to work.  I don't have a 
+                   subscription, but I really love the 
+                   logo.  I'm your new neighbor: Star.
+
+    Lois feels flattered at being recognized and it brings her 
+    partially out of her preoccupation.
+
+                                    LOIS
+                   Hi. It's, uh, not often I meet
+                   people who recognize me.
+
+                                    STAR
+                   Oh, I didn't!  I've never seen you 
+                   before in my life.  Not even a
+                   picture!  If you were a snake you 
+                   could've bit me.
+
+                                    LOIS
+                         (a shade annoyed)
+                   Then what are you; like, psychic?
+
+                                    STAR
+                   Yeah!  You, too?!
+
+                                    LOIS
+                   No.  But how'd you know my name?
+
+                                                       (CONTINUED)
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95       5.     
+
+
+ 6  CONTINUED:                                                        6   
+
+                                    STAR
+                   I got it off your tote bag.
+                         (hands her a card)
+                   I do psychic counseling and
+                   channeling, but don't worry, I'm
+                   really quiet.  Occasionally, I _do_ 
+                   do hypnosis and tarot and crystal 
+                   healing, but I _never_ do any of 
+                   the dark stuff.  Too scary.  I'm a 
+                   Pisces, at least in this life, but 
+                   I have been a Taurus; wow, was that 
+                   bad.  So did you just come in from 
+                   a story or something, you look 
+                   really whipped.
+
+                                    LOIS
+                   Um... yeah.  I was out on a...
+                   story.
+
+    Lois starts to move to the door.  Star suddenly puts her 
+    fingers to her temples and closes her eyes.
+
+                                    STAR
+                   Wait a minute.  Wait a minute.
+                         (opens her eyes)
+                   You don't really have to close your 
+                   eyes, but most people expect it.  
+                   I'm getting... I'm seeing... 
+                   something more than a story 
+                   happened to you tonight.
+
+    Lois is suddenly very uncomfortable.  She tries to get past 
+    a mound of Star's belongings.
+
+                                    LOIS
+                   Nope.  Just... a boring old story.  
+                   Nothing to get brainscanned over 
+                   and... anyway... I like to keep my 
+                   brain private.
+
+                                    STAR
+                   Oh, I'm not prying.  Your mind's
+                   practically shouting.
+
+                                    LOIS
+                   It is?
+
+                                    STAR
+                   Lemme see, you were... buying 
+                   groceries and met Mel Gibson.  No, 
+                   that's not it.  You... just came 
+                   into a lot of money, but it doesn't 
+                   belong to you.  You stole it.  No, 
+                   that's someone upstairs.  You... 
+                   went for a drive...
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95       6.     
+
+
+ 6  CONTINUED:  2                                                     6   
+
+                                    LOIS
+                   Yes ... ?
+
+                                    STAR
+                   ... and stopped...
+                         (in a rush)
+                   at a tiny little diner, ordered the
+                   breakfast special, even though it 
+                   was night, and... Mel Gibson sat 
+                   down next to you!   No.  Ha!  I 
+                   guess you can tell where _my_ 
+                   mind's at.  Okay, un, gee, you're 
+                   tough.  Oh, I know!  I know!  You 
+                   were abducted by aliens!
+
+                                    LOIS
+                         (stunned)
+                   Yes!  That's amazing.  How'd you
+                   know?!
+
+                                    STAR
+                         (meaningfully)
+                   I always know.
+
+                                                       CUT TO:
+
+
+7   INT. LOIS'S APARTMENT - LIVING ROOM - EARLY MORNING               7   
+
+    Lois and Star are having tea.  They sit facing each other,
+    practically knee to knee.
+
+                                    LOIS
+                   ... then there was this blinding 
+                   white light and, I don't know, sort 
+                   of this... floaty feeling.  Then, I 
+                   have a vague, hazy memory of... 
+                   creatures...
+                         (with more confidence)
+                   ... and then, I'm back in my car,
+                   but it's six A.M. and three hours
+                   have gone by.
+
+                                    STAR
+                   It must've been terrifying.
+
+                                    LOIS
+                   That doesn't begin to describe it.
+
+                                    STAR
+                   You don't have to talk about it if
+                   you don't want to.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95       7.     
+
+
+ 7  CONTINUED:                                                        7   
+
+                                    LOIS
+                   No, actually, it feels good to tell 
+                   some one.  It's just too weird not 
+                   to.
+
+                                    STAR
+                   More tea?
+
+    Star gets up.
+
+                                    LOIS
+                   Thanks.  You know, I have to admit, 
+                   when I met you downstairs, I 
+                   thought you were a little flaky.
+                   But you are really... I'm touched 
+                   by how understanding and... down to 
+                   earth you are.
+
+                                    STAR
+                         (brings more tea)
+                   Who knows.  Maybe we were friends
+                   in an earlier life.
+
+                                    LOIS
+                         (uh-oh)
+                   Maybe.
+
+                                    STAR
+                   Do you remember anything else about
+                   the aliens?
+
+                                    LOIS
+                   Not really.  Just that they had big 
+                   heads, large, dark, slanting eyes, 
+                   and... hands... like ours, you 
+                   know.
+
+                                    STAR
+                   Hmph.  I thought you were going to 
+                   describe these guys I know from the 
+                   Pleiades, but these sound 
+                   different.
+
+                                    LOIS
+                   The Pleiades?
+                                    STAR
+                   Or Cassiopeians.
+                         (gossipy)
+                   I mean, those guys, faster than 
+                   light travel, cities that float, 
+                   but _no_ indoor plumbing.  You 
+                   gotta love it.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95       8.     
+
+
+ 7  CONTINUED:  2                                                     7   
+
+                                    LOIS
+                   You've been to where they live?
+
+                                    STAR
+                   Not physically.  But astrally,
+                   dozens of times.
+
+    This is too much for Lois.  She makes a big show of looking 
+    at her watch as she stands up.
+
+                                    LOIS
+                   Gee, look at the time.  I hate to 
+                   say this, but I've got to get ready 
+                   for work.
+
+                                    STAR
+                   No problem.  I've still got some
+                   moving to do.
+
+    Lois escorts Star to her front door and opens it.  Halfway 
+    out, star pauses and turns back to Lois.
+
+                                    STAR (CONT'D)
+                   Gemini, right?
+
+                                    LOIS
+                   Libra.
+
+                                    STAR
+                   I knew it!
+
+    She smiles and is gone.
+
+
+ 8  INT. DAILY PLANET - NEWSROOM - DAY                                8   
+
+    The newsroom is in full bustle.  Lois enters and heads 
+    straight for her desk.  Clark meets her there.
+
+                                    CLARK
+                   So, I see you got home safe last
+                   night.
+
+                                    LOIS
+                   Um, yeah.
+
+                                    CLARK
+                   Want some Danish?
+
+                                    LOIS
+                   Sure.
+
+                                    CLARK
+                   Are you mad at me?
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95       9.     
+
+
+ 8  CONTINUED:                                                        8   
+
+                                    LOIS
+                   No.
+
+                                    CLARK
+                         (awkward)
+                   Look, I'm sorry. it's just that, I 
+                   worry about you.  Even more than I 
+                   used to.
+
+    Lois makes up her mind and decides to tell him.
+
+                                    LOIS
+                   Clark, last night I was--
+
+                                    PERRY (O.S.)
+                   Lois!
+
+    PERRY sails in, trailed by JIMMY, carrying papers.
+
+                                    PERRY
+                   Clark told me how you two cracked 
+                   the airport luggage theft story.  
+                   Ride 'em, cowgirl!  I can't wait to 
+                   see that copy on my desk!  Say, 
+                   half an hour?
+
+    He's gone before they can even reply.
+
+                                    JIMMY
+                   He's been on a tear all morning.
+                   Just started boxing lessons.  Very 
+                   pumped.
+                         (grins; confidential)
+                   I think he caught Alice 
+                   checking out a waiter the other 
+                   night.
+
+    With a wink he's gone, zipping after Perry.  Lois relaxes 
+    and turns back to her desk, only to be surprised by the 
+    presence of Star.  How'd she get here; it's almost spooky.
+    Star drops a stack of books on Lois's desk.
+
+                                    LOIS
+                   Star?!
+
+                                    STAR
+                   I had a sudden flash, right after 
+                   you left to go to work.  I knew 
+                   you'd left for work 'cause I can 
+                   see who comes and goes from one of 
+                   the windows in my living room.  
+                   Anyway, maybe you'd like to read 
+                   these books.  They're _all_ about 
+                   alien abductions.
+                                    (MORE)
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      10.     
+
+
+ 8  CONTINUED:  2                                                     8   
+
+                                    STAR (CONT'D)
+                   Maybe you'll get a clue about the 
+                   guys who took you last night.
+
+    Everyone around suddenly stops and listens.  Lois squirms 
+    with embarrassment.
+
+                                    STAR (CONT'D)
+                   Oh, and if you've only got time for 
+                   one, read this one by Dr. Martin 
+                   Solsvig.  He's the world's leading 
+                   authority on alien abduction.  
+                   Lives right here in Metropolis.  
+                   Sorry, didn't mean to interrupt.
+                         (to Clark, re: danish)
+                   Cinnamon apple?
+
+                                    CLARK
+                   Yes.
+
+    Star taps her right temple.
+
+                                    STAR
+                   I knew it.
+
+    Then she charges towards the exit.  Everyone still stares at 
+    Lois; she glares right back.
+
+                                    LOIS
+                   If you want some entertainment, go
+                   turn on the TV!
+
+    Everyone returns to their work.
+
+                                    CLARK
+                         (sotto voce)
+                   Lois, did something happen last
+                   night?
+
+                                    LOIS
+                         (sotto)
+                   No. Nothing.  Sort of.  No,
+                   just...
+                         (in a rush)
+                   ... my car stalled, a big white 
+                   light engulfed me, I saw some 
+                   aliens and I woke up in my front 
+                   seat three hours later but it only 
+                   seemed like two seconds.
+                         (beat)
+                   Did I mention floating?
+
+                                    CLARK
+                         (skeptical)
+                   Lois, you saw some aliens?
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      11.     
+
+
+ 8  CONTINUED: 3                                                      8   
+
+                                    LOIS
+                   What, you think Krypton is the only 
+                   planet in the universe with 
+                   intelligent life?!  Or should I 
+                   say, 'semi-intelligent'?
+
+                                    CLARK
+                   It's just that --
+
+                                    PERRY
+                   Gort, klaatu barada nikto!
+
+    Perry and Jimmy have arrived.  Jimmy flips open his wallet
+    like a Star Trek communicator.
+
+                                    JIMMY
+                   Stand by to beam me up.
+
+                                    LOIS
+                   Go ahead, laugh!  I know what 
+                   happened!  I'm not an idiot.  Don't 
+                   you think I've asked myself a 
+                   thousand times what really 
+                   happened?  But I'm telling you, it 
+                   really did!
+
+    Perry's demeanor instantly changes.  He can hear the anguish 
+    in Lois's voice; the time for kidding has passed.
+
+                                    PERRY
+                   Lois, I apologize.  Something 
+                   obviously has upset you.  Now, I 
+                   don't know what it was, but I do 
+                   know you, and you wouldn't lie... 
+                   at least to me... most of the 
+                   time... so forget about the airport 
+                   story for now; you can turn it in 
+                   later.  Whatever happened, I want 
+                   you and Clark to get to the bottom 
+                   of it, okay?  Spend whatever you 
+                   need.
+
+                                    LOIS
+                   Perry, are you feeling all right?
+
+                                    PERRY
+                   Hey, I gotta make Accounting sweat 
+                   every once in a while, keeps them 
+                   on their toes.  Now git!
+
+
+ 9  INT. CHAIRMAN'S OFFICE - NANOSOFT CORPORATION - DAY               9   
+
+    BOB FENCES, the 25-year-old billionaire boy genius founder 
+    of Nanosoft, sits behind his desk.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      12.     
+
+
+ 9  CONTINUED:                                                        9   
+
+    He's got narrow shoulders and big glasses.  He makes noises 
+    and plays with plastic action figures and spaceships.
+
+                                    FENCES
+                   Look out!  Bzzzzt!  Ahhh, the death 
+                   ray!  Skkkkk.  Don't worry, I'll 
+                   save you, Princess Cleavage.  Gzzz!
+
+    DR. MARTIN SOLSVIG, 57, enters and stops at the desk.  A bit 
+    of the absent minded genius, he has two pairs of glasses 
+    pushed up on his head.
+
+                                    FENCES (CONT'D)
+                   So, Martin, what can I do for you
+                   today?
+                         (to the toys, falsetto) 
+                   Bzzzzt!  Oh, golly, my dress is on 
+                   fire, I'll have to take it off!
+
+                                    SOLSVIG
+                   I don't know.  You called me...
+                   didn't you?
+
+                                    FENCES
+                   No. _You_ called me.
+                         (to toys)
+                   Take _that_, Count Gravity!  Arggh!
+
+                                    SOLSVIG
+                   Oh, right!
+                         (beat)
+                   Why did I call you?
+
+                                    FENCES
+                   Could it be the Super Microwave 
+                   Transmitter?  The project you've 
+                   been working on the last six 
+                   months?  You know, if we microwave, 
+                   they will come?
+
+                                    SOLSVIG
+                         (snaps his fingers)
+                   Right!  Right!  Our attempt to 
+                   contact alien civilizations!  
+                   Sorry, I was trying to remember 
+                   where I left my glasses.
+
+    Fences, with restraint, taps the top of his head.  Solsvig 
+    does the same to his own and finds his glasses.  As Solsvig 
+    talks, Fences continues to play, though at a lower volume.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      13.     
+
+
+ 9  CONTINUED:  2                                                     9   
+
+                                    SOLSVIG (CONT'D) 
+                   Much better!  Anyway, I got your 
+                   new program and we've loaded it 
+                   into the computer, but as I said in 
+                   my memo, there are still two 
+                   problems we haven't been able to 
+                   lick if we want to reach your 
+                   goals...
+
+                                    FENCES
+                         (in action figure voice)
+                   Standby the anti-boredom ray!
+
+                                    SOLSVIG
+                         (oblivious)
+                   First, our computer chips aren't as 
+                   good as the ones I used to have at 
+                   NASA.  Those were from Zenith Chip, 
+                   far above anything commercially 
+                   available, but we just haven't been 
+                   able to match them.
+
+    Fences holds up an action figure and pretends it's speaking 
+    in a deep commanding voice.
+
+                                    FENCES
+                   I an Bob, Master of the Universe, 
+                   my word is action.  Worlds tremble 
+                   at my feet.  A crack team is 
+                   already working on your chip 
+                   problem.
+
+                                    SOLSVIG
+                   Really?  Excellent.  Second, we
+                   need a stronger pulse amplifier.
+                         (reluctantly)
+                   Unfortunately, one doesn't exist.
+
+                                    FENCES
+                         (thru the action figure)
+                   That's all right.  I am Bob, owner 
+                   of a seventy billion dollar 
+                   software company.  I can do what I 
+                   want.  You shall have your chips 
+                   and amplifier.  Do not worry, Bob 
+                   will take care of it.
+
+                                    SOLSVIG
+                         (to the figure)
+                   Thank you, Bob.
+
+                                    FENCES 
+                         (thru the figure) 
+                   Don't mention it.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      14.     
+
+
+ 9  CONTINUED:  3                                                     9   
+
+    Solsvig leaves and an attractive woman enters.  This is 
+    SIMONE, Bob's personal secretary.  She has a lot of
+    cleavage.  Fences putt down the figures and speaks normally.
+
+                                    SIMONE
+                   Has he figured it out, yet?
+
+                                    FENCES
+                   Not a clue.  He still thinks this
+                   is a hobby of mine.
+                         (mocking)
+                   Albeit a _really_ expensive one.
+
+    He picks up an Action figure and stares at it.
+
+
+                                    FENCES (CONT'D)
+                         (gloating)
+                   For the last few years Nanosoft's 
+                   profits have been limited by trade 
+                   barriers overseas, but since 
+                   negotiations have failed, they 
+                   leave us no choice but to make our 
+                   money another way.
+
+    He checks his watch.  It's two minutes to Eleven.
+
+                                    FENCES (CONT'D)
+                   In two minutes, the empire begins 
+                   to strike back.
+
+    He crashes one action figure into another.
+
+    (NOTE: INTERCUT THE FOLLOWING TWO SCENES AS NEEDED)
+
+
+10  INT. ZENITH CHIP CORPORATION - DAY                               10   
+
+    It's a high tech computer chip manufacturing facility, like 
+    Intel. (That is, as high tech as our budget will allow.) 
+    Everything is super sterile.  The MANAGER checks his watch 
+    as it just hits 11AM.  Suddenly, a _trance-like_ expression 
+    comes over his face and he moves to open the high security 
+    door that permits access to the room.
+
+
+11  INT. HELICOPTER - DAY                                            11   
+
+    Lois, Clark and Jimmy, plus a PILOT, fly over the 
+    countryside (STOCK SHOTS) near the airport we saw in the 
+    Teaser.  Jimmy shoots random photos as Clark stares at Lois, 
+    who's focused on studying the ground.  Suddenly, Lois 
+    becomes aware of Clark's stare.
+
+                                    LOIS
+                   What?
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      15.     
+
+
+11  CONTINUED:                                                       11   
+
+                                    CLARK
+                   Nothing.
+
+                                    LOIS
+                   Don't give me that look.  I know 
+                   what you're thinking.  You're 
+                   thinking I should've waited for you 
+                   last night.
+
+                                    CLARK
+                         (lying)
+                   No, I'm not.
+
+                                    LOIS
+                   Clark, you can't control 
+                   everything.  We're both rational, 
+                   thinking adults.  Sometimes I'm 
+                   going to do things we disagree on.
+
+                                    CLARK
+                   That's what worries me.
+
+    Jimmy suddenly turns to Lois.
+
+                                    JIMMY
+                   So what are we looking for?
+
+    Lois reluctantly twists to face him.
+
+                                    LOIS
+                   I don't know.  Landing sites.
+                   Scorch marks.  A snapshot of 
+                   themselves at Disney World.
+                   Anything that might show that a UFO 
+                   has been here.
+
+    Jimmy glances at Clark, who just shrugs.
+
+                                    LOIS (CONT'D)
+                   Go left.  There... that's about 
+                   where it happened.
+
+    She suddenly glances at her watch.  It reads 11 AM.  A 
+    _trance-like_ expression comes over her face, but no one 
+    notices.
+
+
+12  INT. ZENITH CHIP CORPORATION - DAY                               12   
+
+    The Manager opens the security door.  MASKED ROBBERS, 
+    brandishing machine guns, rob the place., dumping trays of 
+    finished chips into small athletic bags.  A WORKER presses a 
+    hidden alarm button.
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      16.     
+
+
+13  INT. HELICOPTER - DAY                                            13   
+
+    The police scanner in the helicopter crackles
+
+                                    RADIO ANNOUNCER
+                   All cars in the vicinity of Fortnum 
+                   and Mason, we have a Two-Fifteen 
+                   silent alarm at Zenith Chip 
+                   Corporation.  Robbery in progress.
+                   I re-
+
+    Clark urgently taps the pilot.
+
+                                    CLARK
+                   Take us down!  We have to go down!
+
+    The PILOT nods and works the controls, but before they can 
+    descend, Lois, still in her trance, undoes her seatbelt and 
+    dives out of the chopper!  Everyone gasps.
+
+                                                       FADE OUT.
+
+                            _END ACT ONE_
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      17.     
+
+                              _ACT TWO_
+
+    FADE IN:
+
+14  INT. HELICOPTER - DAY                                            14   
+
+    Clark look out the open door, horror struck.  For a moment, 
+    he freezes... he can't change into Superman here.  Then he 
+    gets an idea.  He undoes his.seatbelt and lunges after Lois 
+    as if to see if there's any hope.  All this takes about a 
+    second.
+
+                                    CLARK
+                   Lois?!
+
+    Clark lets his lunge "accidentally" carry him out of the
+    helicopter.
+
+                                    JIMMY
+                   C.K.!
+
+
+15  EXT. CLOUDS - DAY (SPECIAL EFFECTS)                              15   
+
+    Lois plummets earthward, disappearing into a cloud.  Clark
+    plunges in after her, loosening his collar as he goes.  Lois
+    continues to plunge until she's suddenly caught by Superman.
+
+                                    SUPERMAN
+                   Don't worry, Lois. I've got you.
+
+    Lois doesn't speak; she just nods.
+
+
+16  EXT. AIRPORT - DAY                                               16   
+
+    Superman lands with Lois.
+
+                                    SUPERMAN
+                   Lois, are you okay?
+
+                                    LOIS
+                         (vaguely)
+                   I'm... fine.
+
+    He sets Lois on the ground.
+
+                                    SUPERMAN
+                   Stay right here, I'll be right
+                   back.  I have to stop a robbery.
+
+
+17  SUPERMAN                                                         17   
+
+    turns, takes a step, jumps... and stops in mid-leap.  He
+    looks back at Lois... who's tottering like a zombie.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      18.     
+
+
+17  CONTINUED                                                        17   
+
+    Superman goes back to her.
+
+                                    SUPERMAN
+                   (gently shaking her)
+                   Lois?  Lois!  LOIS, look at me!
+
+    Lois blinks and comes out of her trance.
+
+                                    LOIS
+                   Clark?  What happened, what are we
+                   doing here?
+
+                                    SUPERMAN
+                   You jumped out of the helicopter 
+                   and I saved you, don't you 
+                   remember?
+
+                                    LOIS
+                         (nervous laugh)
+                   No, really.
+
+                                    SUPERMAN
+                   Really.
+
+    Lois's worried look is interrupted by the off screen landing 
+    of the helicopter and the pounding arrival of Jimmy.
+
+                                    JIMMY
+                   Superman!  Thank God!  Lois, I 
+                   thought you were a goner!  But 
+                   where's Clark?!
+                         (to Superman)
+                   You caught, Clark, didn't you?!
+
+                                    SUPERMAN
+                   He's fine.  Lucky I heard him 
+                   shouting.  He went to tell the 
+                   control tower that everything's 
+                   okay.
+
+                                    JIMMY
+                   Man, Lois, you were like Greg 
+                   Louganis.  Whooosh, right out the 
+                   door.
+
+                                    LOIS
+                   I... I must've slipped.
+
+                                    SUPERMAN
+                   Jimmy, why don't you go get Lois's
+                   car.
+                         (to Lois)
+                   I think you've had enough flying
+                   for the day.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      19.     
+
+
+17  CONTINUED:  2                                                    17   
+
+                                    JIMMY
+                   Sure thing.
+
+    He runs off.
+
+                                    SUPERMAN
+                         (to Lois)
+                   And I think _we_ should have a 
+                   conversation with Dr. Solsvig.
+
+    CUT TO:
+
+
+18  INT. CHAIRMAN'S OFFICE - NANOSOFT - DAY                          18   
+
+    Fences beams as Simone dumps a double-handful of Zenith 
+    computer chips on his desk.  Fences pauses in his action 
+    figure playing.
+
+                                    SIMONE
+                   Everything went perfectly,
+                   Superman was completely distracted.
+                   He never made it to the robbery.
+
+    Fences divebombs a figure at the chips.  He makes a 
+    whistling bomb and machine gun sounds.
+
+                                    FENCES
+                   Kh-kh-kh-kh-kh-kh!  Give them to
+                   Solsvig.  He'll be overjoyed.
+                         (checks his watch)
+                   And at three o'clock, if things 
+                   continue to go as plan, he'll have 
+                   his pulse amplifier, too.  Then 
+                   I'll be...
+                         (voice deepening)
+                   ... Bob, Supreme Ruler of
+                   Everything; and I will crush 
+                   everyone who has thwarted me in the 
+                   past.
+
+    He flies his action figure in a heroic-manner, knocking over 
+    several other toys with smashing noises.  Simone gives him 
+    an adoring smile.
+
+                                                       CUT TO:
+
+
+19  CLOSEUP - SOLSVIG'S FACE                                         19   
+
+                                    SOLSVIG
+                   Hypnosis.
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      20.     
+
+
+20  INT. SOLSVIG'S LABORATORY - MANOSOFT - DAY - CONTINUOUS          20   
+
+    Solsvig sits by a computer that's "on", speaking to Lois and 
+    Clark, who sit across from him and lean towards him.  Behind 
+    him is the super Microwave Transmitter.  His lab is filled 
+    with photos of UFO'S, crop circles, drawings of aliens, etc.
+
+                                    LOIS
+                   I've never really been comfortable
+                   with that idea.
+
+                                    SOLSVIG
+                   It's the best way to determine if 
+                   what you experienced really 
+                   happened.
+                         (eagerly)
+                   I'd be happy to arrange a session
+                   for you.
+
+                                    LOIS
+                   I don't know.  What if I said
+                   something I didn't want to get out?
+
+                                    SOLSVIG
+                         (chuckles)
+                   Then it'd be out.  Excuse me if I 
+                   seem so excited, but I've worked my 
+                   whole life towards contacting alien 
+                   civilizations.  Soon I'll complete 
+                   my Super Microwave Transmitter, but 
+                   until then, talking to people 
+                   who've had your 'experience' is the 
+                   closest I'll ever get.
+
+                                    CLARK
+                   There's always Superman.
+
+                                    SOLSVIG
+                   Yes!  A one of a kind.  So unlike 
+                   all the other aliens ever reported.  
+                   I'd love to meet him.
+
+    Lois and Clark exchange glances.
+
+                                    LOIS
+                   Dr. Solsvig, one last thing.  Some 
+                   'unusual' things have been 
+                   happening to me since... you know.
+
+                                    SOLSVIG
+                         (excited)
+                   Really?  Like what?
+
+                                    LOIS
+                   This morning, I, uh, went into a
+                   trance for a brief period.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      21.     
+
+
+20  CONTINUED:                                                       20   
+
+                                    SOLSVIG
+                         (disappointed)
+                   Oh.  Perfectly natural.  Some 
+                   people report enhanced paranormal 
+                   abilities, others bizarre behavior.
+
+                                    CLARK
+                   Have you ever heard of a person 
+                   putting themselves into jeopardy 
+                   after an abduction?
+
+                                    SOLSVIG
+                   No. That would be unusual.
+
+    Lois lets that sink in, then rises to her feet.
+
+                                    LOIS
+                   Thanks for your time.
+
+                                    SOLSVIG
+                   My time is space-time.
+                         (off their blank looks)
+                   Sorry.  Physicist's joke.
+
+                                    LOIS
+                   Oh.
+
+    She forces a smile, but as they turn to leave, Bob Fences 
+    enters.  He's surprised to see them, but quickly covers.
+
+                                    FENCES
+                   Lois Lane and Clark Kent, am I 
+                   right?  The two most famous 
+                   reporters in America.
+
+    Lois sticks out her hand and they shake.
+
+                                    LOIS
+                   I know we've never met, but I've
+                   the strangest feeling that we have.
+
+                                    FENCES
+                   I'm afraid I've been in the news a
+                   lot lately.
+
+                                    CLARK
+                   Yes, I read your interview on trade
+                   barriers.  You were rather adamant.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      22.     
+
+
+20  CONTINUED:  2                                                    20   
+
+                                    FENCES
+                         (serious)
+                   Unfair trade barriers are the bane 
+                   of U.S. businesses overseas, and 
+                   if negotiations fail, I believe we 
+                   should go to war.
+                         (grins)
+                   Metaphorically speaking.
+
+                                    CLARK
+                   Let's hope it never comes to that.
+
+    Clark gives a parting nod, and they leave.  Fences watches 
+    them depart with a thoughtful look.
+
+
+21  EXT.  DAILY PLANET - DAY                                         21   
+
+    Lois parks her Jeep about a block from the Planet; it's the 
+    closest space she could get.  She and Clark get out.  They 
+    start walking towards the Planet.
+
+                                    CLARK
+                   The thing I don't understand is, 
+                   what would you jumping out of a 
+                   helicopter have to do with aliens?
+
+                                    LOIS
+                   I haven't the faintest.
+
+    Lois checks her watch.  It's 3 o'clock.  The trance-like 
+    expression returns to her face, but Clark doesn't notice.
+    Lois peels out of frame as Clark continues to speak.
+
+                                    CLARK
+                   I mean, in Close Encounters, 
+                   Richard Dreyfuss was drawn to the 
+                   mountain, but what could've been 
+                   drawing you?  The ground?  It 
+                   doesn't make sense.  It's just 
+                   lucky I was there.  You know, 
+                   that's my nightmare, you'll get in 
+                   trouble and I'm not there.  That's 
+                   why when you --
+
+    The blasting horn of a semi-truck cuts Clark off.  He spins 
+    towards the street and WE SEE that Lois is walking down the 
+    middle of the street straight towards the speeding truck!  
+    The truck blasts it's horn again.
+
+
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      23.     
+
+
+22  CLARK                                                            22   
+
+    With no time to change into Superman, cups his hands to his 
+    mouth as he pretends to cough and SUPERBLOWS Lois up into 
+    the air and out of the path of the truck.  Then, still 
+    hiding his breathing with his hands, he GENTLY BLOWS a 
+    supporting cushion of air and lowers Lois softly to the far 
+    sidewalk.  He zigzags across the street to her.
+
+                                    CLARK
+                   Lois....
+
+    But Lois is still in the trance.
+
+                                    CLARK (CONT'D)
+                   Lois!  Listen to me, it's me, 
+                   _Clark_.
+
+    He shakes her and her eyes slowly clear.  A scared look 
+    wrinkles her face.
+
+                                    LOIS
+                   It happened again, didn't it?
+
+                                    CLARK
+                   You nearly became a hood ornament.
+                   Come on, I'm going to take you
+                   home.
+
+    Clark firmly takes hold of her hand and they walk back
+    towards the Jeep.
+
+
+23  EXT. LOIS'S APARTMENT BUILDING - AFTERNOON                       23   
+
+    Clark, driving the Jeep, parks in front of the building. He
+    and Lois get out and pause on the sidewalk, mesmerized by
+    what they see.
+
+
+24  LOIS AND CLARK'S POV - A NEON SIGN                               24   
+
+    That shines brightly in a first floor window. It reads:
+    "Psychic Channeling and Advice by Star".
+
+                                    LOIS
+                   Unbelievable.
+
+    A second later, a man dressed in a bad, homemade set of
+    clothes who looks like Ben Franklin, sprightly steps out the
+    front door and waves back at Star, who's opened the window
+    next to the sign.
+
+                                    STAR
+                   See you next week, Mr.
+                   Schaffenberger!
+                                    (MORE)
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      24.     
+
+
+24  CONTINUED:                                                       24   
+
+                                    STAR (CONT'D)
+                         (to Lois and Clark)
+                   That's Mr. Schaffenberger.  Ever 
+                   since he got hit by lightning, he's 
+                   thought he's Ben Franklin.  I've 
+                   been helping him reach Thomas 
+                   Jefferson; they're working on a 
+                   revision of the Declaration of 
+                   Independence.  Ooops, gotta get 
+                   ready for my next appointment.
+
+    Star waves goodbye and disappears back into the recesses of 
+    her apartment.  Lois looks at Clark.
+
+                                    LOIS
+                   Maybe you're not the only alien on
+                   the planet.
+
+                                    CLARK
+                   She seems good hearted.
+
+                                    LOIS
+                   Actually, she is.  That's what's so
+                   creepy.
+
+    They both laugh.  Lois starts to go in and Clark follows.  
+    Lois stops.
+
+                                    LOIS (CONT'D)
+                   Where're you going?
+
+                                    CLARK
+                   I thought... I mean
+                         (confused)
+                   ... I just... felt... you might not 
+                   want to be alone right now.
+
+                                    LOIS
+                   Clark, I appreciate your concern,
+                   but I'll be fine.
+
+                                    CLARK
+                   How do you know?
+
+                                    LOIS
+                   I _know_, now _go_.  Besides... 
+                         (putting on a brave 
+                          front)
+                   ... you can't babysit me 24 hours a 
+                   day, other people need you, too.
+
+    She leans up and kisses him, then makes a shoo-ing motion 
+    with her hand.  Clark reluctantly nods, and leaves.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      25.     
+
+
+24  CONTINUED:  2                                                    24   
+
+    Lois heads for her entrance, but is cut-off by a WOMAN
+    rushing ahead of her.  The WOMAN carries a ventriloquist's
+    DUMMY on one arm.
+
+                                    DUMMY
+                   I hate it when you make me late!
+
+                                    WOMAN
+                   I don't know why you keep going to
+                   her, she's a nut!
+
+                                    DUMMY
+                   She's a nut? _She's_ a nut?!  Who
+                   diagnosed termites when nobody else
+                   could find anything?  Huh?  Huh?!
+
+    And as the bickering pair enters, Lois takes a final glance
+    at the neon sign and goes in.
+
+
+25  INT. SOLSVIG'S LABORATORY - NIGHT #2                             25   
+
+    The lab is dark except for Solsvig typing away on his
+    computer.  He runs his finger along lines of data in a
+    program for the Super Microwave Transmitter.  He double
+    checks something, frowns, and reaches for the phone.  He
+    dials and waits a beat.
+
+                                    SOLSVIG
+                         (worried)
+                   Mr. Fences, I've just discovered
+                   something in that new program you
+                   gave me that I'd like to talk to
+                   you about.
+
+                                                       CUT TO:
+
+
+26  INT. LOIS'S APARTMENT - KITCHEN - NIGHT                          26   
+
+    Lois reads Solsvig's book: "The Alien Touch" as she removes
+    a pint of ice cream from the freezer; it's chocolate brownie
+    and vanilla.  Unfortunately, it's practically empty.
+    Disappointed, she scrapes a half-spoonful out of it and
+    throws the container away.  She turns back to the book and
+    nurses her meager bite.
+
+                                    LOIS
+                         (to herself)
+                   No way!
+
+    Still reading, she walks towards her fish tank and begins to
+    read aloud.  Occasionally, she looks at her fish to see if
+    they're listening.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      26.     
+
+
+26  CONTINUED:                                                       26   
+
+                                    LOIS (CONT'D)
+                   Get this:  'Some abductees report an 
+                   increase in their ability in 
+                   psychic communication, either 
+                   in reading thoughts, or having their 
+                   own thoughts read.'
+                         (alarmed; to herself)
+                   Star.
+                         (to fish)
+                   What if she found out about Clark?!
+
+    Lois hurriedly reads more, but she does it silently until...
+
+                                    LOIS (CONT'D)
+                   'A few individuals stated that the 
+                   only way they could prevent their 
+                   thoughts from being perceived by 
+                   others was to wear a skull cap of 
+                   aluminum foil.'
+                         (to the fish)
+                   Can you believe this?
+                         (to herself)
+                   What am I saying?  I'm talking to a
+                   fish?
+                         (to the fish)
+                   Don't you turn away from me like
+                   that!
+
+    Lois sighs and flops in a chair, dispirited.  A moment of 
+    self-pity lingers, then there's a knock at the door.
+
+                                    STAR (V.0.)
+                   Lois?  It's me, Star.  I brought 
+                   you some ice cream.  It's chocolate 
+                   brownie and vanilla.
+
+    Lois glances at her own spoon of chocolate brownie and 
+    vanilla; a look of alarm consumes her face.  She bolts for 
+    the kitchen.
+
+                                    LOIS
+                   I'll be right there.
+
+    She frantically rummages in a drawer for aluminum foil, 
+    finds some, tears off a sheet, and quickly fashions a skull 
+    cap onto her head.  She races to the door, stops, and opens 
+    it with an air of studied nonchalance.  Star enters.
+
+                                    STAR
+                   You know, I just had the funniest 
+                   feeling.  A little voice said, Lois 
+                   wants some ice cream.  _Fish_ ice 
+                   cream.  I didn't have any of that, 
+                   so I brought this instead.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      27.     
+
+
+26  CONTINUED:  2                                                    26   
+
+    She flops on Lois's couch.
+
+                                    STAR (CONT'D)
+                         (beat)
+                   What's that on your head?
+
+                                                       CUT TO:
+
+
+27  INT. LOIS'S APARTMENT - LATER                                    27   
+
+    Lois and Star are deep in conversation.  Each has a spoon.
+    The ice cream is mostly gone.
+
+                                    LOIS
+                   ... It's just that, Clark's such a 
+                   worry wart.  He thinks I'm always 
+                   putting myself in danger.
+
+                                    STAR
+                   Well, are you?
+
+                                    LOIS
+                   No.
+                         (beat)
+                   Not that often.
+                         (beat)
+                   I mean, you can't be a great
+                   reporter without taking some
+                   risks.
+
+                                    STAR
+                   And _that's_ the only thing that's
+                   keeping you two apart?
+
+    Lois unconsciously readjusts her aluminum foil beenie.
+
+                                    LOIS 
+                   That, and one or two other things...
+                         (Star waits)
+                   some of which may be my own
+                   problems...
+                         (Star waits more)
+                   ... like, okay, maybe.the biggest 
+                   thing that scares me is just the 
+                   idea of committing to a 
+                   relationship.  For life.
+
+                                    STAR
+                   Don't you think he's scared, too?
+
+                                    LOIS
+                   Yeah.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      27.     
+
+
+27  CONTINUED:                                                       27   
+
+                                    STAR
+                   But you both love each other?
+                         (with growing intensity)
+                   It's not like you think that one 
+                   morning you're going to wake up and 
+                   find out that he's shaved his head 
+                   and tattooed the entire third Act 
+                   of Henry the Fourth on it and has 
+                   gone to live in a commune in Brazil 
+                   where they all worship a giant 
+                   butterfly named Fred, is it?  
+                   Ooops, sorry.  I mean, you really 
+                   _love_ each other, right?
+
+                                    LOIS
+                   Yes!  But so did my parents, and
+                   then _they_ got divorced.
+
+                                    STAR
+                   But you're not your parents, 
+                   anymore than they're you.  What you 
+                   want is a guaranteed, risk free, 
+                   happy ever after relationship.  But 
+                   there IS no such thing.
+
+                                    LOIS
+                   But it's scary.
+
+                                    STAR
+                   Lois, you're willing to risk your 
+                   life for work, why not risk your 
+                   life for love?
+
+    Lois thinks about this for a moment; then comes to a 
+    decision.  She suddenly beams.
+
+                                    LOIS
+                   Okay, I'll tell him!
+                         (beat)
+                   I just have to figure out when.
+
+                                                       CUT TO:
+
+
+28  INT. LOIS'S BEDROOM - NIGHT                                      28   
+
+    Lois sleeps alone in her bed, a slight smile on her face.
+    The smile slowly changes to a frown.  CAMERA PUSHES IN on 
+    her face as she moves uncomfortably in her sleep.
+
+
+29  LOIS'S FLASHBACK #1                                              29   
+
+    We see everything from LOIS'S POV.  We are in a hazy, all 
+    white space.  Everything is slightly blurry.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      29.     
+
+
+29  CONTINUED:                                                       29   
+
+    Lois is lying on an examining table, looks left and right.
+    Other people lie on tables, too.  To her left WE recognize 
+    the Manager from Zenith Chip.  To Lois's right, a RED-HEADED 
+    WOMAN in a business suit.
+
+    We HEAR strange, garbled noises and Lois's POV turns to look 
+    up and see weird, HIDEOUS BEINGS in all white garb, large 
+    heads with freakish, oversized dark eyes and some mechanical 
+    device over where their mouths should be.  They're speaking 
+    as they loom down, but because it's a memory and hazy, we 
+    can't distinguish what they're saying.  Sometimes it has the 
+    tone of questions, sometimes the tone of commands.
+    Occasionally, they seem to talk to another alien out of 
+    sight and behind Lois's head.
+
+    We can't see this alien because the examining table has a 
+    tall headboard on it.  Suddenly, a mechanical arm swings 
+    into Lois's POV with a hugely sinister hypodermic at its 
+    end.  It grows larger and LARGER as it looms down and we 
+    hear Lois screaming and SCREAMING and SCREAMING.
+
+                                                       FADE OUT.
+
+                            _END ACT TWO_
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      30.     
+
+                             _ACT THREE_
+
+    FADE IN:
+
+
+30  INT.  LOIS'S BEDROOM - NIGHT                                     30   
+
+    Lois, still screaming Wakes UP with a jolt, a look of
+    terror in her eyes.
+
+
+31  INT. KENTS' BEDROOM - NIGHT                                      31   
+
+    MARTHA and JONATHAN are peacefully asleep.  The phone RINGS
+    and Jonathan groggily opens one eye and gropes the
+    sidetable.
+
+                                    JONATHAN
+                   I hate alarm clocks.
+
+    Martha reaches out and turns on her light.
+
+                                    MARTHA
+                   It's the phone, Jonathan.
+
+    She picks up her phone as she eyes the clock on her side.
+    It's 2:13.AM, Smallville time.
+
+                                    MARTHA (CONT'D)
+                   Hello?
+
+
+32  INT. CLARK'S APARTMENT - KITCHEN - NIGHT                         32   
+
+    Clark talks on his portable phone; it's wedged between his
+    shoulder and ear.  He's washing mud off his cape and uniform
+    in a square plastic bowl in his sink.  It's a sudsy mess.
+
+    (NOTE: INTERCUT WITH MARTHA AND JONATHAN AS NEEDED.)
+
+                                    CLARK
+                   Hi, Mom.
+
+                                    MARTHA
+                   Clark, is everything okay?
+
+    Jonathan picks up his extension.
+
+                                    CLARK
+                   I'm fine.  Had to stop a mudslide
+                   in Chile.  You know.
+
+                                    JONATHAN
+                   How's Lois?
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      31.     
+
+
+32  CONTINUED                                                        32   
+
+                                    CLARK
+                   That's what I wanted to call you
+                   about.
+
+                                    MARTHA
+                   Is this one of those father-son
+                   talks you want me to butt out of?
+
+                                    CLARK
+                   It's not that kind of conversation, 
+                   Mom.  It's just that... sometimes I 
+                   think Lois and I shouldn't be 
+                   together.
+
+                                    MARTHA
+                         (sympathetic)
+                   Oh, Clark, did you have a fight?
+
+                                    CLARK
+                   No. I'm just worried I'm a jinx.
+
+                                    JONATHAN
+                   A jinx?
+
+                                    CLARK
+                   Yeah.  Let's face it, ever since 
+                   she's known me, Lois's been 
+                   kidnapped, frozen, pushed off 
+                   buildings, almost stabbed, 
+                   poisoned, buried alive and who 
+                   knows what else, and it's all 
+                   because of me.
+
+                                    MARTHA
+                   Did something happen today?
+
+                                    CLARK
+                   No!  No.  It's just something I've
+                   been thinking about.
+
+                                    JONATHAN
+                   Clark, they weren't all your fault.
+
+                                    CLARK
+                   You know what I mean.
+
+                                    MARTHA
+                   Have you talked to her about this?
+
+                                    CLARK
+                   Sort of.  But we never get very.
+                   far.  It's kind of uncomfortable.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      32.     
+
+
+32  CONTINUED  2                                                     32   
+
+                                    MARTHA
+                   Honey, you're going to have to talk 
+                   about it some more; communication 
+                   is key.
+
+                                    JONATHAN
+                   Something I learned a long time 
+                   ago, son: no matter how much you 
+                   love somebody, you can't protect 
+                   them from all the evil in the world 
+                   all the time.  Even if you _are_
+                   Superman.
+
+                                    CLARK
+                         (unconvinced)
+                   Yeah, I guess.
+
+                                    MARTHA
+                   And don't forget, Lois knows what 
+                   being involved with you means.  
+                   It's her choice, too.  She's not a 
+                   six year old, you know.
+
+                                    CLARK
+                   That's what she said.
+
+                                    JONATHAN
+                   See?  She's smart, just like your
+                   Mom.
+
+    Clark gives a tiny grin.  His doorbell suddenly rings, 
+    followed by hard knocking and...
+
+                                    LOIS (V.O.)
+                   Clark?!  Clark?!  Wake up, it's me!
+                   Clark?!
+
+                                    CLARK
+                         (into phone)
+                   Mom, Dad, I gotta go.  Love ya,
+                   bye!
+
+    Martha and Jonathan exchange a glance.  Clark runs to the 
+    door and opens it.  Lois streaks in, hyper.  She's only 
+    thrown on a few items over her pajamas.
+
+                                    LOIS
+                   Clark, I remember being kidnapped 
+                   by the aliens!  I had a flashback!
+                   I could see them!  They had big, 
+                   bulging heads, and they'd snatched 
+                   these other people and they had, 
+                   had these thingamajiggies over 
+                   their mouths so they sounded 
+                   like...
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      33.     
+
+
+32  CONTINUED:  3                                                    32   
+
+    Clark tries to gently embrace her.
+
+                                    CLARK
+                   Lois, it's okay, it's okay.  You're
+                   here now.  Everything's all right.
+
+                                    LOIS
+                   ... then this big mechanical arm 
+                   came over me with a needle pointed 
+                   at my neck and I was screaming and 
+                   screaming and screaming, and you 
+                   weren't there...
+
+                                    CLARK
+
+                   Lois, are you sure you weren't just
+                   dreaming?
+
+                                    LOIS
+                   Oh, God, I don't know what to
+                   think.  It seemed so real.
+
+                                    CLARK
+                   I never should've let you go home
+                   alone that night.
+
+                                    LOIS
+                   It's not your fault.
+
+                                    CLARK
+                   But I feel responsible.
+
+                                    LOIS
+                   But you shouldn't.
+
+                                    CLARK
+                   Sure I should.  I love you.  That's 
+                   what makes it so difficult.  When 
+                   I'm catching some bad guy, I'm 
+                   thinking, is Lois okay?  Or is 
+                   somebody slowly boiling her in oil?
+
+                                    LOIS
+                         (touched)
+                   Really?
+
+    Clark takes a breath.  He's unused to these strong, new 
+    feelings he has and it's difficult for him to talk about 
+    them.
+
+                                    CLARK
+                   Yes.  And what I can't stand is the 
+                   idea that the closer we get, the 
+                   more at risk you are.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      34.     
+
+
+32  CONTINUED:  4                                                    32   
+
+                                    LOIS
+                   That's not true!
+
+                                    CLARK
+                   Lois, for the sake of argument, 
+                   let's just say you _were_ kidnapped 
+                   by aliens.  In a way you were 
+                   lucky, because what if it had been 
+                   your average earthbound criminal 
+                   and when you were drugged, you'd 
+                   let slip that Clark Kent is 
+                   Superman?  Everyone knows that you 
+                   and I are an item, and to get to 
+                   Superman, they would do _anything_
+                   to you.
+
+                                    LOIS
+                   But that's a worse case scenario.
+
+                                    CLARK
+                   Who could've predicted you'd be
+                   kidnapped by aliens?!
+
+                                    LOIS
+                   So what do you want me to do, hie
+                   thee to a nunnery?
+
+                                    CLARK
+                         (re: their situation)
+                   No! It's just, hard, that's all.  
+                   Harder than I ever thought it would 
+                   be.
+
+    Moved by Clark's admission of vulnerability, Lois throws her 
+    arms around him.
+
+                                    LOIS
+                   But we can make it work, I know we
+                   can.
+
+    Clark holds her tight.  He brushes her hair with his hand.
+
+                                    LOIS (CONT'D)
+                   In fact, I want you to know, I'm
+                   ready to say --
+
+    Clark notices something on Lois's neck.  It's a puncture 
+    mark.
+
+                                    CLARK
+                   Lois, what's this?
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      35.     
+
+
+32  CONTINUED:  5                                                    32   
+
+                                    LOIS
+                         (mood broken)
+                   What?
+                         (no answer)
+                   What?
+
+                                    CLARK
+                   It looks like a puncture mark.
+
+    Lois looks at Clark.  Her eyes begin to widen in renewed
+    horror.
+
+                                                       CUT TO:
+
+
+33  INT. SOLSVIG'S LABORATORY - NIGHT                                33   
+
+    The computer hums quietly in the FOREGROUND. All we see
+    is _Solsvig's shadow_ looming on one wall as he angrily
+    walks about.  ANOTHER SHADOW stands quietly listening; we
+    can't see who it is.
+
+                                    SOLSVIG (O.S.)
+                   This is diabolical!  This is
+                   monstrous!  This is not nice!
+                   I won't stand for it!
+
+    The other shadow shifts its weight; Solsvig instantly
+    falters.
+
+                                    SOLSVIG (CONT'D)
+                   Okay, I'm willing to talk!  Let's
+                   not be precipitate!
+                         (nervous laugh)
+                   Heh heh, a small ... joke there.
+
+                                                       CUT TO
+
+
+34  INT. DAILY PLANET - CONFERENCE ROOM - DAY 13                     34   
+
+    Lois is elbow deep in research on abductions.  Books and
+    magazines litter the table, all about UFO's and aliens.
+    Clark stands by the small food and coffee table in the
+    corner and microwaves some tomato vegetable soup.  It pings
+    and he takes it  out. He moves back to Lois and hands it to
+    her.  She eats as she reads.
+
+                                    LOIS
+                   Thanks.  Ooo, hot!  Mmm, listen,
+                   there're all sorts of reports of
+                   medical examinations by aliens on
+                   abductees, and people having
+                   flashbacks, but nothing on trances.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      36.     
+
+
+34  CONTINUED:                                                       34   
+
+                                    CLARK
+                   And you had two in one day.  The
+                   first was --
+
+                                    LOIS
+                   -- at eleven o'clock exactly.  I
+                   remember looking at my watch.
+
+                                    CLARK
+                         (nodding; singsong)
+                   You jumped, I saved you.  I take 
+                   off for the robbery, save you 
+                   again; forget the robbery, stay 
+                   with you.
+
+                                    LOIS
+                   Then at three o'clock exactly, I do
+                   my trance thing again.
+
+    They both look at each other.  Then...
+
+                                    LOIS & CLARK
+                   Jimmmmy!!!
+
+    Just then Jimmy blows through the door with an armload of 
+    books and magazines.  He dumps it on the table between them.
+
+                                    Jimmy
+                   Hey, Louise down in research can
+                   only move so fast.
+
+                                    LOIS
+                   Forget the books!  Call the cops
+                   and see --
+
+                                    CLARK
+                   -- if there was another robbery
+                   yesterday --
+
+                                    LOIS
+                   -- at exactly three o'clock.
+                   Particularly at a --
+
+                                    CLARK
+                   -- high tech firm.  Ask for
+                   everything --
+
+                                    LOIS
+                   -- they've got.
+
+                                    JIMMY
+                   Did you guys practice that?
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      37.     
+
+
+34  CONTINUED:  2                                                    34   
+
+                                    LOIS & CLARK
+                         (annoyed)
+                   Go.
+
+    He vanishes out the door.
+
+                                    CLARK
+                   Okay, let's assume there _was_ 
+                   another robbery.  Then maybe the 
+                   timing of your trances _wasn't_ 
+                   completely accidental.
+
+                                    LOIS
+                   Maybe they were meant to keep 
+                   Superman from stopping those 
+                   robberies!
+
+                                    CLARK
+                   But what would aliens want with our 
+                   technology?  They're way ahead of 
+                   us already.
+
+                                    LOIS
+                         (beat; deflates)
+                   Yeah, that doesn't make sense.
+
+    Jimmy rushes back in.  He carries some pages.
+
+                                    JIMMY
+                   Man, are you guys psychic or what?
+
+                                    LOIS
+                   Don't use that word.
+
+                                    JIMMY
+                   This just came in over the fax.  At 
+                   exactly three o'clock yesterday, 
+                   some guys broke into WaveTech 
+                   Industries; they're a top 
+                   contractor for the Department of 
+                   Defense.  They stole the prototype 
+                   of an advanced pulse amplifier.
+
+                                    LOIS
+                   Yes!
+
+                                    JIMMY
+                   They figure it was an inside job, 
+                   just like the one at Zenith Chip.
+                   In both cases, they've already 
+                   arrested a suspect.  Here.  They 
+                   even faxed over their mug shots.
+
+    Jimmy lays them on the table.  Lois pales.  One is a picture 
+    of the Manager; the other of the Red Headed Woman.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      38.     
+
+
+34  CONTINUED:  3                                                    34   
+
+                                    LOIS
+                   Clark, I know them. Both of them
+                   were in my dream.
+
+    On Clark's look of concern, we...
+
+                                                       CUT TO:
+
+
+35  A SPINNING, HYPNOTIC SPIRAL DISC                                 35   
+
+    It fills the frame, whirling whirling whirling, drawing us
+    in.
+
+                                    STAR (V.0.)
+                         (softly)
+                   Now I'm going to ask you...
+
+
+36  INT. LOIS'S APARTMENT - DAY                                      36   
+
+    Star takes away the disc from in front of Lois, who sits
+    hypnotized on her couch, eyes open.  Clark sits next to her.
+
+                                    STAR
+                   ... a few simple questions, just to
+                   put you at ease. First, what's
+                   your name?
+
+                                    LOIS
+                   Lois Lane.
+
+                                    STAR
+                   And where do you live?
+
+                                    LOIS
+                   At 1058 Carter Avenue, Metropolis.
+                   Apartment 407.
+
+                                    STAR
+                   And if you were an animal, what
+                   type of animal would you be?
+                   Excluding invertebrates, viruses
+                   and certain classes of
+                   photo-plankton.
+
+                                    LOIS
+                         (confused)
+                   What?
+
+    Clark gestures for Star to get on with it.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      39.     
+
+
+36  CONTINUED:                                                       36   
+
+                                    STAR
+                   Okay, now I want you to remember 
+                   that you are in a warm, secure 
+                   place.  Clark and I are with you.
+                   Nothing is going to harm you.  If
+                   at anytime you feel uncomfortable, 
+                   you will emerge from this session 
+                   by your own choice.  Nothing can 
+                   stop you.  Are you ready?
+
+                                    LOIS
+                   Yes.
+
+                                    STAR
+                   I'd like you to think back to the 
+                   dream you had last night.  What do 
+                   you see?
+
+    (NOTE: INTERCUT AS NEEDED WITH A REPLAY OF THE FLASHBACK, 
+    THOUGH THIS TIME IT'S ALL IN CRYSTAL CLEAR FOCUS)
+
+                                    LOIS
+                   I'm in a white room.  There's a man
+                   and woman on either side of me.
+                   These... creatures are leaning over
+                   me, talking to me.
+
+    Clark, who's been scribbling a note, shows it to Star, who 
+    nods.
+
+                                    STAR
+                   What are they saying?
+
+                                    LOIS
+                   I... don't know.  It seems like 
+                   questions.  They keep talking to 
+                   someone who stands behind my head.
+                   He seems to be giving them orders.
+
+                                    CLARK
+                   What's he look like?
+
+                                    LOIS
+                   I can't see him.  It's blocked...
+                   by a kind of... headboard.
+
+                                    STAR
+                   You never see him?
+
+                                    LOIS
+                   No.
+                         (beat)
+                   Yes.  There's a reflection.  A tiny
+                   reflection.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      40.     
+
+
+36  CONTINUED:  2                                                    36   
+
+                                    STAR
+                   Where?
+
+                                    LOIS
+                   On the mechanical arm.
+
+                                    STAR
+                   Can you focus on it?
+
+                                    LOIS
+                   Yes.  It's... it's...
+
+    We CUT in closer and closer to the reflection until we 
+    see... Bob Fences, dressed normally, speaking to the 
+                   "aliens".
+
+                                    LOIS (CONT'D)
+                   ... it's Bob Fences!
+
+    Lois instantly comes out of her hypnosis.  She's animated 
+    and grabs Clark.
+
+                                    LOIS (CONT'D)
+                   He was right there!  Talking to 
+                   them!
+
+                                    CLARK
+                   To the aliens?
+
+                                    LOIS
+                   No, don't you get it?!  They 
+                   weren't aliens, the whole thing was 
+                   staged!  Then they drugged me and 
+                   gave me, um...
+                         (searches for the word)
+
+                                    CLARK
+                   ... post hypnotic suggestions?
+
+                                    LOIS
+                   Exactly!  Everybody knows I'm a
+                   friend of Superman's.
+
+                                    CLARK
+                   So, they kidnap you...
+
+                                    LOIS
+                   ... and brainwash me...
+
+                                    CLARK
+                   ... to put yourself in jeopardy 
+                   whenever they want to rob 
+                   somebody...
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      41.     
+
+
+36  CONTINUED:  3                                                    36   
+
+                                    LOIS
+                   ... and presto-change-o, Superman's
+                   forced to miss the robberies 'cause 
+                   he's too busy saving me.
+
+                                    CLARK
+                   But what would Fences want with 
+                   computer chips and a pulse 
+                   amplifier?
+
+                                    LOIS
+                   That's where Solsvig comes in.
+
+    The phone rings.  Star looks at it, but doesn't pick it up.
+
+                                    STAR
+                         (dead serious; to Lois)
+                   It's for you.
+
+                                    LOIS
+                         (beat)
+                   Thanks.
+
+    She answers.
+
+                                    LOIS (CONT'D)
+                   Hello?
+
+
+37  INT. PERRY'S OFFICE - DAY - CONTINUOUS                           37   
+
+    Perry's on the phone.  Jimmy hovers next to him, anxious.
+
+                                    PERRY
+                   Lois?  Good.  Look, I thought you'd 
+                   want to know this as soon as it 
+                   came in, I just got a call from 
+                   the police.
+
+
+38  INT. LOIS'S APARTMENT - CONTINUOUS                               38   
+
+    Lois is shocked.
+
+                                    LOIS
+                   Uh-huh.  Uh-huh.  Yes, thanks,
+                   Perry.
+                         (to Clark and Star)
+                   Martin Solsvig's been killed.
+
+    Clark and Star react.
+
+                                                       FADE OUT.
+
+                            _END OF ACT THREE_
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      42.     
+
+
+                             _ACT FOUR_
+
+    FADE IN:
+
+39  EXT. NANOSOFT - DAY                                              39   
+
+    Clark and a very determined Lois march towards the building.
+
+                                    CLARK
+                   Lois, it's the oldest trick in the
+                   book.
+
+                                    LOIS
+                   Clark, who's the best poker player 
+                   at the Planet?  You're talking to 
+                   the Queen of Bluff.  If I can't 
+                   maneuver him into talking, no one can.
+
+    Clark gives a dubious look.
+
+
+40  INT. CHAIRMAN'S OFFICE - NANOSOFT - DAY                          40   
+
+    Fences is at his desk.  His computer is "on", but the screen 
+    is blank.  He plays with two action figures.  He tosses one 
+    high up in the air, out of frame.
+
+                                    FENCES
+                         (Action Figure #1 voice)
+                   Oh, no, my jet pack failed!
+
+    The figure smashes down onto the desk and bounces, 
+    scattering others.  Fences makes smashing noises, then...
+
+                                    FENCES (CONT'D)
+                         (Action Figure #2 voice) 
+                   Lucky you landed on your head. 
+                         (Action Figure #1 voice) 
+                   Too bad I didn't land on _you_!
+
+    He crashes Figure #1 into Figure #2 and they get into a 
+    strenuous fight, with appropriate sound effects.  Simone 
+    enters.
+
+                                    SIMONE
+                   The transmitter's almost ready.
+
+                                    FENCES
+                   About time.
+                         (back to fighting;
+                          Figure #1)
+                   Take that, you boogerhead!
+                         (Figure #2)
+                   Oh, yeah, I'll microwave your butt,
+                   you overgrown cuisinart!
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      43.     
+
+
+40  CONTINUED:                                                       40   
+
+                                    SIMONE
+                   And those two reporters are back, 
+                   Lane and Kent.  They want to speak 
+                   to you.
+
+                                    FENCES
+                         (Figure #1)
+                   They're awfully nosy.
+                         (Figure #2)
+                   Let's kill 'em!
+                         (Figure #1)
+                   With what, you're breath?
+                         (Figure #2)
+                   No, your face!
+                         (Figure #1)
+                   Ha ha ha.  Krassshhh!
+
+    He smashes #1 into #2; they fight some more; then Fences 
+    stops, panting.
+
+                                    FENCES (CONT'D)
+                         (Figure #1)
+                   Okay.  Okay.  Let's see what they
+                   want first.  Then we'll decide.
+                         (Figure #2)
+                   Hope they're not whiners, like
+                   solsvig:
+                         (imitates Solsvig)
+                   But Bob, you shouldn't've done this 
+                   without my permission.  This... 
+                   this... could _hurt_ people.
+                         (normal Figure #2 voice)
+                   Yeah, like no kidding, Sherlock.  
+                   That's the _point_!
+
+    Simone clears her throat.
+
+                                    FENCES (CONT'D)
+                   All right, all right.  Show them 
+                   in.
+
+    He puts the figures to one side and waves an admonishing 
+    finger at them.
+
+                                    FENCES (CONT'D)
+                   Not a word.
+
+    Lois and Clark enter.  Simone shuts the door behind them.
+
+                                    FENCES (CONT'D)
+                   Ms. Lane.  Mr. Kent.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      44.     
+
+
+40  CONTINUED:  2                                                    40   
+
+                                    LOIS
+                   Mr. Fences, I'll get straight to 
+                   the point: you kidnapped me, then 
+                   you drugged me, and then you 
+                   brainwashed me.
+
+                                    FENCES
+                   Good to see you, too.  Anything
+                   else?
+
+                                    LOIS
+                   You killed Martin Solsvig.
+
+                                    FENCES
+                   Nope to both of them.  Next.
+
+                                    CLARK
+                   Mr. Fences, Lois saw you in the
+                   white room.
+
+                                    FENCES
+                   White room?  Was it padded?
+
+                                    LOIS
+                         (frustrated)
+                   I know what I saw.
+
+                                    FENCES
+                   And where did you see this?
+
+                                    LOIS
+                         (reluctantly)
+                   In my dream.
+
+                                    FENCES
+                   Have a nice day.  Don't let the
+                   door hit you on the way out.
+
+    He presses a button on his phone.  Lois gives Clark a look 
+    that says, "Okay, watch me now."
+
+                                    LOIS
+                         (bluffing)
+                   I have a witness who can connect
+                   you to my kidnapping.
+
+                                    FENCES
+                   Ms. Lane, I didn't do anything.  
+                   Your witness must've been dreaming, 
+                   like yourself.  Now if you'll 
+                   excuse me?.
+
+    Simone opens the door and waits for Lois and Clark to leave.
+    Reluctantly, they do.  She shuts the door after them and 
+    turns a questioning face to Fences.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      45.     
+
+
+40  CONTINUED:  3                                                    40   
+
+                                    FENCES
+                   Lane and Kent are getting close.
+                   Tighten security, but otherwise, we
+                   stay on schedule.  When the time
+                   comes, Lois will keep Superman
+                   occupied.  And hold my calls, I've
+                   gotta finish that letter.
+
+    Simone nods. Fences hits some keys on his computer.
+
+
+41  EXT. NANOSOFT HEADQUARTERS - DAY                                 41   
+
+    Lois and Clark pass several people, chatting.
+
+                                    LOIS
+                         (sotto)
+                   What's he doing now?
+
+    Clark turns back with his X-RAY VISION.
+
+
+42  CLARK'S X-RAY POV - (SPECIAL EFFECT)                             42   
+
+    Fences is just turning off his computer screen, whatever was
+    on it shrinking to a dot.
+
+
+43  BACK TO SCENE                                                    43   
+
+    Clark shakes his head.
+
+                                    CLARK
+                   Nothing.  Something was on his
+                   computer, but he turned it off just
+                   before I could read it.
+
+                                    LOIS
+                   Did you hear anything?
+
+                                    CLARK
+                   They're out of three-hole paper.
+                   Otherwise, too many people.
+
+                                    LOIS
+                         (sighs)
+                   So much for spooking him into
+                   giving himself away.
+
+                                    CLARK
+                   Lucky he doesn't play poker.
+
+    Lois gives Clark the eye.
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      46.     
+
+
+44  INT. CONFERENCE ROOM - DAILY PLANET - DAY                        44   
+
+    Lois and Clark scan stacks of books and magazines.
+
+                                    LOIS
+                   Here's another one on his personal
+                   fascination with aliens.
+
+                                    CLARK
+                   And another one about the
+                   unfairness of trade barriers.
+
+    They each toss their magazines on a stack and pick up two more.
+
+                                    LOIS
+                   Here's one on him personally
+                   funding Solsvig's transmitter.
+
+                                    CLARK
+                   And yet _another one_ on him
+                   railing against trade barriers.
+
+    Again they toss the magazines onto the stack and pick up two 
+    more.
+
+                                    LOIS
+                   Solsvig said the transmitter was 
+                   nearly complete, so what does he 
+                   need more chips and a pulse 
+                   amplifier for?
+
+                                    CLARK
+                   Maybe he wants to make a really
+                   long distance call.
+
+                                    LOIS
+                   So funny.
+                         (takes a new magazine;
+                          reads title)
+                   'Aerospace, Submersible and Land 
+                   Technologies Monthly.' That's a 
+                   grabber.
+
+    She flips through the magazine.  Something-catches her eye 
+    and she reads with greater intensity.
+
+                                    LOIS (CONT'D)
+                   Whoa!  Whoa!  Listen to this:
+                                    (MORE)
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      47.     
+
+
+44  CONTINUED:                                                       44   
+
+                                    LOIS (CONT'D)
+                         (reading) 
+                   'However, due to Department of
+                   Defense budget adjustments,
+                   research on several new weapons 
+                   systems were terminated in fiscal
+                   1994, among them the Navy's 
+                   personal undersea laser rifle,' 
+                   blah blah blah, blah blah blah, 
+                   'and NASA's Super Microwave 
+                   Transmitter.'
+
+                                    CLARK
+                   Weapons system?  Everything else 
+                   says it's for communications with 
+                   aliens.
+
+    Clark gets up to read over her shoulder.
+
+                                    LOIS
+                         (nods, reads, skims)
+                   Theoretical modifications...
+                   project a deadly beam of microwave
+                   radiation...
+
+                                    CLARK
+                         (reads)
+                   ...that could literally boil any 
+                   living thing, but leave buildings 
+                   and other non-organic structures 
+                   intact.
+
+                                    LOIS
+                   So it could look like a harmless
+                   transmitter, but actually be
+                   deadly!
+
+                                    CLARK
+                   Solsvig must've found out that 
+                   Fences had other plans for his 
+                   transmitter...
+
+                                    LOIS
+                   And that's why he was killed.
+
+    Clark speed reads the rest of the article.
+
+                                    CLARK
+                   Hmph.  The microwave could be 
+                   bounced off any satellite... hit 
+                   any  city on Earth... fired so 
+                   quickly, it's point of origin would 
+                   be undetectable.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      48.     
+
+
+44  CONTINUED:  2                                                    44   
+
+    Lois and Clark look at each other.  Lois sinks into her 
+    chair.
+
+                                    LOIS
+                   Fences can blackmail countries for
+                   billions.
+
+                                    CLARK
+                   It's the perfect way for him to get
+                   revenge on their trade barriers.
+
+                                    LOIS
+                   But who's first?  He hates
+                   practically everybody.
+
+                                    CLARK
+                   I don't know, but we've got to stop 
+                   him.  Even I can't outfly a 
+                   microwave.
+
+                                    LOIS
+                         (dismayed)
+                   But we don't have any proof.  Are 
+                   you sure you didn't see _anything_ 
+                   on his computer screen?
+
+                                    CLARK
+                   Nothing.  It was just a...
+                   shrinking dot.
+
+                                    LOIS
+                         (gets an idea)
+                   Maybe you just need some help
+                   remembering.
+
+
+45  CLOSEUP SPINNING SPIRAL DISC                                     45   
+
+    As it whirls and whirls.
+
+
+46  INT. LOIS'S APARTMENT - DAY                                      46   
+
+    Star has just hypnotized Clark.  Lois watches attentively.  
+    Star puts down the spiral.
+
+                                    STAR
+                         (softly)
+                   Now I'm going to ask you a few 
+                   simple questions, just to put you 
+                   at ease.  First, what's your name?
+
+                                    CLARK
+                         (beat)
+                   Kal-el.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      49.     
+
+
+46  CONTINUED:                                                       46   
+
+    Lois jumps in as Star turns a puzzled face towards her.
+
+                                    LOIS
+                   Can you believe this guy?  He can 
+                   joke even under hypnosis!  Let's 
+                   just cut to the chase, okay?
+
+    Lois hands her a list of questions.  Star raises an eyebrow, 
+    but goes ahead.
+
+                                    STAR
+                   Now remember, Clark, you're in a 
+                   warm, safe, fuzzy place; kind of 
+                   like you're living inside a giant 
+                   Teddy Bear ... that's missing one eye 
+                   because your stupid sister used him 
+                   for homeplate while you were trying 
+                   to get your retainer unstuck from 
+                   your bicycle spokes...
+
+    Lois flicks Star on her arm and without missing a beat, Star 
+    gets back to business.
+
+                                    STAR
+                   ... and any time you want to 
+                   emerge, it's your choice, all 
+                   right?
+
+                                    CLARK
+                   Sure.
+
+                                    STAR
+                         (checks list)
+                   Okay.  I want you to think back to 
+                   your visit this morning to Bob 
+                   Fences.
+                         (Clark nods)
+                   As you were leaving, you glanced at
+                   his computer screen.  Correct?
+
+                                    CLARK
+                         (beat)
+                   Yes.
+
+                                    STAR
+                   Did you see anything on it?
+
+                                    CLARK
+                   He was turning it off as I looked.
+                   Lois gestures for Star to keep going.
+
+                                    STAR
+                   Maybe just a glimpse, or a glimmer?
+
+    Clark concentrates.
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      50.     
+
+
+47  FLASHBACK - CLOSEUP COMPUTER SCREEN                              47   
+
+    The screen is filled by a document, but then vanishes.
+
+
+48 BACK TO SCENE                                                     48   
+
+                                    CLARK
+                   A document.
+
+    Lois perks up, points to another question on the list.
+
+                                    STAR
+                   Good.  Very good, Clark.  Now
+                   relax.  Let your mind remember what
+                   you saw.  Let it hold onto the
+                   image of the document.  Hold until
+                   you can see it... and read it.
+
+    Clark frowns, but then relaxes.
+
+
+49  FLASHBACK - DOCUMENT ON COMPUTER SCREEN                          49   
+
+    Now we can read it.  It's a letter, addressed to the Prime
+    Minister of Pacifonesia.
+
+
+50 BACK TO SCENE                                                     50   
+
+                                    CLARK
+                   It's a letter.  To the Prime
+                   Minister of Pacifonesia.
+
+                                    STAR
+                   And what does it say?
+
+    We see Clark's eyes move under his eyelids, as if he's
+    reading something.
+
+                                    CLARK
+                   It demands one billion dollars to
+                   be delivered to an offshore bank in
+                   the Cayman Islands or one of their
+                   cities will be destroyed.  If he
+                   contacts Interpol or anyone else,
+                   five cities will be destroyed.
+
+    Lois urgently points at another question.
+
+                                    STAR
+                   When will all this happen?
+
+                                    CLARK
+                   Today. At 5 PM, Eastern Standard
+                   Time.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      51.     
+
+
+50  CONTINUED                                                        50   
+
+    Lois glances at her watch.  It's five minutes to 5.
+
+                                    LOIS
+                         (sotto, to Star)
+                   Ask this one, then we've got to go!
+
+                                    STAR
+                   Is there anything else you
+                   remember?  Anything important?
+
+                                    CLARK
+                   Yes.  His secretary has the most
+                   beautiful body in the world...
+
+                                    LOIS
+                   What?!
+
+                                    CLARK
+                   ... next to Lois's.
+
+    Star looks at Lois and smiles.
+
+
+51  INT. SOLSVIG'S LABORATORY - DAY                                  51   
+
+    Fences sits at the computer.  On the screen is a map 
+    representing several islands.  A pair of glowing red 
+    crosshairs blink over a port city.  "Pacifonesia" is written 
+    across the top of the screen.  A countdown clock reads 
+    1100:05 seconds and HOLDING" in the upper right corner.
+    Fences slams down the phone and looks over at Simone, who's 
+    anxious.
+
+                                    FENCES
+                   Those pikers still haven't paid up.
+                   So, time to french fry!
+
+    He types on the computer keyboard.
+
+                                    SIMONE
+                   What about Superman?
+
+                                    FENCES
+                   Will you _stop_ with the Superman
+                   stuff?
+                         (checks his watch)
+                   By now, Lois is probably hurling
+                   herself in front of a subway.
+
+    BOOM!  The doors slam open and Superman strides in, with 
+    Lois right behind him.
+
+                                    FENCES (CONT'D)
+                   Then again, maybe not.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      52.     
+
+
+51  CONTINUED:                                                       51   
+
+    Superman looks at the super Microwave Transmitter and 
+    focuses his heat vision on the transmitting rod at the top.  
+    With a shower of sparks, the rod topples over and hangs
+    downwards.
+
+                                    FENCES (CONT'D)
+                   You idiot, it's still going to get 
+                   the signal to fire, but now it's 
+    going to explode!
+
+    EVERYTHING SUDDENLY GOES TO SUPER SLOW MOTION:
+
+    A SERIES OF SHOTS:
+
+    1. Superman looks from the transmitter to Fences, alarm 
+    spreading across his face.
+
+    2. Fences turns to run.
+
+    3. Lois's mouth goes wide in surprise.
+
+    4. Simone starts to duck.
+
+    5. The countdown on the computer clicks from 1 second to 0
+    second.
+
+    6. Superman blurs out of frame.
+
+    7. A blue blur sweeps Lois away.
+
+    8. A rainbow of exploding light blots out the room.
+
+    BACK TO NORMAL SPEED A shower of debris bounces off Superman 
+    as he crouches near one wall, his cape spread by his arms 
+    over the huddled forms of Fences, Simone and Lois.
+
+    After the debris stops falling, he stands up, debris falling 
+    from his shoulders like snowflakes.  A shaky Fences and 
+    Simone also rise, but Lois remains sitting.
+
+                                    FENCES
+                   Well, that was... invigorating.
+
+                                    SUPERMAN
+                   Lois?
+
+    Lois lies unconscious, a trickle of blood from one nostril, 
+    a red bump on her forehead.  Superman checks her pulse.
+
+                                    FENCES
+                   Is she...?
+
+    Furious, Superman whirls to face Fences.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      53.     
+
+
+51  CONTINUED  2                                                     51   
+
+                                    SUPERMAN
+                   This is all your fault!
+
+    For a second, it looks like he's going to kill Fences and 
+    Simone; they shrink in horror.  Then his arms blur and he's 
+    tied them tightly together with a scrap of heavy electrical 
+    cable.  A moment later he bends and picks up Lois.  He leaps 
+    out of frame.
+
+
+52  INT. LOIS'S APARTMENT - DAY                                      52   
+
+    Lois lies in bed, a square gauze bandage on her forehead.  
+    She's slightly propped up on a pillow.  There are Get Well 
+    bouquets and balloons around her.  Perry and Jimmy stand 
+    beside the bed.
+
+                                    LOIS
+                   ... then, because I'd had two 
+                   trances already, we checked for any 
+                   other hypnotic suggestions and had 
+                   Star remove them.
+
+                                    JIMMY
+                   That is so incredible.
+
+                                    PERRY
+                   Lois, I don't want to see you for a 
+                   week.  You've had a bad concussion 
+                   and if it wasn't for that thick 
+                   skull of yours, it would've been a 
+                   fracture.
+
+                                    LOIS
+                   Don't worry, I get nauseous every
+                   time I move faster than a crawl.
+
+                                    PERRY
+                   Good!  That'll teach you to keep 
+                   your head down the next time 
+                   you-know-what starts hitting the 
+                   rotating blades.
+
+                                    LOIS
+                         (smiles)
+                   I'll remember that.
+
+    There's a breeze and everyone turns to see Superman.
+
+                                    SUPERMAN
+                         (tentative)
+                   Hi.
+
+    Perry and Jimmy nod.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      54.     
+
+
+52  CONTINUED:                                                       52   
+
+                                    SUPERMAN (CONT'D)
+                   I wonder if I might have a moment 
+                   alone with Lois.
+
+                                    PERRY
+                   Sure.  We were just leaving.  I'm
+                   late for the gym.
+
+    He makes boxing motions.
+
+                                    JIMMY
+                   If you need anything... anytime...
+                   just call.
+
+                                    LOIS
+                   Thanks, Jimmy.
+
+    They leave, and then there's a moment of awkward silence 
+    between Lois and Superman.  Then...
+
+                                    SUPERMAN
+                   Lois... I feel horrible about this.
+
+                                    LOIS
+                   Clark, it wasn't your fault.  You
+                   saved my life.
+
+                                    SUPERMAN
+                   No. I got... careless.  I was 
+                   overconfident.  No matter how bad 
+                   the situation is, I always think 
+                   I'm strong enough, or fast enough 
+                   to fix it.
+
+                                    LOIS
+                   And you _are_!  You saved a whole 
+                   city full of people from being 
+                   microwaved like popcorn!
+
+                                    SUPERMAN
+                   But you still got hurt.  I used
+                   to saving people, not getting them
+                   injured.
+
+                                    LOIS
+                   You can't control everything.  You 
+                   can't protect everybody all the 
+                   time, Clark.  It's impossible.
+
+                                    SUPERMAN
+                   I know.  That's what my Dad said.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    "CONTACT" (#3)   C. Ruppenthal                   7/24/95      55.     
+
+
+52  CONTINUED:  2                                                    52   
+
+                                    LOIS
+                   But we can handle it.
+                   Clark ... darling ... there's something
+                   I want to tell you.
+
+                                    SUPERMAN
+                         (in hell)
+                   There's something I need to tell
+                   you, too.
+
+                                    LOIS
+                   I know this isn't the best time, or
+                   the most romantic, but --
+
+    But Superman isn't listening.  He's come here to say 
+    something and he's going to say it.
+
+                                    SUPERMAN
+                   Lois, I love you too much to ever 
+                   let something like this happen to 
+                   you again.  I know I can't control 
+                   everything, but I can control 
+                   people not using you to get to me.
+                         (he stands up)
+                   That's why I came here.  To tell 
+                   you... I don't think this is going 
+                   to work out.  I'm sorry.
+
+    Lois is stunned.  Superman cocks his head.  He's heard 
+    another emergency.
+
+                                    SUPERMAN (CONT'D)
+                   I gotta go.
+
+    With a sad look, he leaves.
+
+                                    LOIS
+                         (beat)
+                   Clark?
+
+                                                       FADE OUT.
+                                _THE END_
+

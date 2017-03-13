@@ -1,0 +1,3776 @@
+﻿                                                    SALMON REV: 01/15/07 
+                                                      BUFF REV: 01/12/07 
+                                                 GOLDENROD REV: 01/09/07 
+                                                     GREEN REV: 01/05/07 
+                                                    YELLOW REV: 01/04/07 
+                                                     PINK FULL: 12/19/06 
+                                                    BLUE FULL: 12/15/06  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                   End of Watch  
+                                      #315/Ep.52 
+ 
+                                        Story by  
+ 
+                        Robert Port and Mark Llewellyn 
+ 
+ 
+                                      Written by 
+ 
+                                      Robert Port 
+ 
+                                      Directed by 
+ 
+                                    Michael Watkins 
+ 
+SCOTT FREE in association with CBS PARAMOUNT NETWORK TELEVISION, a division 
+of CBS Studios. 
+ 
+Copyright 2007 CBS Paramount Network Television. 
+All Rights Reserved. 
+ 
+This script is the property of CBS Paramount Network Television and may not 
+be copied or distributed without the express written permission of CBS 
+Paramount Network Television.  This copy of the script remains the property 
+of CBS Paramount Network Television.  It may not be sold or transferred and 
+must be returned to: CBS Paramount Network Television Legal Affairs  
+4024 Radford Avenue Administration Bldg., Suite 390, Studio City, CA 91604 
+ 
+THE WRITING CREDITS MAY OR MAY NOT BE FINAL AND SHOULD NOT BE USED FOR 
+PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING WITH TELEVISION 
+LEGAL DEPARTMENT. 
+ 
+                              
+                                                SALMON Rev 
+                                                  January 15th, 2007  
+ 
+                                      #315/Ep.52 
+                                   End of Watch  
+                                      SALMON Rev 
+                                        1/15/2007 
+
+ 
+                              SCRIPT REVISION HISTORY 
+ 
+   COLOR  DATE    PAGES 
+   WHITE  12/13/06 (1-60) 
+   BLUE   12/15/06 (1-60)  
+   PINK   12/19/06 (1-60) 
+   YELLOW  01/04/07 (2,3,17,28,31,37,38, 
+         38A,39,49,50,51,55,56, 
+         57,59) 
+   GREEN  01/05/07 (6,6A,9,12,14,19,31, 
+         34,35,47,47A,49,50) 
+   GOLDENROD  01/09/07 (15,15A,17,17A,60) 
+   BUFF   01/12/07 (17,17A,23,40,41,43, 
+         45,46,58,59) 
+   SALMON  01/15/07 (41,41A)                                  End of Watch 
+
+
+                                      TEASER
+
+  BLACK BOX OPENING
+
+  65,513 -- Gang Members
+
+  250 -- CRASH Officers
+
+  561 -- Murders
+
+  1 -- Missing Cop
+
+  EXT. VACANT LOT - DAY11
+
+  MUSIC FADES IN.  Something that grooves like  Fergalicious  
+  as a group of TEENS stunt their BMX bikes in an empty lot 
+  next to a middle income apartment building.
+
+  One Teen rides up a ramp and jumps a ditch.  His friends 
+  cheer.  Another Teen, COREY, digs and widens the ditch -- 
+  hits on something.  He yells out --
+
+                              COREY
+                Yo guys, check this out!
+
+  In his hand he holds a tarnished piece of metal.
+
+                              COREY (CONT D)
+                That s straight Five-O!
+
+  INSERT BADGE -- Tarnished and old, but clearly LAPD --
+
+  INT. EPPES HOUSE - GARAGE - DAY22
+
+  CHARLIE loads a trebuchet with a  jawbreaker  size pellet.  
+  AMITA adjusts a cardboard castle, various figurines (U.S. 
+  Army, Cowboys, Indians) surround it.
+
+                              CHARLIE
+                Ready?
+
+                              AMITA
+                  Byzantines fighting side by side 
+                with Cowboys and Indians...
+
+                              CHARLIE
+                I had an imaginative childhood...
+
+  Charlie takes out a matchbook as ALAN walks in.
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     2.
+
+    CONTINUED:22
+
+
+                              ALAN
+                You know, once upon a time this 
+                garage actually was a garage. 
+
+                              CHARLIE
+                We re deriving a set of coupled 
+                  differential equations by using a 
+                fourth order Runge-Kutta (Rung-ah-
+                cut-ah) Method.
+
+                              ALAN
+                ...Okay.
+
+                              AMITA
+                He s seeing how far he can fling a 
+                ball of fire.
+
+  Hands Alan a set of goggles.  Charlie strikes a match and 
+  releases the catapult...ball of fire flies across the room...
+
+  Charlie then runs over and stomps it out.
+
+                              ALAN
+                I liked it better when you lit dead 
+                bugs on fire with a magnifying 
+                glass.
+
+                              CHARLIE
+                That was Don.
+
+  Knock on the garage door -- 
+
+                              ALAN
+                Come in...
+
+  Reveals a COURT PROCESS SERVER, diminutive.  Fifties.  
+
+                              PROCESS SERVER
+                Alan Eppes?
+
+                              ALAN
+                Yes?
+
+  Hands him a subpoena.
+
+                              PROCESS SERVER
+                Have a nice day.
+
+  Alan opens the document. 
+
+                              AMITA
+                What s that all about?
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     3.
+
+    CONTINUED:22
+
+
+                              ALAN
+                Project I consulted on.
+
+                              CHARLIE
+                      (concerned)
+                Which project?
+
+                              ALAN
+                 Kim s Day Night Golf Center. 
+
+                              CHARLIE
+                The driving range in Koreatown?
+
+                              ALAN
+                  Neighbors in the surrounding 
+                  apartments are complaining.  
+                  Floodlights are on 24/7, apparently 
+                it s daytime all night long.
+                      (reading)
+                   Plaintiffs  claim it s like summer 
+                in Sweden.
+
+                              AMITA
+                  Plaintiffs?
+
+                              ALAN
+                      (reading)
+                I m being sued.  
+
+  Off Charlie --
+
+  EXT. VACANT LOT - AFTERNOON33
+
+  LAPD Crime Scene.  Uniforms cordon off the area.  DON meets 
+  DAVID.
+
+                              DAVID
+                Badge traces to an LAPD Officer.  
+                Went missing in 1990.
+
+                              DON
+                Missing?
+
+                              DAVID
+                John Everett.  Twenty-three years 
+                old.  Bureau originally worked the 
+                case as an unexplained 
+                  disappearance. 
+
+                              DON
+                Yeah, well finding this badge is 
+                gonna change things.
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     4.
+
+    CONTINUED:33
+
+
+                              DAVID
+                Report indicates that Everett was 
+                wearing his uniform when he went 
+                missing.
+
+                              DON
+                Which probably now makes this a cop 
+                killing.
+
+                              DAVID
+                And means whoever did it is most 
+                likely still walking around.
+
+  Don notices LT. GARY WALKER drive up, exits his car.  Another 
+  Police Officer (Sgt. Jackson) stays in the background.
+
+                              DON 
+                Is that Gary Walker?
+
+                              DAVID
+                They said LAPD was gonna work the 
+                case with us.  
+
+  As Walker approaches...
+
+                              DON
+                How you been, Lieutenant?
+
+  Walker shakes Don s hand.
+
+                              WALKER
+                Seen better days truthfully, Eppes.
+                      (then David s)
+                  Sinclair.
+                      (then, re: bagged badge)
+                That it?
+
+  Walker takes the bagged badge, studies it.
+
+                                WALKER (CONT D)
+                Man who wore this was one of the 
+                finest young cops I ever knew. 
+
+                              DAVID
+                You knew him?
+
+                                WALKER
+                Everett was on my street crime 
+                team.  We hit hard and often... 
+                Coupla weeks before he disappeared, 
+                he killed a real hard-ass gang 
+                banger named Stephon Bradley.  
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     5.
+
+    CONTINUED:33
+
+
+                              DAVID
+                You think he might have been 
+                murdered as payback?
+
+                                WALKER
+                I don t think, Sinclair.  I know.  
+                  Bradley s older brother vowed 
+                revenge at the time.  And Everett s 
+                car was found in his neighborhood. 
+
+                              DON
+                But you couldn t make a case.
+
+                                WALKER
+                Not without a body.
+
+                              DAVID 
+                Where s the brother now?
+
+                                WALKER
+                Did ten years for armed robbery.  
+                Paroled in  02.  Got his college 
+                degree on the inside, heard he even 
+                writes some poetry now.  
+                      (beat)
+                But that s all about to change.
+
+  Off the badge --
+
+44INT. FBI - HALLWAY - DAY 
+
+  Elevator doors open and Charlie walks off, sees Don.
+
+                              CHARLIE
+                Hey Don, I got your call, what s 
+                up?
+
+                              DON
+                Cold case.  Cop went missing 
+                  seventeen years ago.
+
+                              CHARLIE
+                What can I do?
+
+                              DON
+                Find him.
+
+  Off Charlie s look as they reach the War Room and --NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     6.
+
+
+
+  INT. WAR ROOM - CONTINUOUS55
+
+  -- Don and Charlie enter as MEGAN, David and Walker look at 
+  photos (on plasmas) of the lot where Everett s badge was 
+  found, construction site (c1990).  Same location as teaser.  
+  Megan has a bowl of popcorn.
+
+                                WALKER
+                These are city photos from 1990.  
+                High rise was supposed to be built.  
+                Lawsuit shut it down.
+
+  Show current photo, vacant lot.
+
+                              MEGAN
+                Lot s been vacant since.
+
+                              DAVID
+                      (points)
+                Here s the area where Officer 
+                  Everett s badge was found.
+
+                              MEGAN
+                      (looks at photos)
+                Back then a construction site would 
+                make a pretty good place to lose a 
+                body.  
+
+                              DAVID
+                Crew could have buried him without 
+                even knowing it... 
+
+                              MEGAN
+                Not to overstate the obvious, but 
+                just because we found a badge 
+                doesn t mean there even is a body.
+
+                                WALKER
+                Trust me, there s a body, Agent 
+                Reeves. 
+
+                              MEGAN
+                It s a lot of ground to uncover.
+
+                              DON
+                That s why we got Charlie...
+
+                              CHARLIE
+                Right.  Using Laser Swath Mapping, 
+                I might be able to narrow the 
+                search area. 
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     6A.
+
+    CONTINUED:55
+
+
+                                WALKER
+                Take me back to school, Professor. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     7.
+
+    CONTINUED:55
+
+
+                              CHARLIE
+                It s like radar.  But instead of 
+                sending out radio waves, we shoot 
+                laser pulses which allows me to 
+                create a highly accurate 3-D 
+                  topographical map of the area.
+
+                              MEGAN
+                And then? 
+
+                              CHARLIE
+                Look for abnormal erosion in the 
+                earth s surface.  Earth is compact 
+                until it s disturbed.
+
+                              DAVID
+                Like when you dig a grave.
+
+                              CHARLIE
+                When a person is covered with dirt, 
+                erosion and decomposition forms a 
+                  depression in the earth.
+
+  He grabs Megan s bowl of popcorn.  
+
+                              CHARLIE (CONT D)
+                Take this bowl of popcorn...imagine 
+                it s the earth over which the body 
+                is buried.
+
+  Grabs a bottle of water...
+
+                              CHARLIE (CONT'D)
+                This bottle of water represents 
+                erosion and time...
+
+  He pours it over the popcorn...
+
+                              MEGAN
+                Hey, that was lunch.
+
+  The middle of the popcorn deflates rapidly.
+
+                              CHARLIE
+                That depression is what the laser s 
+                looking for.
+
+                              DAVID
+                Find it...
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     8.
+
+    CONTINUED:55
+
+
+                              MEGAN
+                ...And we got a good shot of 
+                finding the body.
+
+                              LT. WALKER
+                As long as we locate my man.
+
+  Walker looks at Everett s photo.  Then, MUG SHOT and PAROLE 
+  SHOT of CALVIN BRADLEY beside it.
+
+                                WALKER 
+                  Seventeen years ago Everett s wife 
+                was forced to bury an empty coffin 
+                because we didn t have the evidence 
+                to take down his murderer, Calvin 
+                Bradley.
+                      (then)
+                It s time to bring Everett home and 
+                get this cop killer off the street.
+
+  Off photo of Everett --
+
+                              END OF TEASERNUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     9.
+
+
+                                    ACT ONE
+
+  INT. FBI - WAR ROOM - MORNING66
+
+  BURN IN:  1990 Photos of Walker and Team (Everett, Davidson, 
+  Collins & Jackson).  Photo of LEIGH EVERETT (1990).
+
+  Megan and David.
+
+                              MEGAN
+                Walker s Team back in 1990. 
+                      (then)
+                Everett was married for three 
+                years.  Had one child, a boy.
+
+                              DAVID
+                  According to Walker, he and the 
+                team have remained close to them. 
+
+                              MEGAN
+                  Survivor s guilt.
+
+  As AGENT LIZ WARNER enters with a box of files.
+
+                              MEGAN (CONT D)
+                Hey Liz, thanks for helping us out.
+
+                              LIZ
+                No problem.  I was getting kinda 
+                tired of driving around Compton 
+                breaking down doors anyway. 
+
+                              DAVID
+                Gang detail, huh?
+
+                              LIZ
+                War on drugs knows no end.  Anyway, 
+                these are the files you asked for.
+
+                              MEGAN
+                      (walks over)
+                Calvin Bradley in here?
+
+                              LIZ
+                At the top.  Ran with a black gang 
+                known as the BSF, Bixel Street 
+                Family.  I asked around, he s 
+                actually a bit of a legend.  
+
+                              DAVID 
+                How so?
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     10.
+
+    CONTINUED:66
+
+
+                              LIZ
+                Well, guy clearly is no angel but 
+                word now is that he s a changed 
+                man.  Runs a program helping kids. 
+
+                              MEGAN
+                      (off papers)
+                Looks like he s been clean since 
+                his brother s death. 
+
+                              LIZ
+                You mean since Everett s. 
+
+  EXT. LAPD PRECINCT - PARKING LOT - DAY77
+
+  Walker and Don talk with SGT. RONALD JACKSON (uniform), 
+  DETECTIVE JACK COLLINS (suit) and LT. STEVE DAVIDSON 
+  (uniform) (African-American). 
+
+                              JACKSON
+                Hard to believe we may finally find 
+                Everett after all these years...
+
+                              COLLINS
+                To think he s been layin  out there 
+                rotting this whole time. 
+
+                              DAVIDSON
+                While Calvin Bradley s been walking 
+                around a free man.
+
+                              JACKSON
+                No thanks to the FBI.
+
+                              DON
+                What s that mean?
+
+                              DAVIDSON
+                Let s just say the Feds didn t put 
+                much manpower on it at the time. 
+
+                                WALKER
+                Look, it s been a tough day for all 
+                of us, but we re on the same page 
+                now.  Agent Eppes came out to talk 
+                about the day Everett disappeared.
+
+                              DON
+                Anything you remember might help.
+
+  Cops look at each other, then...
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     11.
+
+    CONTINUED:77
+
+
+                              COLLINS
+                Night before a ten year old girl 
+                had been shot in a drive-by.
+
+                              DAVIDSON
+                Word was a BSF crew had raided a 
+                rival gang s stash house.
+
+                              DON
+                BSF?
+
+                                WALKER
+                That was Bradley s gang at the 
+                time.  Bixel Street Family.
+
+                              JACKSON
+                Anyway, it was the team s day off.
+
+                              COLLINS
+                Commanders wanted everyone on it.  
+                Kid gets killed, politicians wanna 
+                see action, you know how it is.
+
+                                WALKER
+                So I called everyone back in.
+
+                              DAVIDSON
+                Everett had some appointments 
+                didn t get the word  till late.  By 
+                the time he rolled, we were all out 
+                on the street.
+
+                              COLLINS
+                That s the last we ever heard --
+
+  Just as a Volvo, 2001, pulls up.  Everyone but Don recognizes 
+  the car.  Quick glances as --
+
+  LEIGH EVERETT, 40, gets out and walks over to Walker.
+
+                              LEIGH
+                What s going on?  I got your 
+                call...
+                      (then)
+                Did you find him?
+
+                                WALKER
+                      (reassures her)
+                No.  No, not yet.  
+
+                              LEIGH
+                I don t understand.
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     12.
+
+    CONTINUED:77
+
+
+                                WALKER
+                Some kids dug up his badge.
+
+                              LEIGH
+                His badge?  Oh my God. 
+                      (Jackson puts his arm 
+                        around her)
+                What am I going to tell Kevin?  
+
+                              DAVIDSON
+                You let us talk to him.  Okay?  
+
+                              COLLINS
+                C mon.  Let s go get some coffee.  
+
+  They walk off as, Walker turns to Don.
+
+                                WALKER
+                  Everett s boy, four of us have done 
+                our best, tried to be a dad to him.
+                      (looks toward Leigh)
+                You see now why I want Calvin 
+                Bradley brought to justice.
+
+88INT. CHARLIE S OFFICE - DAY 
+
+  Charlie works (AV cart) MILLIE walks in, looks at the map.
+
+                                MILLIE
+                Laser Swath Mapping?  
+
+                              CHARLIE
+                You re familiar with it.
+
+                                MILLIE
+                  I consulted once with the Army 
+                Corps of Engineers... They were 
+                using it to check coastal erosion 
+                along the Gulf...  This looks 
+                local.
+
+                              CHARLIE
+                I m helping Don locate a missing 
+                police officer. 
+
+                                MILLIE
+                  A missing policeman?  I didn t hear 
+                anything about it on the news.
+
+                              CHARLIE
+                This was back in 1990.  Some kids 
+                found his badge in an empty lot.  
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     13.
+
+    CONTINUED:88
+
+
+                                MILLIE
+                And you re trying to find...?
+
+                              CHARLIE
+                His body.
+
+                                MILLIE
+                      (looks back at the map)
+                What an awful thing to happen.
+                      (beat)
+                Speaking of missing people...I was 
+                looking for Amita?
+
+                              CHARLIE
+                She was in her office earlier.  
+
+                                MILLIE
+                She s probably hiding.  I have that 
+                effect on people in my departments.
+
+                              CHARLIE
+                Why would she be hiding from you?
+
+                                MILLIE
+                She resigned as the Chair of the 
+                  Curriculum Committee.  
+
+                              CHARLIE
+                  Resigned?  
+
+                                MILLIE
+                By E-mail.
+
+                              CHARLIE
+                I don t get it.  Chairing the 
+                  committee is an incredible 
+                  opportunity for her.
+
+                                MILLIE
+                Don t tell me, tell her.  By the 
+                way, I left two messages for your 
+                dad.  Any reason he s avoiding me?
+
+                              CHARLIE
+                He s being sued.  
+
+                                MILLIE
+                Sued?
+
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     14.
+
+    CONTINUED:88
+
+
+                              CHARLIE
+                  Apparently a driving range he 
+                worked on has become an eyesore, 
+                  literally.
+
+  Off Millie --
+
+99EXT. HILLTOP - DAY 
+
+  David, Collins and Davidson watch through binoculars.  CALVIN 
+  BRADLEY talks with a couple of younger Bangers (late teens).
+
+                              COLLINS
+                That s him.  That s Calvin Bradley.
+
+                              DAVID 
+                  I thought associating with gang 
+                members was a violation of parole?
+
+                              DAVIDSON 
+                He applied to a Judge for an 
+                  exception.  Claimed he was 
+                   rehabilitating them. 
+
+                              DAVID
+                You guys seem pretty sure he was 
+                the one who killed Officer Everett. 
+
+                              DAVIDSON
+                1990, Bradley s braggin  to anyone 
+                who d listen, he d get revenge on 
+                Everett for killing his brother. 
+
+                              DAVID
+                Words don t always mean action.
+
+                              COLLINS
+                Out there, you learned quickly 
+                there was no such thing as an idle 
+                threat.
+
+                              DAVIDSON
+                I m from this neighborhood.  Half 
+                the gang bangers I busted, I knew.  
+                And they backed up what they said.
+
+  David absorbs.  Collins glances at him, then over at Bradley.
+
+                              COLLINS
+                Tell you what.  They find Everett s 
+                body, this scumbag s goin  down. NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     15.
+
+
+
+1010EXT. VACANT LOT/CRIME SCENE - DAY 
+
+  A dozen SID and ERT dig.  Charlie supervises with Liz.
+
+                              CHARLIE
+                That s all the spots I ve got.
+
+                              LIZ
+                How far down do they have to dig?
+
+                              CHARLIE
+                About four feet or so...
+
+                              LIZ
+                You worked that gang case last 
+                year.  Developed those, what are 
+                they called --
+
+                              CHARLIE
+                --  Shooting chains.   One murder 
+                leads to a retaliation and another;  
+                there s a domino effect.  Sure...
+
+                              LIZ
+                Any chance you could do that here?   
+                See if any other slayings connect 
+                this cop s death to Calvin Bradley.
+
+                              CHARLIE
+                I ll check.
+
+                              LIZ
+                      (beat)
+                Where s your brother?
+
+                              CHARLIE
+                He s been with LAPD... He doesn t 
+                know you re on the case?
+
+                              LIZ
+                Haven t had the chance to tell him.
+
+                              CHARLIE 
+                Well, it ll be a nice surprise. 
+
+                              LIZ
+                You think?  I mean has he said 
+                  something to you?   Cause I haven t 
+                heard from him in a while.
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     15A.
+
+    CONTINUED:1010
+
+
+                              CHARLIE
+                Yeah...  He s been going through 
+                some stuff.
+
+                              LIZ
+                Stuff?
+
+                              CHARLIE
+                Maybe you should talk to him.
+
+                              LIZ
+                Sure.
+
+  Before it goes any further.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     16.
+
+    CONTINUED:1010
+
+
+                              ERT AGENT (O.S.)
+                Agent Warner!  We got something.
+
+  Charlie and Liz hurry over to one of the spots.
+
+                              CHARLIE
+                Eighteen G, I knew it.
+
+  They reach the ditch...Liz looks down where a skeleton lays, 
+  in its tattered LAPD UNIFORM.  The name plate rusted but 
+  still partially visible.  Liz checks it with her Surefire. 
+
+                              LIZ
+                It s him.  It s Everett.
+
+  INT. FBI - WAR ROOM - DAY1111
+
+  Liz reads a file to David.
+
+                              LIZ
+                  Preliminary Coroner s investigation 
+                indicates Everett had a single 
+                gunshot wound to the head.  
+                Fracturing indicates it was 
+                probably at close range.
+
+                              DAVID
+                So this was an execution.
+
+  As Walker and Don enter.  Photos of Everett and Bradley up.
+
+                                WALKER
+                Which is exactly what I ve been 
+                telling you people from the get-go.
+
+  Don sees Liz there.  They exchange a look.
+
+                                WALKER (CONT D)
+                Calvin Bradley somehow got hands on 
+                  Everett...
+                      (turns to 1990 photo)
+                ... Walked him to the construction 
+                site and put one in his dome.  Then 
+                dumped the body in a ditch and 
+                waited for a construction crew to 
+                seal his tomb.
+
+                              LIZ
+                Maybe.  But can you prove it?
+
+                                WALKER
+                I ll get Bradley to do that for me.
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     17.
+
+    CONTINUED:1111
+
+
+                              DON
+                What makes you think he ll give us 
+                  a statement now?
+
+                                WALKER
+                1990, I didn t have a body.  
+                Bradley knew that.  Now I do.   
+
+  INT. COFFEE ROOM - MOMENT LATER1212
+
+  Don is getting a cup of coffee.  Liz enters.
+
+                              LIZ
+                Walker s got Bradley tried and 
+                  convicted.
+
+                              DON
+                Yeah.
+
+  A beat.
+
+                              LIZ
+                So what s going on, everything 
+                okay? 
+
+                              DON
+                I don t want to really talk about 
+                it.
+
+                              LIZ
+                  I understand.  
+                      (then)
+                Maybe talking s not what I had in 
+                mind.
+
+  Don smiles.
+
+                              DON
+                This sexual harassment?
+
+                              LIZ
+                Uh-huh.
+
+  An ND FBI Agent enters...  Without missing a beat.
+
+                              LIZ (CONT D)
+                So I ll have OSS pull any 
+                  additional files on Bradley.
+
+                              DON
+                Yeah, do that.
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     17A.
+
+    CONTINUED:1212
+
+
+  She walks away...  Behind the ND Agent s back, puts her 
+  finger up to her lips.  Shhhh --
+
+  EXT. STREET - DOWN FROM BRADLEY S HOUSE - NIGHT1313
+
+  David, Liz normal clothes (vests underneath) talk with 
+  Walker, Davidson (tac vests over their uniforms) and Collins  
+  (LAPD raid jacket). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     18.
+
+    CONTINUED:1313
+
+
+                              DAVID
+                We ll wait for Bradley to leave. 
+                Pick him up in his driveway.  
+
+                                WALKER
+                And if he takes a shot, bullet hits 
+                an innocent civilian?
+
+                              LIZ
+                You think Bradley s carrying a gun?
+
+                              COLLINS
+                He has killed before.  
+
+                                WALKER
+                      (off David s look)
+                We ll knock and notice, okay?
+
+                              DAVID
+                Fine but FBI s doing the knocking.  
+                You guys handle rear containment.
+
+  They move --
+
+  EXT. CALVIN BRADLEY S HOUSE - CONTINUOUS1414
+
+  David and Liz walk up, hands on holstered guns.
+
+  INTERCUT - with Walker and his guys moving around the back...
+
+  ON DAVID - as he knocks...
+
+                              DAVID
+                Calvin Bradley, FBI...
+
+                                                                        CUT TO:
+
+  BOOM! Davidson kicks the back door -- they rush in.
+
+  ON DAVID - kicks the front door --
+
+  INT. BRADLEY S HOUSE - CONTINUOUS1515
+
+  -- David and Liz race inside...
+
+                              DAVID
+                FBI...
+
+  But they re a step behind Walker.  They find Bradley sitting 
+  at his computer.
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     19.
+
+    CONTINUED:1515
+
+
+                              BRADLEY
+                What the hell s going on?
+
+                                WALKER
+                      (yanks him up)
+                Long time Calvin, get your ass up.
+
+                              BRADLEY
+                You have a warrant?
+
+                              DAVIDSON
+                Yeah, here s our warrant.
+
+  And Davidson face plants Bradley on the desk.
+
+                                WALKER
+                Been a while but somehow I think 
+                you know what this is about.  
+
+  Davidson speed cuffs him, hard -- Bradley wiggles...
+
+                              DAVIDSON
+                Ain t payback a bitch?
+
+1616INT. FBI - INTERROGATION ROOM - NIGHT 
+
+  Don and David interrogate Calvin Bradley.  
+
+                              BRADLEY
+                You see me here with no lawyer  
+                because I have nothing to hide.
+
+                              DON
+                You got that wrong, Calvin.  I 
+                think you have plenty to hide...
+
+                              BRADLEY
+                  Seventeen years, nothing changes.  
+                And you people wonder why we don t 
+                want to help the cops.
+
+  Don then slaps a photo of Everett s body/grave on the table.
+
+                              DAVID
+                We found him.
+
+  Bradley looks up at David and Don.
+
+                              DON
+                You know who that is, right?  
+                That s Officer Everett.
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     20.
+
+    CONTINUED:1616
+
+
+                              DAVID
+                Same LAPD policeman who killed your 
+                brother 17 years ago.
+
+                              DON
+                And disappeared two weeks later.
+
+                              BRADLEY
+                I have nothing to do with this.
+
+                              DAVID
+                We have statements from witnesses 
+                saying you threatened Everett s 
+                life.
+
+                              BRADLEY
+                I was young.  I was a hot head.  I 
+                said some things I didn t mean.
+
+                              DON
+                His car was found less than a block 
+                from where you lived --
+
+                              DAVID
+                ... You ve spent more time in a law 
+                library than we have, Calvin.  So 
+                you know that car gives you 
+                  opportunity and that your brother s 
+                death gives you motive. 
+
+                              BRADLEY
+                My little brother was shot down 
+                like a dog.  Police didn t 
+                  investigate.  You guys didn t care. 
+
+                              DON
+                C mon.  Your brother was a drug 
+                dealer.  He ran with one of the 
+                most violent gangs in the City. 
+
+                              BRADLEY
+                You make it sound like Stephon had 
+                  a choice.  Like any of us did.  
+                      (a beat)
+                Young man had only one choice: to 
+                live or die.
+
+                              DAVID
+                Is that what you told Everett when 
+                you pulled the trigger? 
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     21.
+
+    CONTINUED:1616
+
+
+                              BRADLEY
+                I ve already been to prison for 
+                crimes I committed.  I m not going 
+                back for one I didn t do. 
+
+                               DON
+                Life without parole.  Last time 
+                you ll hear that offer.
+
+                              BRADLEY 
+                You people think my brother got 
+                what he deserved... Well, I think 
+                same might be said for this cop.
+
+  Door starts to open, Walker with a head of steam...Don blocks 
+  his path and pushes him back out --
+
+  INT. FBI - OBSERVATION ROOM - MOMENTS LATER1717
+
+  Don, David with Walker, furious paces back and forth. 
+
+                              DON
+                Hold it...
+
+                              WALKER
+                He wants to desecrate the memory of 
+                one of my men.  Lemme get a piece 
+                of him, I ll get a confession.
+
+                              DON
+                Can t do it.
+
+                                WALKER
+                Take a walk, get dinner, whatever.
+
+                              DON
+                  I understand how you feel, but it s 
+                not gonna happen.
+
+                                WALKER
+                Before Everett disappeared he was 
+                worried about retribution.  He d  
+                heard things on the street.  
+
+                              DAVID
+                And we re running that down.
+
+                                WALKER
+                I ve been running it down for 17 
+                years.  Now the man who killed him 
+                is sitting right here.  If you 
+                don t have the stomach for this.
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     22.
+
+    CONTINUED:1717
+
+
+                              DON
+                We tried to get a statement.  We 
+                didn t.  And without it, we don t 
+                have enough to hold him. 
+
+                                WALKER
+                You re gonna release him? 
+
+                              DON
+                What other choice do we have? 
+
+  Walker looks at them, beat, then turns in disgust and walks 
+  off, passing Megan, who s coming to see Don. 
+
+                              MEGAN
+                Someone isn t happy...
+
+                              DAVID
+                Bradley just called our bluff. 
+
+                              MEGAN
+                It s about to get more interesting.
+                  Ballistics report.  Bullet that 
+                killed Everett came from a .38.
+
+                              DON
+                  A revolver... 
+
+                              MEGAN
+                There s more... Ballistics says the 
+                bullet came from Everett s duty 
+                weapon.  Same gun he used to shoot 
+                Stephon Bradley.
+
+                              DON
+                That would mean -- 
+
+                              DAVID
+                Everett was killed with his own gun.
+
+
+                                END OF ACT ONENUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     23.
+
+
+                                    ACT TWO
+
+  INT. LEIGH EVERETT S HOUSE - LIVING ROOM - NIGHT1818
+
+  BURN IN:  Collins and Davidson (out of Uniform) talk with 
+  KEVIN EVERETT (19).  They ve just finished playing 
+  basketball.  
+
+  PULL BACK TO REVEAL - Megan sits with Everett s widow Leigh 
+  and watches.
+
+                              LEIGH
+                He wouldn t even remember his dad 
+                if it wasn t for those guys.  They 
+                took him to ball games, camping...
+
+                              MEGAN
+                How s he holdin  up?
+
+                              LEIGH
+                Been tough for him to watch me go 
+                through this.  But he s lucky... 
+                      (looks outside)
+                He s got four great surrogate dads.
+
+                              MEGAN
+                Must ve been hard.
+
+                              LEIGH
+                It s been such a long time... and 
+                then again, somehow not really.
+
+                              MEGAN
+                Lt. Walker said your husband had 
+                concerns after shooting Stephon 
+                Bradley.
+
+                              LEIGH
+                That s his way of saying he was 
+                upset.  Case you didn t notice, 
+                 Lt. Walker  doesn t express 
+                himself very well.  Emotionally, I 
+                mean.
+
+  Megan smiles.
+
+                              LEIGH (CONT D)
+                Truth is, the shooting changed my 
+                husband.  He wasn t prepared for 
+                how he felt after killing that kid. 
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     24.
+
+    CONTINUED:1818
+
+
+                              MEGAN
+                Was he depressed? 
+
+                              LEIGH
+                  Depressed... 
+
+                              MEGAN
+                Any trouble sleeping?  Eating?
+
+                              LEIGH
+                What are you asking me?
+
+                              MEGAN
+                Our forensics indicate that your 
+                husband was killed with his own 
+                gun.
+
+                              LEIGH 
+                      (realizing, then)
+                You think he killed himself?
+
+                              MEGAN
+                I don t know enough to think that.  
+                That s why I came to see you...  
+
+  Leigh looks at a photo of her son (present day).
+
+                              LEIGH
+                No.  He wouldn t do that...  Leave 
+                us, leave his son.
+
+                              MEGAN
+                I m sorry to put you through this. 
+                We just need to be sure. 
+
+  Off Leigh --
+
+1919INT. CHARLIE S OFFICE - DAY 
+
+  Charlie and Amita input data.  Box of LAPD files spread out.  
+  A gang map of Los Angeles is on Charlie s laptop (AV cart).
+
+                              AMITA
+                Amazing.  In 1977, fewer than five 
+                hundred people were murdered in 
+                L.A.  By 1985 the number doubled.
+
+                              CHARLIE
+                There must be a causal explanation 
+                for these statistics.  
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     25.
+
+    CONTINUED:1919
+
+
+                              AMITA
+                It was the introduction of mass 
+                drug sales by the gangs.  Fights 
+                over street corners... territories 
+                shifting led to more killings.
+                      (feels his eyes)
+                What?
+
+                              CHARLIE
+                You quit?
+
+                              AMITA
+                What are you talking about?
+
+                              CHARLIE
+                Chair of the Curriculum Committee?  
+                Do you know how huge that is? 
+
+                              AMITA
+                      (shakes her head, then)
+                I can t believe she told you.
+
+                              CHARLIE
+                She assumed I already knew, which -- 
+                I gotta be honest -- should have 
+                been a pretty safe assumption.  Why 
+                didn t you tell me?
+
+                              AMITA
+                  I thought you d be disappointed.  
+
+                              CHARLIE
+                Neither Larry nor I were ever asked 
+                to chair the committee. 
+
+                              AMITA
+                There s a lot of heavy hitters to 
+                deal with.  It can be pretty 
+                  intimidating, maybe not for you --
+
+                              CHARLIE
+                I ve seen you deal with the 
+                faculty, Amita.  You re good.  And 
+                Millie chose you for a reason.
+                      (she looks down)
+                What?
+
+                              AMITA
+                Some of the professors, they talk. 
+                      (off his look)
+                About us.
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     26.
+
+    CONTINUED:1919
+
+
+                              CHARLIE
+                You re kidding me.  Who?
+
+                              AMITA
+                It doesn t matter.  
+
+                              CHARLIE
+                Sure it matters.  You tell me who 
+                and I ll--
+
+                              AMITA
+                What?  Protect me?  You can t and  
+                more importantly, you shouldn t 
+                have to.
+                      (beat)
+                Look, I just don t think I m ready. 
+                Can t we just leave it at that?
+
+  Off Charlie --
+
+  INT. FBI - BULLPEN - DAY2020
+
+  Don, David and Megan.
+
+                              MEGAN
+                  Everett s wife said their marriage 
+                was good, that he loved his kid... 
+
+                              DON
+                What do you think?
+
+                              MEGAN
+                Cop s reaction to a line of duty 
+                  shooting s a pretty tricky thing.
+
+                              DON
+                Tell me about it.
+
+                              MEGAN
+                All I can really say is that  
+                Walker was right about one thing.  
+                Stephon Bradley s shooting was on 
+                  Everett s mind before he died.
+
+  Before they can go any further...Walker charges for them, 
+
+                                WALKER
+                Suicide?  You told Everett s wife 
+                that he killed himself?
+
+                              MEGAN
+                I never said that.
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     27.
+
+    CONTINUED:2020
+
+
+                                WALKER
+                You asked her if he was depressed.
+
+                              MEGAN
+                He was depressed.  
+
+                              WALKER
+                You had no right to speak to her 
+                about that.
+
+                              DON
+                Hold on.  We re gonna talk to 
+                whoever we think needs to be talked 
+                to.  Now I understand how you feel--
+
+                              WALKER
+                You don t understand anything.  You 
+                have no idea what it was like back 
+                then.  It was a war.  Cops died 
+                trying to take back our streets.  
+                One of them was Everett.
+
+                              DAVID
+                Did you know Officer Everett was 
+                killed with his own gun? 
+
+                                WALKER
+                What?
+
+                              DON
+                  Ballistics matched the bullet in 
+                his skull to the same weapon he 
+                used to kill Stephon Bradley.
+
+  Walker takes only seconds to absorb, then defends,
+
+                                WALKER
+                So Calvin Bradley got Everett s 
+                gun, then used it to kill him.  So 
+                what?
+                      (off group)
+                His body was buried.  Remember?  
+                How d that happen?
+
+                              DAVID
+                Like I said, construction crew 
+                could have buried a body and never 
+                even known it.
+
+                              WALKER
+                What?  Are you writing Calvin 
+                Bradley s closing argument?  
+                                (MORE)
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     28.
+
+    CONTINUED:2020
+                                WALKER (CONT'D)
+                I knew Everett.  He wouldn t have 
+                killed himself.
+
+  Charlie walks in...off their looks -- 
+
+                              CHARLIE
+                I ve got something...
+
+  INT. FBI - WAR ROOM - CONTINUOUS2121
+
+  Maps up on the screen.  Don, Walker, David and Megan.
+
+                              CHARLIE
+                The gang case last year...  my 
+                guiding principle was their 
+                  territorial nature.
+                      (then)
+                In my file notes, there were gang 
+                members who spent their life living 
+                in a ten block radius, their turf.
+
+                              DON
+                These guys live a mile from the 
+                beach, never see the ocean. 
+
+  Charlie shows a gang territory map from 1990.
+
+                              CHARLIE
+                  Precisely.  And here is a map of 
+                known gang territories in 1990.
+
+  Dozens of quadrants each a different color.
+
+                              CHARLIE (CONT D)
+                Using the theory of collective 
+                behavior --
+
+                              MEGAN
+                C mon Charlie, help us out...
+
+                              CHARLIE
+                Imagine a colony of ants looking 
+                for food.  They send out scouts...
+
+  AUDIENCE VISION 
+
+                              CHARLIE  (V.O.) (CONT D)
+                The ant wanders around randomly 
+                looking for food...
+
+  An Ant wanders...
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     29.
+
+    CONTINUED:2121
+
+
+                              CHARLIE  (V.O.) (CONT'D)
+                When he finds it, he marks the path 
+                he took as good...
+
+  The path is highlighted in green.
+
+                              CHARLIE  (V.O.) (CONT'D)
+                If the path leads nowhere it s 
+                marked as neutral...
+
+  The path is highlighted in grey.
+
+                              CHARLIE  (V.O.) (CONT'D)
+                And if the scout doesn t return, 
+                the path is marked as bad.  
+
+  The path is highlighted in red.
+
+  RESUME SCENE
+
+                              CHARLIE (CONT D)
+                Same thing with gangs.  Calvin 
+                Bradley was a member of the Bixel 
+                Street Family,
+                      (points)
+                This is the area they controlled in 
+                1990.  
+                      (then)
+                  Everett s body was found here.  In 
+                an area controlled by a gang named 
+                the 18 Street Mexicali.
+
+                                WALKER
+                18 Street Mexicali s and BSF were 
+                rivals.
+
+                              CHARLIE 
+                Correct.  So factoring in 
+                  territorial gang shifts, I couldn t 
+                find a single safe passage --
+
+  Over gang map a series of red lines from BSF area to 18 
+  Street Mexicali.
+
+                              DON
+                -- for Calvin Bradley to have 
+                traveled from his gang s turf to  
+                the rival gang s turf in order to 
+                murder Officer Everett.
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     30.
+
+    CONTINUED:2121
+
+
+                              CHARLIE
+                It d be like a Sunni going for a 
+                ride in a Shiite s neighborhood.
+
+                              DAVID
+                Which means Calvin Bradley probably 
+                wasn t our killer.
+
+  Off Walker --
+
+
+                                END OF ACT TWONUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     31.
+
+
+                                  ACT THREE
+
+  INT. FBI - BULLPEN - DAY2222
+
+  BURN IN:  Charlie s map of the gang territory.  Megan, David 
+  and Liz look at Charlie s results.
+
+                              MEGAN
+                So Calvin Bradley would have had 
+                trouble getting to the crime scene.
+                      (beat)
+                Doesn t make him innocent.
+
+                              DAVID
+                  Charlie s math is about 
+                  probabilities.  If he says it s 
+                  unlikely, it probably is...
+
+                              MEGAN
+                Which takes us back to what? 
+                Suicide? 
+
+                              LIZ
+                What if we just keep following the 
+                  probabilities.
+
+                              DAVID
+                Meaning what?
+
+                              LIZ 
+                If the math says it s doubtful 
+                anyone from a rival gang would have 
+                access to the 18 Street Mexicali s 
+                  territory, that narrows our suspect 
+                list down.
+
+                              MEGAN
+                To someone in the 18 Street 
+                  Mexicali s crew.
+
+                              DAVID
+                I ll get Charlie to start running 
+                names...
+
+2323INT. EPPES HOUSE - DAY 
+
+  Find Alan, 5 iron in hand, whacking away at a golf ball 
+  (wiffle).  There are various door mats all over the floor and 
+  a sea of desk lamps with a net behind them...all set up to 
+  mirror his driving range design.  
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     32.
+
+    CONTINUED:2323
+
+
+  He looks at his blueprints...adjusts a light. 
+
+  Millie knocks and walks in --
+
+                              MILLIE
+                Door was open, hope you don t mind.
+
+                              ALAN
+                No, c mon in.
+
+  Millie looks around.
+
+                                MILLIE
+                Like what you ve done with the 
+                place.  Very mid-century oil rig.
+                      (off Alan s look)
+                Charlie told me about the lawsuit.  
+                  I stopped by to see if you needed a 
+                little moral support.
+
+                              ALAN
+                  I appreciate that, but what I need 
+                is an answer.
+
+                                MILLIE
+                To what?
+
+                              ALAN
+                I ve been going over these plans.  
+                My original calculations are 
+                correct.  The lights shouldn t have 
+                been a problem.
+
+  Millie looks at his blueprints.
+
+                                MILLIE
+                Angles of incidence, reflection, 
+                  saturation and absorption 
+                  coefficients.  Impressive.  Now I 
+                see where Charlie gets his interest 
+                in numbers.
+
+                              ALAN
+                Yeah, well -- there s only one 
+                genius in the family.
+
+  Millie registers Alan s distress.
+
+                                MILLIE
+                I know Charlie s busy helping Don, 
+                but I m available if you re 
+                  interested.
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     33.
+
+    CONTINUED:2323
+
+
+  Alan raises an eyebrow, Millie corrects the impression --
+
+                              MILLIE (CONT D)
+                ...to go over your figures.
+
+2424INT. BAR - DAY 
+
+  Don finds Walker grabbing a drink.
+
+                                WALKER
+                It s happy hour somewhere, right?
+
+                              DON
+                      (to Bartender)
+                Club soda.
+
+                                WALKER
+                Spent all those years trying to pin 
+                this on Calvin Bradley.  To think 
+                all this time, I might have been 
+                looking at the wrong guy.
+
+                              DON
+                Don t give up yet.
+
+                                WALKER
+                You d think I d know things are 
+                never what they seem.
+
+                              DON 
+                You followed your gut.
+
+                                WALKER 
+                It s a new world out there, Eppes.  
+                New way of policing.  Down is up 
+                and up is down. 
+
+                              DON
+                I know what you mean. 
+                      (off Walker s look)
+                Bureau s making me see a shrink. 
+
+                                WALKER
+                  A shrink?
+
+                              DON
+                They think I ve been involved in 
+                too many shootings.
+
+                                WALKER
+                Maybe if there were less bad guys.
+                      (off Don s smile)
+                                (MORE)
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     34.
+
+    CONTINUED:2424
+                                WALKER (CONT'D)
+                Everett didn t kill himself, Eppes.  
+                That wasn t the man I knew.
+
+                              DON
+                So, what do you know about 18 
+                Street Mexicali? 
+
+                              WALKER
+                Well, for one thing, they re not 
+                around anymore.  Back in the day, 
+                they were one of the biggest drug 
+                  suppliers on the west coast.  
+
+                              DON
+                If Everett was killed in their 
+                  territory, someone in 18 Street 
+                Mexicali knew about it.  Maybe even 
+                did it.
+
+                              WALKER 
+                We had a snitch inside, Jimmy 
+                Lopez.  He was hop head, but gave 
+                us pretty decent info. 
+
+                              DON
+                Think you can still find him? 
+
+                                WALKER
+                I m old, Eppes.  But I m not ready 
+                to retire just yet. 
+
+  EXT. CALSCI - DAY2525
+
+  Millie walks, carrying; a long tube, rolled up blueprint 
+  sticking out and a golf club with a cover.  Amita finds her.
+
+                              AMITA
+                Why would you tell Charlie that I 
+                quit the Curriculum Committee?
+
+                              MILLIE
+                  I screwed up.  I just assumed, 
+                given your relationship that you 
+                would ve told him.
+
+                              AMITA
+                That s why I quit -- at least 
+                partly the reason... People assume 
+                things because Charlie and I are 
+                seeing each other.
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     35.
+
+    CONTINUED:2525
+
+
+                                MILLIE
+                Hey, I was wrong.  I admit it.  But 
+                dating in the workplace isn t gonna 
+                be a free ride.  Especially for a 
+                woman.  We ve made strides, but 
+                certain perceptions still exist.
+                      (off Amita)
+                And giving into those perceptions 
+                only perpetuates the stereotype.
+
+                              AMITA 
+                To be honest, I don t know if I m 
+                really ready.  The committee s a 
+                lot to handle.
+
+                                MILLIE
+                They re a pain in the ass, who are 
+                you kidding?  But what if I were to 
+                tell you this isn t just about you? 
+
+                              AMITA
+                What do you mean? 
+
+                                MILLIE
+                  Undergrads see you as the head of a 
+                  Committee that decides what they 
+                study.  How many young women will 
+                believe in themselves, if they see 
+                you believe in yourself.
+
+  Amita nods.  Then, re: golf club. 
+
+                              AMITA
+                      (realizes)
+                Alan s lawsuit.
+
+                                MILLIE
+                He needed some help.  
+
+  Amita smiles slightly.
+
+                              AMITA
+                These Eppes men have a way of 
+                getting us  gals  to help them out.  
+                Don t they?
+
+                                MILLIE
+                They do indeed.NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     36.
+
+
+
+2626INT. TRUCKING COMPANY - DAY 
+
+  Crates loaded on 18 wheelers.  Don and Walker enter past some 
+  loading docks.  Turn a couple of heads.
+
+                              DON
+                Jimmy Lopez.
+
+  Guy points to a corner where a Latino Male, 36, ex-banger 
+  works on a truck.  This is JIMMY LOPEZ.  A beat.  Then,
+
+                                WALKER
+                How you doin , Jimmy?
+
+                              LOPEZ
+                      (then)
+                Lt. Walker?
+
+                                WALKER
+                You got a good memory.
+
+  Lopez looks at Don.  He doesn t know him.
+
+                              DON
+                Don Eppes, FBI.  C mon down --
+
+  Lopez hesitates, then works his way off.
+
+                              LOPEZ
+                What s goin  on?
+
+                                WALKER 
+                Thought we d take a little trip 
+                down memory lane, Jimmy.  
+
+                              LOPEZ
+                Maybe you didn t hear.  I don t 
+                snitch no more.
+
+                                WALKER
+                They found Officer Everett s body.
+
+                              LOPEZ
+                Who?
+
+                                WALKER
+                Officer John Everett.  
+
+                              LOPEZ
+                Name don t ring a bell.  
+
+  Walker pushes Lopez against the truck.
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     37.
+
+    CONTINUED:2626
+
+
+                                WALKER
+                He was found buried in 18 Street 
+                Mexicali territory.  And if his 
+                name doesn t start ringing any 
+                bells, I m gonna start ringing your 
+                bell.
+
+                              LOPEZ
+                I never had nothing to do with 
+                killing no cop.
+
+                                WALKER
+                No way he gets shot in your 
+                  territory and it s not the news of 
+                the decade.
+
+                              DON
+                Statute of limitations doesn t ever 
+                run out for murder.
+
+  Walker gets in his face.
+
+                              LOPEZ 
+                I heard what everyone heard.  The 
+                cop was whacked courtesy of the 
+                BSF.  Payback for some shooting.  
+
+                              DON
+                So, how s he end up in the 18 
+                Street Mexicali s turf? 
+
+                                WALKER
+                A black face wouldn t have lasted 
+                thirty seconds in your  hood. 
+
+                              LOPEZ
+                You can kill a man without ever 
+                pulling the trigger.
+
+                              DON
+                You re saying Bradley could have 
+                hired someone in 18 Street Mexicali 
+                to kill Everett?
+
+                              LOPEZ
+                No offense but when it came to 
+                killing cops, gang-bangers can find 
+                pretty common ground.
+
+2727INT. CHARLIE S OFFICE - DAY 
+
+  Charlie, Amita enters, looks at the board...  
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     38.
+
+    CONTINUED:2727
+
+
+                              CHARLIE
+                There you are.  I stopped by your 
+                office earlier.
+
+                              AMITA
+                You did?
+
+                              CHARLIE
+                I wanted to apologize.
+
+                              AMITA
+                For what?
+
+                              CHARLIE
+                For making you feel like I would be 
+                  disappointed with you... The real 
+                truth is that I thought about 
+                walking away myself once.
+
+                              AMITA
+                You?
+
+                              CHARLIE
+                The first time I had to orally 
+                defend my dissertation, I was 
+                twenty years old...
+
+                              AMITA
+                Charlie Eppes, not confident about 
+                math?
+
+                              CHARLIE
+                The math was fine.  It was the four  
+                old dudes I had to present it to 
+                that were scary.  Very scary.
+
+                              AMITA
+                But you didn t quit.  
+
+                              CHARLIE
+                I was more scared of quitting than 
+                I was of going through with it. 
+                Math was all I knew.  Everything 
+                I d ever worked for had led me to 
+                that moment.  I couldn t walk away.
+
+                              AMITA
+                      (beat)
+                I m gonna do it.  I m gonna chair 
+                that committee.
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     38A.
+
+    CONTINUED:2727
+
+
+                              CHARLIE 
+                You are?  
+
+                              AMITA
+                I may make some mistakes but...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     39.
+
+    CONTINUED:2727
+
+
+                              CHARLIE
+                You ll do great.  And I ll help... 
+                I mean, if you want me to help.  
+                Not that you need my help...
+
+                              AMITA
+                      (smiles)
+                I ll take whatever help I can get.
+
+                              CHARLIE
+                See?  You re just like me.  Don t I 
+                always ask for help?
+
+                              AMITA
+                Millie and I just were talking 
+                about that...
+
+                              CHARLIE
+                Really?
+
+                              AMITA
+                Really.  Speaking of which I see 
+                you re still after that cop killer.
+
+  On the board is Everett s known stops on his last day.  
+  Range, pharmacy, lunch, gym.
+
+                              CHARLIE
+                Liz says he could be a member of a 
+                gang called the 18 Street Mexicali.
+
+                              AMITA
+                But none of the Shooting Chains are 
+                tracking back to a common 
+                  shooter...
+
+  A beat.  Amita studies the board.
+
+                              CHARLIE
+                What are you thinking?
+
+                              AMITA
+                You used collective behavior theory 
+                to define the paths the killer 
+                could have taken.  But that s only 
+                half the story.
+                      (off his look)
+                You re missing a variable.
+
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     40.
+
+    CONTINUED:2727
+
+
+                              CHARLIE
+                      (realizing)
+                The victim.  I need to know what 
+                paths Everett was taking too.
+
+  Off gang map from 1990 --
+
+  INT. FBI - HALLWAY - NIGHT2828
+
+  Don and Walker. 
+
+                              DON
+                  According to the old files, 18 
+                Street Mexicali had two triggermen.   
+                Both were in jail at the time of 
+                  Everett s death. 
+
+                              WALKER
+                It could still be anyone in the 
+                gang. 
+
+  Don sees Charlie in the War Room...
+
+                                WALKER (CONT D)
+                I m hoping your brother s got an 
+                answer.
+
+  Don and Walker move into --
+
+  INT. FBI WAR ROOM - CONTINUOUS2929
+
+  Charlie and Megan.  Don and Walker join them.
+
+                              DON
+                Hey Charlie, tell me you got a name 
+                for us...
+
+                              CHARLIE
+                ...No.  But something else.
+
+                              MEGAN
+                Charlie looked at the timeline of 
+                events for Everett on the day he 
+                was killed.
+
+  Off their looks --
+
+                              CHARLIE
+                And applied Critical Path Analysis.  
+                It s a mathematical way of looking 
+                at the most efficient way to 
+                complete tasks.
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     41.
+
+    CONTINUED:2929
+
+
+  AUDIENCE VISION
+
+                              CHARLIE (V.O.) (CONT'D)
+                Imagine you re cooking a holiday 
+                  dinner...
+
+  A stove filled with pots and pans.  Food and water boil over.  *
+
+                              CHARLIE (V.O.) (CONT D)*
+                If you cook everything at once, *
+                some food will get burnt while *
+                other dishes end up cold.*
+
+  To the side of the stove are dishes of cold food.*
+
+                              CHARLIE (V.O.) (CONT D)*
+                You need to prepare and cook each *
+                part of the meal in an efficient *
+                order and monitor them *
+                    simultaneously...*
+
+  New shot of ham, yams, green beans, mashed potatoes all lined *
+  up.  Very neat.*
+
+                              CHARLIE (V.O.) (CONT D)*
+                In order to serve hot food at the *
+                same time.*
+
+  Final shot, beautiful holiday meal.
+
+  RESUME SCENE
+
+                              CHARLIE (CONT D)
+                Same concept applies to Everett.   *
+                He changed two appointments he made 
+                that day.
+
+                              DON
+                Why s that significant?
+
+  The map points change, now, they are in a line.
+
+                              CHARLIE
+                Because people tend to make 
+                meetings that are close to one 
+                another, schedule things in a 
+                  progressive order when they can.
+
+                              MEGAN
+                The math of convenience.
+                      (then)
+                                (MORE)
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     41A.
+
+    CONTINUED:2929
+                              MEGAN (CONT'D)
+                But his body and his car were found  
+                a few miles apart...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     42.
+
+    CONTINUED:2929
+
+
+                              CHARLIE
+                Meaning either Officer Everett was 
+                killed where he was found and 
+                someone moved his car afterwards...
+
+                                WALKER
+                Or he drove to the Bixel Street 
+                Family turf and was transported to 
+                where we found him some other way.  
+
+                              CHARLIE
+                Making one of those pieces of data, 
+                skewed.  Which is why I ran two 
+                  different analyses.     
+
+  Two identical maps.  Various regions of L.A. are highlighted. 
+
+                              CHARLIE (CONT D)
+                I gave probability scores to the 
+                areas that Everett may have been 
+                headed to.  The first map, assumes 
+                he drove to where his body was 
+                found, 18 Street Mexicali 
+                  territory.
+
+  A blue highlighted region.
+
+                              CHARLIE (CONT'D)
+                ...That makes this Everett s most 
+                likely next destination.
+
+                              DON
+                And if he drove himself to the 
+                Bixel Street Family s turf?
+
+  A different blue highlighted region.
+
+                              CHARLIE
+                Then Everett was most likely headed 
+                to this area. 
+
+  Megan looks at Walker who stares at the second map.  The one 
+  that assumes the location of where the car was found is 
+  correct.
+
+                              MEGAN
+                You see something?
+
+                                WALKER
+                Back in 1990...
+                      (points)
+                                (MORE)
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     43.
+
+    CONTINUED:2929
+                                WALKER (CONT'D)
+                Internal Affairs had their 
+                  headquarters located right there.
+
+                              MEGAN
+                Internal affairs?
+
+                              DON
+                Why would Everett be headed to IA? 
+
+                              MEGAN
+                Well whatever the reason, he never 
+                made it.
+
+
+                              END OF ACT THREENUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     44.
+
+
+                                    ACT FOUR
+
+  INT. FBI - BULLPEN - DAY3030
+
+  BURN IN:  Don and David talk.
+
+                              DAVID
+                If Charlie s right, Everett was 
+                heading to IA and was killed before 
+                he got there.
+
+                              DON
+                No way that s just a coincidence.  
+
+                              DAVID
+                Okay, so why s he going to IA?
+
+                              DON
+                Everett pulled the trigger in the 
+                Stephon Bradley shooting, right?  
+
+                              DAVID
+                But a shooting board called it a 
+                good kill.
+
+  They move into the War Room --
+
+  INT. WAR ROOM - CONTINUOUS3131
+
+  -- where Don and David find Walker, slightly unnerved by the 
+  events with Megan and Liz. 
+
+                              WALKER
+                They did.  Only IA was taking 
+                another look.
+
+                              DON
+                Why?
+
+                              WALKER
+                Because three days before Everett 
+                shot Stephon Bradley he was picked 
+                up by Homicide.  They wanted him 
+                for a series of murders.  
+
+                              LIZ
+                He was taking down rival gangs 
+                stash houses and killing everyone 
+                inside. 
+
+                              WALKER
+                He offered to trade information 
+                against dirty cops.
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     45.
+
+    CONTINUED:3131
+
+
+                              MEGAN
+                Bradley claimed it was cops who 
+                were the ones who were tipping him 
+                off about the stash houses.
+
+                              DON
+                You think Everett was the dirty 
+                cop?
+
+                              DAVID
+                If he was, and Bradley was about to 
+                rat him out, Everett would have 
+                motive to kill him.
+
+  Don considers, then...
+
+                              DON
+                What were the circumstances of 
+                Stephon Bradley s killing?
+
+                              WALKER
+                We got a tip, Bradley had just 
+                pulled a double murder.  My team 
+                found him at his girlfriend s 
+                house.  Everett covered the back, 
+                Bradley tried to bolt...  Everett 
+                shot him. 
+
+                              DON
+                A good kill starting to smell bad.
+
+  Liz looks at where Everett s car was found.
+
+                              LIZ
+                So Everett s headed to Internal 
+                Affairs to confess, he stops in BSF 
+                territory on the way.  Why?
+
+                              MEGAN
+                A cop with a guilty conscience 
+                might wanna come clean to the 
+                brother of the guy he shot before 
+                he went to IA --
+
+                              WALKER
+                      (adding it up)
+                Everett went to see Calvin Bradley.
+
+                              DAVID
+                And walked into the arms of the one 
+                man who wanted to see him dead. NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     46.
+
+
+
+  EXT. LA STREET - DAY3232
+
+  Calvin Bradley walks down the street.  Several kids (12) 
+  around.  Some adults on their porches.  Don and Walker pull 
+  up.  Kids, people turn to look.
+
+                              WALKER
+                You know the drill, on the hood.
+
+                              BRADLEY
+                How many times we going to go 
+                through this?
+
+                              DON
+                We know you saw Everett the day he 
+                  disappeared. 
+
+                              WALKER
+                Wanna prove you re a changed man, 
+                Calvin?  Then how  bout finally 
+                owning up for what you did.
+
+                              BRADLEY
+                I did ten years taking 
+                  responsibility, Lieutenant.  What 
+                about you?
+
+                                WALKER
+                I ve committed no crimes... 
+
+                              BRADLEY
+                No.  You had other people do it for 
+                you.
+
+                              DON
+                What are you talking about?
+
+                              BRADLEY
+                      (stares Don down)
+                You really want to know?  Alright,   
+                Everett did come to see me that 
+                day.  To apologize.  He wanted me 
+                to understand what had gone down 
+                with Stephon.  Only he left my 
+                house alive.
+
+                                WALKER
+                You re a liar.
+
+                              BRADLEY
+                And you ve been fooled.
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     47.
+
+    CONTINUED:3232
+
+
+                              DON
+                What did Everett tell you?
+
+                              BRADLEY
+                Sixteen years I ve been a suspect 
+                and now you want my help. 
+                      (then)
+                Life s funny, huh?
+
+                              DON
+                You wanted someone to look into 
+                your brother s murder.  That s what 
+                we re doing.  
+
+  A beat.
+
+                              BRADLEY 
+                The cops were giving Stephon tips 
+                on the location of Mexican dope 
+                houses.  Stephon ripped them off, 
+                while the cops looked the other 
+                way.  Then they killed him when he 
+                wanted to tell the truth.
+                      (then to Walker)
+                Whatever my brother was, you were 
+                the ones who made him that way.
+
+  INT. EPPES HOUSE - DAY3333
+
+  Same scene as last time, even more lights.  Alan s on the 
+  phone, pacing as Millie walks in, Alan s golf club from 
+  earlier in her hand.
+
+                              ALAN
+                      (on the phone)
+                Look, you can ask but I m not 
+                giving you a deposition.  Certainly 
+                not until I know more facts. 
+                        (beat,listens)
+                If that s your position fine.  You 
+                can talk to my lawyer.
+
+  Alan hangs up, looks to Millie.
+
+                              ALAN (CONT D)
+                Know a good lawyer?
+
+                              MILLIE
+                Several.
+                      (beat)
+                                (MORE)
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     47A.
+
+    CONTINUED:3333
+                                MILLIE (CONT'D)
+                You need to sit down, take a deep 
+                breath, count to ten and tackle 
+                each task one at a time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     48.
+
+    CONTINUED:3333
+
+
+                              ALAN
+                Albert Einstein say that?
+
+                                MILLIE
+                Actually I got it off a bottle of 
+                iced tea but it still applies.
+
+  Alan sits.  She hands him 3-D visualization.  As he reads...
+
+                                MILLIE (CONT D)
+                  I simulated your design on a CAD  
+                program at CalSci.
+
+                              ALAN
+                  I thought that was frowned upon by 
+                certain administrators...
+
+                                MILLIE
+                Okay, so I m busted.  But who s 
+                gonna tell on me?  Me? 
+
+  Alan reads...
+
+                              ALAN
+                If your million dollar computer is 
+                  correct...
+
+                                MILLIE
+                  ...There s no possible way for the 
+                driving range to be as bright as 
+                the litigants claim it is.
+
+                              ALAN
+                The measure of footcandles is off 
+                the chart...
+                      (beat)
+                I know what that means.
+
+                                MILLIE
+                The hue of the polypropylene is 
+                  incorrect. 
+
+                              ALAN
+                They didn t use the synthetic grass 
+                  I specified?
+
+                                MILLIE
+                The Contractor went with a cheaper 
+                material which reflected too much 
+                light.
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     49.
+
+    CONTINUED:3333
+
+
+                              ALAN
+                I m off the hook.
+
+                                MILLIE
+                Yeah.
+                      (beat, re: lights)
+                Don t know about your power bill 
+                though.
+
+  INT. FBI/BULLPEN - DAY3434
+
+  Walker talks with Megan and David.
+
+                              MEGAN
+                So the police were using Stephon 
+                Bradley to take down Mexican drug 
+                gangs?
+
+                              WALKER
+                No way Everett would be part of 
+                that.
+
+                              DAVID
+                So why d Everett go see Bradley s 
+                brother to apologize?  
+
+                              MEGAN
+                Easy.
+
+                              DAVID
+                Just saying how long are we gonna 
+                live in denial?
+
+  A look between David and Walker.
+
+                              MEGAN
+                Look, if what Bradley s saying is 
+                true, then someone had to be 
+                feeding these cops the locations of 
+                the drug houses in the first place, 
+                right? 
+
+                                WALKER
+                      (follows)
+                If we find that source--
+
+                              DAVID
+                Maybe we find a guy who can point a 
+                finger at Everett s killer. 
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     50.
+
+    CONTINUED:3434
+
+
+                              MEGAN
+                      (beat, at the board)
+                Take a look at this.  These are the 
+                gang territories where Calvin 
+                  Bradley s brother ripped off those 
+                drug houses... They re spread out 
+                all over Mexican gang territory.  
+                Except one.
+
+                              DAVID
+                18 Street Mexicali.  
+
+                              MEGAN
+                Same territory where Everett s body 
+                was found.  
+
+                              DAVID
+                Why d they get a free ride?
+
+                                WALKER
+                      (realizes)
+                Because whoever was giving 
+                  information was 18 Street Mexicali.  
+                He wasn t gonna snitch on his own 
+                gang.
+
+                              MEGAN
+                Jimmy Lopez.
+
+  EXT. TRUCKING COMPANY - NIGHT3535
+
+  Suburbans pull up, David, Walker and Liz get out.
+
+                              WALKER
+                Where s Jimmy Lopez?
+
+                              MANAGER
+                Wish you could tell me.  Took off, 
+                haven t seen him.
+
+                              DAVID
+                Where s his rig?
+
+                              MANAGER
+                Around the corner.
+
+  David, Walker and Liz move --
+
+  EXT. LOADING DOCK - CONTINUOUS3636
+
+  They look around at a quiet loading station.  A lone 18-
+  wheeler sits idle.  Cab light on.
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     51.
+
+    CONTINUED:3636
+
+
+                              DAVID
+                Gotta be his truck.
+
+  Walker moves up on the right.  David and Liz take the 
+  opposite side.  They reach the front at the same time.
+
+                              LIZ
+                Jimmy Lopez, FBI!
+
+  Liz swings the door open as David, jumps up on the step to 
+  the cab, peers inside...no Lopez.
+
+  David grabs a small gear bag, looks inside.
+
+                              DAVID
+                His stuff s here. 
+
+  David hops down, looks at Walker and Liz.
+
+                              LIZ
+                Manager said Lopez went to unload 
+                his truck, no one s seen him since.
+
+  Walker looks at the truck.  Then, starts to move towards the 
+  back.  David and Liz are right with him.
+
+  They open the door and find Lopez, laying on the floor.  Belt 
+  wrapped around his arm, hypodermic next to it.
+
+  David leans over and feels for a pulse he knows isn t there.
+
+                                WALKER
+                Lopez was keeping a secret from me 
+                for seventeen years.
+
+                              DAVID
+                Looks like it s gonna stay that 
+                way.
+
+  Off Lopez s dead body --
+
+
+                              END OF ACT FOURNUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     52.
+
+
+                                    ACT FIVE
+
+  INT. WAR ROOM - DAY3737
+
+  BURN IN: Don, Megan, Liz and David discuss Lopez.  Morgue 
+  photo of dead Lopez on the plasma. 
+
+                              LIZ
+                      (reads file)
+                I don t understand, Lopez was clean 
+                for years. 
+
+                              MEGAN
+                Maybe the pressure of being 
+                  questioned by you guys pushed him 
+                over the edge...
+
+  Walker examines photos.  CU of Lopez s arm.
+
+                                WALKER
+                Or someone else did.  The tip of 
+                the needle s broken off in his arm. 
+
+                              DON
+                He fought back.
+
+                              DAVID
+                      (reads report)
+                  Toxicology report shows a mixture 
+                of heroin, strychnine, and powdered 
+                milk. 
+
+                              LIZ
+                Nice little cocktail.
+
+  David continues to stare at the report.
+
+                              MEGAN
+                What?  
+
+                              DAVID
+                I was just thinking, drug dealers 
+                tend to be consistent in the way 
+                they cut their drugs.
+
+                              WALKER
+                You re right.  It s a signature -- 
+                a brand.  Helps them sell it on the 
+                street.
+
+                              DAVID
+                So maybe we give the tox report on 
+                Lopez s O.D. to Charlie...
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     53.
+
+    CONTINUED:3737
+
+
+                              MEGAN
+                He can compare the drugs that 
+                killed Lopez to other O.D. s in the 
+                  Coroner s database.
+
+                              DON
+                Trace the dealer, we find our 
+                killer.  It s worth a shot.
+
+3838INT. CHARLIE S OFFICE - DAY 
+
+  Amita comes in and finds Charlie.  Looks at stack of files.
+
+                              AMITA
+                  Statistical Identification?
+
+                              CHARLIE
+                I m looking at tox records of 
+                recent O.D. s, trying to match a 
+                specific drug combo to a dealer.
+
+                              AMITA
+                      (looks at file)
+                  Strychnine, that s poison...
+
+                              CHARLIE
+                Trace dose, not enough to kill. 
+                Dealers use it in heroin mixes.
+
+                              AMITA
+                Poison plus heroin.  
+
+                              CHARLIE
+                  A witness who could have identified 
+                our cop killer O.D. d.  I m trying 
+                to trace the drug supply. 
+                      (then)
+                How s it going on the committee?
+
+                              AMITA
+                The other faculty are challenging, 
+                but I m up to the job.
+
+                              CHARLIE
+                I never doubted it.  So what are 
+                you working on?
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     54.
+
+    CONTINUED:3838
+
+
+                              AMITA
+                Millie has me using some cluster 
+                analysis with autocorrelation 
+                  techniques to analyze the most 
+                  effective undergrad classes over 
+                the past two years.
+
+                              CHARLIE
+                Even just going through the past 
+                two semesters would be a lot of 
+                work...
+
+  Charlie stops short.  A thought registering...
+
+                              AMITA
+                Yeah well Millie says you can learn  
+                as much from the old curriculum as 
+                the current...
+                      (off Charlie s look)
+                What is it?
+
+                              CHARLIE
+                Look, can we talk later?  I have to 
+                go.
+
+  INT. FBI - WAR ROOM - DAY3939
+
+  Don, Megan, David and Walker, Charlie...
+
+                              CHARLIE
+                I ran the drugs in Jimmy Lopez s 
+                system against all recent OD s in 
+                the Coroner s office.
+
+                              DON
+                And...
+
+                              CHARLIE
+                There were no matches to current 
+                dealers.
+
+                              WALKER
+                So it s a dead end.
+
+  But Charlie continues.
+
+                              CHARLIE 
+                Which is why I re-ran every 
+                overdose in the Coroner s 
+                  database... including old overdose 
+                cases...
+                      (presses button)
+                                (MORE)
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     55.
+
+    CONTINUED:3939
+                              CHARLIE  (CONT'D)
+                And I got a hit, actually several 
+                hits.
+
+  Three morgue photos of bodies pop up on the screen.  Herbert 
+  Willis, Robert Cabrera, Miguel Garcia.
+
+                              CHARLIE (CONT D)
+                Three overdoses going back a year 
+                and a half, all tracing to a drug 
+                dealer named Hector Osorio.
+
+  Then a mug shot of HECTOR OSORIO.  Megan types into her 
+  computer...
+
+                              MEGAN
+                      (reads)
+                Osorio was busted by Lt. Davidson s 
+                narco team.  Large quantity of 
+                drugs were seized.
+
+                              DON
+                They d be stored in the evidence 
+                locker at the station, right?
+
+                              DAVID
+                So who d have access to the drugs?
+
+  On Walker, realizing the implication --
+
+                              WALKER
+                The lead Detective of the team.
+
+  EXT. POLICE STATION - DAY4040
+
+  Collins  at his trunk (badge hangs from suit pocket).  Turns 
+  and sees Don and Walker.
+
+                              COLLINS
+                Hey Walker, what s up?  Any more 
+                news?
+
+  Walker throws a left, catches Collins on the chin.  Walker 
+  needs to be restrained.
+
+                              COLLINS (CONT'D)
+                What the hell s wrong with you?
+
+                              DON
+                Get up.  You re under arrest for 
+                the murder of Officer John Everett. 
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     56.
+
+    CONTINUED:4040
+
+
+                              COLLINS
+                What are you talking about?
+
+                                WALKER
+                They traced the drugs in Lopez s 
+                system to a bust your team made 
+                last year.
+
+                              COLLINS
+                So what? 
+
+                                WALKER
+                So you and Davidson used the drugs 
+                from that bust to kill Lopez.
+
+                              COLLINS
+                You got nothing.
+
+                              DON
+                We got Davidson and he s talking.
+
+                                WALKER
+                You ve eaten at Everett s house.  
+                Played with his son.  
+
+                              COLLINS
+                I didn t do jack.
+
+                              DON
+                Put your hands behind your back.
+
+  Don takes Collins arm and puts it behind his back and removes 
+  his gun.
+
+                                WALKER
+                You re an animal.
+
+                              COLLINS
+                      (eyes on Walker)
+                Animal?  You were there.  You 
+                  remember.  We d arrest them, and 
+                the courts would cut em  loose.
+                      (beat)
+                We never took a dime.
+
+
+
+
+
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     57.
+
+    CONTINUED:4040
+
+
+                              DON
+                You re a Police Officer and you 
+                turned Stephon Bradley into a 
+                contract killer.
+
+                              COLLINS
+                I made the streets safer.  Not one 
+                drug dealer Bradley whacked ever 
+                killed another kid with junk.
+
+                                WALKER
+                -- And when he was about to rat you 
+                out, you murdered Stephon Bradley.
+
+                              COLLINS
+                He had it coming...
+
+                                WALKER
+                What about Everett?  He didn t even 
+                know, did he?  You set him up to 
+                take the shot.
+
+                              COLLINS
+                      (coming clean)
+                He was gonna go to IA on us...  So 
+                we followed him the day he met 
+                Calvin Bradley.  We drove around 
+                for hours... But Everett just 
+                wouldn t listen to reason.
+
+                                WALKER
+                Get this piece a crap away from me. 
+
+                              COLLINS 
+                We didn t have any other choice!
+
+  Walker looks at Collins, then rips the badge off his coat --
+
+  INT. EPPES HOUSE - NIGHT4141
+
+  Charlie walks in, finds Alan putting lights back in place.
+
+                              CHARLIE
+                Hey Dad.
+
+                              ALAN
+                Hey Charlie.  What, no plans with 
+                Amita tonight?
+
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     58.
+
+    CONTINUED:4141
+
+
+                              CHARLIE
+                She s a little busy chairing this 
+                new committee. 
+                      (then)
+                Heard Millie found a magic bullet.
+
+                              ALAN
+                Yeah, I ve been dropped from the 
+                lawsuit.  Contractor s on the hot 
+                seat now.
+
+                              CHARLIE
+                I m glad Millie could help.
+                      (then)
+                You know if you needed me Dad, I d 
+                be there for you.
+
+                              ALAN
+                I know.  
+
+  Charlie starts to exit.
+
+                              ALAN (CONT'D)
+                Oh, by the way, when I hooked up 
+                all these lights I may have blown a 
+                circuit or two.
+
+                              CHARLIE 
+                Circuit or two, where?
+
+                              ALAN
+                Hope you had things backed up on 
+                that laptop in the garage...
+                      (off Charlie s panic)
+                Just kidding.
+
+  INT. RESTAURANT - NIGHT4242
+
+  Don in a booth, Liz slides in across.
+
+                              LIZ
+                So, what s going on?  I m worried 
+                about you.
+
+  He says nothing.
+
+                              LIZ (CONT D)
+                I mean, did I do something to...
+
+                              DON
+                No, no.  It s not about you.
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     59.
+
+    CONTINUED:4242
+
+
+                              LIZ
+                Okay.  But you just can t get me 
+                going and disappear.
+
+                              DON
+                      (reluctant)
+                I don t know.  I m a little off my 
+                game.  Been second guessing some of 
+                my moves.
+
+                              LIZ
+                      (teasing)
+                Mid life crisis, huh?
+
+  Hitting closer to home then she realizes.
+
+                              DON
+                Funny.
+
+                              LIZ
+                      (looks around)
+                Anyone see you come in here?
+
+                              DON
+                Hey, I m the one who taught you 
+                  surveillance.  How  bout you?
+
+                              LIZ
+                No way.  Learned from the best.
+
+                              DON
+                Kiss up.
+
+                              LIZ
+                Uh-huh.
+
+  Liz reaches up and pulls the curtain shut --
+
+  EXT. GRAVEYARD - NEXT MORNING4343
+
+  Lt. Gary Walker, full Uniform stands at Everett s grave: 
+  (John Kevin Everett August 15 1967 - May 7 1990).  Bottle of 
+  scotch in his hand.  Don approaches Walker --
+
+                              DON
+                They say you shouldn t drink alone.
+
+                              WALKER
+                Got plenty in the bottle.
+
+
+
+
+
+                                                                          (CONTINUED)NUMB3RS  315/52 "End of Watch" SALMON Rev  01/15/07     60.
+
+    CONTINUED:4343
+
+
+                              DON
+                      (takes a swig)
+                Good stuff.
+
+                                WALKER
+                Three hundred a bottle, Everett 
+                would appreciate it.
+
+                              DON
+                      (then)
+                There s nothing you could have 
+                done.  We both know that.
+
+                                WALKER
+                Then we re both full of crap.
+                      (drinks)
+                  Seventeen years, the whole time it 
+                was right there under my nose.  And 
+                I just couldn t see it.
+
+                              DON
+                Doesn t take away what you ve done, 
+                the arrests you made.
+
+  Walker half smiles.  Thanks.
+
+                                WALKER
+                He was a funny kid.   Always had 
+                this goofy grin, cranking up 
+                  Springsteen on this little red 
+                radio.
+
+  Walker hands Don the bottle, swigs and hands the bottle back.
+
+                              DON
+                You told me once that at the end of 
+                the day, you go home safe, it s all 
+                you can ask.
+
+                                WALKER
+                That s right Eppes...  You walk 
+                away, it all works out.
+
+  Don nods as Walker pours a shot for Officer Everett.  The two 
+  men turn and walk away to the swell of  Glory Days. 
+
+
+                                    THE END

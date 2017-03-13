@@ -1,0 +1,3390 @@
+notes:
+
+To pop everything into place...
+
+use Courier 10 (or 10 characters per inch)
+
+set top margin at 0.4", bottom margin at 0.4" (or minimums)
+left margin at 1", right margin at .25 (or minimum)
+   (I had to tell the program I was using legal paper)
+
+page breaks in hard copy indicated by ---page break---
+
+regular tabs, hard returns and right flushes are used 
+to position things to look as much like original as possible
+
+sometimes the formatting changes slightly (as in the numbers at
+the end of the lines), but I'm going to keep consistent because
+it's easier
+
+logo on front page will be noted when used but not included here
+
+as this may be sent in .txt, originally underlined words will 
+look like   _this_
+
+I don't know what the (X) means; maybe it means the same thing as
+the "*" in the other scripts
+
+
+Notes: 
+
+Cover:  "Just Say Noah", Written by Brad Buckner & Eugenie Ross-
+Leming [and] Directed by David Jackson are all in large bolt
+print. The remainder of the text is in Courier 10 (10 characters
+per inch)
+
+Typos noted:
+
+"alright" misspelled frequently; should be "all right"
+
+                     graphic (see script.bmp)
+
+                         "Just Say Noah"
+
+                          EPISODE FIVE
+
+                          Prod. #457405
+
+                           Written by
+
+                          Brad Buckner
+
+                      Eugenie Ross-Leming
+
+                           Directed by
+
+                          David Jackson
+
+
+
+                                          _Production Draft_
+                                          August 14, 1995
+                                          Blue Rev    8/16/95
+                                          FULL PINK   8/18/95
+                       ---page break---
+                         _LOIS & CLARK_
+
+                        "_Just Say Noah_"
+
+                       FULL PINK 8/18/95
+
+                             _CAST_
+
+
+CLARK KENT/SUPERMAN
+
+LOIS LANE
+
+JIMMY OLSEN
+
+PERRY WHITE
+
+MARTHA KENT
+
+JONATHAN KENT
+___________________________________________________________
+
+STAR
+
+LARRY SMILEY
+
+MICHELLE SITKOWITZ
+
+ARNOLD SITKOWITZ
+
+JEREMY
+
+KATHY
+
+BETTY
+
+BRIAN
+
+NUN
+
+PETE HANSEN
+
+*
+
+*
+
+CASSANDRA SMILEY
+                       ---page break---
+                         _LOIS & CLARK_
+
+                        "_Just Say Noah_"
+
+                       FULL PINK 8/18/95
+
+                          _LOCATIONS_
+
+
+_INTERIORS_:                              _EXTERIORS_:
+
+Daily Planet                              Daily Planet Street
+   Newsroom
+   Perry's Office                         Sidewalk Cafe
+
+Lois's Apartment                          Movie Theatre
+   Hallway
+   Living Room                            Smiley Institute
+                                             Campground
+Clark's Apartment                            Warehouse
+                                             Rooftop
+Lois' Car  *                                 Cabin
+                                             Entrance Gate  *
+Cab
+
+Smiley Institute
+   Reception Room
+   Anteroom
+   Warehouse
+   Cabin
+                       ---page break---
+                         _LOIS & CLARK_
+
+                        "_Just Say Noah_"
+
+                       FULL PINK 8/18/95
+
+                         _CHRONOLOGY_
+
+
+                 SC.   1        NIGHT 1
+
+                 SC.   2 - 8    DAY 2
+
+                 SC.   9        NIGHT 2
+
+                 SC.  10 - 27   DAY 3
+
+                 SC.  28 - 34   NIGHT 3
+
+                 SC.  25 - 36   DAY 4
+
+                 SC.  37 - 72   NIGHT 4
+                       ---page break---
+                         _LOIS & CLARK_
+
+                 _The New Adventures of Superman_
+
+                        "Just Say Noah"
+
+                             TEASE
+
+    FADE IN:
+
+ 1  EXT. METROPOLIS MOVIE THEATRE - NIGHT #1                     1   
+
+    LOIS comes out of a door on the right side of the ticket 
+    box.  She heads for a trash can on the sidewalk to dump her
+    popcorn.  CLARK appears from the left hand door and heads 
+    for the same place.  As they meet:
+
+                                    LOIS
+                   What are you doing here?
+
+                                    CLARK
+                   Seeing a movie.
+
+                                    LOIS
+                   Because it's oddly coincidental 
+                   that of all the movies playing in 
+                   all the movie theatres we end up at 
+                   the same one.  At the same time.
+
+                                    CLARK
+                   Maybe it shows we have the same
+                   tastes.
+
+    She starts walking briskly down the street.
+
+                                    LOIS
+                   Except I walked out.
+
+                                    CLARK
+                        (indicates himself)
+                   Yo.
+
+                                    LOIS
+                   Well _I_ walked out because the 
+                   plot was just warmed-over 'Bambi' 
+                   without the political sub text.  
+                   You?
+
+                                    CLARK
+                   I fell asleep!  What difference
+                   does it make why I walked out?!
+
+                                    LOIS
+                   Because it shows how we look at the
+                   same thing differently!
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95          2.
+
+
+ 1  CONTINUED:                                                   1   
+
+                                    CLARK
+                   I think we're completely in synch!
+
+                                    LOIS
+                   Yeah, we're so 'in synch' that when 
+                   you broke up with me, for 'my own 
+                   good,' you figured 'Why bother 
+                   talking to Lois about this 
+                   life-altering decision, she 
+                   probably knows it's best because 
+                   we're so _in_ _synch_!!  We're 
+                   about as 'in synch' as the English 
+                   in a Japanese horror film.
+
+                                    CLARK
+                   Lois, I was wrong and I admit it.
+                   C'mon, you can't stay mad...
+
+                                    LOIS
+                   Yes I can.  You can fly, I can stay
+                   mad.  It's a gift.
+
+    They've reached the stairs to Lois' building, out of which 
+    comes a couple in their 30's, MICHELLE and ARNOLD SITKOWITZ,
+    holding hands, laughing and chatting.
+
+                                    MICHELLE
+                   Hi, Lois.
+
+                                    LOIS
+                   Michelle.  Clark, meet Michelle and
+                   Arnold Sitkowitz, my neighbors.
+
+                                    MICHELLE
+                   The 'Clark' I keep hearing about.              (X)
+                   May you two be as happy as Arnold              (X)
+                   and me.
+
+                                    ARNOLD
+                        (gazing warmly at her)
+                   Ten years and never a cross word.
+
+    Suddenly they're kissing, completely losing track of Lois 
+    and Clark.  Lois and Clark stare, wait for them to stop, 
+    they don't.  Clark glances at his watch.
+
+                                    LOIS
+                   It's... getting late.
+
+                                    CLARK
+                   Yeah.
+
+    They look at each other.  Kiss?  Shake hands?  Where are we?
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95      3.    
+
+
+ 1  CONTINUED:  2                                                1   
+
+                                    LOIS
+                   Well.  See you tomorrow.
+
+    He smiles, nods, a bit sad, passes Arnold and Michelle, 
+    still kissing.
+
+                                    CLARK
+                   Nice meeting you.
+
+    And he's gone.  Lois glances over at Arnold and Michelle.
+
+                                    LOIS
+                   Ten _years_?
+
+    She goes inside.  A beat, then:
+
+                                    VOICE (O.S.)
+                        (echo; with import)
+                   Arnold and Michelle Sitkowitz....
+
+    Arnold and Michelle dazedly stop kissing, look around for 
+    the voice.
+
+                                    ARNOLD
+                   Where'd that come from?
+
+    A potted bush near the stairs bursts into flames.
+
+                                    MICHELLE
+                   Look, Arnold, a burning bush.
+
+                                    VOICE (V.0.)
+                   Do not be afraid, for you have been
+                   chosen.
+
+                                    ARNOLD
+                   Chosen for what?
+
+    Dense SMOKE pours from the bush as Michelle and Arnold reel 
+    and cough.  A cab pulls up with an evil, wizened Driver, and
+    two Thugs in gas masks jump out and wrestle a weakened        (X)
+    Arnold and Michelle into the cab.  It SCREECHES off, and
+
+                                                      BLACK.
+                           _END OF TEASE_
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95      4.    
+
+                             _ACT ONE_
+
+    FADE IN:
+
+
+ 2  INT. LOIS'S APARTMENT - ON DOOR - MORNING - DAY #2           2   
+
+    Lois opens her door en route to work, nearly running into 
+    a Cop heading down the hall.  Puzzled, Lois trails after him  (X)
+    and comes upon STAR.  The Cop continues on to an open 
+    doorway to speak to a distraught Woman.
+
+                                    STAR
+                   You _do_ have an alibi for where
+                   you were last night.
+
+                                    LOIS
+                   Alibi?  Why do I need an alibi?
+
+                                    STAR
+                   That lady with the cop?  Michelle 
+                   Sitkowitz's sister, Louise.  She 
+                   lives cross town and the
+                   Sitkowitz's were supposed to be at 
+                   her place for poker last night.  
+                   They play poker every Thursday...
+
+                                    LOIS
+                        (amused)
+                   Does anything happen in this 
+                   building you _don't_ find out 
+                   about?
+
+                                    STAR
+                   No.  Anyway, Arnold and Michelle
+                   _never_ _made_ _it_.
+
+                                    LOIS
+                   So?  Maybe they did something else
+                   last night.
+
+                                    STAR
+                   Michelle and Louise are very close.
+                   Michelle woulda called.  Anyway, 
+                   Louise got worried, so she came 
+                   over _here_ late last night.  The 
+                   Sitkowitz's never came home.
+
+                                    LOIS
+                        (now concerned)
+                   What?
+
+                                    STAR
+                   That's right.  Vanished.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95      5.    
+
+
+ 2  CONTINUED:                                                   2   
+
+                                    LOIS
+                   Is there... anyone who'd wanna                 (X)
+                   hurt them?
+
+                                    STAR
+                   They both teach horticulture.
+                   Who'd be angry with 'em?  Plants?              (X)
+
+                                    LOIS
+                   I don't believe this!  They're the             (X)
+                   nicest people in the world.
+
+                                    STAR
+                   Happiest couple I ever saw, except             (X)
+                   for you and Clark.
+                        (off Lois' look)
+                   From time to time.                             (X)
+
+                                    LOIS
+                        (starting toward Woman)
+                   Well, I hope Louise doesn't mind               (X)
+                   my butting in...
+
+                                    STAR
+                   What can _you_ do?                             (X)
+
+                                    LOIS
+                   I'm a reporter!  I can make some               (X)
+                   noise about this.  People                      (X)
+                   disappear in this city all the                 (X)
+                   time and no one seems to care.                 (X)
+                   That's not gonna happen to Arnold              (X)
+                   and Michelle.                                  (X)
+
+    She marches down the hall, we...
+
+                                                      CUT TO:
+
+ 3  INT. CLARK'S APARTMENT - MORNING                             3   
+
+    MARTHA and JONATHAN KENT are in town.  She's unpacking 
+    goodies from home.  Clark's tying his tie.
+
+                                    MARTHA
+                   I unpacked some brownies for now
+                   and I'll freeze the rest.  Oh and              (X)
+                   my homemade applesauce is in the
+                   fridge, too.
+
+                                    CLARK
+                   Mom, every time you guys pass 
+                   through town, you bring me enough 
+                   food for the winter.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95      6.    
+
+
+ 3  CONTINUED:                                                   3   
+
+                                    MARTHA
+                   It's what we do, Honey.  Take care 
+                   of our son with his favorite foods, 
+                   good advice, and unconditional 
+                   support.  No big deal.
+
+                                    CLARK
+                   I wish the rest of the world worked 
+                   that way.  A guy makes one, 
+                   admittedly big, mistake, and 
+                   suddenly I'm pond scum.  Bam!  The 
+                   door slams in my face and the 
+                   Supreme Court isn't hearing any 
+                   more appeals.
+
+                                    JONATHAN
+                   Trouble with Lois, huh?
+
+                                    CLARK
+                   Remember that great idea I had 
+                   about breaking up with Lois?  
+                   'Cause being close to me put her at 
+                   risk?
+
+                                    JONATHAN
+                   Yeah, we were afraid that wouldn't
+                   sit too well.
+
+                                    MARTHA
+                   You said you'd tell her you were
+                   wrong and everything would be fine.
+
+                                    CLARK
+                   Yeah, well everything's not fine!  
+                   We're hardly speaking!  Don't you
+                   think she's making a mountain out 
+                   of a molehill?
+                        (off their uncomfortable
+                         silence)
+                   Folks?
+
+                                    MARTHA
+                   Frankly, I have to go with Lois on
+                   this one, Clark.  Jonathan?
+
+                                    CLARK
+                   Dad?
+
+                                    JONATHAN
+                   I have to go with your mother.
+
+                                    CLARK
+                   This isn't how it works.  You're               (X)
+                   my parents, you side with me.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95      7.    
+
+
+ 3  CONTINUED:  2                                                3   
+
+                                    MARTHA
+                   We _are_ on your side in the big 
+                   picture.  We want you to be happy 
+                   and Lois makes you happy.  Unless 
+                   you make her unhappy.  Then she 
+                   makes you unhappy.  And that makes 
+                   us unhappy.
+
+                                    JONATHAN
+                   Son, love and marriage are a 
+                   partnership.  Both people are equal 
+                   in the partnership.  Bottom line, 
+                   they make their decisions together.
+
+                                    CLARK
+                   So you're saying I should go 
+                   crawling back on my hands and 
+                   knees.
+
+                                    MARTHA
+                   No, sweetheart.  Fly back.  It's
+                   faster.
+
+                                                      CUT TO:
+
+
+ 4  INT. DAILY PLANET - PERRY WHITE'S OFFICE - DAY               4   
+
+    PERRY is reading copy, while keeping one eye on some 
+    disaster playing silently on TV in b.g. Lois enters.
+
+                                    LOIS
+                   Chief, I really do want to devote 
+                   some time to the Sitkowitz 
+                   disappearance...
+
+                                    PERRY
+                        (still reading)
+                   So you said.  Lois, I'm sure your 
+                   neighbors are lovely people, but 
+                   this isn't exactly hard news.
+
+                                    LOIS
+                        (glancing at paper)
+                   I think it is!  Would it surprise 
+                   you to know that of the five 
+                   hundred thirty-one missing persons 
+                   last year, a fairly large 
+                   percentage were married couples?  
+                   Not lost children, not ransom 
+                   victims, but married couples.  
+                   What's _happening_ to them?
+
+                                                      (CONTINUED)
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95      8.    
+
+
+ 4  CONTINUED:                                                   4   
+
+                                    PERRY
+                   You're reaching, Lois.
+                        (glancing at TV)
+                   Sshh. My man, Larry Smiley.
+
+    He uses the remote to raise volume. On TV is a back-lit
+    couch with three people in silhouette.
+
+                      LOIS                        ANNOUNCER (V.0.)
+             Larry Smiley?                ...And now, the
+             Isn't he the guy             world's foremost
+             who runs that                expert on what it
+             place... The                 takes to make
+             Institute of Love            that relationship
+             and Dependence?              work... Larry
+                                          Smiley!
+
+    APPLAUSE from audience, MUSIC as light comes up on a CLOSE
+    UP of LARRY SMILEY, 401's, energetic, jock-like, in baseball
+    cap, seated beneath a portrait of CASSANDRA SMILEY, 60's.
+
+                                    PERRY
+                   Commitment.  Love and Commitment.
+                   Man's a visionary.  Alice and I                (X)
+                   went to his retreat, and it sure               (X)
+                   opened our eyes.                               (X)
+
+
+ 5  INTERCUT TV SCREEN                                           5   
+
+                                    SMILEY
+                   Just by using the simple steps
+                   I learned at the knee of my beloved
+                   Mama...
+                        (indicates portrait)
+                   Who made her marriage a true                   (X)
+                   romance.  But don't take my word
+                   for it!  Talk to folks like my
+                   guests here to get the straight
+                   poop.
+
+    SHOT has widened to include Larry's guests, Michelle and
+    Arnold Sitkowitz.
+
+                                    LOIS
+                        (stunned)
+                   That's them!  Michelle and Arnold!             (X)
+                   She told me last month she taped               (X)
+                   something I didn't know it was                 (X)
+                   this...
+
+                                    MICHELLE
+                   Larry, Arnold and I always thought             (X)
+                   we had the perfect marriage...                 (X)
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95      9.    
+
+
+5   CONTINUED:                                                   5   
+
+                                    ARNOLD
+                   Ten years and never a cross word.              (X)
+
+                                    MICHELLE
+                   But thanks to your lessons of                  (X)
+                   sharing and unity we now are                   (X)
+                   unified in our sharing.
+
+                                    SMILEY
+                   And you joined the team and scored
+                   as winners in the Love and                     (X)
+                   Commitment All Stars.
+
+6   THE ROOM                                                     6   
+
+                                    LOIS
+                   They sounded like they really                  (X)
+                   believe in this guy.
+
+                                    PERRY
+                        (snapping off TV)
+                   Without Larry, my marriage woulda
+                   been a shut-out, but we're headed
+                   into extra innings.
+
+                                    CLARK
+                   Morning, Chief
+                        (sensing the coolness)
+                   Lois. Listen, I can come back...
+
+                                    PERRY
+                   No, no... I've been meaning to talk
+                   to you two.
+                        (with import)
+                   'Negative thoughts breed negative
+                   results.
+                        (off their blank looks)
+                   Larry Smiley's Play book on
+                   Marriage, third chapter.  I can't
+                   help noticing the chill between you
+                   two, and believe me, you need a
+                   friendly ear to bend, I'm it.  But
+                   just don't let whatever it is hurt
+                   your work.
+
+                                    LOIS
+                   Chief, I think Clark and I are
+                   professional enough to behave, uh,
+                   professionally.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     10.    
+
+
+ 6  CONTINUED:                                                   6   
+
+                                    PERRY
+                   Good, because partners have to know 
+                   they can count on each other, trust 
+                   each other...
+
+    Clark is HEARING a call for help.
+
+                                    CLARK
+                        (an appeal to Lois)
+                   Cover... for... each other.
+                        (quickly backs toward
+                         door)
+                   Geez, look at the time.  I gotta go
+                   get...
+
+                                    LOIS
+                        (reliably)
+                   ... Choco-Chocolate Monster Chip               (X)
+                   Ice Cream.
+
+    Clark stares at her like she's nuts.  She shrugs back; best
+    she could do on short notice.                                 (X)
+
+                                    LOIS (CONT'D)
+                   Go. Before they sell out!                      (X)
+
+    Clark smiles weakly, dashes out.
+
+                                    PERRY
+                        (awed)
+                   You know, that boy'll walk on water
+                   for you. Or drown trying.
+
+                                                      CUT TO:
+
+
+ 7  EXT. DAILY PLANET STREET - DAY                               7   
+
+    Smoking cars are piled up on the street, with SUPERMAN 
+    pulling a Man out of the rubble.  Terrified Nuns stand 
+    staring at their mini-van, in the heart of the mess.  Lois 
+    exits The Daily Planet.  Distant SIRENS.  Superman sits the 
+    Man on the curb, makes sure he's okay, stands, as:
+
+                                    SUPERMAN
+                   Hi, where're you off to?
+
+                                    LOIS
+                   The interview.
+
+    They both keep looking around, speaking under their breath, 
+    trying not to be observed.  Superman keeps smiling, waving 
+    to well-wishers who wave, give him "thumbs-up," etc.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     11.    
+
+
+ 7  CONTINUED:                                                   7   
+
+                                    SUPERMAN
+                   What interview?
+
+                                    LOIS
+                   Didn't I tell you?
+
+                                    SUPERMAN
+                   No, but since you're barely 
+                   speaking to me, I guess this is one 
+                   of the things you barely spoke to 
+                   me _about_.
+
+                                    LOIS
+                   I want to talk to friends and
+                   relatives of some of the other                 (X)
+                   missing couples... See if there's a 
+                   common link of any kind... We're 
+                   due at the Metropole Cafe at 
+                   noon...
+
+                                    SUPERMAN
+                        (indicates street)
+                   Lois, I'm working... Excuse me.
+
+    He dashes off to where smoke pours from a car, disperses it 
+    with SUPER BREATH.  Meanwhile a NUN has come up to Lois.
+
+                                    NUN
+                   Oh, he's somethin', isn't he?
+
+                                    LOIS
+                        (a weak smile)
+                   Yes.
+
+                                    NUN
+                   Thanks to him, the Sisters and I 
+                   will still be able to bring our toy 
+                   collection to the orphanage.  
+                   Superman is a national treasure.
+
+    Superman returns.  The Nun grabs him, gives him a kiss on 
+    the cheek, goes.  A cop car and ambulance arrive.
+
+                                    LOIS
+                   You know how wonderful it feels 
+                   being angry with a 'national 
+                   treasure?'
+
+                                    SUPERMAN
+                   People like me.  Can I help it?
+                   You used to like me.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     12.    
+
+
+ 7  CONTINUED:  2                                                7   
+
+                                    LOIS
+                   I still like you!  But I'm upset, 
+                   and even though it is your fault, I 
+                   feel like it's mine!  Good ol' 
+                   Clark!  Good ol' Superman!  Crabby 
+                   ol' stubborn Lois!  And even if I 
+                   could tell someone the issue, 
+                   which I can't, they'd _still_ 
+                   think _you're_ the good guy and 
+                   I'm...
+
+                                    SUPERMAN
+                   Uh, hang on...
+
+    He dashes off, she clutches her head.
+
+                                    NUN
+                   Sisters, look!  He's saving the
+                   toys from being scorched.
+
+                                    LOIS
+                        (throwing up a hand)
+                   Of course.
+
+    Superman returns with two huge bags, sets them on the 
+    sidewalk, where the Nuns fall to inspecting them.
+
+                                    SUPERMAN
+                   I'm sorry, you were saying?
+
+                                    LOIS
+                        (calmly)
+                   Nothing.  I'm going to be a 
+                   professional.  And go to the 
+                   interview.  And internalize my 
+                   feelings so I can have an ulcer the 
+                   size of Cleveland.
+
+    She goes to her car, climbs in.
+
+                                    SUPERMAN
+                        (shaking his head)
+                   Earth women.
+
+                                                      CUT TO:
+
+
+ 8  EXT. SIDEWALK CAFE - WITH LOIS - DAY                         8   
+
+    She hurries down the street, pulling tape recorder and 
+    notebook from her bag, then stops, sees Clark sitting at a 
+    table with PETE HANSEN, brother of another missing couple.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     13.    
+
+
+ 8  CONTINUED:                                                   8   
+
+                                    LOIS
+                        (to Clark, sitting)
+                   I guess you had no trouble
+                   'Parking.'
+
+                                    CLARK
+                   Mr. Hansen here says his brother 
+                   and sister-in-law vanished last 
+                   month.  They were struggling 
+                   artists.  Had only been married 
+                   a year.  Moved here from Sweden.
+
+                                    LOIS
+                        (eying notes)
+                   So in other words, they had 
+                   absolutely nothing in common 
+                   with the Sitkowitz's.
+                        (to Hansen)
+                   By any chance did they have a 
+                   wonderful, seemingly perfect 
+                   marriage?
+
+                                    HANSEN
+                   Oh no, not at all.
+
+                                    LOIS
+                        (to Clark)
+                   It was a shot.
+
+                                    HANSEN
+                   In fact, until two months ago, Inga 
+                   even spoke of divorce and moving 
+                   back to Sweden.
+
+                                    LOIS
+                   What changed her mind?
+
+                                    HANSEN
+                   A place called the Larry Smiley
+                   Institute....
+
+                                    LOIS
+                   ... For Love and Commitment.  They 
+                   went there?
+
+                                    HANSEN
+                   They said this Smiley fellow 
+                   restored their relationship.  He 
+                   rebuilt their trust in one another 
+                   and promised them a hopeful future.
+
+                                    LOIS
+                   Yeah, and then they disappeared.
+
+                                                      CUT TO:
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     14.    
+
+
+ 9  INT. CORNER OF WAREHOUSE - NIGHT #2                          9   
+
+    Shadows and gloom.  Arnold Sitkowitz is dragged by the
+    dark-clad Henchmen in from darkness, passing between two
+    flaming altar torches.  He struggles to no avail.
+
+                                    ARNOLD
+                   What is this?!  What do you want 
+                   with us?!
+
+    Then he stops, staring in shock.
+
+                                    ARNOLD (CONT'D)
+                        (hollow)
+                   Oh no.  Oh my God.
+
+    CAMERA ARCS to reveal a clear plastic tube stands upright, 
+    connected to tubes and wires and glowing with a blue mist.
+    Inside, supported by braces at neck and waist, is Michelle
+    Sitkowitz, eyes closed, motionless.
+
+                                    ARNOLD (CONT'D)
+                   Michelle!! 
+
+    Stricken, he can only stare as a second tube is wheeled from 
+    the shadows.  Arnold is wrestled into the tube, locked into 
+    the braces, and a clear panel slid shut.  A blue mist begins 
+    filling the tube.  Stepping into the foreground is a 
+    silhouetted shape, just head and a shoulder.  Arnold 
+    notices, stares, his eyes filling with utter astonishment.
+
+                                                      BLACK.
+
+                         _END OF ACT ONE_
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     15.    
+
+                             _ACT TWO_
+
+    FADE IN:
+
+10  INT. DAILY PLANET - ON ELEVATORS - DAY #3                   10   
+
+    The doors open and Lois charges out holding two 8x10 group
+    photos with printing at the bottom. Clark crosses from
+    bullpen, carrying a thick stack of computer print-outs.       (X)
+
+                                    CLARK
+                   Hi.
+
+                                    LOIS
+                        (heading for her desk)
+                   Come see these.  I got hold of a               (X)
+                   group photo of the Sitkowitz's when
+                   they were at the Larry Smiley
+                   Institute, and another of the
+                   Hansen's with their group....
+
+                                    CLARK
+                        (following her)
+                   I had the computer narrow the
+                   missing persons for the past two
+                   years down to just the missing
+                   married couples...
+
+                                    LOIS
+                   ...  We can cross-reference the
+                   names on these pictures with your
+                   list of missing couples and see if
+                   anything matches.
+
+                                    CLARK
+                   Is this the kind of conversation               (X)
+                   we'll be having from now on?  We               (X)
+                   sound like characters from 'The X
+                   Files.'
+
+                                    LOIS
+                        (smiles, takes print-out)
+                   I'll run this downstairs for the
+                   cross-check.                                   (X)
+
+    He takes the print-out back from her.                         (X)
+
+                                    CLARK
+                        (patiently)                               (X)
+                   Lois...                                        (X)
+
+    Clark glances at the names on the photos, then, in an
+    instant, flips through the thick print-out, scanning it,
+    looks up at her with concern.                                 (X)
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     16.    
+
+
+10  CONTINUED:                                                  10   
+
+                                    CLARK (CONT'D)
+                        (soberly) 
+                   Four matches.
+
+                                                      CUT TO:
+
+
+11  INT. PERRY'S OFFICE - ON GROUP PHOTOS - DAY                 11   
+
+    The photos are in Perry's hands, PULL BACK to find Lois and
+    Clark standing before his desk, as:
+
+                                    LOIS
+                   And from these two photos
+                   alone, _four_ couples have vanished
+                   in the past two years! Who knows
+                   how many have disappeared from
+                   _other_ sessions at the Institute?
+                   Perry, _you_ might even be at
+                   risk.                                          (X)
+
+                                    PERRY
+                   Oh, come now. Lois, if there was               (X)
+                   anything sinister there, don't you             (X)
+                   think an old news hound like me
+                   woulda sensed it?
+
+                                    CLARK
+                   Maybe. Or maybe it's just really               (X)
+                   well hidden.
+
+                                    PERRY
+                        (considering)                             (X)
+                   Yeah... possibly. If you were                  (X)
+                   gonna snoop around it'd have to be             (X)
+                   an undercover sniff-it-out kinda               (X)
+                   thing.
+
+                                    CLARK
+                   That's not exactly what I was...
+
+                                    PERRY
+                        (picks up phone)
+                   I'll make arrangements for you to
+                   join the next retreat as a married
+                   couple.
+
+                                    LOIS
+                        (quickly)
+                   I don't think that's such a good
+                   idea, Chief...
+
+                                    CLARK
+                   Not right at this moment, Chief.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     17.    
+
+
+11  CONTINUED:                                                  11   
+
+                                    PERRY
+                   Oh? Why?  Surely not for personal 
+                   reasons since you both said 
+                   _nothing_ would get in the way of 
+                   your professionalism...
+
+                                    LOIS
+                        (uncomfortably)
+                   No, no... We just don't think it's
+                   a good idea.
+
+                                    PERRY
+                        (cheerfully)
+                   And your sentiments are duly noted.
+                        (dialing phone)
+                   You guys wanna run home and pack?
+
+                                                      CUT TO:
+
+12  INT. LOIS' CAR - LOIS AND CLARK - ROLLING - DAY             12(X)
+
+    Clark drives, Lois studies pages of a handwritten letter.
+
+                                    CLARK
+                   It's great getting outta the city 
+                   for a while.  I love the mountains.  
+                   Big trees... Fresh air... Smell of 
+                   campfires...
+                        (off her silence)
+                   Yessir.  Love those mountains.
+                        (beat)
+                   I could get mad myself, you know.
+                   I could say you're overreacting 
+                   here, okay, not a lot, a little... 
+                   And I could get pretty darn mad, 
+                   too.
+
+                                    LOIS
+                        (calmly glancing up)
+                   But your anger would be                        (X)
+                   unjustified.  Mine is justified.               (X)
+                   And therefore righteous.  That
+                   would be the difference.
+
+    She goes back to reading.
+
+                                    CLARK
+                   Oh, well, this trip is just going
+                   to be _so_ much fun.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     18.    
+
+
+12  CONTINUED:                                                  12   
+
+                                    LOIS
+                        (studying letter)
+                   Michelle Sitkowitz wrote a letter
+                   to her sister while she was at the
+                   Smiley Institute.
+                        (reads)
+                   '... There's something eerie about             (X)
+                   this place, Louise.  Something not             (X)
+                   quite right.  But maybe it's just              (X)
+                   me.  Arnold says coming here is the
+                   best thing we ever did.'
+                        (gravely looks up)
+                   I wonder what scared her.
+
+                                                      DISSOLVE TO:
+
+
+12A EXT. SMILEY INSTITUTE ENTRANCE GATE - DAY                     12A
+
+    Lois and Clark drive into the wooded compound.
+
+
+13  EXT. SMILEY INSTITUTE COMPOUND - TRACKING - DAY                13
+
+    An Attendant, JEREMY, wears khakis and a long-sleeved 
+    t-shirt emblazoned with a large heart in which are the 
+    initials L.S.I.L.C. He leads Lois and Clark on a trail 
+    through trees, beyond which we see hints of tiny cabins.
+
+                                    JEREMY
+                   Each of our guests goes by the 
+                   name of an animal species, symbolic 
+                   of the primal urge to mate and 
+                   further the species.  Larry wants 
+                   two of every kind.  You guys'll be 
+                   known as 'The Hawks.'
+                        (meaningfully)
+                   They mate for life.
+
+                                    CLARK
+                        (quietly, to Lois)
+                   You know what the Sitkowitz's were
+                   called?
+
+                                    LOIS
+                   'The Badgers.'
+
+    They reach the steps of a cabin.
+
+                                    JEREMY
+                   Here we are.  I'll just write your 
+                   code name on the doorway and you'll 
+                   be...
+
+                                                      (CONTINUED)
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     19.    
+
+
+13  CONTINUED:                                                  13   
+
+    He's about to write an the large piece of blank adhesive
+    tape on the doorway; Clark tips glasses, peers at the tape.   (X)
+
+                                    CLARK
+                   Nope.
+
+                                    JEREMY/LOIS
+                   What?
+
+                                    CLARK
+                   We don't like this cabin.
+
+                                    LOIS
+                   Clark, it's fine.
+
+                                    CLARK
+                   _Honey_.  It faces east, the winds
+                   are from the south, you know how
+                   you get.
+
+    He is watching her fixedly, she hasn't a clue, but:
+
+                                    LOIS
+                        (to Jeremy)
+                   I get ugly.  Darn ugly.
+
+    ON Jeremy's dazed look,
+
+                                                      DISSOLVE TO:
+
+
+14  EXT. SECOND CABIN - DAY                                     14   
+
+    (They're all identical, so it could be the same structure.)
+    Jeremy leads them to the door.
+
+                                    JEREMY
+                        (patience waning)
+                   Sir, I'm running out of cabins.
+                   Perhaps this one will...
+
+                                    CLARK
+                        (staring at tape)
+                   This'll be great.
+                        (turns to Lois)
+                   Won't it, Punkin.
+
+    She smiles weakly as Jeremy sourly writes "HAWKS" on the
+    tape, starts away, during:
+
+                                    JEREMY
+                   Fine.  Your bags'll be up in a few
+                   minutes.  Enjoy your stay.
+                                    (MORE)
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     20.    
+
+
+14  CONTINUED:                                                  14   
+
+                                    JEREMY (CONT'D)
+                        (glancing back as he
+                         goes)
+                   Hope things work out.
+
+    He's gone, Lois turns to Clark.
+
+                                    LOIS
+                   Okay, what was that all about?
+
+                                    CLARK
+                   You said the Sitkowitz's were the
+                   Badgers?
+
+    He lowers his glasses, gazes at "HAWKS" tape.
+
+
+15  CLARK'S X-RAY POV                                           15   
+
+    CAMERA seems to ZOOM through a dozen layers of names,
+    sitting transparently on top of each other, then:
+
+
+16  BACK TO SCENE                                               16   
+
+    Clark pulls several layers of tape off at once, revealing
+    "BADGERS."  Lois leans in close to stare.
+
+                                    LOIS
+                   This was their cabin!
+
+                                    CLARK
+                        (modestly)
+                   Thought it might be useful...
+
+
+17  INT. LOIS AND CLARK'S CABIN - DAY                           17   
+
+    Basic, rustic, cozy.  Lois races inside, not noticing her
+    dress catching on a nail in the doorway.  RIP!  A long tear.
+
+                                    CLARK
+                   Lois, your skirt....
+
+    She's hot on the trail, preoccupied.
+
+                                    LOIS
+                   It's okay, I'll change...
+                        (stares at bed; a little
+                         sad)
+                   Awww, this is where they slept.
+                   Arnold probably sat in that
+                   chair... Happy he came here.
+                                    (MORE)
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     21.    
+
+
+17  CONTINUED:                                                  17   
+
+                                    LOIS (CONT'D)
+                   Michelle sat at this desk... Scared 
+                   of something and writing her sister 
+                   about it.
+
+    Lois stares at the desktop, runs her hand over it.
+
+                                    LOIS (CONT'D)
+                   Look how soft the wood is, you can 
+                   see imprints of... years of writing.
+                        (an idea)
+                   Clark... Think you could separate 
+                   out Michelle's handwriting from all 
+                   the others... Using your vision 
+                   gizmo?
+
+    She fishes the letter from her purse.
+
+                                    CLARK
+                   Lois, 'vision gizmo' doesn't sound
+                   particularly... cool.  You know?
+
+    But he lowers his glasses, stares first at Michelle's
+    letter, then at the desk, and:
+
+
+18  HIS TELESCOPIC POV                                          18   
+
+    Layers and layers of at first meaningless scribble jump and
+    shimmer, turning from distinct forms to translucent grays
+    until the inprint of Michelle's letter, starting "Dear
+    Louise," is very distinct.
+
+
+19  BACK TO SCENE                                               19   
+
+    He continues to stare.
+
+                                    CLARK
+                   Got it.  This is where she wrote
+                   it, alright.
+
+                                    LOIS
+                        (excited)
+                   Anything else?  Maybe she kept a
+                   journal or something.
+
+
+20  HIS TELESCOPIC POV                                          20   
+
+    Now visible are the words: "Kathy 4:30.  The Meditation       (X)
+    Tree"
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     22.    
+
+
+21  BACK TO SCENE                                               21   
+
+                                    CLARK
+                        (studying desk)
+                   There's one more thing in her
+                   handwriting: 'Kathy. 4:30.                     (X)
+                   Meditation Tree'                               (X)
+
+                                    LOIS
+                   I guess she was seeing this 'Kathy'
+                   at 4:30. But who's Kathy?                      (X)
+
+                                    JEREMY (O.S.)
+                   Male and Female Hawk?
+
+    They whirl, as:
+
+
+22  NEW ANGLE                                                   22   
+
+    Reveals Jeremy dropping a small suitcase, garment bag and
+    briefcase the doorway.
+
+                                    JEREMY
+                   Your bags.
+
+                                    LOIS
+                        (crossing to bags)
+                   Good, I've gotta change.  Thanks.
+
+                                    JEREMY
+                   The First Session's starting now.
+
+    Lois lifts the garment bag to reveal only Clark's things.
+
+                                    LOIS
+                   Wait a minute... Where's my
+                   suitcase... ?
+                        (turns to Clark)
+                   Where's _my_ suitcase??
+
+                                    JEREMY
+                   Gotta go, people.                              (X)
+
+    CUT TO:
+
+23  INT. RECEPTION ROOM - ON PORTRAIT OF CASSANDRA SMILEY - DAY 23   
+
+    She gazes severely from the ornate frame as we WIDEN, and:
+
+                                    SMILEY
+                   'Harmonicity.' Now put away your
+                   Funk & Wagnalls, that ain't
+                   English, it's what I call a
+                   'Larryism.'
+
+                                                      (CONTINUED)
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     23.    
+
+
+23  CONTINUED:                                                  23   
+
+    The room is rustic, lodge-like, with huge bookcases on one 
+    wall.  Appreciative chuckles from the couples seated all 
+    around, cross-legged, on the floor.  Larry, in baseball cap, 
+    is seated in an easy chair on a low platform, behind him is 
+    the portrait.  Attendants move about the room, setting out
+    refreshments, making name badges, etc.
+
+                                    SMILEY (CONT'D)
+                   'Harmonicity, is a blend, if you 
+                   will, of complimentary desires.
+                        (nod to portrait)
+                   And as my dear mama would tell ya, 
+                   that's what nature meant marriage 
+                   to be.  How 'bout it, folks?  We 
+                   got harmonicity?
+
+    Excited nods and smiles.
+
+                                    SMILEY (CONT'D)
+                   Well heck, then take hands!  Smile
+                   on yourselves!
+
+    They hold hands, bob heads, smile like crazy.
+
+                                    SMILEY (CONT'D)
+                   Mama!  Darn if I can't feel it!  I
+                   feel the harmony!  I feel the love!
+
+                                    CLARK (O.S.)
+                   It's not like I did it on purpose!
+
+                                    LOIS (O.S.)
+                   I left my bag right there on the
+                   stoop!
+
+    All eyes turn to the arched entry to a vestibule.
+
+                                    CLARK (O.S.)
+                   I thought you put it in the car!
+
+    And they appear.  Lois wears a pair of Clark's khakis and a 
+    chambray shirt.  She actually looks cute, but don't try 
+    telling her.
+
+                                    LOIS
+                   Maybe subconsciously you felt the
+                   need to...
+
+    They freeze, aware everyone's staring.
+
+                                    SMILEY
+                   Male and Female Hawk.  And not a
+                   moment too soon.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     24.    
+
+
+23  CONTINUED:  2                                               23   
+
+                                    CLARK
+                   Oh, hi.
+
+    He and Lois sheepishly start to sit.
+
+                                    SMILEY
+                   No, no, stay standing, let's get 
+                   right to work.  Now 'round here we 
+                   speak 'Bluntspeak,' and that's a... 
+                   what?...
+
+    Hands up all around, Smiley points to a woman, BETTY,
+    sitting with her husband, BRIAN.                              (X)
+
+                                    BETTY
+                   'Larryism!'
+
+                                    SMILEY
+                   Right you are, Female Lemur!
+
+    Excited murmurs and light applause.  Lois and Clark look at 
+    each other.
+
+                                    SMILEY (CONT'D)
+                   And bluntly speaking, you two have 
+                   gotta stop dressin' alike!  I mean 
+                   honey, look at yourself.  Do you 
+                   hate your feminine side?
+
+                                    LOIS
+                   What?  No!
+
+                                    CLARK
+                   Look, she's very feminine...
+
+                                    SMILEY
+                   Ah! See, this is what I call the 
+                   'Echo Pattern.' She says something 
+                   and you gotta chime in.  That 
+                   pretty much how it works?
+
+                                    LOIS
+                   No!
+
+                                    CLARK
+                   'Course not!
+
+    They stare at each other as Smiley smiles knowingly at the 
+    group who cluck their tongues and nod sadly.
+
+                                                      (CONTINUED)
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     25.    
+
+
+23  CONTINUED:  3                                               23   
+
+                                    SMILEY
+                   Son!  Don't allow this!  Sing your
+                   own song!  Takes _two_ tones for...
+                        (to group)
+                   What??
+
+                                    GROUP
+                   HARMONICITY!!
+
+                                    SMILEY
+                   Harmonicity!
+                        (gestures for Lois and
+                         Clark to sit)
+                   Let's close our eyes and go to that
+                   safe place where we find our own
+                   pare tone.
+
+    Everyone closes their eyes, including Smiley.
+
+
+24  LOIS                                                        24   
+
+    She opens one of her eyes.
+
+
+25  INTERCUT HER POV                                            25   
+
+    An attractive young Attendant with a "KATHY" name badge,
+    finishes filling paper cups from a pitcher.  Lois nudges
+    Clark.
+
+                                    LOIS
+                        (hissing)
+                   It's 'Kathy!'
+
+
+26 THE ROOM                                                     26   
+
+    Betty's hand immediately goes up.
+
+                                    BETTY
+                   Larry!  Larry!  Female Hawk is
+                   whispering!
+
+    All eyes open, Smiley stares at Lois reproachfully.
+
+                                    SMILEY
+                   Female Hawk. Honey, you're ridin'
+                   a horse called 'Domination' and
+                   won't get off.
+                        (to group)
+                   Does she need a time out?
+
+    Lois watches Kathy head out through the vestibule, as:
+
+                                                      (CONTINUED)
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     26.    
+
+
+26  CONTINUED:                                                  26   
+
+                                    GROUP
+                   Yes!!
+
+                                    SMILEY
+                        (to Lois)
+                   Step on outside, Female Hawk, and 
+                   return when you're a-singin, with
+                   the choir.
+
+                                    LOIS
+                        (eagerly heading out)
+                   Really?  Do I have to?  Shucks.
+
+    She's gone.  All eyes turn sympathetically to Clark.
+
+                                    SMILEY
+                   You got a tiger by the tail there,
+                   boy.
+
+                                                      CUT TO:
+
+
+27  EXT. INSTITUTE COMPOUND - WITH KATHY - TRACKING DAY         27   
+
+    Carrying a clipboard, she crosses the grounds as Lois 
+    catches up with her.
+
+                                    LOIS
+                   Kathy?
+
+                                    KATHY
+                        (stops)
+                   Hmm?  Oh hi, Female Hawk.
+
+                                    LOIS
+                   Hi. We're having _such_ a great 
+                   time here... Friends of ours 
+                   recommended it. Michelle and 
+                   Arnold Sitkowitz?
+
+    Kathy suddenly sobers, fear creeping into her eyes.
+
+                                    LOIS (CONT'D)
+                        (watching her)
+                   Wonderful people.  Ever have a
+                   chance to talk to them?
+
+                                    KATHY
+                   No.  Never.  I don't know them.
+
+                                    LOIS
+                   Are you sure?  I could swear they
+                   mentioned you...
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     27.    
+
+
+27  CONTINUED:                                                  27   
+
+                                    KATHY
+                   I don't know them!
+
+    Really scared, Kathy hurries off as Lois stares and we
+
+                                                      CUT TO:
+
+
+28  INT. WAREHOUSE - ON ALTAR STAND - NIGHT #3                  28   
+
+    A torch is put to the altar stand and a flame leaps up as 
+    CAMERA PULLS BACK to find Larry Smiley, surrounded by the 
+    Institute Attendants, including Jeremy and Kathy.  It's dark 
+    and shadowy.  Behind Larry is a pair of curtains and next to 
+    him a red phone on a stand.
+
+                                    SMILEY
+                   Fire.  Symbol of light where there 
+                   was darkness.  Warmth where there 
+                   was cold...
+
+    He walks among them, turning his attention to Kathy.
+
+                                    SMILEY (CONT'D)
+                   And most assuredly, the
+                   purification of the impure.
+                        (touching Kathy's face)
+                   Hear that, Kathy?  Betrayin' my
+                   trust would be an _awful_ impure
+                   thing to do.
+
+                                    KATHY
+                        (trembling)
+                   Larry, I'd never betray your...
+
+                                    SMILEY
+                   Wouldn't, you honey? You real                  (X)
+                   sure about that?                               (X)
+                        (gazing into her eyes)
+                   You mess with fire, you're gonna               (X)
+                   get burned.
+                        (suddenly faces phone)
+                   Whoa!  Hear that?  The phone!
+
+    The phone hasn't rung, but everyone assures Larry they heard 
+    it: "oh yes!" "Loud and clear, Larry," etc.  Larry rushes 
+    to the phone, answers it.
+
+                                    SMILEY (CONT'D)
+                        (into phone)
+                   Hello?  Yeah, Boss, Smiley here.
+                   Uh-huh, uh-huh... You don't say. 
+                                    (MORE)
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     28.    
+
+
+28  CONTINUED:                                                  28   
+
+                                    SMILEY (CONT'D)
+                   Okay, I know you're busy, say 'hi'
+                   to everyone for me.
+                        (hangs up; to group)
+                   Yep, yep, that was God.
+
+    Applause and smiles all around.
+
+                                    SMILEY (CONT'D)
+                        (building)
+                   God has news.  Seems everyone in
+                   heaven's talkin' about us!
+                   Everyone in heaven's sayin' 'Them              (X)
+                   Smiley people are gonna be the
+                   rulers of the New Dawn!!'  That's
+                   what I promised you, isn't it?  A
+                   place by my side in a better
+                   world?!                                        (X)
+
+    Applause, whistles.  CAMERA MOVES IN ON SMILEY.
+
+                                    SMILEY (CONT'D)
+                   Boys and girls, the day is at hall.
+                   The countdown has started.
+
+    He spins to a cylindrical curtain behind him.                 (X)
+
+                                    SMILEY (CONT'D)
+                   Darlin', did ya hear? We're                    (X)
+                   almost there!                                  (X)
+
+    The curtain begins to rise, before revealing what's within:   (X)
+
+
+29  CURTAINS' POV OF SMILEY                                     29   
+
+    His arms are spread as curtain clears CAMERA and he stares,   (X)
+    transfixed. The Attendants smile in awed silence.
+
+                                    SMILEY (CONT'D)
+                   The New Dawn!  I'll meet ya for
+                   bacon and eggs!!
+
+                                                      CUT TO:
+
+
+30  EXT. DAILY PLANET - NIGHT                                   30   
+
+    Perry, in tuxedo, hurries out, followed by JIMMY.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     29.    
+
+
+30  CONTINUED:                                                  30   
+
+                                    PERRY
+                   Those photos don't come, tell 'em
+                   to lock the front page and roll!
+                        (glances at watch)
+                   Where is she?
+
+                                    JIMMY
+                   I thought you hated the symphony.
+
+                                    PERRY
+                   I do, Jimmy, that's why I'm in this 
+                   monkey suit waitin' for my wife, 
+                   who loves the symphony, and with
+                   whom I'm on thin ice, so I can                 (X)
+                   plunk down a thousand smackers for 
+                   bad seats on a charity opening 
+                   night.  When you're married, this 
+                   will make sense.
+
+    A cab pulls up with a silhouetted Woman in the rear.
+
+                                    PERRY (CONT'D)
+                   Hello, Dumplin'.
+
+                                    JIMMY
+                   H'lo, Mrs. White.  I'll stay 'til
+                   we roll, Chief.
+
+    He goes back inside, grinning, as Perry climbs in the cab.
+    CAMERA MOVES AROUND to reveal the same wizened Driver.
+
+
+31  OMITTED                                                     31   
+
+
+32  REAR OF CAB                                                 32(X)
+
+    Yellow gas WHOOSHES up inside as:                             (X)
+
+                                    PERRY
+                   Judas Priest!  What in blazes is
+                   goin, on?!!
+
+    Perry pounds the glass dividing front seat from back, then    (X)
+    on the side window, rattles door. Alice slumps against him.
+
+                                    PERRY (CONT'D)
+                   Alice!                                         (X)
+
+    Perry looks around in confusion, stares pleadingly out the    (X)
+    side window, growing faint as the cab SCREECHES away from
+    CAMERA, rounds a corner and vanishes.                         (X)
+
+                                                      BLACK
+
+                           _END OF ACT TWO_
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     30.    
+
+                            _ACT THREE_
+
+    FADE IN:
+
+
+33  INT. LOIS AND CLARK'S CABIN - NIGHT                         33   
+
+    Lois, in one of Clark's t-shirts, lies in bed.
+
+                                    LOIS
+                   Scared to death.  I just mentioned 
+                   the Sitkowitz's names, Kathy went 
+                   white as a sheet.
+
+    PAN TO Clark, in cut-off sweatshirt, draped between two 
+    wicker chairs, looking miserable.
+
+                                    CLARK
+                   Well, I scanned the place, and no 
+                   sign, no sound of 'em.  Either 
+                   they're not here, or they're in a 
+                   lead-lined room...
+
+                                    LOIS
+                        (soberly)
+                   Or they're dead.
+
+    Clark shifts, tries to get comfortable, leaps up in a frenzy 
+    of blankets and pillows, points accusingly at the chairs.
+
+                                    CLARK
+                   This is not a bed!
+
+                                    LOIS
+                        (pleasantly)
+                   No, this is a bed.
+
+                                    CLARK
+                   A... kind of large bed, actually.
+
+                                    LOIS
+                   And this is business.
+
+                                    CLARK
+                   Okay, fine.  You think I can't
+                   handle this?  I can handle this.
+
+    And he stretches out in thin air as if climbing into an 
+    upper bunk.  Lois sits up, stares.  He puts his hands behind 
+    his head, floating, comfy.
+
+                                    LOIS
+                        (flopping back)
+                   Your life is so strange.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     31.    
+
+
+33  CONTINUED:                                                  33   
+
+                                    CLARK
+                   And getting stranger by the minute.
+                        (facing her)
+                   Lois, for me flying is a piece of 
+                   cake.  I've been doing it since 
+                   high school.  If I screw up, what's 
+                   the worst that can happen?  Lose a 
+                   little altitude?
+                        (he demonstrates a bit of
+                         drop)
+                   But being in a relationship is new.
+                   If I blow it with you... I lose
+                   everything.
+
+                                    LOIS
+                        (softening)
+                   Look, Clark... I'm actually not as
+                   good at romance as I might look...
+
+                                    CLARK
+                        (stifles a smile)
+                   Really?
+
+                                    LOIS
+                   I mean, my life's basically been 
+                   about work.  So I'm trying to 
+                   figure this out, just like you are.
+
+    He smiles, floats a little nearer.
+
+                                    CLARK
+                   So we'll... help each other...
+
+                                    LOIS
+                   I know I don't always respond
+                   appropriately...
+
+                                    CLARK
+                        (floating closer)
+                   Hey, me neither...
+
+                                    LOIS
+                   ... I don't always know how to
+                   express how I feel...
+
+                                    CLARK
+                        (floating closer)
+                   ... I get so tongue tied sometimes!
+
+    It's heating up; but before she completely thaws:
+
+                                    LOIS
+                   But I do know you broke my heart.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     32.    
+
+
+33  CONTINUED:  2                                               33   
+
+    He suddenly halts, mid-air, as she looks over at him.
+
+                                    LOIS (CONT'D)
+                   And you have to let me work that
+                   through.  And not expect me to just
+                   snap out of it.
+
+    He floats back over by the chairs.
+
+                                    CLARK
+                        (softly)
+                   I will.  And I don't.
+                        (beat)
+                   Good night, Lois.
+
+                                    LOIS
+                   'night, Clark.
+
+                                                      DISSOLVE TO:
+
+34  EXT. COMPOUND - NIGHT                                       34   
+
+    Late.  Lights are out.
+
+
+35  INT. LOIS AND CLARK'S CABIN - NIGHT                         35   
+
+    Lois and Clark are both asleep. Clark floats by the open
+    window.  A breeze WHISTLES through the trees, the curtains
+    flutter.  It pushes Clark toward the bed until he is
+    floating directly over Lois.  Clark turns in his sleep onto
+    his stomach; he is now directly facing Lois.  She stirs in
+    her sleep, her eyes open, she finds herself face-to-face
+    with a floating man.
+
+                                    LOIS
+                   Aaaah!!!
+
+    Clark wakes with a start.
+
+                                    CLARK
+                   Whaaaa....!!
+
+    Startled, he falls out of the air and onto Lois.  Much
+    thrashing of limbs and blankets as:
+
+                                    LOIS
+                   What're you doing?!
+
+
+36  INT. NEIGHBORING CABIN - ON BED - NIGHT                     36   
+
+    Brian and Betty listen to the commotion next door.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     33.    
+
+
+36  CONTINUED:                                                  36   
+
+                                    LOIS (O.S.)
+                   Will you please get off of me?!
+
+                                    CLARK (O.S.)
+                   If you'd hold still a second, I
+                   would!!
+
+                                    BRIAN
+                        (sympathetic)
+                   Hey pal, been there.
+
+
+37  LOIS AND CLARK'S CABIN - NIGHT                              37   
+
+    Clark climbs off the bed, Lois glares.
+
+                                    CLARK
+                   It was an accident!
+
+                                    LOIS
+                   Fall when you're floating?!  It's
+                   not possible!
+
+                                    CLARK
+                   Well I guess you must be better at
+                   it than me!
+
+                                    LOIS
+                   Alright, alright... I was just
+                   scared... Let's calm down...
+
+    A rock flies through the window, sends a lamp SMASHING to 
+    the floor.  Lois screams again.
+
+                                    CLARK
+                   It's okay!  It's just a rock!
+
+                                    LOIS
+                   You know, in Metropolis I sleep 
+                   like a baby?!  What's so relaxing 
+                   about the stupid mountains?!
+
+    Clark has retrieved the rock, pulled a paper from it.
+
+                                    CLARK
+                        (reading)
+                   'Meet me at the Meditation Tree                (X)
+                   tomorrow at midnight.
+                        (looks up)
+                   It's signed... 'Guess Who?'
+
+                                                      CUT TO:
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     34.    
+
+
+38  INT. CORNER OF WAREHOUSE - NIGHT                            38   
+
+    A blindfolded Perry emerges from the shadows, held by two 
+    of Smiley's Henchmen.
+
+                                    PERRY
+                   If this is some pathetic bid for 
+                   notoriety, I'm telling you now the 
+                   Daily Planet will not deal with 
+                   kidnappers.
+
+    The shove him into a chair, CAMERA PULLS BACK to include 
+    Larry Smiley in the f.g.  The blindfold is removed.
+
+                                    SMILEY
+                   Greetings, Male Wombat.
+
+                                    PERRY
+                   Larry Smiley!
+
+                                    SMILEY
+                   Things okay with you and Female
+                   Wombat?
+
+                                    PERRY
+                        (confused)
+                   Uh-huh.  Sure.  Where is Alice, 
+                   Larry?  Is this a spot progress 
+                   check or somethin'?  'Cause lemme 
+                   tell you, you're taking years off 
+                   my life here.
+
+                                    SMILEY
+                   But you'll gain 'em all back.  In
+                   the New Dawn.
+
+                                    PERRY
+                   The New _what_?
+
+                                    SMILEY
+                   It's where we're all goin'.  All 
+                   the most promising graduates of the 
+                   Larry Smiley Institute for Love and 
+                   Commitment!  I got me two of every 
+                   kind.  Doctors, teachers, farmers, 
+                   lawyers, artists... And you.  A 
+                   real thinker and a visionary!  You 
+                   of all people can see where I'm 
+                   headed!
+
+                                    PERRY
+                   To a quiet little room with rubber
+                   on the walls.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     35.    
+
+
+38  CONTINUED:                                                  38   
+
+                                    SMILEY
+                   Don't rile me, boy, I'll leave you
+                   to drown.
+
+                                    PERRY
+                   _Drown_?
+
+                                    SMILEY
+                   Didn't I mention?  I'm floodin' the
+                   earth.
+
+                                    PERRY
+                        (jumping up)
+                   Well, I'll just grab my wife and go
+                   now, thanks...
+
+    The Henchmen grab his arms.
+
+                                    SMILEY
+                   All life as we know it will end.  
+                   Know how many couples I've seen                (X)
+                   over the years?  Thousands.                    (X)
+                   Nothin' but cheatin',                          (X)
+                   philanderin', lousy attempts at 
+                   mating that do nothin' but pollute 
+                   the species!  God made it real                 (X)
+                   clear what I gotta do!  Start
+                   over!  Get rid of everyone!                    (X)
+                        (indicates Perry)
+                   Except for The Chosen.
+
+                                    PERRY
+
+                   Larry, Larry.... Stay with me, son.
+                   You can't flood the earth, it's not 
+                   possible.
+
+                                    SMILEY
+                   You know, part of the advantage of 
+                   healin' the famous and the 
+                   accomplished is the little devils 
+                   are capable of buildin' the 
+                   darndest things.
+
+    He clicks a button on a remote control and lights come up on 
+    a huge, sleekly sinister machine with a ray-emitting tube.
+
+                                    SMILEY (CONT'D)
+                   Behold... The Aquaplus 1000
+                   storm-maker.  Neat, huh?
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     36.    
+
+
+38  CONTINUED:  2                                               38   
+
+                                    PERRY
+                        (beside himself;
+                         struggling)
+                   Dammit, man!  Where's Alice?!  I
+                   wanna see her now!!
+
+    Larry shrugs, and as CAMERA PULLS BACK, he clicks another 
+    button.  Lights come up on a plastic tube in the f.g. in 
+    which Alice stands motionless, back to us.  Perry shakes off 
+    the Henchmen and approaches the tube, stunned.
+
+                                    PERRY (CONT'D)
+                   What have you done to her?
+
+                                    SMILEY
+                   Suspended animation.  Her vital 
+                   signs are hoverin' just above 
+                   death.  Like all the others, she'll 
+                   be revived when the waters recede, 
+                   and a New Dawn breaks.
+
+    With a roar, Perry lunges at Smiley, but is grabbed by the 
+    Henchmen.  Light comes up on another tube in the b.g. Perry 
+    stares in horror as he is dragged toward it.  Larry reacts 
+    as if the phone had rung, grabs it.
+
+                                    SMILEY (CONT'D)
+                        (into phone)
+                   Hello? Yessir? Monday? I can                   (X)
+                   flood the earth Monday, I got                  (X)
+                   nothin' else doin'.
+
+                                                      CUT TO:
+
+
+39  INT. LOIS AND CLARK'S CABIN - LOIS - MORNING - DAY #4       39   
+
+    Lois awakens, and CAMERA PULLS BACK to find she's alone.
+
+                                    LOIS
+                   Clark?
+
+    The door swings open and Superman floats in, carrying her 
+    luggage.  He gives a small puff of air, the door closes.
+
+                                    LOIS (CONT'D)
+                   You're sure racking up those 
+                   frequent flyer miles.
+                        (re luggage)
+                   That is just so sweet.
+
+                                    SUPERMAN
+                   I know.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     37.    
+
+
+39  CONTINUED:                                                  39   
+
+    KNOCK, door opens and Betty's there.                          (X)
+
+                                    BETTY
+                   Group time! Ready?
+                        (notices)
+                   Superman!  Female Hawk, you know
+                   Superman?
+
+                                    LOIS
+                        (crosses to bathroom)
+                   Well, yeah, kind of.  We have the
+                   same dentist.
+                        (bangs on door)
+                   Clark?  You outta the shower?
+                   Superman's _leaving_...
+
+    Jeremy comes up.
+
+                                    BETTY
+                        (an idea)
+                   Oh!  Oh!  You know what would be               (X)
+                   great?  Superman could join our
+                   session!
+
+                                    JEREMY
+                   _Superman's_ here?                             (X)
+
+                                    BETTY
+                   _So_ many people here could                    (X)
+                   benefit from your fairness and
+                   wisdom...
+
+                      LOIS                            SUPERMAN
+              No, no, he really           I'm real late for
+              has to be going.            a thing I...
+
+                                    JEREMY
+                   Isn't your _job_ to help people in
+                   need?
+
+                                                      CUT TO:
+
+
+40  INT. RECEPTION ROOM - THE GROUP - DAY                       40   
+
+    CAMERA MOVES around the group, seated on the floor, finding 
+    an uncomfortable Superman with Larry Smiley on the platform.
+
+                                    BETTY
+                   I just want Brian to make me feel
+                   validated, is all...
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     38.    
+
+
+40  CONTINUED:                                                  40   
+
+                                    BRIAN
+                   You want validation, go to a 
+                   parking lot!  This is the same 
+                   argument we've been having for 
+                   weeks.  I take a job for more money 
+                   and better benefits, and she 
+                   complains because we didn't discuss 
+                   it,
+
+                                    BETTY
+                   The job is in Tibet!  All I'm 
+                   saying is, we shoulda talked it 
+                   through.
+
+                                    LOIS
+                        (without thinking)
+                   I hear you there.
+
+    All eyes turn to her.
+
+                                    SMILEY
+                        (sighs)
+                   Female Hawk.  Must you?
+
+                                    LOIS
+                   Sorry.
+
+                                    SMILEY
+                        (to Superman)
+                   She's a challenge.
+
+                                    BRIAN
+                   Okay, so maybe I was rash!  I said 
+                   I was sorry!  I only had our best 
+                   interest at heart.
+
+                                    LOIS
+                   Ha!
+
+    Again the eyes turn to her, Superman looks heavenward.
+
+                                    LOIS (CONT'D)
+                   None of my business.  Sorry.
+
+                                    BETTY
+                   Superman, what do you think?
+
+    Cries of agreement, "hear, hear," etc.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     39.    
+
+
+40  CONTINUED:  2                                               40   
+
+                                    SUPERMAN
+                        (reluctant, then
+                         gathering steam)
+                   Well, I'm no expert... But I think 
+                   if you care for someone, and they 
+                   make a mistake... Because they're 
+                   only human after all... And then 
+                   they sincerely apologize... You cut 
+                   them some slack, for Pete's sake.
+
+    Brian's thrilled.  APPLAUSE.
+
+                                    LOIS
+                        (watching him)
+                   A mistake's one thing, but this is
+                   a whole attitude.  Just because                (X)
+                   someone says 'I love you' doesn't
+                   put them in charge of your life.
+
+                                    SUPERMAN
+                        (gently)
+                   True.  But 'I love you' does mean 
+                   'I'd never hurt you on purpose.  
+                   And maybe I'll make more mistakes, 
+                   just as you will.  But we'll learn 
+                   from them.  And move on.'
+
+    Wild APPLAUSE as the group rises to its feet.  Lois stares 
+    at him, moved.  He smiles back.
+
+                                    SMILEY
+                   Son, you pack a lotta horse sense
+                   in them tight britches.
+
+                                    SUPERMAN
+                   I really do have to go.  You guys
+                   keep up the good work.
+
+    And he streaks out the vestibule in a BLUR of blue.  Clark
+    immediately enters through vestibule, scratching a bit.
+
+                                    CLARK
+                   Wow, finally got that poison oak
+                   under control.  How was Superman?
+
+                                    BETTY
+                        (emotionally)
+                   He was... wonderful.
+
+                                    LOIS
+                        (relenting)                               (X)
+                   I... suppose he made some 
+                   interesting points.
+
+                                                      CUT TO:
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     40.    
+
+
+41  EXT. COMPOUND GROUNDS - WITH LOIS AND CLARK - NIGHT #4      41   
+
+    They head toward a tree marked "Meditation Tree."
+
+                                    CLARK
+                   I don't think that group therapy
+                   stuff was all that bad.
+
+                                    LOIS
+                   I did think a standing ovation was
+                   a little excessive. Here we are.
+
+                                    CLARK
+                   You're convinced the note was from
+                   Kathy.
+
+                                    LOIS
+                        (sitting on bench)
+                   Yes. I think she wants to tell us
+                   what she never got to tell Michelle
+                   Sitkowitz.
+
+                                    CLARK
+                   Unless this is a hoax. Or a trap.
+
+                                    LOIS
+                   I just hope she didn't get...
+
+    A loafer suddenly falls into Lois' lap.  She looks up and
+    SHOT WIDENS to reveal, in the foliage, two dangling feet.
+
+                                    LOIS (CONT'D)
+                   ... cold feet.
+
+                                    CLARK
+                   Oh boy.
+
+    He glances around, then flies up, out of FRAME as Lois        (X)
+    stares anxiously up, then glances at the shoe, pulls a
+    crumpled paper from inside it.
+
+                                    LOIS
+                        (squints upward)
+                   Clark, what's happened?
+
+
+42  ANGLE UP - THE TREE                                         42   
+
+    Clark appears through the branches.
+
+                                    CLARK
+                   It's Kathy, Lois.  She's dead.
+
+                                    BLACK.
+
+                          _END OF ACT THREE_
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     41.    
+
+                             _ACT FOUR_
+
+    FADE IN:
+
+43  INT. RECEPTION ROOM - NIGHT                                 43   
+
+    Outside the windows we see cop car LIGHTS.  Larry Smiley, in
+    robe and baseball cap, herds three cops, along with sleepy
+    campers and Attendants in night wear toward the vestibule.
+
+                                    SMILEY
+                   I always knew the girl had
+                   troubles...  Many's the time her
+                   little tears would splash down my
+                   shoulder...  But suicide?  Who
+                   woulda thought?
+
+    Everyone's out.  Smiley takes one last look around the room,
+    shuts off lights, exits, LOCKING doors.  CAMERA PANS through
+    the shadows to where Lois and Clark emerge from a hiding
+    place.  They click on FLASHLIGHTS.
+
+                                    LOIS
+                   Got that paper from Kathy's shoe?
+
+                                    CLARK
+                        (staring at torn page)
+                   It's ancient... Torn from a book.              (X)
+                   I can't read the language.                     (X)
+
+                                    LOIS
+                   Well, there has to be a reason
+                   Kathy wanted us to see it.
+                        (shines light on books)
+                   Which one do you think it came
+                   from?
+
+    Clark does an instant scan of the books.
+
+                                    CLARK
+                   None of 'em; they're all too new.              (X)
+                        (stares closer)
+                   But there may be something in the
+                   next room.
+
+                                    LOIS
+                   What next room?
+
+    Clark gives a bookshelf a tug and it opens to reveal a small
+    anteroom hidden on the other side.
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     42.    
+
+
+44  INT. ANTEROOM - NIGHT                                       44   
+
+    Lois and Clark step into the gloomy room which features a 
+    collection of musty, ancient books and a desk stacked in 
+    file folders and other papers.  Lois looks at the clutter 
+    while Clark examines the books.
+
+                                    LOIS
+                   Smiley must work in here.  Look, 
+                   these files are divided into piles 
+                   marked 'rejected' and 'candidates.'
+                   Candidates for what?
+                        (looks closer)
+                   Clark, we're in the 'rejected'
+                   pile!
+
+                                    CLARK
+                   Lois, don't you think that's
+                   probably a good thing?
+
+                                    LOIS
+                   But I like to at least feel wanted.
+                        (reads notes on file)
+                   Smiley says we're not compatible!  
+                   He says I don't trust you or 
+                   respect you and doesn't know _why_
+                   you put up with me... !
+
+                                    CLARK
+                   The man is a murderer!
+
+                                    LOIS
+                        (it just pours out)
+                   Of course I trust you!  I respect 
+                   you more than anyone I ever met!
+                   And if I get angry, it's just 
+                   because I never opened up to anyone 
+                   so totally in my whole life and I 
+                   get hurt if I think that trust 
+                   isn't returned!  And you put up 
+                   with me for the same reason I put 
+                   up with you..!  Because I love you 
+                   completely!
+
+    She's breathing hard, realizing all she's just said.
+
+                                    CLARK
+                        (quietly)
+                   And... I love you.
+                        (then)
+                   Did we just make up?
+
+                                    LOIS
+                   I think so.
+
+    They kiss violently.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     43.    
+
+
+44  CONTINUED:                                                  44   
+
+                                    LOIS (CONT'D)
+                        (a bit breathless)
+                   Could we maybe do this in a room 
+                   that's not musty and owned by a 
+                   killer?
+
+    They recover, force themselves back on track.
+
+                                    CLARK
+                   I... found the book the page came
+                   out of.
+
+
+45  BOOK - INSERT                                               45   
+
+    The torn page fits neatly into the crumbling pages of a
+    hand-lettered ancient book.                                   (X)
+
+
+46  BACK TO SCENE                                               46   
+
+                                    CLARK
+                   The book's hand copied... It may be
+                   a dead language.  We need an                   (X)
+                   expert to read it.
+
+                                    LOIS
+                   Sure.  It's two a.m.
+                        (then)
+                   Star.  Take it to Star.
+
+                                    CLARK
+                   Star?
+
+                                                      CUT TO:
+
+
+47  EXT. METROPOLIS SKYLINE - TO ESTABLISH - NIGHT              47   
+
+
+48  INT. FIRST FLOOR HALLWAY - LOIS' BUILDING - NIGHT           48   
+
+    Outside the entrance door we hear a WHOOSH, the sound of
+    landing FEET, then the door opens and Clark enters.  He
+    starts to knock on Star's door, which is decorated with
+    stars and moons, when he notices her asleep on the stairs.
+
+                                    CLARK
+                   Star!  Hello?  Why're you out here?
+
+                                    STAR
+                   Hi, Clark.  I'm purging my place of
+                   evil spirits and it got a little
+                   intense in there.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     44.    
+
+
+48  CONTINUED:                                                  48   
+
+    From inside Star's door we hear PLATES CRASHING.              (X)
+
+                                    STAR (CONT'D)
+                        (standing)
+                   I thought you were at a love
+                   retreat with Lois.  No!  Don't tell
+                   me, I'm psychic.
+                        (concentrates)
+                   You came home 'cause you're feeling
+                   blue.  No... You wanna sail around
+                   the cape.  No.  Lois gave you the
+                   boot.  No.  Blue.  Cape.  Boots.
+                   Blue.  Cape.  Boots...
+
+                                    CLARK
+                        (jumping in)
+                   I need you to contact an ancient
+                   scholar and get him to read some
+                   archaic writing.
+
+                                    STAR
+                   Yeah, I was gonna say that next.
+
+                                                      CUT TO:
+
+
+49 INT. LOIS AND CLARK'S CABIN - LATE NIGHT                     49   
+
+    Lois paces anxiously, as:
+
+                                    LOIS
+                   C'mon, Clark, c'mon.  Where are
+                   you?
+
+    KNOCK at door, Lois swiftly crosses to it.
+
+                                    LOIS (CONT'D)
+                   Well, come in, why're you...
+
+    She opens the door, startled to see Jimmy, a bit scruffy and
+    leaf-covered.
+
+                                    JIMMY
+                   I tried calling, but you're not 
+                   allowed phone calls.  So I climbed 
+                   the fence.
+
+                                    LOIS
+                   Jimmy, look at you.  What's wrong?
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     45.    
+
+
+49  CONTINUED:                                                  49   
+
+                                    JIMMY
+                   It's the Chief.  Last I saw him,               (X)
+                   he was going to a concert with                 (X)
+                   Alice.  They never made it home                (X)
+                   and he didn't come to work.                    (X)
+
+                                    LOIS
+                   God, I'll bet it's Smiley.
+
+    Suddenly there's the sound of TRUCK ENGINES, headlights play
+    on the walls from outside as Lois and Jimmy rush to a window
+    and peer out, trying to remain unobserved.
+
+
+50  THEIR POV                                                   50   
+
+    The cabins are dark.  A convoy of small covered trucks and
+    trailers is being readied, with the Attendants scrambling
+    into the trucks with cartons of books and papers.  Smiley
+    strides out, climbs into a truck, it starts off.
+
+
+51  LOIS AND JIMMY                                              51   
+
+                                    LOIS
+                   Smiley and his people are
+                   abandoning the camp.  Let's go.
+
+                                    JIMMY
+                        (nervously)
+                   Shouldn't we wait for C.K.?
+
+                                    LOIS
+                   _Jimmy_.
+
+
+52  EXT. COMPOUND - VARIOUS ANGLES - NIGHT                      52   
+
+    The Attendants hurry to board trucks which are starting to
+    pull away.  Lois and Jimmy slither along a row of bushes
+    toward the clearing.  Boxes and books are dumped into a
+    small, canvas-covered trailer behind a truck, and the last
+    of the Attendants leaps into the cab.  The truck starts to
+    pull away, Lois and Jimmy rush out and jump into the small
+    trailer, and the convoy heads off in an eerie cloud of dust.
+
+                                                      CUT TO:
+
+
+53  INT. LOIS' APARTMENT - NIGHT                                53   
+
+    Star sits cross-legged on the couch, fingers to her temples,
+    eyes closed.  Clark, full of anxiety, stands watching.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     46.    
+
+
+53  CONTINUED:                                                  53   
+
+                                    CLARK
+                   Anything?  Lois says you can call 
+                   up voices from the distant past and 
+                   get 'em to speak through you.
+
+                                    STAR
+                        (eyes still closed)
+                   Clark?  Honey?  I know you're real 
+                   stressed and you want this to work 
+                   an' all, but you're gonna have to
+                   do me this itty bitty favor.
+
+                                    CLARK
+                   Sure, absolutely, what?
+
+                                    STAR
+                   Shut up.
+
+                                                      CUT TO:
+
+54  EXT. WAREHOUSE - HIGH ANGLE - NIGHT                         54   
+
+    The tail end of the convoy is pulling up outside a run-down
+    warehouse as we CRANE DOWN to the trailer where Lois and
+    Jimmy hide.  They peer out of the canvas flap, watch the
+    last of the Attendants go inside, then climb out and creep
+    up to the huge door.  Their mouths fall open in shock.
+
+
+55  INT. WAREHOUSE - THEIR POV                                  55   
+
+    Mounted atop a curtained platform, lit by spotlights, is
+    what appears to be an enormous... ark.  Though modern
+    technology is evident, the shape is distinctly ark-like. A
+    ramp leads up the curtained platform to an open door in the
+    ark's side.
+
+
+56  INT. CORNER OF WAREHOUSE - NIGHT                            56   
+
+    Smiley holds forth, Attendants at his feet.  Behind him is
+    the phone, along with the Aquaplus 1000 and the thin
+    curtained area.
+
+                                    SMILEY
+                   This is it.  Lift-off, T-Minus
+                   Zero, anchors aweigh.  We only
+                   await The Sign.
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     47.    
+
+
+57  INTERCUT LOIS AND JIMMY                                     57   
+
+    They have crept forward and stare at all this, stunned.
+    Smiley turns and stares at the phone; the others do, too.
+
+                                    SMILEY
+                   I hate waitin' for the phone to
+                   ring, don't you?
+                        (silence; but:)
+                   There it is!
+                        (picks up, into phone:)
+                   Hello?
+                        (to others)
+                   Yep, it's Him.
+                        (into phone)
+                   Yessir.  Yessir.  All systems are
+                   go.  Vaya con Dios to you, too,
+                   sir.
+
+    He hangs up, turns beaming to the followers.
+
+                                    SMILEY (CONT'D)
+                   Well, it's gonna be a heck of a
+                   storm, boys and girls!!
+
+    Wild APPLAUSE, shouts, whistles. Smiley grows louder and
+    more impassioned.
+
+                                    SMILEY (CONT'D)
+                   Forty days and forty nights!  The
+                   flood waters will wipe out all of
+                   mankind, but that which floats with
+                   us in the ark!                                 (X)
+
+                                    JIMMY
+                        (in horror)
+                   Oh man, it's just like Waterworld.
+
+                                    LOIS
+                   Except much cheaper.
+
+    Smiley yanks a lever on the device.  A horrible, THROBBING
+    SOUND and a thick blue beam shoots from the machine
+    straight up and explodes through a skylight in the-           (X)
+    ceiling.  Smiley whirls on the narrow draped area.            (X)
+
+                                    SMILEY
+                   Darlin'!  We are about to be joined
+                   together once more!
+
+    The cylindrical drape rises to reveal Cassandra Smile         (X)
+    her 60's, inside a plastic tube, frozen in a pose of
+    suspended animation.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     48.    
+
+
+57  CONTINUED:                                                  57   
+
+                                    SMILEY (CONT'D)
+                        (emotionally)
+                   Hello, Mama.
+
+    Lois and Jimmy shrink back, scared.
+
+
+58  INT. LOIS' APARTMENT - NIGHT                                58   
+
+    Lights are low. As Clark stares, Star begins rocking back
+    and forth.  She swings her head back and forth, then          (X)
+    suddenly it goes rigid and her eyes fly open.                 (X)
+
+                                    STAR
+                        (somber and dramatic)
+                   I am the citizen Landicus,
+                   philosopher and prophet.  Who
+                   seeketh me?
+
+                                    CLARK
+                   Uh... I do.
+
+                                    STAR
+                        (as prophet)
+                   Seeker, surely thou hast summoned
+                   me because thou art a thinker and
+                   prophet also, eager for an exchange
+                   of thought and prophecy?
+
+                                    CLARK
+                   Well no, actually, I wanted you to
+                   read this piece of paper.
+
+    Star just looks at him, deadpan.
+
+
+59  INT. WAREHOUSE - WITH JIMMY AND LOIS - NIGHT                59   
+
+    They hurry back along the curtained platform, round a corner
+    and stare at the storage area of plastic tubes in which have
+    been placed several people, among them the Sitkowitz's.
+    Lois and Jimmy stagger forward, moving through the tubes,
+    when:
+
+                                    JIMMY
+                   Lois!
+
+    She's stunned to see Perry White, suspended in his tube.
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     49.    
+
+
+60  THE SMILEY AREA                                             60   
+
+                                    SMILEY
+                   Alright, look lively, folks!  Load
+                   "em up!!
+
+    The Attendants jump up.
+
+
+61  LOIS AND JIMMY                                              61   
+
+    Look at each other in fright as we hear APPROACHING FEET.
+
+                                    LOIS
+                   They're coming.
+
+
+62  SMILEY                                                      62   
+
+    He makes adjustments to his machine, and outside there is
+    THUNDER and LIGHTNING.  Now he smiles as Attendants start
+    wheeling tubes toward the ramp up to the arc. Suddenly:
+
+                                    SMILEY
+                   Hold it.
+
+    Scowling, he approaches the tubes.
+
+                                    SMILEY (CONT'D)
+                   Here's a couple of 'Chosen Ones'               (X)
+                   who didn't make the cut.                       (X)
+
+
+63  NEW ANGLE                                                   63   
+
+    reveals Jimmy and Lois, "hiding" in plastic tubes.  They
+    glance at each other.  Smiley opens a port in the tube and:
+
+                                    SMILEY
+                   Female Hawk, I distinctly recall
+                   eliminatin' you from the New Dawn.
+
+                                    LOIS
+                   You're right.  Sorry. I'm really
+                   not worthy.  Let's go, Jimmy.
+
+                                    SMILEY
+                   I can see I gotta do a little
+                   better job of eliminatin'.
+
+
+64  INT. LOIS' APARTMENT - NIGHT                                64   
+
+    Clark holds the scrap of paper before Star's face.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     50.    
+
+
+64  CONTINUED:                                                  64   
+
+                                    STAR
+                        (studying page, as
+                         prophet)
+                   The language is ancient.  Aramaic.
+                   It is a passage... from what you
+                   call The Dead Sea Scrolls.
+                        (reads)
+                   'The end of all flesh is come
+                   before me; for the earth is filled
+                   with violence through them; and
+                   behold, I will destroy them from
+                   the earth.  They entered the ark,
+                   male and female, and the Lord shut
+                   them in...'
+
+                                    CLARK
+                   Isn't that the story of Noah and
+                   the Ark?
+
+                                    STAR
+                        (as prophet)
+                   Verily.
+
+                                    CLARK
+                        (with growing alarm)
+                   Smiley's nabbing couples... 'Two               (X)
+                   of every kind,' that guy said...               (X)
+                   Oh man, he thinks he's Noah.
+
+    Outside, a huge hit of THUNDER and LIGHTNING. Clark stares.
+
+
+65  SMILEY                                                      65   
+
+    Smiley holds a hand microphone.  He cranks a wheel on the 
+    machine and the SOUND INTENSIFIES.
+
+                                    SMILEY
+                   This storm's the daddy of 'em all,
+                   my friends!
+
+
+66  EXT. WAREHOUSE ROOFTOP - LOIS AND JIMMY - NIGHT             66   
+
+    They are tied to an enormous lightning rod.  A large speaker 
+    rests nearby, and from it issues SMILEY'S VOICE.  The blue 
+    beam shoots through a skylight near them and in the b.g.     (X) 
+    are pitchforks of lightning.
+
+                                    SMILEY (V.0.)
+                   ... I sure wouldn't wanna be 
+                   anywheres near a lightning rod... 
+                   But then, that's just me.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     51.    
+
+
+66  CONTINUED:                                                  66   
+
+                                    JIMMY
+                   Lois, he can't really flood the
+                   earth, can he?
+
+                                    LOIS
+                   No Jimmy.  It's the turning us into
+                   toast thing that has me worried.
+
+    THUNDER, LIGHTNING.  Lightning bolts flash near, they wince.
+
+                                    JIMMY
+                        (emotionally 
+                   Well, since this it, I'm gonna
+                   confess.  I used to have a I little
+                   crush on you.  In fact, I had this
+                   dream...
+
+    She stares around at him in disbelief.
+
+
+67  EXT. NIGHT SKY - WITH SUPERMAN                              67   
+
+    Flashes of LIGHTNING, crackles of THUNDER.  He squints up     (X)
+    ahead and, then dives down.                                   (X)
+
+
+68  OMITTED                                                     68   
+
+
+69  WAREHOUSE ROOF                                              69   
+
+    Lois sits dazedly staring at Jimmy.
+
+                                    JIMMY
+                   ... And then you took my hand and
+                   said, 'Jimmy, _I_ can make a man of
+                   you...'
+
+
+70  INTERCUT WAREHOUSE                                          70   
+
+    Smiley cranks up the wheel of the machine.
+
+
+71  WAREHOUSE ROOF                                              71   
+
+    Lois and Jimmy cower as lightning bolts SIZZLE in the sky
+    near the rod.  Suddenly, Superman alights on the roof just
+    as there's an enormous boom of THUNDER and a flash of
+    LIGHTNING.  A bolt of lightning strikes the rod, Superman
+    grabs it, the whole rod glows and the glowing passes down
+    the rod, through Superman's arm, until his body glows and
+    the lightning discharges into the roof, just missing Lois
+    and Jimmy.  He quickly frees them, as:
+
+(CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     52.    
+
+
+71  CONTINUED:                                                  71   
+
+                                    JIMMY
+                   Uh Lois, panic makes a man say
+                   strange things.  If you could just
+                   sorta forget what I...
+
+                                    LOIS
+                   Trust me.
+
+
+72  INT. WAREHOUSE - NIGHT                                      72   
+
+    The Attendants have once again begun wheeling the tubes,
+    which are now all clustered at the base of the ramp.  Smiley
+    is looking joyfully about, when:
+
+                                    SUPERMAN (O.S.)
+                   Alright, Smiley.  Shut it off.
+
+
+73  NEW ANGLE                                                   73   
+
+    As Smiley spins, spots Superman hovering near the beam.       (X)
+
+                                    SMILEY
+                   You can't stop this!  This day has
+                   been foretold!
+
+                                    SUPERMAN
+                   Only by you, Smiley.  And that's
+                   not enough.
+
+    Superman flies into the beam, forcing it back down toward
+    the machine.  Smiley tries turning up the power and the       (X)
+    NOISE INTENSIFIES, but Superman continues forcing the beam    (X)
+    down into the device, which suddenly EXPLODES in a shower of
+    sparks and smoke, its THROBBING SOUND winding down to a dull
+    THUD.  Outside, the THUNDER and LIGHTNING ends.  Lois and
+    Jimmy rush in from outside.
+
+                                    SMILEY
+                   Just brilliant!  You've ruined
+                   everything!  That machine was the
+                   source of all power in the New
+                   Dawn!
+                        (indicates tubes)
+                   It was going to bring them back!               (X)
+                   Now they'll all die!                           (X)
+
+    He rushes to the foot of his mother's tube.
+
+                                    SMILEY (CONT'D)
+                        (emotionally)
+                   Mama, forgive me.                              (X)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     53.    
+
+
+74  SUPERMAN, ROOM - VARIOUS ANGLES                             74   
+
+    Superman pans his eyes from cylinder to cylinder, his HEAT
+    VISION making each glow with a faint HISS.  The occupants of
+    each tube slowly open their eyes, begin to stretch and move.
+    Finally, we come to Perry White.
+
+                                    PERRY
+                        (groggy)
+                   Olsen! Late edition get put to
+                   bed?
+                        (then)
+                   Alice?  Honey?  You alright?  No,
+                   don't try to talk...
+
+    WIDEN to include Alice's tube, her face and part of her body
+    hidden by a pile of crates.  One of her hands reaches out
+    toward Perry, touches the side of her tube.  He smiles.
+
+
+75  SMILEY                                                      75   
+
+    He looks up to see his mother glaring down at him.
+
+                                    CASSANDRA
+                   Lawrence.  You've been a very                  (X)
+                   naughty boy.
+
+                                                      CUT TO:
+
+
+76  INT. LOIS' APARTMENT - NIGHT                                76   
+
+    Superman and Lois float down to the window, step inside.
+    She turns to face Superman, smiles shyly.
+
+                                    SUPERMAN
+                   Smiley had pretty much given up on
+                   people finding happiness together.
+                   I haven't.  Have you?
+
+                                    LOIS
+                        (gently touches his face)
+                   No.
+
+                                    SUPERMAN
+                   But we do seem to keep messing up.
+                   Why is that?
+
+                                    LOIS
+                   Well, first of all, people mess up.
+                   But I think adjusting to this whole
+                   idea of marriage on top of...
+                   everything else we're adjusting
+                   to... is making us both a little
+                   nuts.
+
+                                                      (CONTINUED)
+
+                          ---page break---
+    "JUST SAY NOAH" (#5)   FULL PINK Rev.         8/18/95     54.    
+
+
+76  CONTINUED:                                                  76   
+
+                                    SUPERMAN
+                   So...
+
+                                    LOIS
+                   So maybe we should just take a 
+                   little break from the idea of 
+                   marriage.  Not even say the 'M' 
+                   word.  And just be in love.
+
+                                    SUPERMAN
+                   I can do that.
+
+                                    LOIS
+                   It's a lot of pressure... That
+                   'forever' thing...
+
+                                    SUPERMAN
+                   Lois...
+
+                                    LOIS
+                   What?
+
+                                    SUPERMAN
+                   It's not the 'M' word that makes it
+                   forever for me.
+                        (beat)
+                   My love's forever because... It
+                   just is.
+
+    She stares at him, swept away.  He kisses her and FLOATS off 
+    into the night.
+
+                                    LOIS
+                   Wow.
+
+                                                      BLACK.
+
+                                _THE END_
+

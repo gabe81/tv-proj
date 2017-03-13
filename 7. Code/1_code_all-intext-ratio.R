@@ -1,0 +1,87 @@
+## INT-EXT RATIO LOOP GENERATOR
+## INT/EXT Ratio loop, generate master.table. This code assumes you have the scraped data, which is not included in the article files --------------------
+## loop to calculate all int/ext/weighted ratios for all shows
+scenes <- data.frame()
+weight <- data.frame()
+weight.ratios <- data.frame()
+avg.int = 0
+avg.ext = 0
+print(length(files))
+for (i in 1:length(files)){
+  space<-read.csv(files[i], header=F)
+  #space.all<- rbind(space.all, space)
+  scenes[i,1]<- gsub("_Scenes.csv", "", files[i])
+  weight[i,1] <-gsub("_Scenes.csv", "", files[i])
+  j = 0
+  k = 0
+  int.rows<-space[grep("INT", space$V2), ]
+  int.weight <- mean(int.rows$V3)
+  ext.rows<-space[grep("EXT", space$V2), ]
+  ext.weight <- mean(ext.rows$V3)
+  #weight.ratio <- int.weight/ext.weight
+  #print(paste("weight.ratio:", weight.ratio))
+  space.df <- data.frame(do.call('rbind', strsplit(as.character(space$V2),' ',fixed=TRUE)))
+  space.v<-unlist(strsplit(as.character(space$V2), split=" "))
+  space.table<-data.frame(table(space.v))
+  space.table<-space.table[order(-space.table$Freq), ]
+  int<-space.table[space.table[,1] == "INT", 2]
+  ext<-space.table[space.table[,1] == "EXT", 2]
+  if ((is.nan(int.weight) == TRUE)|(length(int.weight) == 0)){
+    int.weight <- 1
+  }
+  if ((is.nan(ext.weight) == TRUE)|(length(ext.weight) == 0)){
+    ext.weight <- 1
+  }
+  if (length(int.rows)==0){
+    ext <- 1
+  }
+  if (length(ext.rows)==0){
+    int <- 1
+  }
+  if (length(ext)==0){
+    ext <- 1
+  }
+  if (length(int)==0){
+    int <- 1
+  }
+  print(files[i])
+  print(paste("int.rows: ", int.rows))
+  print(paste("ext.rows: ", ext.rows))
+  print(paste("int: ", int))
+  print(paste("int.weight:", int.weight))
+  print(paste("ext: ", ext))
+  print(paste("ext.weight:", ext.weight))
+  if (length(ext|int)>=0){
+    int.ext<- int/ext
+    int.perc <- int/(int+ext)
+    #     if (length(int.weight)>300){
+    #       int.weight <- as.numeric(1)
+    #       ext.weight <- as.numeric(1)
+    #     }
+    #     if (length(ext.weight)>300){
+    #       ext.weight <- as.numeric(1)
+    #       int.weight <- as.numeric(1)
+    #     }
+    
+    int.weight.ratio <- int.weight/(int.weight+ext.weight)
+    if (int.weight.ratio >= 10){
+      int.weight.ratio <- 1
+    }
+    int.ext.weighted <- (int/ext)*(int.weight.ratio)
+    print(paste("int.weight.ratio:" , int.weight/ext.weight))
+    #print(paste("ext.weight:" , ext.weight))
+    weight[i,2] <- as.numeric(int.weight)
+    weight[i,3] <- as.numeric(ext.weight)
+    scenes[i,2] <- as.numeric(int/ext)
+    scenes[i,3] <- as.numeric(int.ext.weighted)
+    scenes[i,4] <- as.numeric(int.perc)
+    scenes[i,5] <- as.numeric(int.weight.ratio)
+    #print(files[i])
+  }
+}
+#write.table(scenes, file = "../TV_Scripts_Scenes_Int_Ext_Ratio.csv", sep=",")
+## attach corresponding ratios to master table
+master.table <- master.label
+master.table <- apply(master.table, 2, function(y) gsub(".txt", "", y))
+master.table <- merge(x=master.table, y=scenes, by.x="title", by.y="V1")
+#write.table(master.table, file = "/Users/Fedor/Desktop/tv-final/2. Metadata/Film_Scripts_Master_2.csv", sep=",")

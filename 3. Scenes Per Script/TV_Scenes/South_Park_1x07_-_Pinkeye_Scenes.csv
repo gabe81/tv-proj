@@ -1,0 +1,39 @@
+1,               EXT OUTER SPACE,19
+2,               INT MIR SPACE STATION,45
+3,               EXT BUSSTOP  MORNING,52
+4,               EXT MORTUARY  NIGHT,10
+5,               INT MORTUARY  NIGHT,48
+6,               EXT MORTUARY  NIGHT,21
+7,               EXT SOUTH PARK  EVENING,8
+8,               EXT BUSSTOP  MORNING,147
+9,               INT DOCTORS OFFICE  DAY,42
+10,               INT CLASSROOM  DAY,131
+11,               EXT CARTMANS HOUSE  DAY,37
+12,               INT CAFETERIA  DAY,116
+13,               INT PRINCIPAL VICTORIAS OFFICE  DAY,85
+14,               EXT SOUTH PARK,14
+15,               INT GYMNASIUM  DAY,170
+16,               EXT CHEFS HOUSE  DUSK,32
+17,               INT CHEFS HOUSE  A LITTLE LATER,47
+18,               EXT SOUTH PARK  NIGHT,153
+19,               INT DOCTORS OFFICE  NIGHT,85
+20,               EXT HOUSE  NIGHT,49
+21,               INT MAYORS OFFICE  NIGHT,64
+22,               EXT ANOTHER HOUSE  NIGHT,37
+23,               EXT SOUTH PARK AVENUE  NIGHT,5
+24,               EXT ANOTHER HOUSE  NIGHT,22
+25,               EXT CHEFS HOUSE  NIGHT,45
+26,               INT CHEFS HOUSE  NIGHT,66
+27,               EXT MORTUARY  NIGHT,14
+28,               INT MORTUARY  NIGHT,110
+29,               EXT CEMETERY  NIGHT,42
+30,               EXT CEMETERY  NIGHT,23
+31,               INT MORTUARY,8
+32,               EXT PAY PHONE  CONTINUOUS,19
+33,               EXT CEMETERY  NIGHT,29
+34,               INT WORCHESTERSHIRE HQ  NIGHT,10
+35,               EXT PAY PHONE  CONTINUOUS,8
+36,               EXT CEMETERY,15
+37,               INT WORCHESTERSHIRE HQ,9
+38,               EXT PAY PHONE  CONTINUOUS,19
+39,               EXT CEMETERY,70

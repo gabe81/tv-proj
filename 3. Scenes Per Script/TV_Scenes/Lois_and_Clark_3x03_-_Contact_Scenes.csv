@@ -1,0 +1,36 @@
+1,   EXT AIRPORT  AFTERNOON  DAY                                     ,290
+2,   EXT COUNTRY ROAD  NIGHT                                          ,5
+3,   INT LOISS JEEP  NIGHT                                             ,26
+4,   EXT LOISS APARTMENT BUILDING  DAWN  DAY                        ,148
+5,   INT LOISS APARTMENT  LIVING ROOM  EARLY MORNING                  ,129
+6,   INT DAILY PLANET  NEWSROOM  DAY                                   ,208
+7,   INT CHAIRMANS OFFICE  NANOSOFT CORPORATION  DAY                  ,171
+8,  INT ZENITH CHIP CORPORATION  DAY                                  ,10
+9,  INT HELICOPTER  DAY                                               ,66
+10,  INT ZENITH CHIP CORPORATION  DAY                                  ,11
+11,  INT HELICOPTER  DAY                                               ,31
+12,  INT HELICOPTER  DAY                                               ,18
+13,  EXT CLOUDS  DAY SPECIAL EFFECTS                                 ,12
+14,  EXT AIRPORT  DAY                                                  ,107
+15,  INT CHAIRMANS OFFICE  NANOSOFT  DAY                             ,44
+16,  INT SOLSVIGS LABORATORY  MANOSOFT  DAY  CONTINUOUS             ,138
+17,  EXT  DAILY PLANET  DAY                                            ,73
+18,  EXT LOISS APARTMENT BUILDING  AFTERNOON                          ,115
+19,  INT SOLSVIGS LABORATORY  NIGHT                                 ,18
+20,  INT LOISS APARTMENT  KITCHEN  NIGHT                             ,97
+21,  INT LOISS APARTMENT  LATER                                       ,97
+22,  INT LOISS BEDROOM  NIGHT                                         ,53
+23,  INT  LOISS BEDROOM  NIGHT                                        ,6
+24,  INT KENTS BEDROOM  NIGHT                                         ,21
+25,  INT CLARKS APARTMENT  KITCHEN  NIGHT                            ,294
+26,  INT SOLSVIGS LABORATORY  NIGHT                                   ,24
+27,  INT DAILY PLANET  CONFERENCE ROOM  DAY                         ,168
+28,  INT LOISS APARTMENT  DAY                                         ,195
+29,  INT PERRYS OFFICE  DAY  CONTINUOUS                              ,11
+30,  INT LOISS APARTMENT  CONTINUOUS                                  ,24
+31,  EXT NANOSOFT  DAY                                                 ,17
+32,  INT CHAIRMANS OFFICE  NANOSOFT  DAY                             ,178
+33,  EXT NANOSOFT HEADQUARTERS  DAY                                    ,47
+34,  INT CONFERENCE ROOM  DAILY PLANET  DAY                           ,161
+35,  INT LOISS APARTMENT  DAY                                         ,171
+36,  INT SOLSVIGS LABORATORY  DAY                                     ,112

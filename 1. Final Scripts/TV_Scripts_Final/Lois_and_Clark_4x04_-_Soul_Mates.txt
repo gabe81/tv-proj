@@ -1,0 +1,3372 @@
+To pop everything into place...    
+
+use Courier 10 (or 10 characters per inch)
+
+set top margin at 0.4", bottom margin at 0.4" (or minimums)
+left margin at 1", right margin at .25 (or minimum)
+   (I had to tell the program I was using legal paper)
+
+page breaks in hard copy indicated by ---page break---
+
+regular tabs, hard returns and right flushes are used 
+to position things to look as much like original as possible
+
+sometimes the formatting changes slightly (as in the numbers at the end
+of the lines), but I'm going to keep consistent because it's easier
+
+logo on front page will be noted when used but not included here
+
+as this may be sent in .txt, originally underlined words will 
+look like   _this_
+
+I don't know what the (X) or the * (this on Cast and Chronology pages)
+designate.
+
+Notes: 
+
+Cover:  "Soul Mates", Written by Brad Kern [and] Directed by Richard
+Friedman are all in large bolt print. The remainder of the text is in
+Courier 10 (10 characters per inch)
+
+Typos noted:
+
+"all right" misspelled as "alright" in several places
+(not a typo) page 11., note the "--" on its own line 
+     for the Baron's second line.
+no others noted
+
+
+
+                       graphic (see script.bmp)
+
+                              "Soul Mates"
+
+                              EPISODE FOUR
+
+                             Prod. #465204
+
+                               Written by
+
+                               Brad Kern
+
+                              Directed by
+
+                            Richard Friedman
+
+
+
+
+
+
+
+
+                                             _Production Draft_
+                                             August 13, 1996
+                                             FULL Blue  8/22/96
+                                             Pink Rev.  8/26/96
+                                             Yellow R.  8/27/96
+                                             Green Rev. 8/29/96
+                                             Gold Rev.  9/2/96
+                                             White R.   9/3/96
+
+                            ---page break---
+
+
+
+
+                              _LOIS & CLARK_
+
+                              "_Soul Mates_"
+
+                            Pink Rev. 8/26/96
+
+                                  _CAST_
+
+CLARK KENT/SUPERMAN
+
+LOIS LANE
+
+JIMMY OLSEN/SQUIRE JEREMY/SHERIFF JEREMIAH
+
+PERRY WHITE/FRIAR HARRY/REVEREND PERCY  *
+
+MARTHA KENT/MARTA/MARY
+
+JONATHAN KENT/JON/JONAS
+------------------------------------------------------------------
+
+BARON TEMPOS/TEMPUS TEX
+
+H.G. WELLS
+
+SORCERER
+
+SOLDIER #1
+
+SOLDIER #2
+
+                            ---page break---
+
+
+
+
+                              _LOIS & CLARK_
+
+                              "_Soul Mates_"
+
+                            Pink Rev. 8/26/96
+
+                                _LOCATIONS_
+
+
+_INTERIORS_:                              _EXTERIORS_:
+
+Daily Planet                              11th Century England
+  Newsroom                                   Woods
+                                             Cave
+Clark's Apartment                            Pond
+                                             Trail
+Sorcerer's Tent   *                          Sorcerer's Tent   *
+
+Outhouse
+                                          19th Century Texas
+                                             Town Square
+                                             Clearing
+                                             Law Office
+                                             Outskirts
+                                             Outhouse
+
+                            ---page break---
+
+
+
+
+                              _LOIS & CLARK_
+
+                              "_Soul Mates_"
+
+                            FULL Blue 8/22/96
+
+                               _CHRONOLOGY_
+
+
+
+                     SC.   1 - 6      NIGHT #1 (PRESENT)
+
+                     SC.   7 - 18     DAY #1 (11TH CENTURY)
+
+                     SC.  19 - 23     NIGHT #1 (11TH CENTURY)
+
+                     SC.  24 - 27     DAY #2 (11TH CENTURY)
+
+                     SC.  28 - 29     DAY #1 (PRESENT)
+
+                     SC.  30 - 50     DAY #1 (19TH CENTURY)
+
+                     SC.  51          DAY #1 (PRESENT) - REPRISE
+
+                     SC.  52 - 53     NIGHT #1 (PRESENT) - REPRISE
+
+                            ---page break---
+
+
+
+
+                          _LOIS AND CLARK_
+
+                  _The New Adventures of Superman_
+
+                           "SOUL MATES"
+
+                              TEASE
+
+    FADE IN:
+
+  1 ON LOIS'S WEDDING RING - NIGHT #1                               1   
+
+    And the sparkling diamond.  REVEAL:
+
+
+  2 INT. CLARK'S APARTMENT - NIGHT                                  2   
+
+    LOIS, by her luggage near the open front door, gazes in
+    disbelief at the ring on her finger.  SUPERMAN adds his          (X)
+    suitcase to hers, then hugs her from behind.                     (X)
+
+                                    SUPERMAN
+                        Hello, Wife.
+
+                                    LOIS
+                   Hello, Husband.  I still can't
+                   believe it -- we're really actually
+                   married!  It feels like a dream.
+                        (floating anxiety)
+                   It's not, right?  I mean, I know
+                   that's silly, but on the other
+                   hand, given our history together...
+
+                                    SUPERMAN
+                        (kisses her)
+                   That feel like a dream?
+
+                                    LOIS
+                   Come true.
+
+                                    SUPERMAN
+                   To be continued in Hawaii.  Ready?
+
+                                    LOIS
+                   Ready... Wait, I'm missing a bag.
+                   I must've left it at home.
+                        (makes flying motion)
+                   Do you mind?
+
+                                    SUPERMAN
+                   Something tells me we won't be
+                   needing a lot of clothes on our
+                   honeymoon, Lois.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Yellow Rev.               8/27/96       2.    
+
+
+  2 CONTINUED:                                                      2   
+
+                                    LOIS
+                   Yeah, but it's got that little red
+                   teddy you bought me --
+
+    In a BLUR, he ZOOMS out the door and ZOOMS back in, holding 
+    a small suitcase.
+
+                                    LOIS (CONT'D)
+                   -- in it.
+
+                                    SUPERMAN
+                   This the bag?
+
+                                    LOIS
+                   Hope you don't do everything that
+                   fast.
+
+                                    SUPERMAN
+                   One way to find out.
+
+    He sweeps her up, FLOATS her over to the bed.
+
+                                    LOIS
+                   What about Hawaii?
+
+                                    SUPERMAN
+                   Hawaii can wait, we can't.  We've                 (X)
+                   been through too much just to get
+                   to this point, this moment.
+
+    She meets his lips and their tender exchange turns 
+    passionate.  Just as they're getting hot and heavy, of 
+    course, a KNOCK at the door.
+
+                                    LOIS
+                   Aw, God, not _now_!
+
+    The KNOCKING becomes more insistent.
+
+                                    SUPERMAN
+                        (climbing off bed)
+                   Hold that thought.
+
+
+  3 FRONT DOOR                                                      3   
+
+    as it opens inward and an impatient CLARK, still putting on 
+    his glasses, finds H.G. WELLS standing in the corridor.
+
+                                    WELLS
+                   Oh, hello.  I hope I wasn't 
+                   interrupting anything.  Well, more 
+                   to the point, I hope I was.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Pink Rev.               8/26/96         3.    
+
+
+  3 CONTINUED:                                                      3   
+
+                                    CLARK
+                   Look, I don't know who you are --
+
+                                    WELLS
+                   Actually we've met, Mr. Kent, 
+                   although I doubt you'd remember.  
+                   I'm --
+
+                                    LOIS
+                        (approaches; recognizes)
+                   -- H.G. Wells!
+                        (to Clark)
+                   He's the one who took us back                     (X)
+                   through time to save you as a baby.
+
+                                    CLARK
+                        (remembering)
+                   Right, from Tempus...
+
+                                    WELLS
+                        (to Lois)
+                   Interesting, you weren't supposed 
+                   to remember any of that ever 
+                   happened.
+
+                                    LOIS
+                   Yeah, but you told me about it when 
+                   we ran into Tempus the second time.  
+                   Well, actually, _you_ didn't --
+                   _your_ older you did.
+
+                                    WELLS
+                   My older me, really?  Jolly good.
+                   Nice to know I've got a future.
+                        (inviting himself in)
+                   May I... ?
+
+                                    CLARK
+                   Well, actually --
+
+                                    WELLS
+                   By the way, my older me didn't 
+                   happen to mention I'd be stopping 
+                   by today, did he?
+
+                                    LOIS
+                   No...
+
+                                    WELLS
+                   Too bad, would've been nice to know 
+                   if this was all going to work out 
+                   in advance.  Well, hopefully I'll 
+                   remember to tell you next time.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Yellow Rev.               8/27/96       4.    
+
+
+  3 CONTINUED:                                                      3   
+
+                                    LOIS
+                   I think I'm getting a headache.
+
+                                    CLARK
+                   Oh, great...                                      (X)
+                        (to Wells)
+                   It's our honeymoon night.
+
+                                    WELLS
+                   Which is why I've come, rather
+                   urgently, I'm afraid. At the risk
+                   of sounding... indelicate, you
+                   haven't...   What I mean to say is,
+                   well...  Speaking to the point, you
+                   two haven't consummated your
+                   marriage yet, I hope.
+
+                                    CLARK
+                   What... ?                                         (X)
+
+                                    LOIS
+                   Not yet, no.                                      (X)
+
+                                    WELLS
+                   Then I'm not too late!
+
+                                    LOIS
+                   Too late?  For what... ?
+
+                                    WELLS
+                   Well, it's a long story, and I'm
+                   afraid we don't have much time.
+                   But the short of it is, I'm here to
+                   help you reverse a terrible curse.
+
+                                    CLARK
+                   A curse... ?
+
+                                    WELLS
+                   Cast upon your love centuries ago
+                   by a wicked, vindictive soul bound
+                   and determined to destroy your
+                   love.  Forever.
+                        (off their looks)
+                   Right.  I didn't think you'd
+                   believe me.  Which is why I wanted
+                   to confirm my suspicions first.
+                        (hands them newspaper)
+                   Tomorrow's headline, if you
+                   consummate...
+
+
+  4 INSERT - THE DAILY PLANET                                       4   
+
+    The column one headline, over Lois's PHOTO:  MYSTERY ILLNESS
+    CLAIMS LOIS LANE.  Below: CLARK KENT MOURNS HIS BRIDE.
+
+                            ---page break---
+    "SOUL MATES" (#4)     FULL Blue Rev.           8/22/96        5.    
+
+
+  5 RESUME                                                          5   
+
+    Clark's shocked.  Nothing, however, surprises Lois anymore.
+
+                                    LOIS
+                   A curse.  Naturally, why not?
+
+                                                     FADE OUT.
+                             _END OF TEASE_
+
+                            ---page break---
+    "SOUL MATES" (#4)     FULL Blue Rev.           8/22/96        6.    
+
+                               _ACT ONE_
+
+    FADE IN:
+
+  6 INT. CLARK'S APARTMENT (CONTINUOUS) - NIGHT                     6   
+
+    Clark hands the newspaper back to Wells:
+
+                                    CLARK
+                   How'd you find out about this...
+                   curse?
+
+                                    WELLS
+                   Initially, with this.
+
+    Wells reveals a Walkman-sized, titanium encased Device,
+    which has, at its center, a shifting pool of liquid crystal.
+    A row of ICONS underneath are the only controls.
+
+                                    CLARK
+                   What is it?
+
+                                    WELLS
+                   In it's own way, it's a time                      (X)
+                   machine, although, in actuality,                  (X)
+                   it's much more than that.  I came                 (X)
+                   across it upon my future travels,
+                   to a time quite unlike anything I'd
+                   ever dreamed of.  There, I met a                  (X)
+                   fellow inventor who discovered a                  (X)
+                   way to identify the energies
+                   emitted by... souls.
+
+                                    LOIS
+                   Excuse me...?
+
+                                    WELLS
+                        (filled with excitement)
+                   You see, every soul has an energy
+                   field unique unto itself -- a
+                   cosmic fingerprint, if you will.
+                   No two exactly alike.  This Device
+                   was created as a means to track
+                   that energy.  Or, to be more
+                   precise, _back_track it.
+
+                                    LOIS
+                   Wait a minute, are we talking past
+                   lives here?
+
+                                    WELLS
+                   If I remember, my dear, you were                  (X)
+                   equally skeptical about Time Travel
+                   when we first met.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     FULL Blue Rev.           8/22/96        7.    
+
+
+  6 CONTINUED:                                                      6   
+
+                                    CLARK
+                   Look, let's just say for the sake
+                   of argument, that that... _thing_
+                   does what you say it does.  What's
+                   it got to do with this curse?
+
+                                    WELLS
+                   That's how I found out about it.  I
+                   used the Device to track your soul
+                   back through time.
+
+                                    CLARK
+                   My soul? Why mine?
+
+                                    WELLS
+                   I simply chose the most powerful
+                   personality I knew -- Superman's,
+                   and discovered something quite
+                   remarkable along the way.  It seems
+                   that your soul is intertwined
+                   with _hers_, like soul mates.
+
+                                    LOIS
+                   Soul mates?
+
+                                    WELLS
+                   Wherever his was, there was yours,
+                   never one without the other.  Two
+                   lovers destined to meet and fall in
+                   love over and over again throughout
+                   Time.  Truly a mythic bond.
+
+    Lois and Clark share an intimate look.
+
+                                    WELLS (CONT'D)
+                   That's the good news.  The bad                    (X)
+                   news is that unless you return to
+                   the time of the curse and stop                    (X)
+                   it from being cast, tragedy will                  (X)
+                   strike you down in every lifetime,                (X)
+                   every time you consummate.                        (X)
+                        (shudders)                                   (X)
+                   It's usually very painful, too,                   (X)
+                   believe me.
+
+                                    LOIS
+                   Why does this stuff keep happening
+                   to us?
+
+                                    CLARK
+                   I don't know, but it might explain
+                   why stuff _does_ keep happening to
+                   us.
+                        (to Wells)
+                   Do we even have a choice?
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Yellow Rev.               8/27/96       8.    
+
+
+  6 CONTINUED:  2                                                   6   
+
+                                    WELLS
+                        (shrugs)
+                   Abstinence.
+
+                    LOIS                           CLARK
+               No way.                       Not a chance.
+
+                                    WELLS
+                   Right.  Well, then, here goes...
+                        (nervous laugh)
+                   Never actually tried this before.
+
+    He enters data into the Device, causing the liquid crystal 
+    center to GLOW WHITE.  That GLOW ARCS directly into Lois's 
+    and Clark's chests and then, in what best can be described 
+    as a GHOST-LIKE INNER LIGHT separates from their respective 
+    bodies and the BACKGROUND VORTEXES LIKE A TIME TUNNEL.
+
+                                                     CUT TO:
+
+  7 EXT. WOODS - DAY #1                                             7   
+
+    As the ARC OF LIGHT transmogrifies Clark into the body of 
+    his 11th Century incarnation -- dressed in a Robin Hood-like 
+    outfit (except, wearing a mask).  Wells appears next to him, 
+    still dressed in his 19th century duds.
+
+                                    CLARK
+                   Where are we ... ? What am I
+                   wearing... ?
+
+    He searches, frantic:
+
+                                    CLARK (CONT'D)
+                   Where's _Lois_?!
+
+
+ 7A CLOSE ON - A BOW                                               7A   
+
+    as an arrow is pulled taut in the bowstring, then FIRES!         (X)
+
+
+ 7B RESUME                                                         7B   
+
+                                    WELLS
+                        (notices; yells)                             (X)
+                   _Duck_!                                           (X)
+
+
+ 7C THE ARROW:                                                     7C   
+
+    WHIP PAN with it as it careens right for --
+
+                            ---page break---
+    "SOUL MATES" (#4)     Yellow Rev.               8/27/96      8A.    
+
+
+  8 OMITTED                                                         8   
+
+
+  9 CLARK                                                           9   
+
+    who instinctively tries to deflect it, _but it grazes his_
+    _forearm_ before embedding into a tree.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Pink Rev.               8/26/96         9.    
+
+
+  9 CONTINUED:                                                      9   
+
+                                    CLARK
+                        (recoils)
+                   Ouch!
+                        (surprised)
+                   I'm _bleeding_...
+
+                                    WELLS
+                   Oops, sorry.  Forgot to tell you, 
+                   you don't have super powers in this 
+                   incarnation.
+
+                                    CLARK
+                   Kind of an important thing to
+                   forget, don't you think?
+
+
+ 10 ANGLE - TWO MOUNTED SOLDIERS                                   10   
+
+    as they ride up, dressed in Middle Ages garb (animal skin,
+    leather armor), with their bows poised.
+
+                                    SOLDIER #1
+                   Holy Mother of God -- _The Fox_.
+                   We captured _The Fox_!
+                        (calls)
+                   We got _The Fox_!
+
+                                    SOLDIER #2
+                   Be sharp, he's a crafty one.
+
+                                    CLARK/THE FOX
+                   Look, I think there's been some 
+                   kind of mistake...
+
+    Then the BARON, wearing his noble capelet, rides forward on      (X)
+    his black stallion.
+
+                                    SOLDIER #1
+                   M'lord.
+
+    Reveal that the leader is -- _TEMPUS'S_ incarnation, BARON
+    TEMPOS (phonetic: tem-pohs).
+
+                                    BARON TEMPOS
+                   Well, well, what have we here?
+
+                                    CLARK/THE FOX
+                   _Tempus_... ?!
+
+                                    SOLDIER #1
+                   That's _Baron Tempos_ to you!                     (X)
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Pink Rev.               8/26/96        10.    
+
+
+ 10 CONTINUED:                                                     10   
+
+                                    CLARK/THE FOX
+                   Baron... Tempos?
+
+                                    WELLS
+                   Oh, dear...
+
+                                    BARON TEMPOS
+                   Don't you remember me?  I'm the bad 
+                   guy who collects horrendously 
+                   unfair taxes, and you're the good 
+                   guy who robs me blind and gives it 
+                   all back to the poor.  Ring any 
+                   bells?
+
+    Just then, Clark spots Lois, bejeweled and wearing a sexy,
+    quasi-transparent silk dress, as she's escorted up on
+    horseback by another SOLDIER.                                    (X)
+
+                                    CLARK/THE FOX
+                   Lois!
+
+    He instinctively moves to her, but Soldier #1 jams the butt 
+    of his bow into Clark's stomach, doubling him over.  
+    Angered, Clark straightens to charge -- then wisely freezes 
+    as the Soldiers instantly press their lances and arrows 
+    against his neck.
+
+
+                                    LOIS/LADY LOISETTE
+                   Clark!
+
+                                    BARON TEMPOS
+                   Clark?  Who's Clark?
+
+                                    LOIS/LADY LOISETTE
+                   Clark... ? Um...
+
+                                    WELLS
+                        (jumps in)
+                   She means me.  I'm Clark.  Sir
+                   Clark.  Of Kent.
+
+                                    BARON TEMPOS
+                        (disbelieving)
+                   Really...                                         (X)
+                        (sneers)
+                   Good god, don't tell me that's what
+                   the Saxons are wearing now?
+
+    Wells self-consciously looks down at his clothes.
+
+                                    BARON TEMPOS (CONT'D)
+                   But I digress. Now, where was I?
+                   Ah, yes, I remember.  Behead The                  (X)
+                   Fox.                                              (X)
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Green Rev.               8/29/96       10.    
+
+
+ 10 CONTINUED:  2                                                  10   
+
+                                    BARON TEMPOS
+                        (turns to Lois)
+                   Come, Lady Loisette, our wedding
+                   awaits.
+
+                                    LOIS/LADY LOISETTE
+                   Our wedding?  Lady Loisette... ?
+                   _Clark_!
+
+    But Clark is otherwise occupied as two of the soldiers force 
+    his head down onto a tree stump.  The other Soldier 
+    unsheathes a huge axe-like sword, forces Wells out of the 
+    way with it, then raises it to chop off Clark's head!
+
+                                    BARON TEMPOS
+                   Let's see you get out of _this_ one
+                   --
+
+
+10A ON CLARK/THE FOX                                              10A   
+
+    as he struggles to break free.  Then, just before the
+    Soldier strikes, he freezes in reaction to the O.S. SOUNDS
+    of daggers being drawn:
+
+
+ 11 OMITTED                                                        11   
+
+
+11A EXT. WOODS - WIDE ANGLE - PEONS                               11A(X)
+
+    as BUNCHES OF THEM have suddenly appeared from seemingly         (X)
+    nowhere to surround Tempos with lethal-looking daggers!          (X)
+
+                                    BARON TEMPOS
+                        (to Clark)
+                   Nicely done.
+
+    As the peons pull Tempos off his horse, a robed monk whom        (X)
+    WE recognize as _Perry White's incarnation_, FRIAR HARRY,        (X)
+    complete with bald pate, emerges from amongst them.              (X)
+
+                                    FRIAR HARRY
+                   Great shades of Caesar, the ambush
+                   worked to perfection.  Three cheers
+                   for _The Fox_.  Hip-hip --
+
+                                    PEONS
+                   Hoo-ray!  Hip-hip, hoo-ray!
+                   Hip-hip, hoo-ray!
+
+                                    CLARK/THE FOX
+                   Perry... ?
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Green Rev.               8/29/96       12.    
+
+
+11A CONTINUED:                                                    11A   
+
+                                    FRIAR HARRY
+                   Harry, son.  Friar Harry.                         (X)
+                   What's the matter, get conked on
+                   the head or something?
+
+                                    BARON TEMPOS
+                   Take your hands off of me, or I'll                (X)
+                   run you through!                                  (X)
+
+                                    FRIAR HARRY
+                   I've got a better idea, Baron.                    (X)
+                   How about we take your gold                       (X)
+                   instead, then run you through?                    (X)
+
+    He rips a sack of gold off Tempos's belt and tosses the          (X)
+    coins to the CHEERING peons.  Clark helps Lois down from         (X)
+    her horse:                                                       (X)
+
+                                    LOIS/LADY LOISETTE
+                        (off his wound)                              (X)
+                   Ohmigod, Clark -- you're hurt!
+                   Are you okay?
+
+                                    CLARK/THE FOX
+                   Yeah, aside from this new sensation
+                   of pain.  I'm just glad to see you.
+
+    Clark notices Friar Harry ready to run Tempos through with       (X)
+    a dagger.                                                        (X)
+
+                                    CLARK/THE FOX (CONT'D)
+                   Wait, no -- Look... we're no                      (X)
+                   better than he is, if we stoop to                 (X)
+                   his ways.  Let's just... make him                 (X)
+                   walk home in defeat --                            (X)
+                        (arm around her)
+                   without Lady Loisette.                            (X)
+
+                                    FRIAR HARRY
+                        (beat to consider it)                        (X)
+                   That's _brilliant_.  Humiliate the                (X)
+                   man, I love it.                                   (X)
+                        (to Peons)                                   (X)
+                   Alright, alright, you heard The                   (X)
+                   Fox.  Let's get a move on here.                   (X)
+                   After you, Baron.                                 (X)
+
+                                    BARON TEMPOS
+                        (to Clark)                                   (X)
+                   You have not seen the last of me,                 (X)
+                   I swear it.                                       (X)
+
+    Friar Harry and the Peons push and shove Tempos and his men      (X)
+    away, leaving Lois, Clark and Wells alone.                       (X)
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Green Rev.               8/29/96      12A.    
+
+
+11A CONTINUED:  2                                                 11A   
+
+                                    WELLS
+                   I should've known an incarnation of 
+                   Tempus's was behind the curse.  His 
+                   hatred of Superman transcends time.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Pink Rev.               8/26/96        13.    
+
+
+11A CONTINUED:  2                                                 11A   
+
+                                    LOIS/LADY LOISETTE
+                   Wait a minute -- time out -- I've got 
+                   a few questions here, do you mind?  
+                   First, how is it we're here, 
+                   dressed like -- Robin Hood and Maid 
+                   Marian, but we still _think_ like 
+                   Lois and Clark?
+                        (off Wells)
+                   And how come you haven't changed
+                   one bit?
+
+                                    WELLS
+                   Actually, the truth is... I have no 
+                   idea.  But perhaps the answer lies 
+                   in the fact that this is about 
+                   _your_ lives, _your_ circle of 
+                   friends, _your_ destiny, not mine.
+                   I'm merely... a guide.  Like a 
+                   narrator in a play.
+
+                                    CLARK/THE FOX
+                   Yeah, but why am I here?  I mean,
+                   I'm not even from this planet.
+
+                                    WELLS
+                   Perhaps Clark Kent isn't, but your 
+                   soul -- comes from a place beyond 
+                   planets, beyond Time.  Where we all 
+                   come from.  You see, time travel 
+                   has given me a glimpse at the Great 
+                   Design.  Enough of a glimpse to see 
+                   that the power of this universe is 
+                   energy, and the power of your love 
+                   is what brings your souls together,
+                   time and again.  That's the one 
+                   absolute -- wherever she is, you 
+                   are.
+
+                                    LOIS/LADY LOISETTE
+                   Yeah, together, but eternally
+                   teased.
+
+                                    MARTA'S VOICE
+                   M'lord...
+
+                                                     REVEAL:
+
+
+ 12 JON AND MARTA                                                  12   
+
+    who hurriedly approach dressed in peon's garb.  They are 
+    _Jonathan and Martha Kent's incarnations_.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Pink Rev.               8/26/96        14.    
+
+
+ 12 CONTINUED:                                                     12   
+
+                                    CLARK/THE FOX
+                        Mom?  Dad?
+
+    Marta and Jon turn and look behind them thinking Clark's
+    talking to somebody else.  As Jon eyes Wells's outfit            (X)
+    suspiciously:                                                    (X)
+
+                                    MARTA
+                        (curtseys)                                   (X)
+                   Time is short, M'lord.  You'd                     (X)
+                   better come with us to our cave
+                   before Baron Tempos returns with
+                   his troops.
+
+                                    JON
+                   She's right, if Tempos discovers
+                   your secret identity, he'll have
+                   your head!
+
+                                    LOIS
+                   Oh, no, not this secret identity
+                   stuff again...
+
+                                                     CUT TO:
+
+                            ---page break---
+    "SOUL MATES" (#4)     Pink Rev.               8/26/96        15.    
+
+
+ 13 EXT. SORCERER'S TENT - DAY                                     13(X)
+
+    as an angry Baron Tempos charges u on foot to the tent           (X)
+    (fabric, animal skin, rope), and intercepts a passing            (X)
+    SOLDIER:                                                         (X)
+
+                                    BARON TEMPOS
+                        (orders)
+                   Find me Sir Charles, now!
+
+    The soldier obediently exits FRAME as Tempos sweeps into:        (X)
+
+
+ 14 INT. SORCERER'S TENT - DAY                                     14(X)
+
+    filled with things magical and mystical. Tempos enters to        (X)
+    find a ancient, white haired SORCERER toiling over a boiling
+    cauldron.  The Sorcerer drops a mandrake root into the
+    cauldron and the mist FLARES.  An inquisitive large, brown
+    RAT watches from a nearby cage.
+
+                                    SORCERER
+                        (reading mist)
+                   Uneasy is the dragon's breath
+                   to-day.  Something is amiss...
+
+    The Rat SQUEAKS.  The Sorcerer glares at it:
+
+                                    SORCERER (CONT'D)
+                   If I want your opinion, I'll ask
+                   for it.
+
+                                    BARON TEMPOS
+                   Really, Sorcerer, you must stop
+                   talking to rodents.  It completely
+                   undermines your credibility.
+
+                                    SORCERER
+                   Baron, I fear a strange magic, a
+                   force unlike any other has entered
+                   our sphere.
+
+                                    BARON TEMPOS
+                   Never mind that, I've got more
+                   pressing concerns.  The Fox has
+                   stolen Lady Loisette from me, and I
+                   simply can't have that.  I hate it
+                   when the hero gets the heroine,
+                   it's so cliche.
+
+                                    SORCERER
+                   Why do you want to force her to
+                   marry you anyway?  Simply to rule
+                   over her fiefdom?                                 (X)
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Pink Rev.               8/26/96        16.    
+
+
+ 14 CONTINUED:                                                     14   
+
+                                    BARON TEMPOS
+                   Why, sure, power's _fun_.  But the 
+                   added bonus is it'd destroy The Fox 
+                   because she's his girl.  That's why 
+                   I want you to make her love me.
+
+                                    SORCERER
+                   Would that I could, Sire.
+                   Unfortunately, spells can enchant
+                   and they can damn, but they can                   (X)
+                   never force the ways of a heart.
+
+                                    BARON TEMPOS
+                   You're sure about that?  You've 
+                   checked with all the other 
+                   sorcerers?
+
+                                    SORCERER
+                   Positive.
+
+                                    BARON TEMPOS
+                   Very well, I'll try a more 
+                   conventional approach first.  But, 
+                   if that fails, I want you to 
+                   prepare your most diabolical 
+                   curse -- and doom their love for 
+                   all time.
+
+    Tempos tosses a root into the cauldron causing it to FLARE 
+    and HISS.  The rat SCREECHES wildly.
+
+                                    SORCERER
+                   Gladly.
+
+    Then, SQUIRE JEREMY, _Jimmy Olson's incarnation_, enters and 
+    bows his head:
+
+                                    SQUIRE JEREMY
+                   My liege.
+
+                                    BARON TEMPOS
+                        (condescending)
+                   Who are you?
+
+                                    SQUIRE JEREMY
+                   I am Jeremy, loyal squire to Sir 
+                   Charles.  I'm afraid Sir Charles is 
+                   away on patrol.
+
+                                    BARON TEMPOS
+                   Ironic, isn't it?  Every time Sir
+                   Charles is away, The Fox shows up.
+                   I wonder, is it possible... ?
+                                    (MORE)
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     FULL Blue Rev.           8/22/96       17.    
+
+
+ 14 CONTINUED:  2                                                  14   
+
+                                    BARON TEMPOS (CONT'D)            (X)
+                        (spits it out)                               (X)
+                   Nahhh.                                            (X)
+                        (to Jeremy)                                  (X)
+                   Round up fresh troops.  The Fox                   (X)
+                   has absconded with Lady Loisette.                 (X)
+                   Find her, bring her to me!                        (X)
+
+                                    SQUIRE JEREMY                    (X)
+                   Yes, Sire, right away.                            (X)
+
+                                    BARON TEMPOS                     (X)
+                        (pulls him close)                            (X)
+                   But The Fox is mine, do you                       (X)
+                   understand?  Mine.  A thousand                    (X)
+                   gold pieces to the man who                        (X)
+                   brings him to me alive.                           (X)
+
+    Off Squire Jeremy, nodding nervously:                            (X)
+
+
+ 15 EXT. CAVE - DAY                                                15   
+
+    PICK UP Lois in conversation as she folds the Robin Hood 
+    outfit and stacks it on a rock.
+
+                                    LOIS/LADY LOISETTE
+                   I'm not saying I'm buying into any 
+                   of this stuff yet, but it is kind 
+                   of bizarre that Tempus, of all 
+                   people, is behind the curse.  I 
+                   mean, _Lex Luthor_, I could 
+                   understand, but --
+
+    She turns and ogles at Clark, who comes around from behind a 
+    boulder wearing only tight black pants and lace up leather 
+    boots.  He self-consciously reacts to her reaction:
+
+                                    CLARK/SIR CHARLES
+                   What... ? It's the pants, isn't it?  
+                   They're too tight.
+
+                                    LOIS/LADY LOISETTE
+                        (transfixed)
+                   Tight?  No, they're, uh... perfect.
+                   I just never get over how well --
+                   _defined_ you are.
+
+    She hands him a black leather jerkin with an attached 
+    flowing cape.
+
+                                    CLARK/SIR CHARLES
+                   Thanks...
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Pink Rev.               8/26/96        18.    
+
+
+ 15 CONTINUED:                                                     15   
+
+                                    LOIS/LADY LOISETTE
+                   Here, let me help.
+
+    She adjusts the cape then helps him lace up the vest.  They 
+    feed off each other's body heat, struggling to fend off 
+    their natural urges.  He strokes her cheek.  She strokes his 
+    exposed biceps.
+
+                                    LOIS/LADY LOISETTE (CONT'D)
+                   You know what I think... ?
+
+                                    CLARK/SIR CHARLES
+                   We've got to get back to our
+                   honeymoon A.S.A.P.
+
+                                    LOIS/LADY LOISETTE
+                   That's what I was thinking.
+
+    Melting into each other, they move to kiss, when Wells 
+    appears around the corner and CLEARS his THROAT.
+
+                                    CLARK/SIR CHARLES
+                   Yes... ?
+
+                                    WELLS
+                        (looking back)
+                   Sorry, but your... parents just 
+                   told me something very interesting.  
+                   Apparently, Sir Charles and Lady 
+                   Loisette are secretly in love.  
+                   That's why he... I mean, The Fox... 
+                   I mean, _you_ ambushed Tempos, to 
+                   get her away from him.
+
+                                    CLARK/SIR CHARLES
+                   Sounds like something I'd do in any 
+                   life.
+
+                                    WELLS
+                   The problem is that could very well 
+                   be the event that triggered the 
+                   curse.  If so, we may already be 
+                   too late.
+
+    Marta and Jon approach and present Clark with a shiny, King      (X)
+    Arthur-like sword.
+
+                                    MARTA
+                   Your sword, Sir Charles.
+
+    She hands it to him, then curtsies.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Pink Rev.               8/26/96        19.    
+
+
+ 15 CONTINUED:  2                                                  15   
+
+                                    CLARK/SIR CHARLES
+                   Please, don't do that, Mom...
+                   Ma'am.
+
+                                    JON                              (X)
+                   You'd better get back to Baron                    (X)
+                   Tempos, before he gets suspicious.                (X)
+
+                                    CLARK/SIR CHARLES                (X)
+                   Right...                                          (X)
+
+    Holding the sword, Clark looks like a storybook knight.
+
+                                    LOIS/LADY LOISETTE
+                        (to Marta)
+                   Cool outfit.
+
+                                    MARTA
+                        (frowns)
+                   You think it needs sleeves?
+
+
+ 16 OMITTED                                                        16   
+
+                            ---page break---
+    "SOUL MATES" (#4)     Yellow Rev.               8/27/96      20.    
+
+
+ 17 EXT. SORCERER'S TENT - DAY                                     17   
+
+    A SOLDIER nails a parchment WANTED POSTER to a post.  It
+    bears a crudely sketched LIKENESS of THE FOX (masked), and
+    reads:  PROCLAMATION, FOR THE CAPTURE OF THE FOX, 1000 GOLD
+    PIECES.  REVEAL Clark/Sir Charles, as he rides up,
+    dismounts, and reacts to the poster, before entering:
+
+
+ 18 INT. SORCERER'S TENT - DAY                                     18   
+
+    Squire Jeremy holds a tray of cheese for the Sorcerer, who
+    takes a piece and dangles it just out of the rat's reach.
+
+                                    SORCERER
+                   Come, come, now, you can beg better
+                   than that, can't you? That's it...
+                        (curt)
+                   That'll be all, Squire.
+
+    Jeremy nods, exits -- and runs into Sir Charles, entering:
+
+                                    SQUIRE JEREMY
+                   Sir Charles!
+
+                                    CLARK/SIR CHARLES
+                   _Jimmy_... ?
+
+                                    SQUIRE JEREMY
+                        (confused)
+                   M'lord?
+
+                                    CLARK/SIR CHARLES
+                   Never mind.  Where's Tempos?                      (X)
+
+                                    SQUIRE JEREMY
+                   He's been looking all over for you.
+                   I'll tell him you're here.
+
+    Jeremy exits.  Clark drifts over to the Sorcerer, who's
+    still teasing the rat with the cheese.  The rat SQUEAKS.
+
+                                    SORCERER
+                   Oh, so now you're being nice to me,
+                   eh?
+
+                                    CLARK/SIR CHARLES
+                   Nice rat.  What's his name?
+
+                                    SORCERER
+                   _Her_ name is Morgana.  She's my 
+                   wife, actually -- or at least she 
+                   was, until I caught her in the arms 
+                   of another.
+                                    (MORE)
+
+                                                     (CONTINUED)
+                            ---page break---
+    "SOUL MATES" (#4)     Yellow Rev.               8/27/96     20A.    
+
+
+ 18 CONTINUED:                                                     18   
+
+                                    SORCERER (CONT'D)
+                        (fiendish)
+                   Perks of being a sorcerer.
+                        (then)
+                   Wait 'til you see what I'm cooking
+                   up for The Fox!
+
+    Clark registers that as Baron Tempos enters:
+
+                                    BARON TEMPOS
+                   What have we here?  My prized 
+                   knight has deigned to make an 
+                   appearance, has he?
+
+    Tempos collects a handful of grapes, as he holds out his 
+    ring for Clark to kiss.  Clark hesitates, forces himself to 
+    kiss it.
+
+                                    BARON TEMPOS (CONT'D)
+                   Your eyes betray you, my friend.  
+                   You don't much like stooping to me, 
+                   do you?
+
+                                    CLARK/SIR CHARLES
+                   As a rule, no.  Baron.                            (X)
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Pink Rev.               8/26/96        21.    
+
+
+ 18 CONTINUED:  2                                                  18   
+
+                                    BARON TEMPOS
+                        (measures that)
+                   That's what I like about you, 
+                   Charles.  You're fearless.  Which 
+                   is precisely why I want you to duel 
+                   The Fox.  In my name, of course.
+
+                                    CLARK/SIR CHARLES
+                   Me?  That's impossible...
+
+                                    BARON TEMPOS
+                   Impossible, why?
+
+                                    CLARK/SIR CHARLES
+                   I mean... you know, because The Fox 
+                   is on the loose...
+
+                                    BARON TEMPOS
+                   Not for long, I assure you.  He'll 
+                   be captured, and when he is, you 
+                   will defeat him for all to see.
+                   Then, after The Fox is vanquished 
+                   once and for all, I will marry Lady 
+                   Loisette.
+                        (eats a grape)                               (X)
+                   And live happily ever after.
+
+    Off Clark's reaction:
+
+                                                     FADE OUT
+                             _END OF ACT ONE_
+                            ---page break---
+    "SOUL MATES" (#4)     Yellow Rev.               8/27/96      22.    
+
+                              _ACT TWO_
+
+    FADE IN:
+
+ 19 EXT. CAVE - NIGHT #1                                           19   
+
+    Clark/Sir Charles, black cape flowing, rides up to Lois and
+    Wells.  Marta and Jon are roasting a wild boar on a spit
+    nearby.
+
+                                    LOIS/LADY LOISETTE
+                   It's about time, Clark, I was
+                   getting worried about you.
+
+                                    CLARK/SIR CHARLES
+                        (dismounts)
+                   I'm supposed to be out searching
+                   for The Fox.  Baron Tempos wants me
+                   to duel him for your love.
+
+                                    LOIS/LADY LOISETTE
+                   You fighting you for me?  That
+                   should be interesting.
+
+                                    WELLS
+                   What about the curse, has it been
+                   cast yet?
+
+                                    CLARK/SIR CHARLES
+                   I don't think so, but you don't
+                   want to mess with that sorcerer,
+                   believe me.  The guy's married to                 (X)
+                   a rat.
+
+                                    WELLS
+                   Pardon?
+
+                                    CLARK/SIR CHARLES
+                   My point is, I think the original
+                   Sir Charles came back for Lady
+                   Loisette like I'm doing, but ran
+                   off with her, never to return --
+
+                                    LOIS/LADY LOISETTE
+                   -- which kept Tempos from being                   (X)
+                   able to marry her.  That's gotta be
+                   what triggered the curse.
+
+                                    CLARK/SIR CHARLES
+                   The question is, how do we keep it                (X)
+                   from being triggered?                             (X)
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     FULL Blue Rev.           8/22/968/22/96        23.    
+
+
+ 19 CONTINUED:                                                     19   
+
+    As they absorb that, Jonathan and Marta approach and drop        (X)
+    the charred pig onto the table.
+
+                                    MARTA
+                   Who wants boar?
+
+    She CHOPS a leg and haunch off with an axe. Lois SHRIEKS.
+
+                                    MARTA (CONT'D)
+                        (handing her the piece)
+                   Something wrong?
+
+                                    LOIS/LADY LOISETTE
+                   No, no, I'm fine, really.  Um,
+                   could I have a napkin, please?
+
+    Marta and Jon exchange a curious look, then cross back to        (X)
+    the cave.  Lois lets out an overwhelmed sigh.
+
+                                    CLARK/SIR CHARLES
+                   You okay?
+
+                                    LOIS/LADY LOISETTE
+                   Me?  Why, because I'm traipsing
+                   around in some past life, being
+                   chased by a medieval psychotic
+                   who's trying to put a curse on me
+                   when I'm really supposed to be on
+                   my honeymoon making love to my
+                   husband?!  Do I _look_ okay to
+                   you?!
+                        (off boar leg)
+                   Ewww!
+
+    She tosses it on the ground, then disappears in a huff.
+
+                                    WELLS
+                   Perhaps you two would like a moment
+                   alone.
+
+                        CLARK/SIR CHARLES
+                   Good idea.
+
+    Clark exits.
+
+
+20  ANGLE - CAVE - NIGHT                                           20   
+
+    Jon and Marta look on by the spit.
+
+                                    JON
+                   I'm worried about Sir Charles,
+                   Marta.
+                                    (MORE)
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Yellow Rev.               8/27/96      24.    
+
+
+ 20 CONTINUED:                                                     20   
+
+                                    JON (CONT'D)
+                   Word's spreading fast through the 
+                   forest about the bounty.  He hasn't 
+                   been himself lately.
+
+                                    MARTA
+                   Neither has Lady Loisette.  She 
+                   keeps asking me strange questions, 
+                   like how long have we known Sir 
+                   Charles, and can she have a napkin.
+
+                                    JON
+                   What's a napkin?
+
+                                    MARTA
+                   My point exactly.
+
+
+ 21 EXT. POND - NIGHT                                              21   
+
+    Moonlit, romantic, as Clark catches up to a calmer Lois 
+    who's looking up at the sky.
+
+                                    CLARK/SIR CHARLES
+                   Hey...
+
+                                    LOIS/LADY LOISETTE
+                   Do you ever wonder if our 
+                   relationship's... jinxed, Clark?  
+                   Not just here, everywhere.
+
+                                    CLARK/SIR CHARLES 
+                   What do you mean?
+
+                                    LOIS/LADY LOISETTE
+                   I mean jinxed... like it's not
+                   meant to be.  Just look at
+                   everything we've had to overcome.                 (X)
+
+                                    CLARK/SIR CHARLES
+                   Lois...
+
+                                    LOIS/LADY LOISETTE
+                   No, I'm serious, Clark.  Maybe 
+                   we're missing the obvious here.  
+                   Maybe it's time we stopped 
+                   pretending, started looking at the 
+                   writing on the wall.  It just seems 
+                   like every time we turn around, 
+                   every time we try to take the next 
+                   step, something's in our way trying 
+                   to keep us from getting there.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Yellow Rev.               8/27/96      25.    
+
+
+ 21 CONTINUED:                                                     21   
+
+    She turns away, pained by the very thought.
+
+                                    CLARK/SIR CHARLES
+                   I don't know... When you add it all
+                   up like that, it's a lot.  But,
+                   maybe, that's the point.  Maybe
+                   what it really is, is a test... to
+                   see how badly we want to be
+                   together.  Maybe it's up to us to
+                   decide of t's meant to be or not.                 (X)
+
+                                    LOIS/LADY LOISETTE
+                        (fishing)
+                   What do you think?
+
+                                    CLARK/SIR CHARLES
+                   I think there's a reason why we're
+                   soul mates.  A very, very good
+                   reason.
+
+    He wraps his arms around her.  She lays her head on his
+    chest, notices:
+
+
+ 22 THE NIGHT SKY                                                  22   
+
+    as a SHOOTING STAR streaks across.
+
+
+ 23 RESUME LOIS AND CLARK                                          23   
+
+    as they both watch it.
+
+                                    LOIS/LADY LOISETTE
+                   I've always loved shooting stars.
+                   I suppose that's one of the reasons
+                   I love you.  You came in on one.
+
+                                    CLARK/SIR CHARLES
+                   Or at least I will, in about a
+                   thousand years, or so.  Then we get
+                   to meet and fall in love all over
+                   again.
+
+    They fall into a tender kiss.
+
+                                    WELLS
+                        (clears his throat)
+                   Forgive me for interrupting...
+
+                                    LOIS/LADY LOISETTE
+                   Are you kidding?  We could set our
+                   clocks by it.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Yellow Rev.               8/27/96      26.    
+
+
+ 23 CONTINUED:                                                     23   
+
+                                    WELLS
+                   Sorry, but time is of the essence 
+                   and I think I might have an idea.
+                   What would happen if we could find 
+                   a way to get The Fox to duel Baron 
+                   Tempos, himself -- and _lose_ to 
+                   him?
+
+                                    LOIS/LADY LOISETTE
+                   It'd keep the curse from being
+                   cast, I guess.
+
+                                    WELLS
+                   Then you could return to your
+                   honeymoon.
+
+                                    CLARK/SIR CHARLES
+                   Yeah, but we'd be leaving The Fox 
+                   to spend the rest of his life at 
+                   Tempos's mercy.
+
+                                    WELLS
+                   Isn't that preferable to the 
+                   alternative -- him having to endure 
+                   the first in a never-ending string 
+                   of tragedies?
+
+                                    CLARK/SIR CHARLES
+                   Well, what about Lady Loisette?  We 
+                   can't just let her get stuck with 
+                   Tempos.
+
+                                    LOIS/LADY LOISETTE
+                   If I know her, and I think I do,
+                   she can handle him.
+
+                                    CLARK/SIR CHARLES
+                   Yeah, but --
+
+    Lois strokes his cheek, interrupting him.
+
+                                    LOIS/LADY LOISETTE
+                   Clark, I want to get home now...                  (X)
+                        (suggestively runs her 
+                         hand down his chest)
+                   ... I want to turn on some soft 
+                   music, open that bottle of 
+                   champagne and finish what we 
+                   started in the twentieth century. 
+                   Okay?  Foreplay's nice, but this is 
+                   ridiculous.
+
+                                    CLARK/SIR CHARLES
+                        (beat)
+                   I'll need my green tights.
+
+                            ---page break---
+    "SOUL MATES" (#4)     Green Rev.               8/29/96       27.    
+
+
+ 24 EXT. TRAIL - DAY #2                                            24   
+
+    where Clark (dressed as The Fox) is perched up high on an
+    overhanging branch.  TWO SOLDIERS ride past underneath him,
+    leading the way for Baron Tempos.
+
+
+24A ANGLE - LOIS AND WELLS                                        24A   
+
+    hiding behind some bushes, watching as:
+
+
+ 25 CLARK                                                          25   
+
+    waits for Tempos to ride directly below, then times his jump
+    just right and --
+
+
+ 26 BARON TEMPOS 26
+
+    rides alone, then suddenly gets knocked off his horse by
+    Clark and onto the ground.  Clark hops to his feet, hand on
+    his hips.
+
+                                    CLARK/THE FOX
+                   Heard you were looking for me,
+                   Tempos.
+
+    The soldiers turn and charge Clark.
+
+                                    CLARK/THE FOX (CONT'D)
+                   Careful, you wouldn't want to make
+                   a martyr out of me, would you?
+
+    Tempos holds up a hand to stop them, then gets to his feet.
+
+                                    BARON TEMPOS
+                   Search the area for Lady Loisette!
+                        (to Clark)
+                   After all, foxes mate for life.
+
+
+ 27 EXT. BARON TEMPOS'S TENT - ON LADY LOISETTE - DAY              27   
+
+    Lois is seated next to Tempos, flanked by two soldiers.
+    They're facing a roped-off RING where a small CROWD of Peons
+    look on.  Clark/The Fox and Wells stand just outside of the      (X)
+    ring, also under guard.                                          (X)
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Gold Rev.               9/2/96         28.    
+
+
+ 27 CONTINUED:                                                     27   
+
+                                    CLARK/THE FOX
+                   Looks like it's just you and me,
+                   Tempos.
+
+                                    BARON TEMPOS
+                   Don't be ridiculous. I'm a baron,                 (X)
+                   I only duel nobility.
+                        (to Jeremy)                                  (X)
+                   Where's Sir Charles?                              (X)
+
+                                    CLARK/THE FOX
+                   Right in front of you.                            (X)
+
+    Dramatically, Clark rips off the mask to reveal--
+
+                                    SQUIRE JEREMY
+                   Sir Charles?!  You're The Fox? I
+                   _love_ it!
+
+    Baron Tempos slowly rises, stunned at this revelation.
+
+                                    BARON TEMPOS
+                   Of course... It all makes perfect 
+                   sense.  Never in the same place at 
+                   the same time.  Always ducking out 
+                   and returning with some lame 
+                   excuse.  I can't believe I was 
+                   actually fooled by a little mask 
+                   over the eyes.
+
+                                    LOIS/LADY LOISETTE
+                   Duh!  Join the club!
+
+    With that, Lois wrenches free and dashes to Clark's side.
+    The Soldier starts after her --
+
+                                    BARON TEMPOS
+                   No, leave her be.  Sir Charles is 
+                   right, this fight to the death is 
+                   between him and me!
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Green Rev.               8/29/96       29.    
+
+
+ 27 CONTINUED:  2                                                  27   
+
+                                    CLARK/SIR CHARLES 
+                   Fight to the _what_... ?
+
+                                    WELLS
+                   Oh, dear...
+
+    Tempos sheds his capelet, preparing for battle.                  (X)
+
+                                    LOIS/LADY LOISETTE
+                   Wait a minute, what're we going to 
+                   do? If you let him win, he'll 
+                   _kill_ you.
+
+                                    CLARK/SIR CHARLES 
+                   I know... But maybe that's the only 
+                   way...
+
+                                    LOIS/LADY LOISETTE
+                   Are you crazy?
+
+                                    CLARK/SIR CHARLES
+                        (to Wells)
+                   What would happen to me, I mean 
+                   _Clark_, if Sir Charles, you 
+                   know... ?
+
+                                    WELLS
+                   I'm not sure.  Although, souls 
+                   never die, so it really shouldn't 
+                   affect... Clark.
+
+                                    BARON TEMPOS
+                        (removing his gloves)                        (X)
+                   Is there a more noble way to die
+                   than to die for love, Sir Charles?
+
+    Decision time.  Lois and Clark hold an intimate look.
+
+                                    CLARK/SIR CHARLES
+                   I don't want to die... But if 
+                   that's what it takes for us to be 
+                   together... that's easy.
+
+    He smothers her protest with a kiss, then turns to meet the
+    challenge.
+
+                                    LOIS/LADY LOISETTE
+                   Clark...
+
+    Wells gently grabs her, knowing this is how it must go down.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Green Rev.               8/29/96       30.    
+
+
+ 27 CONTINUED:  3                                                  27   
+
+                                    CLARK/SIR CHARLES
+                        (steps into the ring)                        (X)
+                   Alright, Tempos, you want me? Come
+                   and get me.
+
+                                    BARON TEMPOS
+                   My pleasure --                                    (X)
+
+    With that, Tempos sneakily picks up a spiked ball and            (X)
+    chain, and HURLS it at Clark, who just barely DUCKS as it        (X)
+    whistles past his head!                                          (X)
+
+                                    BARON TEMPOS (CONT'D)
+                   Drat..                                            (X)
+                        (commands)                                   (X)
+                   My sword!                                         (X)
+
+    A SOLDIER runs up to Tempos, hands him his saber, leaving        (X)
+    Clark defenseless.                                               (X)
+
+                                    SQUIRE JEREMY
+                   Sir Charles,, catch!                              (X)
+
+    Jeremy retrieves Clark's sword and tosses it to him. Clark       (X)
+    exchanges a heartfelt look with him.  It's cut short by          (X)
+    Tempos, who LUNGES with his saber.  Clark parries the            (X)
+    attack and then they begin to FENCE like something right         (X)
+    out of "The Adventures of Robin Hood."  After a series of
+    intense exchanges, Tempos manages to GRAZE Clark's chest,        (X)
+    drawing blood.                                                   (X)
+
+                                    LOIS/LADY LOISETTE
+                   Clark!
+
+    Lois instinctively moves to him, but Wells catches her arm
+    as Clark, wincing from the pain, quickly recovers.  He and       (X)
+    Tempos circle each other, jockeying for position.                (X)
+
+                                    BARON TEMPOS
+                   This is great drama.  Why, I'll                   (X)
+                   bet some day, somebody'll write a                 (X)
+                   story about this, and it'll be
+                   enjoyed by millions!
+
+    Tempos LUNGES again, but Clark's ready for him.  Adrenalin       (X)
+    pumping, he overtakes Tempos in a furious barrage, knocking      (X)
+    him to the ground.
+
+    But instead of going for the kill, Clark turns to look at 
+    Lois, _intentionally_ allowing Tempos time to regain his 
+    feet and go back on the attack.  Clark allows Tempos to 
+    defeat him as he falls backward onto the ground.  Tempos 
+    straddles him for the kill.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Green Rev.               8/29/96      30A.    
+
+
+ 27 CONTINUED:  4                                                  27   
+
+                                    BARON TEMPOS
+                   Hope you believe in the afterlife.
+
+    Clark braces himself as Tempos prepares to plunge the saber
+    into his heart --
+
+                                    LOIS/LADY LOISETTE
+                        (screams)
+                   No!  Wait, stop!
+
+    Tempos catches himself just before he strikes.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Gold Rev.               9/2/96         31.    
+
+
+ 27 CONTINUED:  5                                                  27   
+
+                                    LOIS/LADY LOISETTE (CONT'D)
+                   Oh, God, okay... wait a minute
+                   here, let's just wait...   okay,                  (X)
+                   look, I'll make a deal with you,                  (X)
+                   Tempos... If you spare his life...
+                   I'll marry you.
+
+                                    CLARK/SIR CHARLES
+                   Lois!?
+
+                                    BARON TEMPOS
+                   Touching, but if I _don't_ spare 
+                   his life, you'll be forced to marry 
+                   me anyway.  What do I get out of 
+                   it?
+
+                                    LOIS/LADY LOISETTE
+                   The one thing you can't force -- my 
+                   fidelity.
+
+                                    CLARK/SIR CHARLES
+                   Lois, you can't --
+
+                                    BARON TEMPOS
+                   I accept.  On one condition, 
+                   non-negotiable.  Sir Charles is to 
+                   leave this country, never to 
+                   return.  Not that I don't trust 
+                   you, m'lady, but why tempt 
+                   temptation?
+
+    Clark starts to protest, but:
+
+                                    LOIS/LADY LOISETTE
+                   He accepts.
+                        (to Clark)
+                   I can't let you die.
+
+                                    BARON TEMPOS
+                        (calls out)
+                   Fetch the Bishop, tell him he's got
+                   a wedding to perform!
+
+    Wells moves to lead Clark away.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Yellow Rev.               8/27/96      32.    
+
+
+ 27 CONTINUED:  5                                                  27   
+
+                                    CLARK/SIR CHARLES
+                   We can't just leave her!
+
+                                    WELLS
+                   You must.
+                        (off his resisting)
+                   Remember why you're doing it,
+                   m'boy.  Have faith in your love...
+
+    The tug that is their bond pulls at Clark as he walks off,
+    sharing one last emotional look with Lois as Wells punches
+    buttons on The Device, engaging it.  The liquid crystal
+    center GLOWS WHITE; then, in a FLASH, it ARCS OUT to Clark
+    and ZAP -- the BACKGROUND VORTEXES AWAY.                         (X)
+
+                                                     CUT TO:
+
+
+28 INT. DAILY PLANET - PRESENT - DAY #1                            28   
+
+    As the ARC OF LIGHT transmogrifies Clark into his CLARK KENT
+    BODY.  Wells appears right next to him.
+
+                                    CLARK
+                   We're back at the Planet!
+                        (moment of panic)
+                   Where's Lois?
+
+                                    WELLS
+                        (frowns; checks Device)
+                   I can't be sure...                                (X)
+
+    He shakes the Device to see if it's working.  Then, the          (X)
+    elevator doors open.  An anxious beat, then Lois, in her         (X)
+    present day wardrobe, steps out slightly unsteady on her         (X)
+    feet.  Clark holds her, relieved beyond words.
+
+                                    CLARK
+                   Lois, are you all right?!
+
+                                    LOIS
+                   Yeah... I think so...
+                        (slowly realizing)
+                   We're back!  We did it, we reversed
+                   the curse!
+
+    They hug, tightly.  Perry and Jimmy approach.
+
+                                    PERRY
+                   Lois, honey, what in the King's
+                   name are you doing here?
+                        (appraises Wells)
+                   Ah, sorry, delivery job's filled.
+
+    Wells frowns.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Pink Rev.               8/26/96        33.    
+
+
+ 28 CONTINUED:                                                     28   
+
+                                    JIMMY
+                   Yeah, Lois, shouldn't you be at
+                   your wedding by now?
+
+                                    LOIS
+                   Don't you mean our _honeymoon_,
+                   Jimmy?
+
+    She kisses Clark, as if to remind him too.
+
+                                    PERRY
+                   Great shades of Elvis, have you 
+                   lost your mind?!  What's the matter 
+                   with you?
+
+                                    JIMMY
+                   You'd better not let Tempus see you
+                   doing that!
+
+                                    CLARK/LOIS
+                   Tempus?
+
+                                    WELLS
+                        (pulls newspaper out of
+                         his coat pocket
+                   Oh, dear...
+                        (off Lois and Clark's
+                         concerned look)
+                   I'm afraid something's gone
+                   terribly wrong...
+
+    He shows them tomorrow's revised headline: KING TEMPUS TO        (X)
+    WED LOIS LANE.  Off their reactions:                             (X)
+
+                                                     FADE OUT
+
+                            _END OF ACT TWO_
+                            ---page break---
+    "SOUL MATES" (#4)     FULL Blue Rev.           8/22/96       34.    
+
+                             _ACT THREE_
+
+    FADE IN:
+
+29  INT. DAILY PLANET - PRESENT CONTINUED - DAY                    29   
+
+    Lois and Clark corner Wells.
+
+                                    LOIS
+                   Tempus a _king_?  We don't even
+                   have kings!
+
+                                    CLARK
+                   Plus, he's supposed to be in
+                   prison.  What's going on?
+
+                                    WELLS
+                   I don't know... Perhaps something's
+                   wrong with The Device.  It's from
+                   the future, you know, it's
+                   difficult to get parts.
+
+                                    CLARK
+                   Look, you said if we reversed the
+                   curse, we'd be able to consummate
+                   our marriage.  Well, we reversed
+                   it, didn't we?
+
+                                    WELLS
+                   By changing history, yes.
+
+                                    LOIS
+                   But, we didn't have a choice.  That
+                   was the only way to stop the curse.
+
+                                    WELLS
+                   History's held in delicate balance,
+                   with infinite consequences to even
+                   the most remote or seemingly
+                   insignificant change.  It's quite
+                   possible that in allowing Baron
+                   Tempos to defeat The Fox, we
+                   unwittingly allowed Evil to defeat
+                   Good in a place and time it had not
+                   done so before.  That, over Time,
+                   may very well have shifted the
+                   balance of power in favor of Evil.
+
+                                    CLARK
+                   Which explains why Tempus is a                    (X)
+                   king now.                                         (X)
+
+                                    WELLS
+                   I'm afraid so.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     FULL Blue Rev.           8/22/96       35.    
+
+
+ 29 CONTINUED:                                                     29   
+
+                                    LOIS
+                        (at wit's end)
+                   Can't we just have a honeymoon like -
+                   normal people?  Is that really too
+                   much to ask for?
+
+                                    CLARK
+                   We obviously can't leave things                   (X)
+                   the way they are, so what do we                   (X)
+                   do?                                               (X)
+
+                                    WELLS                            (X)
+                   There's only one thing to do -- go                (X)
+                   back and defeat Tempus this time.                 (X)
+                   Shift the balance of power back to                (X)
+                   Good.                                             (X)
+
+                                    LOIS                             (X)
+                   But won't the curse be triggered                  (X)
+                   again if we do that?
+
+                                    WELLS
+                   Not if we travel back to a more                   (X)
+                   recent incarnation of yours --                    (X)
+                   to a time when curses didn't                      (X)
+                   exist.                                            (X)
+
+    He pushes a series of buttons on the Device.                     (X)
+
+                                    LOIS
+                   You mean, a _different_ lifetime?
+
+                                    WELLS
+                        (off Device; smiles)
+                   Yes, as a matter of fact, that's
+                   precisely what I mean.
+
+    Lois and Clark share a resigned look:
+
+                                    LOIS
+                   Just another day in the life of
+                   Lois and Clark.
+
+                                    CLARK
+                   Oh, boy...
+
+                                                     CUT TO:
+
+ 30 EXT. LAREDO, TEXAS - 1879 - DAY #1                             30   
+
+    as the ARC OF LIGHT transmogrifies Clark into the body of
+    THE LONE RIDER, dressed in a heroic cowboy suit.                 (X)
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)       White Rev.           9/3/96          36.    
+
+
+ 30 CONTINUED:                                                     30   
+
+    ON THE CUT, Clark/The Lone Rider finds himself standing on
+    the gallows, his hands tied behind his back and _his head in_
+    _the noose_!
+
+                                    CLARK/THE LONE RIDER
+                   Hey, what's going on --                           (X)
+
+
+ 31 REVERSE - GROUP                                                31   
+
+    looking on, consisting of Tempus's Wild West incarnation,
+    TEMPUS TEX, black hat, black coat, same black heart.  He's
+    enjoying the show -- next to a shocked Lois, who goes by the
+    name of LULU in this life, wearing a sexy dress.  A small
+    CROWD looks on.                                                  (X)
+
+                                    TEMPUS TEX
+                   Any final words, Lone Rider?
+                   Reveal your _secret identity_,
+                   perhaps?
+
+                                    CLARK/THE LONE RIDER
+                   _Lone_ _Rider_... ?                               (X)
+
+    Lois and Clark find each other with a look as:                   (X)
+
+                                    TEMPUS TEX
+                        (turns to her)                               (X)
+                   Last chance, Lulu.  Just say the                  (X)
+                   magic words, that's all I require.
+
+                                    LOIS/LULU
+                        (it's all happening so
+                         fast)
+                   Magic words... ? I don't know --
+                        (realizes)
+                   Lulu?                                             (X)
+
+    SHERIFF JEREMIAH (Jimmy), looks on with a pained                 (X)
+    expression.
+
+                                    SHERIFF JEREMIAH
+                   That's enough, Tempus Tex. Come                   (X)
+                   on, let him down!                                 (X)
+
+                                    TEMPUS TEX
+                   Forget what happened to the last                  (X)
+                   three sheriffs, Sheriff?
+                        (to Lois)                                    (X)
+                   Tick, tock, darlin'.  Tick tock.                  (X)
+                        (off her indecision)                         (X)
+                   Very well -- _Pull_!                              (X)
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)       White Rev.           9/3/96          37.    
+
+
+ 31 CONTINUED:                                                     31   
+
+    The lever is pulled, the trap door drops open and Clark/The      (X)
+    Lone Rider starts to fall through -- but he spreads his
+    legs, just barely catching the tips of his boots on the trap
+    door edges, balancing precariously between life and death.
+
+                                    CLARK/THE LONE RIDER
+                   Whoa...                                           (X)
+
+                                    LOIS/LULU
+                        (tries it)                                   (X)
+                   Oh, God... Okay, wait I know.                     (X)
+                   If you spare his life' I'll marry
+                   you... ?                                          (X)
+
+                                    CLARK/THE LONE RIDER
+                        (toes slipping)                              (X)
+                   No... !                                           (X)
+
+                                    TEMPUS TEX
+                   I accept.  On one condition, 
+                   non-negotiable.  The Lone Rider is 
+                   to ride out of town, never to 
+                   return --
+                        (pauses)
+                   Whoa, talk about your deja vu.
+
+    Suddenly, Clark's boots lose their grip.  Lois GASPS as 
+    Clark falls through the trap door but, just as the rope 
+    around his neck snaps taut -- Tempus Tex quickdraws his six 
+    shooter and FIRES RIGHT AT:
+
+
+ 32 CLARK/THE LONE RIDER                                           32   
+
+    and the bullet just misses his head, SLICING THE ROPE above.
+    Clark drops to the ground in a heap, STRUGGLING for air.
+
+                                    TEMPUS TEX
+                        (chuckles)
+                   Shoot, missed high.
+                        (grabs Lois/Lulu close)
+                   You made a wise decision, Lulu.
+                   You and your dowry are gonna make 
+                   me a very rich man.
+
+    Clark, still struggling for breath, watches with hateful 
+    eyes.  Sheriff Jeremiah sidles over to within earshot of 
+    him.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Pink Rev.               8/26/96        38.    
+
+
+ 32 CONTINUED:                                                     32   
+
+                                    SHERIFF JEREMIAH
+                        (conspiratorial)
+                   Can you whistle.. ?
+                        (Clark doesn't
+                         understand)
+                   Whistle.
+
+    Clark wets his lips and WHISTLES and --
+
+
+ 33 A PALOMINO                                                     33   
+
+    straightens its ears in reaction, then takes off in a full
+    gallop right for --
+
+
+ 34 CLARK/THE LONE RIDER                                           34   
+
+    who, figuring it out, frees his hands by cutting the ropes
+    on his spurs, then runs and JUMPS ON THE PALOMINO.
+
+
+ 35 TEMPUS TEX                                                     35   
+
+    who watches helplessly as Clark/The Lone Rider SWEEPS UP         (X)
+    Lois/Lulu onto the saddle and RIDES OUT OF TOWN!  Sheriff
+    Jeremiah enjoys a private smile.                                 (X)
+
+                                    TEMPUS TEX
+                        (furious)
+                   After them you cretins!                           (X)
+
+                                                     CUT TO:
+
+
+ 36 EXT. CLEARING - DAY                                            36   
+
+    as Lois and Clark gallop up.  Clark reins in, throws a leg
+    over the horse's mane and dismounts like a real cowboy.  He
+    turns to Lois and romantically helps her off the saddle.
+    She ever-so-slowly slides down his chest to the ground,
+    ending up face to face with him.
+
+                                    LOIS/LULU
+                   My hero.
+
+                                    CLARK/THE LONE RIDER
+                   Pretty romantic, huh?
+
+                                    LOIS/LULU
+                   Very.  Nothing like bouncing up and
+                   down on horseback to get your
+                   juices flowing.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Pink Rev.               8/26/96        39.    
+
+
+ 36 CONTINUED:                                                     36   
+
+    Chests heaving, they collide in a frenzy of kissing -- yet
+    again interrupted by that familiar sound of THROAT CLEARING.
+    They turn to see:
+
+
+ 37 WELLS                                                          37   
+
+    who steps out of the woods in his customary attire.
+
+                                    WELLS
+                   Ahem... Sorry to interrupt.
+
+                                    CLARK/THE LONE RIDER
+                   Some things never change.
+
+                                    LOIS/LULU
+                   In any lifetime.
+
+                                    CLARK/THE LONE RIDER
+                   Alright, I beat Tempus and got Lois 
+                   back.  Now, let's get outta here 
+                   before he catches up to us.
+
+                                    WELLS
+                   Yes, well, if only it was that
+                   simple...
+
+                                    LOIS/LULU
+                   Wait, you said all Clark had to do
+                   was defeat Tempus.  He did that.
+
+                                    WELLS
+                   Well, temporarily perhaps.  I just 
+                   had a conversation with a 
+                   passing -- what do you yanks call 
+                   them... a _buckaroo_, who informed 
+                   me that Tempus Tex is holding 
+                   hostages, near and dear to Lulu.
+                   Insurance, apparently, to make sure 
+                   the wedding goes through.  In 
+                   short, you haven't defeated Tempus, 
+                   until you save them first.
+
+                                    CLARK/THE LONE RIDER
+                   Great.  Did he say where Tempus was
+                   holding them?  Who they were?
+
+                                    WELLS
+                   Unfortunately, no.
+
+    SHOTS are FIRED behind them, signaling the approaching
+    posse.                                                           (X)
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Yellow Rev.               8/27/96      40.    
+
+
+ 37 CONTINUED:                                                     37   
+
+    Lois, thinking fast, crosses to the Palomino, rifles through
+    the saddle bags.
+
+                                    CLARK/THE LONE RIDER
+                   What're you doing?
+
+                                    LOIS/LULU
+                   Looking for your secret identity.
+                   Tempus said you had one, remember?
+
+                                    WELLS
+                   Dual personas do seem to be a part
+                   of your destiny.
+
+                                    LOIS/LULU
+                   And trouble seems to be part of
+                   mine.  Here
+
+    She pulls out a wad of clothes.                                  (X)
+
+                                    LOIS/LULU (CONT'D)
+                   Bingo!
+
+                                    CLARK/THE LONE RIDER
+                   Are you sure this'll work?
+
+                                    LOIS/LULU
+                   Please.  Who're you talking to?                   (X)
+                   Hurry!
+
+                                                     CUT TO:
+
+
+ 38 TEMPUS TEX AND HIS MEN                                         38   
+
+    as they ride up on horseback, guns drawn.  Lois/Lulu runs up
+    to Tempus Tex:
+
+                                    LOIS/LULU
+                   Oh, thank goodness, there you are!
+                   I'm so glad you showed up!
+
+                                    TEMPUS TEX
+                        (even)
+                   Is that a fact... ?  And where, pray
+                   tell, is that pesky Lone Rider?
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Yellow Rev.               8/27/96      41.    
+
+
+ 38 CONTINUED:                                                     38   
+
+                                    LOIS/LULU
+                        (vamping)                                    (X)
+                   He rode off.  I screamed for help
+                   and was rescued by this... this --                (X)
+
+    Then Clark hurries into FRAME, still adjusting his               (X)
+    outfit -- brown vest, oversized visor (with Western Union        (X)
+    printed on it) and wire-rimmed glasses.                          (X)
+
+                                    LOIS/LULU (CONT'D)
+                        (recovers)                                   (X)
+                   -- this... mild mannered telegraph                (X)
+                   operator.
+
+    Tempus Tex gives Clark a suspicious look.
+
+                                    TEMPUS TEX
+                   Really?  How fortuitous you
+                   happened to be here, sir.  Out in
+                   the middle of nowhere, miles away
+                   from the nearest telegraph --
+                        (studies him closely)
+                   -- Have we met before?  You look
+                   awfully familiar.
+
+    Lois and Wells exchange an anxious look.
+
+                                    CLARK/TELEGRAPH OP
+                   I have that kind of face.
+
+                                    TEMPUS TEX
+                   So you do.
+                        (turns to Wells; sneers)
+                   I don't even want to know who you
+                   are.
+
+    Wells nods self-consciously. Tempus Tex crosses to Lois.
+
+                                    TEMPUS TEX (CONT'D)
+                   Come, my dear.  We'd better get on
+                   with our wedding before you require
+                   any more rescuing.
+                        (helps her on horse;
+                         turns to Clark)
+                   I'm forever in you debt, sir.  I
+                   trust our paths will cross again.
+
+                                    CLARK/TELEGRAPH OP
+                   Bet on it.
+
+    Tempus Tex gives him a second look, then mounts up behind
+    Lois.  As he rides off, she sneaks a nervous peek back at
+    Clark, who turns and WHISTLES for his horse.
+
+                            ---page break---
+    "SOUL MATES" (#4)     Yellow Rev.               8/27/96     41A.    
+
+
+ 39 EXT. LAW OFFICE - DAY                                          39   
+
+    as Lois/Lulu emerges with Tempus Tex, who's still blowing 
+    the signature dry on a blue-backed legal document.  Clark 
+    (as the telegraph operator) lurks nearby out of earshot.
+    Lois, spotting him, appeals to Tempus Tex.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Pink Rev.               8/26/96        42.    
+
+
+ 39 CONTINUED:                                                     39   
+
+                                    LOIS/LULU
+                   Okay, I've signed the prenuptial                  (X)
+                   agreement, so why don't you just                  (X)
+                   release the hostages?                             (X)
+
+                                    TEMPUS TEX
+                        (feigns)
+                   Hostages?  What hostages?
+                        (beat)
+                   Is that the only reason you signed
+                   over your land?  Because I've got
+                   your parents strapped to a little
+                   ol' barrel of dynamite?
+
+                                    LOIS/LULU
+                   My parents?  That's who you're
+                   holding?  You are evil incarnate.
+
+                                    TEMPUS TEX
+                   Why, sure -- is that a bad thing?                 (X)
+                   In any event, I don't have anything
+                   until I have your hand, and it
+                   feels like I've been chasing it
+                   forever...
+                        (checks pocket watch)
+                   That said, if you don't become my
+                   wife in exactly ten minutes, I'm
+                   afraid next up on the preacher's
+                   docket will be Mom and Dad's
+                   funeral.
+
+                                    LOIS/LULU
+                   Ten minutes... ?
+
+    Tempus Tex rounds a corner to reveal to her:                     (X)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Pink Rev.               8/26/96        43.    
+
+
+ 40 EXT. TOWN SQUARE - DAY                                         40   
+
+    where a shotgun wedding is all set up, just waiting for the      (X)
+    bride and groom.  Sheriff Jeremiah helps a PHOTOGRAPHER set      (X)
+    up his tripod camera.  And, at the well, the preacher turns      (X)
+    around to reveal it's Perry White's incarnation, REVEREND        (X)
+    PERCY.  He takes a quick swig from his flask.                    (X)
+
+                                    REVEREND PERCY                   (X)
+                        (tipsy)                                      (X)
+                   Great shades of Custer -- let's                   (X)
+                   get this wedding on the road here!                (X)
+
+    He fumbles for the bible, then motions to a beautiful RED        (X)
+    HEADED YOUNG LADY, who moves to a PEDAL ORGAN and begins to
+    play "Here Comes The Bride."  Tempus Tex assumes his
+    position at the altar, gestures for Lois to join him.
+
+                            ---page break---
+    "SOUL MATES" (#4)     FULL Blue Rev.           8/22/96       44.    
+
+
+ 41 REVERSE - LOIS/LULU                                            41   
+
+    incredulous.
+
+                                    LOIS/LULU
+                   Tell me this isn't happening.
+
+    She spins to face Clark, who's behind her on the boardwalk,
+    out of the line of sight of the make-shift wedding.
+
+                                    LOIS/LULU (CONT'D)
+                        (in a rush)
+                   He's got my parents tied to 
+                   dynamite and it's going to go off
+                   in ten minutes unless I marry him 
+                   which means evil wins and we're 
+                   _screwed_!
+
+                                    CLARK/TELEGRAPH OP
+                   Don't worry, I'll find them.
+                        (heroically yanks off 
+                         visor, glasses)
+                   This is a job for The Lone Rider.
+
+    And he's gone.
+
+                                    LOIS/LULU
+                   Clark!?
+
+                                    TEMPUS TEX'S VOICE
+                   Lulu?
+
+    Lois gathers herself, turns back to face Tempus Tex with a 
+    frozen smile and a little squeak.
+
+                                                     FADE OUT
+
+                           _END OF ACT THREE_
+
+                            ---page break---
+    "SOUL MATES" (#4)       White Rev.           9/3/96          45.    
+
+                             _ACT FOUR_
+
+    FADE IN:
+
+ 42 EXT. TOWN SQUARE - CONTINUOUS - DAY                            42   
+
+    Lois/Lulu stands on the boardwalk, nervously looking around 
+    for Clark.
+
+                                    LOIS/LULU
+                        (sotto)
+                   Clark... ? Clark... ?
+
+    The Red Headed Young Lady tires of playing the pedal organ, 
+    until Reverend Percy glares at her to pep it back up.
+
+                                    TEMPUS TEX
+                   Getting cold feet, my darlin'?
+
+                                    LOIS/LULU
+                        (still looking for Clark)
+                   Um, well, yeah, kinda...
+
+                                    TEMPUS TEX
+                        (coaxing her down aisle)
+                   More than understandable.  After 
+                   all, marriage is a big step, not to 
+                   be taken lightly.  Especially in 
+                   this case, when so much is at stake
+                   and time is so short.  Shall we?                  (X)
+
+    He gives Reverend Percy a nod.
+
+                                    REVEREND PERCY
+                        (trying to focus)
+                   Ladies and gentlemen, we are 
+                   gathered here today to unite these 
+                   two fine people in holy matri --
+
+                                    TEMPUS TEX
+                        (cuts him off)
+                   Skip on down, Reverend.
+
+                                                     CUT TO:
+
+                            ---page break---
+    "SOUL MATES" (#4)     Yellow Rev.               8/27/96     45A.    
+
+
+ 43 EXT. OUTSKIRTS OF TOWN - DAY                                   43   
+
+    where Clark (as The Lone Rider) and Wells hide behind a 
+    building, spying on the wedding from afar.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     FULL Blue Rev.           8/22/96       46.    
+
+
+ 43 CONTINUED:                                                     43   
+
+                                    CLARK/THE LONE RIDER
+                   He must have them rigged to some 
+                   sort of a trigger mechanism, but 
+                   where do we start?  We've got less 
+                   than five minutes!
+
+                                    WELLS
+                   Perhaps it would be helpful to
+                   think in terms of where the Tempus 
+                   as _we_ know might hide them.
+
+                                    CLARK/THE LONE RIDER
+                   Why?
+
+                                    WELLS
+                   We've seen how each soul expresses 
+                   itself in a unique, yet remarkably 
+                   consistent manner from lifetime to 
+                   lifetime.  And it's that 
+                   consistency, that _fingerprint_, 
+                   which Time can not erase.  It is 
+                   who we are, and always will be.
+
+                                    CLARK/THE LONE RIDER
+                   Where Tempus goes, so goes Tempus
+                   Tex...
+                        (surveying town)
+                   Okay, let's see, he's power-hungry,
+                   vindictive, evil...
+
+                                    WELLS
+                   Perhaps a more specific character
+                   trait of Tempus's, one that
+                   categorically defines him?
+
+                                    CLARK/THE LONE RIDER
+                   His _ego_, without a doubt.                       (X)
+                   That's why he has a camera here,
+                   almost before they were even
+                   invented.  Leave it to Tempus                     (X)
+                   to...
+                        (realizes)
+                   Wait a minute, the camera....                     (X)
+
+
+ 44 CLARK'S POV AT CAMERA                                          44   
+
+    to show a wire coming out of the box of the camera.  FOLLOW 
+    the wire onto the ground, then UP TO a telegraph pole.  
+    CONTINUE TO FOLLOW the line out of town to an OUTHOUSE, 
+    which is guarded by TWO COWBOYS.
+
+                            ---page break---
+    "SOUL MATES" (#4)     Pink Rev.               8/26/96        47.    
+
+
+ 45 RESUME CLARK AND WELLS                                         45   
+
+    as Clark puts it together.
+
+                                    CLARK/THE LONE RIDER
+                   Since when do telegraph lines go to
+                   outhouses?
+
+                                    WELLS
+                   And how many are guarded?
+
+
+ 46 EXT. THE WEDDING - DAY                                         46   
+
+    Reverend Percy's cutting to the chase:                           (X)
+
+                                    REVEREND PERCY                   (X)
+                        (from book)
+                   Do you, Tempus Tex, take this woman
+                   to be your lawfully wedded wife, to
+                   have and to hold, in sick --
+
+                                    TEMPUS TEX
+                        (exasperated with him)                       (X)
+                   I do.
+
+                                    REVEREND PERCY                   (X)
+                   Aw, I was just getting to the good
+                   part.
+
+                                    TEMPUS TEX
+                   Sorry, but this is the point where
+                   the villain accelerates things.
+                   Now, skip on down!
+
+                                    REVEREND PERCY                   (X)
+                        (to Lois/Lulu)
+                   Do you, Lulu, take this man to be
+                   your lawfully wedded husband...
+                        (off Tempus Tex)
+                   ... Blah, blah, blah, 'til death do
+                   you part?
+
+    Lois/Lulu stalls, still searching for Clark.
+
+                                    TEMPUS TEX
+                   Answer the good mayor.
+
+                                    LOIS/LULU
+                   Um... could you repeat the
+                   question, please?
+
+
+ 47 EXT. OUTHOUSE - DAY                                            47   
+
+    Wells walks right up as though he's going to the bathroom,
+    when one of the cowboys cuts him off.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Pink Rev.               8/26/96        48.    
+
+
+ 47 CONTINUED:                                                     47   
+
+                                    WELLS
+                   Oh, terribly sorry, didn't realize
+                   there was a line.
+
+    Clark/The Lone Rider drops from the roof behind them.  He
+    reflexively spins to change into Superman, but just does a 
+    fast 360.  The Cowboys exchange a dubious look.
+
+                                    CLARK/THE LONE RIDER
+                        (shrugs)
+                   Whoops, old habit.
+
+    Then Clark pounces, punching both cowboys unconscious.
+
+                                    WELLS
+                   Not bad, for no super powers.
+
+    Clark yanks open the door, and is surprised to find --
+
+
+ 48 INT. OUTHOUSE - DAY                                            48   
+
+    -- not Lois's 20th century folks, but _Martha and Jonathan_
+    _Kent's incarnations_, MARY AND JONAS, bound and gagged to a
+    barrel of TNT (which the wire is attached to).
+
+                                    CLARK/THE LONE RIDER
+                   Wait, _you're_ Lois -- I mean,
+                   Lulu's parents?!
+
+
+ 49 EXT. THE WEDDING - DAY                                         49   
+
+    Lois/Lulu just can't say the words.
+
+                                    TEMPUS TEX
+                   Time's up, Lulu. It's now or                      (X)
+                   never.
+
+                                    LOIS,/LULU
+                        (seeing Clark behind
+                         Tempus)
+                   In that case, I think I'll choose
+                   never.  And, in your case, Tempus,
+                   I do mean never.  Literally.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)       White Rev.           9/3/96          49.    
+
+
+ 49 CONTINUED:                                                     49   
+
+                                    TEMPUS TEX
+                   Why, Lulu, I'm crushed.  Jilted at
+                   the altar wasn't exactly part of my
+                   plans.  Oh, well, looks like this
+                   fairy tale gets an unhappy ending.
+                        (to Photographer)
+                   Take the picture, George. Now.
+
+    The Photographer pushes the button and -- an O.C. EXPLOSION
+    rocks the place.  Tempus Tex looks to Lois/Lulu and is
+    surprised by her unconcerned reaction.  She motions for him
+    to turn and see:
+
+
+ 50 CLARK, WELLS, MARY AND JONAS                                   50   
+
+    as they approach.
+
+                                    CLARK/THE LONE RIDER
+                   It's over, Tempus Tex.  You've run
+                   out of lives.
+
+                                    TEMPUS TEX
+                   Whatever that means.                              (X)
+
+    He suddenly grabs Lois around the neck, draws his gun on         (X)
+    her.
+
+                                    TEMPUS TEX (CONT'D)
+                   I don't know if you've noticed, but
+                   I hate to lose.  Especially to you.
+
+    Clark moves to Tempus, but Tempus points the gun at him.
+
+                                    TEMPUS TEX (CONT'D)
+                   Willing to die for your love, are
+                   you?
+
+                                    CLARK/THE LONE RIDER
+                   Wouldn't be the first time.
+
+    Lois elbows Tempus in the gut -- the gun GOES OFF, the
+    bullet just missing Clark, who then KICKS the gun out of his
+    hand.  Tempus Tex takes off in a full sprint.  Clark chases
+    him down, tackles him hard into the ground, then yanks him
+    to his feet.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     FULL Blue Rev.           8/22/96       50.    
+
+
+ 50 CONTINUED:                                                     50   
+
+    As he does, Tempus pulls a Derringer out of his boot, but        (X)
+    Clark spots it and KNOCKS it out of his hand, then hauls         (X)
+    off and gives him a cathartic PUNCH in the nose, knocking        (X)
+    him to the ground, woozy. Lois and Wells run up.                 (X)
+
+                                    WELLS
+                   Doesn't that hurt?
+
+                                    CLARK/THE LONE RIDER
+                        (shaking hand)
+                   Yeah, but I'm kinda starting to
+                   like it.
+                        (pulls Tempus Tex up)
+                   Sheriff?  He's all yours.
+
+                                    SHERIFF JEREMIAH
+                   Gladly.
+
+    Jeremiah turns to the Red Headed Young Lady and gives her a
+    kiss on the lips.
+
+                                    SHERIFF JEREMIAH (CONT'D)
+                   I'll see you at home, honey.
+
+                                    LOIS/CLARK
+                   Honey?!
+
+                                    SHERIFF JEREMIAH
+                        (to Red Head)
+                   After I'm done here, I want to talk
+                   to Mr. Eastman about that new
+                   camera of his.
+                        (to Tempus Tex)
+                   Come on, Tex, let's go.
+
+    He escorts Tempus Tex away. Lois turns to Mary and Jonas.
+
+                                    LOIS/LULU
+                   So you're... _my_ parents?
+
+                                    JONAS
+                   Of course.
+
+                                    CLARK/THE LONE RIDER
+                        (explains)
+                   Apparently, you were left on their
+                   doorstep as a baby.  Weird, huh?
+
+                                    LOIS/LULU
+                   Hey, I'll trade parents with you
+                   any day.
+
+    Mary and Jonas brush that off, then:
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     FULL Blue Rev.           8/22/96       51.    
+
+
+ 50 CONTINUED:  2                                                  50   
+
+                                    MARY
+                   You saved our town from the evil 
+                   Tempus Tex.  How can we ever repay 
+                   you?
+
+                                    CLARK/THE LONE RIDER
+                        (off Lois)
+                   You already have, or _will_.
+
+    Mary smiles at that, although she's not sure why.
+
+                                    WELLS
+                        (clears his throat)
+                   It's _time_.
+
+    Lois turns to Mary and Jonas.
+
+                                    LOIS/LULU
+                   We have to go.
+
+                                    CLARK/THE LONE RIDER
+                   But we'll see you soon.
+
+    And, as Wells pulls out The Device --
+
+                                                     CUT TO:
+
+
+ 51 INT. DAILY PLANET - PRESENT - DAY #1                           51   
+
+    as BRIGHT WHITE LIGHT emanates from inside the elevator,
+    then the doors open to reveal Lois and Clark, in their
+    present day wardrobes, along with Wells.  They step out of
+    the elevator, look around tentatively.
+
+                                    CLARK
+                   We're back... I think.
+
+                                    LOIS
+                   Yeah, but did anything change?
+
+    Perry and Jimmy approach.
+
+                                    PERRY
+                   Lois, honey, what in the King's
+                   name are you doing here?
+                        (appraises Wells)                            (X)
+                   Say, do I know you?                               (X)
+
+                                    LOIS
+                        (sinking feeling)
+                   Wait a minute, _king_, did you say                (X)
+                   _king_?
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Pink Rev.               8/26/96        52.    
+
+
+ 51 CONTINUED:                                                     51   
+
+                                    PERRY
+                   Uh, yeah...
+
+    Perry indicates the "Elvis" coffee cup in his hand.
+
+                                    JIMMY
+                   Shouldn't you guys be on your
+                   honeymoon by now?
+
+                                    CLARK
+                   Our honeymoon...
+                        (to Lois)
+                   So far so good.
+
+                                    LOIS
+                   Paper.  Where's the paper?!
+
+    Wells reveals tomorrow's headline from inside his coat, 
+    shows it discreetly to Lois.
+
+                                    LOIS (CONT'D)
+                        (reads it)
+                   Congressman Resigns Over
+                   Controversy.
+                        (exhales)
+                   What a relief!
+
+                                    PERRY
+                        (frowns)
+                   What Congressman?  Did we miss a
+                   scoop, Jimmy?!
+
+                                                                     (X)
+
+                                    LOIS
+                   What about Tempus?  Is he still
+                   king?
+
+                                    PERRY
+                   Tempus?  King?
+                        (sotto; to Clark)
+                   What the hell's she talking about?                (X)
+
+                                    CLARK
+                   She's just had a rough... day.
+
+                                    PERRY
+                   I see... C'mon, Jimmy, let's let 
+                   these two lovebirds get back to 
+                   their nest.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     Yellow Rev.               8/27/96      53.    
+
+
+ 51 CONTINUED:  2                                                  51   
+
+                                    JIMMY
+                   Right, Chief.
+                        (to Lois and Clark)
+
+                   Have fun.
+
+    Jimmy pats Clark on the shoulder, then starts off -- and 
+    nearly collides with _the present incarnation of Jimmy's RED_
+    _HEADED WIFE from 1879_.
+
+                                    JIMMY (CONT'D)
+                   Whoop, excuse me.
+
+    The Red Head looks back over her shoulder, flashes him a 
+    killer smile.  Jimmy smiles back as she continues past.  
+    Lois and Clark exchange a knowing look as Clark sidles up to 
+    Jimmy.
+
+                                    CLARK
+                   Something tells me you oughta ask
+                   her out, Jimmy.
+
+                                    JIMMY
+                   Really?  You think she'd say yes?
+
+                                    CLARK
+                   Trust me.
+
+    Clark gives him a 'go for it look,' then shoves him off in 
+    her direction.
+
+                                    WELLS
+                   Well, the curse is broken, Good and
+                   Evil are back in balance, and love,
+                   as it's wont to do, has conquered                 (X)
+                   all.
+
+    He moves closer.
+
+                                    WELLS (CONT'D)
+                   Destiny has been kind to you.  It 
+                   has blessed you both with each 
+                   other, no small gift indeed.  There 
+                   are a great many people who travel 
+                   alone through their whole lives and 
+                   envy what you two have.
+                        (personalizing this)
+                   Greatly...
+                        (as if preparing them)
+                   Try to remember that the next time
+                   the gods decide to test you.
+                        (into elevator)
+                   By the way, congratulations on your
+                   marriage.
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     FULL Blue Rev.           8/22/96       54.    
+
+
+ 51 CONTINUED:  3                                                  51   
+
+    As the elevator doors begin to close, he flips open his
+    pocket watch and checks the time.  After a moment, Clark
+    swoops Lois up in his arms, looks deeply into her eyes.
+
+                                    CLARK
+                   Now, where were we?
+
+                                                     CUT TO:
+
+
+ 52 INT. CLARK'S APARTMENT - BEDROOM - NIGHT #1 (REPRISE)          52   
+
+    Where we began with Superman flying Lois into the room and
+    onto the bed.  He lays her down, kisses her.  When they
+    part:
+
+                                    LOIS
+                   Hello, husband...
+
+                                    SUPERMAN
+                   Hello, wife...
+
+                                    LOIS
+                   Now, that's what I call getting
+                   carried over the threshold
+
+                                    SUPERMAN
+                   You ain't seen nothing yet.
+
+    He kisses her, then she plops her head back on the pillow.
+
+                                    LOIS
+                        (exhales)
+                   Wow, I'm beat.
+
+                                    SUPERMAN
+                        (stops him)
+                   You're kidding.  Please tell me
+                   you're kidding.
+
+    She coyly crawls out of be and finds the red teddy in her
+    suitcase.
+
+                                    LOIS
+                   Don't touch that dial...
+
+    She disappears into the bathroom.  As Superman climbs out of
+    bed, pulls the covers back, and dims the lights:
+
+                                    SUPERMAN
+                   You know, I know this is our first
+                   time, and, well, I want everything
+                   to be just right...
+
+                                                     (CONTINUED)
+
+                            ---page break---
+    "SOUL MATES" (#4)     FULL Blue Rev.           8/22/96       55.    
+
+
+ 52 CONTINUED:                                                     52   
+
+    As he pours the champagne, he lights the candles with LASER
+    VISION.
+
+                                    SUPERMAN (CONT'D)
+                   ... But, I just want you to know
+                   that, if your heart was set on
+                   Hawaii, I'd --
+
+    He catches himself as he spots her standing in the doorway,
+    wearing the sexy teddy as well as it can possibly be worn.
+
+                                    LOIS
+                   You were saying... ?
+
+    He SUPERSPINS into Clark, wearing only boxers and an open        (X)
+    shirt, but still holding the champagne flutes.                   (X)
+
+                                    CLARK
+                   Didn't spill a drop.
+
+    He crosses to her side of the bed, offers her a glass. She
+    puts it down without taking a sip, then puts his down too.
+    Lois wraps her arms around his neck, pulling him close.
+
+                                    LOIS
+                   I don't want anything clouding this
+                   moment.
+
+                                    CLARK
+                   A moment we're destined for.
+
+                                    LOIS
+                   That's what makes it so special.  I
+                   love you, Clark Kent.
+
+                                    CLARK
+                   I love you, Lois --
+                        (catches himself)
+                   Lane.
+
+    They fall into a kiss, this time with growing hunger.
+    They're in no hurry as this moment is played out for all its
+    worth.  Then, Clark gently leads her under the sheets.  Just
+    as they start to get hot and heavy -- the phone RINGS.
+    Clark looks over at it.
+
+                                    LOIS
+                   Don't even _think_ about it!
+
+    As the phone RINGS again, she pulls him back into the kiss.
+    He reaches over, fumbles for the phone line, and YANKS it
+    out of the socket, pulling out a chunk of wall with it.  As
+    their passion takes them, they lose themselves in the
+    lovemaking and don't even notice that they're FLOATING under
+    the top sheet, two feet above the mattress.  CAMERA PANS
+    AWAY to honor their privacy and PUSHES OUT THE WINDOW TO:
+
+                            ---page break---
+    "SOUL MATES" (#4)     FULL Blue Rev.           8/22/96       56.    
+
+
+ 53 THE NIGHT SKY                                                  53   
+
+    as a SHOOTING STAR arcs down from the heavens, then FLARES
+    WHITE as we:
+
+                                                     FADE OUT
+
+                               _THE END_
+
+

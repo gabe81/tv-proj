@@ -1,0 +1,3379 @@
+To pop everything into place...    
+
+use Courier 10 (or 10 characters per inch)
+
+set top margin at 0.4", bottom margin at 0.4" (or minimums)
+left margin at 1", right margin at .25 (or minimum)
+   (I had to tell the program I was using legal paper)
+
+page breaks in hard copy indicated by ---page break---
+
+sometimes the formatting changes slightly (as in the numbers at the end of the
+lines), but I'm going to keep consistent because it's easier
+
+logo on front page will be noted when used but not included here
+
+as this may be sent in .txt, originally underlined words will 
+look like   _this_
+
+I don't know what the (X) designates.
+
+Notes: 
+
+Cover:  "Ordinary People", Written by Eugenie Ross-Leming & Brad Buckner [and]
+Directed by Michael Watkins are all in large bolt print. WARNER BROTHERS
+TELEVISION is in an Ariel-type font. The remainder of the text is in Courier
+10 (10 characters per inch)
+
+General notes: See how Lois describes her family members when you 
+     get to page 34...
+
+Typos noted:
+"alright" misspelled twice; should be "all right"
+
+Page 10A., end of longer paragraph, "phone cradeld at 
+     his neck" in original; should be "cradled"
+
+Page 30.: 1/3 page down, "going, you know... Forward."
+     "Forward" is unnecessarily capitalized in original.
+Page 31, mid page, "of 'Tora, Tora, Tora?'" "?" should 
+     be outside of quotes, but in the original it's inside
+
+
+
+
+
+
+
+
+
+                       graphic (see script.bmp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                         "Ordinary People"
+
+                            EPISODE TWO
+
+                           Prod. #457402
+
+                             Written by
+
+                         Eugenie Ross-Leming.
+
+                             Brad Buckner
+
+
+                              Directed by
+
+                            Michael Watkins
+
+
+
+WARNER BROS. TELEVISION                 _Production Draft_
+                                        July 10, 1995
+                                        FULL Blue  7/18/95
+                                        Pink Rev.  7/21/95
+                                        Yellow R.  7/25/95
+
+                        ---page break---
+
+
+
+
+                          _LOIS & CLARK_
+
+                        "_Ordinary People_"
+
+                         Blue Rev. 7/18/95
+
+                                CAST
+
+CLARK KENT/SUPERMAN
+
+LOIS LANE
+
+JIMMY OLSEN
+
+PERRY WHITE
+_______________________________________________________________
+
+SPENCER SPENCER
+
+DR. PESCADO
+
+KLAVEL
+
+HEIDI
+
+BELZER
+
+PATIENT
+
+T.V. NEWSCASTER
+
+                        ---page break---
+
+
+
+
+                          _LOIS & CLARK_
+
+                        "_Ordinary People_"
+
+                         Blue Rev. 7/18/95
+
+                             _LOCATIONS_
+
+
+_INTERIORS_:                            _EXTERIORS_:
+
+Daily Planet                            Metropolis Street
+  Bullpen
+  Perry's Office                        Spencer's Island
+                                           Dock
+Lois' Apartment                            Beach
+   Living Room                             Stream
+
+Spencer's Bunker
+   Office
+   Operating Room
+   Corridor
+   Dungeon
+
+                        ---page break---
+
+
+
+
+                          _LOIS & CLARK_
+
+                        "_Ordinary People_"
+
+                         Blue Rev. 7/18/95
+
+                             _CHRONOLOGY_
+
+
+
+                    SC.   1 - 21    DAY 1
+
+                    SC.  22 - 27    NIGHT 1
+
+                    SC.  28 - 32    DAY 2
+
+                    SC.  33         NIGHT 2
+
+                    SC.  34 - 59    DAY 3
+
+                    SC.  60 - 110   NIGHT 3
+
+                        ---page break---
+
+
+
+
+
+
+                                _LOIS & CLARK_
+
+                       _The New Adventures of Superman_
+
+                             "Ordinary People"
+
+                                  _TEASE_
+
+     FADE IN:
+
+  1  INT. DAILY PLANET BULLPEN - FRONT PAGE - TRACKING - DAY #1      1   
+
+     The lead headline reads: "Love Fortress Linked to organized      (X)
+     Crime." We PULL BACK to find the paper in the hands of 
+     PERRY WHITE as he moves through the desks to LOIS LANE, who 
+     sits at her desk watching a morning news report with other       (X)
+     Reporters.  From the TV SET, a coiffed male NEWSCASTER:
+
+                                     TV NEWSCASTER
+                    ... and Love Fortress International 
+                    had no response to this morning's                 (X)
+                    Daily Planet story.  The paper 
+                    reported the Love Fortress 
+                    magazine and night club operation                 (X)
+                    is little more than a cover-up for 
+                    crime, including gambling, 
+                    prostitution, money laundering, 
+                    and...
+
+                                     PERRY
+                        (to TV)
+                    She scooped you, pretty boy!
+
+     They all suddenly notice Perry standing there, sheepishly 
+     SNAP OFF the TV.
+
+                                     LOIS
+                    Perry.  Hi.
+
+                                     PERRY
+                    Just wanted to congratulate you.
+                    Heck of a story.                                  (X)
+
+     CLARK comes up, perches on the desk very near Lois.              (X)
+
+                                     CLARK
+                    Heck of a story, Lois.                            (X)
+
+                                     PERRY
+                        (to Clark)
+                    Weren't you assigned to this                      (X)
+                    thing, too?  I kinda thought you 
+                    were permanent partners.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  Yellow Rev.              7/25/95      2.    
+
+
+  1  CONTINUED:                                                      1   
+
+                                     CLARK
+                    Well, we're not permanent
+                    permanent partners yet, Chief.
+
+                                     LOIS
+                        (with a look at Clark)
+                    That'd be a pretty big step, Chief.
+
+                                     CLARK
+                        (with a look at Lois)
+                    The kinda thing someone would
+                    really have to think through.
+
+     Perry looks from one to the other.
+
+                                     PERRY
+                    Well.  Thanks for that cryptic                    (X)
+                    exchange.                                         (X)
+                        (then)
+                    And all of you interpreters, back                 (X)
+                    to work.  We're all proud of you,                 (X)
+                    Lois.
+
+     JIMMY OLSEN hurries up, waving a copy of Love Fortress
+     Magazine.
+
+                                     JIMMY
+                    Lois! I can't believe the number
+                    you did on my man, here!
+
+                                     LOIS
+                    Your 'man?'
+
+                                     JIMMY
+                    Spencer Spencer!  The owner of Love
+                    Fortress International!  You ever
+                    read his work?
+
+                                     PERRY
+                    His 'work?'  Son, that's a skin
+                    book!
+
+                                     JIMMY
+                    Hey, he takes on the serious
+                    topics, Chief.  I've read him so
+                    much, I feel like I know him.
+
+                                     LOIS
+                    No one knows him, Jimmy, he hides
+                    out from everyone.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  Yellow Rev.            7/25/95       2A.    
+
+
+  1  CONTINUED:  2                                                   1   
+
+                                     JIMMY
+                    If I had the looks, the women, the 
+                    cars, and the life he has, _I'd_
+                    hide out!
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95    3.    
+
+
+  1  CONTINUED:  2                                                   1   
+
+     Lois' phone RINGS, she grabs it.                                 (X)
+
+                                     LOIS
+                        (into phone)
+                    Yes?
+                        (startled, covers
+                         mouthpiece)
+                    It's Spencer Spencer.
+
+                                     JIMMY
+                    Oh my God.  The man himself.
+
+                                     LOIS
+                        (sighs)
+                    Shut up, Jimmy.
+                        (into phone)
+                    Hello?
+
+
+3    INT. SPENCER SPENCER'S BUNKER - ON MAGAZINE COVER - DAY         3   
+
+     We TRACK PAST several Love Fortress magazine covers,             (X)
+     featuring stunningly beautiful women, as:
+
+                                     SPENCER SPENCER (O.S.)
+                        (all charm)
+                    Ms. Lane!  Lois!  Spencer Spencer
+                    here.  Quite a colorful article you
+                    did on my little operation.  I'd
+                    like to make you a proposal.
+
+     We now MOVE PAST several beautiful Women almost wearing
+     scant, filmy items, bearing champagne bottles, trays of
+     snacks.  The windowless room is richly done in "gentleman's
+     club" decor, its every piece of artwork a tribute to
+     physical perfection and hedonism.  Several large, handsome
+     Bodyguards stand watchfully about.  We come to a TIGHT
+     CLOSE-UP of SPENCER SPENCER, in his 30's, all oily charm and
+     smoothness, a phone pressed to his ear.
+
+                                     SPENCER SPENCER (CONT'D)
+                    What say you meet with one of my
+                    spokesmodels, and let us give you                 (X)
+                    an _accurate_ picture of my world?
+                        (provocatively)
+                    Believe me, I can make it worth                   (X)
+                    your while.
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95    4.    
+
+
+  4  LOIS                                                            4   
+
+                                     LOIS
+                    Mr. Spencer, I have an accurate 
+                    picture of your world.  And a truly 
+                    disgusting place it is.  Read part 
+                    two tomorrow.
+
+     She hangs up.   Jimmy is horrified.
+
+                                     JIMMY
+                    Lois!
+
+                                     LOIS
+                        (muttering)
+                    Mister Charm.  Probably lying there 
+                    in his legendary silk pajamas, 
+                    sipping absinthe, girls massaging 
+                    him...
+
+
+  5  INT.  SPENCER SPENCER'S BUNKER - TIGHT ON SPENCER - DAY         5   
+
+                                     SPENCER SPENCER
+                        (livid)
+                    I...  _disgust_... her?!
+
+     We now PULL BACK to find the phone was being held to his 
+     head by a Handmaiden, who hangs it up as we reveal Spencer 
+     Spencer:  His entire body is encased in an elaborately 
+     carved cabinet featuring the perfect body of a Greek god. 
+     Only his head protrudes from the top of the cabinet, and 
+     next to his head are several brass levers.
+
+                                     SPENCER SPENCER (CONT'D)
+                    I.... _DISGUST_... HER?!!  You're 
+                    finished, Ms. Lane.  When I'm done 
+                    with you, we'll see who disgusts 
+                    whom!!
+
+     And he violently hits a lever with the side of his head.
+     The motorized cabinet WHIRS from view and...
+
+                                                       BLACK.
+
+                            _END OF TEASE_
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95    5.    
+
+
+                             _ACT ONE_
+
+     FADE IN:
+
+  6  INT. DAILY PLANET BULLPEN - WITH LOIS - DAY                     6(X)
+
+     She comes up the ramp to the lunch area where Clark is           (X)
+     buying something from a machine.  He looks up, smiles.
+
+                                     LOIS
+                    I know you think I'm not thinking                 (X)
+                    about it.  Just because I'm not
+                    talking about it doesn't mean I'm
+                    not thinking about it.
+
+                                     CLARK
+                    Lois...  Getting married's a big                  (X)
+                    deal.  I said I'd wait.  I'll wait.
+
+     She drops coins in machine, gets sandwich out, as:
+
+                                     LOIS
+                    I'm glad you understand.                          (X)
+
+                                     CLARK
+                    I mean, if I were the paranoid                    (X)
+                    type, I might think you'd been
+                    avoiding the whole thing.
+
+                                     LOIS
+                        (chuckling merrily)
+                    Of course I haven't!  '_Avoid_                    (X)
+                    it?' No.
+                        (stares at sandwich)
+                    You notice how lousy the cheese
+                    sandwiches are in this machine?
+
+                                     CLARK
+                        (lost)
+                    What?
+
+                                     LOIS
+                    I'm just saying you can't get a
+                    good cheese sandwich here.  I'd
+                    kill for a piece of Camembert.  The
+                    kind you get in France?  You notice
+                    it's tough to get good Camembert
+                    outside of France?
+
+                                     CLARK
+                    It's... great you're not avoiding                 (X)
+                    it.
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95    6.    
+
+
+  7  NEW ANGLE                                                       7   
+
+     as Perry enters from a doorway.
+
+                                     PERRY
+                    Oh, Lois.... You busy?
+
+
+  8  INCLUDE LOIS                                                    8   
+
+                                     LOIS
+                    Hmm?  No, no... I was just speaking
+                    to Clark, here.
+
+     WIDEN as she glances around, notices she's alone.
+
+                                     LOIS (CONT'D)
+                    Clark?  Clark?
+
+                                                       CUT TO:
+
+
+  9  EXT. PARIS - AERIAL VIEW - DAY                                  9   
+
+     A swell of SCORE and a BLUE BLUR streaks across the Eiffel       (X)
+     Tower, clears FRAME, as:
+
+                                     LOIS (V.O.)
+                    Perry, I'm fine!  Don't worry about
+                    me.
+
+                                                       CUT TO:
+
+
+ 10  INT. PERRY'S OFFICE - DAY                                      10   
+
+     An agitated Lois paces as Perry perches on the edge of his
+     desk, watching her.
+
+                                     LOIS
+                    I'm not working too hard!  Can I
+                    get back to work?
+
+                                     PERRY
+                    Lois, I know you like a book.  When
+                    things in your life get rough, you                (X)
+                    wrap yourself in work like it was
+                    gonna save you.
+
+                                     LOIS
+                        (glaring)
+                    Look. Chief.  I really have to
+                    draw the line here.  I have a
+                    professional life and a personal
+                    life and...
+                                     (MORE)
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95    7.    
+
+
+ 10  CONTINUED:                                                     10   
+
+                                     LOIS (CONT'D)
+                        (covers her eyes,
+                         suddenly emotional)
+                    Clark asked me to marry him!
+
+                                     PERRY
+                    What?!  Wouldn't you like to try
+                    dating first?
+
+                                     LOIS
+                    But see, I really love him.
+
+                                     PERRY
+                    Then there's no problem!
+
+                                     LOIS
+                    Yes!  Yes, there is!  Perry, have 
+                    you ever thought someone was 
+                    exactly right for you, and then 
+                    found out some... thing... you 
+                    never knew about them that could 
+                    just... wreck it all?
+
+                                     PERRY
+                    Yes.  After Alice and I were 
+                    married, I found out her right leg 
+                    was an inch shorter than her left.
+
+                                     LOIS
+                        (wearily)
+                    Chief...
+
+                                     PERRY
+                    Wore these little wedges inside her 
+                    shoe.  Made in Portugal.  Anyways, 
+                    on our wedding night we stood 
+                    before each other, her listing a 
+                    bit to the starboard, and her 
+                    secret was out.  But it didn't 
+                    matter, 'cause I loved her.
+
+                                     LOIS
+                    That is so beautiful.
+
+                                     PERRY
+                    You and Clark gotta deal with 
+                    whatever it is, and I don't mean at 
+                    your desk over a sandwich.
+
+                                     LOIS
+                    Where _do_ you mean?
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95    8.    
+
+
+ 10  CONTINUED:  2                                                  10   
+
+                                     PERRY
+                    Get outta town!  Go focus on what
+                    really counts.
+
+     The PHONE rings, Perry picks it up, during:
+
+                                     LOIS
+                    Perry, I certainly think I'm 
+                    disciplined enough not to be 
+                    distracted by work when...
+
+                                     PERRY
+                        (holds out phone)
+                    For you.
+
+                                     LOIS
+                        (grabs phone)
+                    Hello?  Yes.  What?  Are you sure?
+                    Yeah, yeah... I'll be right down.
+                        (slams down phone,
+                         excitedly)
+                    My police source says they found
+                    four bodies, all male, in a shallow
+                    grave.  Two victims were I.D.'d and
+                    were last seen at one a Spencer                   (X)
+                    Spencer Love Fortress.                            (X)
+                        (starts out)
+                    Oh, and get this.
+                        (beat)
+                    All four bodies were headless.
+
+                                     PERRY
+                    Good Lord.
+
+                                     LOIS
+                    I gotta go.
+
+                                     PERRY
+                    Lois?  Word to the wise?
+
+                                     LOIS
+                    What?
+
+                                     PERRY
+                    Honey, there'll always be another
+                    headless corpse.  Love comes maybe
+                    once.
+
+                                                       CUT TO:
+
+
+ 11  INT. DAILY PLANET BULLPEN - WITH LOIS - TRACKING - DAY         11   
+
+     Lois charges toward her desk, as Jimmy joins her.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95    9.    
+
+
+ 11  CONTINUED:                                                     11   
+
+                                     JIMMY
+                    There you are!  Guess you haven't
+                    seen your desk, yet, huh?
+
+                                     LOIS
+                    Not right now, Jimmy. I just got a
+                    major tip and I have to....
+                        (stops)
+                    What about my desk?
+
+     She slowly turns and approaches her desk, mouth open.
+
+
+ 12  INCLUDE DESK                                                   12   
+
+     on it is stacked a mound of wrapped cheese, surmounted by a      (X)
+     tiny French flag.  Lois slowly picks up one of the colorful
+     boxes.
+
+                                     LOIS
+                    Camembert.
+
+     She glances up as Clark appears, smiling shyly.
+
+                                     LOIS (CONT'D)
+                    Let me guess.  France?
+
+                                     CLARK
+                        (French accent)
+                    Oui, but of course.                               (X)
+
+                                     LOIS
+                        (searching for words)
+                    Clark... this is so... sweet.
+
+                                     CLARK
+                        (watching her)
+                    'But...'
+
+                                     LOIS
+                    We have to talk.                                  (X)
+
+                                     CLARK
+                    And I think Perry's idea about
+                    going away was great.
+
+                                     LOIS
+                    How'd you know ... ?
+
+                                     CLARK
+                        (sheepish)
+                    Super hearing.                                    (X)
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  Pink Rev.            7/21/95         10.    
+
+
+ 12  CONTINUED:                                                     12   
+
+                                     LOIS
+                        (uncomfortably)
+                    Right.
+                        (then)
+                    And we will talk!  Right after I
+                    get back!
+                        (a helpless shrug)
+                    I'm _sorry_!  I have to get a
+                    statement!
+                        (doubles back)
+                    But we are going to do this!
+                    Really! I swear!
+
+     And she's gone.  Clark stares glumly after her.  CAMERA
+     ADJUSTS to include a cruel-looking thug, BELZER, in Daily
+     Planet coveralls, pausing with a janitorial cart, watching.
+
+                                                       CUT TO:
+
+
+13   EXT. STREET - WITH LOIS - DAY                                  13   
+
+     She comes down the sidewalk, preoccupied, with large
+     shoulder satchels of notebooks, tape recorders, etc.  Taking
+     keys from purse, she arrives at a curbside parking spot
+     marked with a sign:  "Lois Lane," drops bags next to her
+     car.  Now she stares, irritated.
+
+
+14   LOOSER                                                         14   
+
+     Lois' car is blocked by a Daily Planet forklift with a load
+     of paper.  Frustrated, Lois is about to charge over to it,       (X)
+     when the cellular phone in one of her bags RINGS.  It keeps      (X)
+     RINGING as she digs it out.                                      (X)
+
+                                     LOIS
+                        (into phone)
+                    Yes?                                              (X)
+
+                                     VOICE ON PHONE (V.O.)
+                    Ms. Lane, you have an overseas                    (X)
+                    call.                                             (X)
+
+                                     LOIS
+                    What?  No, I...                                   (X)
+                        (sighs)
+                    Alright.                                          (X)
+
+     We TILT UP and MOVE IN on a huge flagpole mounted on the         (X)
+     building above her.                                              (X)
+
+                                     LOIS (CONT'D)
+                    Hello?  Hello?                                    (X)
+
+                            ---page break---
+     "Ordinary People" (#2)  Pink Rev.            7/21/95        10A.    
+
+
+ 15  OMITTED                                                        15   
+
+
+ 16  FLAGPOLE - CLOSER                                              16   
+
+     MOVE IN on the plate that anchors it to the building.  Two
+     of the four bolts are missing and the plate is starting to
+     pull away from the building.  A hand with wrench reaches
+     into FRAME, unbolting the third bolt as we PAN to find
+     Belzer, leaning from a window, working on the bolt, a            (X)
+     cellular phone cradeld at his neck.                              (X)
+
+                                     BELZER
+                    Please hold, I'm transferring.                    (X)
+
+     He rests the cellular on the windowsill.                         (X)
+
+                            ---page break---
+     "Ordinary People" (#2)  Pink Rev.            7/21/95         11.    
+
+
+ 17  LOIS                                                           17   
+
+                                     LOIS
+                        (into phone)
+                    Yes, yes.  I'm holding.  Hey, can                 (X)
+                    you call down to maintenance?                     (X)
+                    Someone's blocked me in!  Hello?                  (X)
+
+     Above her, she hears a CRACK. She stares up.
+
+
+ 18  INTERCUT THE FLAGPOLE                                          18   
+
+     It pulls away from the building with a horrible GROAN.  Lois
+     can only stare upwards, frozen, dropping phone.  The
+     flagpole hurtles toward her, when suddenly there's a BLUR OF
+     BLUE and Lois is snatched off her feet, just as the flagpole
+     and flag CRASHES down, destroying a sidewalk news kiosk in
+     an explosion of splintering wood.  Where Lois once stood,
+     the flagpole now rests, having totally squashed her satchels
+     of equipment.
+
+
+ 19  LOIS AND SUPERMAN                                              19   
+
+     They float to earth, both very shaken.
+
+
+ 20  BELZER                                                         20   
+
+     He glares down at Superman and Lois, leaves the window.
+
+
+ 21  LOIS AND SUPERMAN                                              21   
+
+     He continues to carry her in both arms, as:
+
+                                     SUPERMAN
+                    Are you alright?
+
+                                     LOIS
+                        (dazed and breathless)
+                    Yes.  Thank you.  I know it's not
+                    enough to say, but it's the best I
+                    can...
+                        (stares at him; gently:)
+                    Wow... Look at you.  You've gotten
+                    me out of a lot of jams I but I've
+                    never seen you like this.
+
+     She gently touches his cheek; his eyes are full of concern.
+
+                                     SUPERMAN
+                        (simply)
+                    Things are different, now.                        (X)
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   12.    
+
+
+ 21  CONTINUED:                                                     21   
+
+     Running people and SIRENS in b.g. Superman continues to
+     hold her, he and Lois continue to stare at each other, we
+
+                                                       CUT TO:
+
+
+ 22  INT. SPENCER SPENCER'S BUNKER - CLOSE ON SPENCER - NIGHT #1    22   
+
+     The phone is pressed to his ear.  He is livid.
+
+                                     SPENCER SPENCER
+                    What do you mean she's alive?!!
+                    Idiot!  High school drop-out!  I'll
+                    deal with you when I see you!
+
+     We have PULLED BACK to find the phone held to his ear by one
+     of the muscular attendants, KLAVEL.  A Handmaiden fans
+     Spencer while another holds a drink on a tray.
+
+                                     SPENCER SPENCER (CONT'D)
+                        (to Klavel)
+                    Slam the phone down definitively.
+
+     Klavel SLAMS the receiver to the hook, Spencer sneers at it.
+
+                                     KLAVEL
+                    Take it easy, Mr. Spencer.  It's
+                    always darkest before the dawn.
+
+                                     SPENCER SPENCER
+                        (dripping contempt)
+                    Interesting insight.  Funny, you                  (X)
+                    don't _look_ like a fortune cookie!
+                        (crying out)                                  (X)
+                    What do any of _you_ know about
+                    pain?!  I make Quasimodo look like
+                    a Rockette, for crying out loud!!                 (X)
+                        (turns on Klavel)
+                    _Your_ father ever look at your                   (X)
+                    body and call you Fish Boy?!!  I
+                    don't think so!!
+
+
+ 23  NEW ANGLE                                                      23   
+
+     Smooth, arrogant, impeccably tailored Argentinean DR. ARTURO
+     PESCADO sweeps in through a draped archway.
+
+                                     DR. PESCADO
+                    Hola!  It's Happy Hour, is it not?
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   13.    
+
+
+ 23  CONTINUED:                                                     23   
+
+                                     SPENCER SPENCER
+                    Oh yeah, we're all happy as hell in 
+                    here.  The Lane woman's still alive 
+                    and bodies with no heads are 
+                    popping up all over Metropolis.
+
+     Pescado plucks a drink from a Handmaiden's tray.
+
+                                     DR. PESCADO
+                        (haughtily)
+                    I merely do the experiments, I 
+                    don't dispose of the refuse.  Do I 
+                    look like a grave digger?
+
+                                     SPENCER SPENCER 
+                    No, you look like an alcoholic 
+                    quack.
+
+                                     DR. PESCADO
+                        (pleasantly)
+                    Very well, perhaps I do not share
+                    my breakthrough with you.
+
+                                     SPENCER SPENCER
+                    Breakthrough, Dr. Pescado?  Tell
+                    me!
+
+                                     DR. PESCADO
+                    I don't think so.
+
+                                     SPENCER SPENCER
+                        (too jolly)
+                    Hope I wasn't outta line with that 
+                    'quack' thing.  What can I say, I'm 
+                    a tortured human being.
+
+                                     DR. PESCADO
+                        (coolly)
+                    Yes.
+                        (then, calls:)
+                    Heidi!!
+
+     The lovely, stern, zaftig HEIDI, in braids and nurse's
+     uniform, instantly appears in the archway.
+
+                                     HEIDI
+                    Jawohl!
+
+                                     DR. PESCADO
+                    Heidi, the data!
+
+                                     HEIDI
+                    Jawohl, Herr Doktor!
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   14.    
+
+
+ 23  CONTINUED:  2                                                  23   
+
+     She rushes out.
+
+                                     DR. PESCADO
+                    After all these long months.  My 
+                    brilliance and your millions have 
+                    finally won out.
+
+                                     SPENCER SPENCER
+                        (trembling with
+                         anticipation)
+                    Do you mean to tell me you've 
+                    performed the transplant... 
+                    successfully?
+
+     Heidi's wheeled in a large graphic covered by two panels, 
+     positions it with back to CAMERA.
+
+                                     DR. PESCADO
+                    Behold.  Patient 'X.'
+
+     He flips up the top panel.
+
+                                     SPENCER SPENCER
+                        (staring)
+                    Hmmm.  Here we have a man with a
+                    face like Abe Vigoda....
+
+     Pescado flips the lower panel.
+
+                                     SPENCER SPENCER (CONT'D)
+                        (beside himself)
+                    And a body.... And a body... like 
+                    Sylvester Stallone!  In the first 
+                    'Rocky.' Before things got crazy.  
+                    God, I'm gonna cry.
+                        (as Klavel whips hankie
+                         to his head)
+                    I'm not gonna cry, you moron.
+                    Pescado... this surgery will work?
+                    For me?
+
+                                     DR. PESCADO
+                        (starting out)
+                    You have merely to select the body
+                    you wish.
+
+                                     SPENCER SPENCER
+                        (an unpleasant smile)
+                    But Doctor, I already have.
+                        (beat)
+                    Allow me to introduce the new....
+                    _improved_... Spencer Spencer.
+
+     And he slams his head against one of the levers.
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   15.    
+
+
+ 24  ANGLE - PORTRAIT ON WALL                                       24   
+
+     A huge painting is atop the mantle, concealed by a draped 
+     panel.  A soft WHIR of motors; the drape begins to lower.
+
+
+ 25  INTERCUT - PESCADO - HEIDI - SPENCER SPENCER                   25   
+
+     They all stare, transfixed, as the drape clears the top of 
+     the portrait, revealing the beaming face of Spencer Spencer.
+     Then the drape reveals the body attached to Spencer's head:
+     The body of... Superman!
+
+                                     SPENCER SPENCER
+                    Well, I always say, shoot for the 
+                    moon.
+
+                                                       BLACK.
+
+                            _END OF ACT ONE_
+
+                            ---page break---
+     "Ordinary People" (#2)  Pink Rev.            7/21/95         16.    
+
+                             _ACT TWO_
+
+     FADE IN:
+
+ 26  INT. LOIS' LIVING ROOM - NIGHT                                 26   
+
+     Lois comes out of the bathroom in hang-out wear, drying her
+     hair, preoccupied.  A RAPPING at the window.
+
+                                     LOIS
+                        (absently)
+                    Who is it?
+
+     Superman enters through the window.
+
+                                     SUPERMAN
+                    'Who _is_ it?' Lois who else                      (X)
+                    knocks on your third story window?                (X)
+
+     She crosses away, flops in a chair not facing him.
+
+                                     LOIS
+                    I ... guess I didn't seem very
+                    appreciative today about all that
+                    cheese.  But a boyfriend who can
+                    turn my every whim into reality
+                    takes getting used to.  I mean, my
+                    God, what if I said I wanted a
+                    perfect pearl from Japan? ...
+
+     WHOOSH.  In the b.g. Superman is gone in a blur of blue,
+     unnoticed by Lois, who rambles on.
+
+
+                                     LOIS (CONT'D)
+                    ... I'd never expect it to just
+                    appear.
+
+     WHOOSH.  He returns and places a pearl in an oyster on the
+     table behind her.
+
+                                     LOIS (CONT'D)
+                    Or if I casually expressed a
+                    craving for Swiss Chocolate...
+
+     WHOOSH, he's gone.
+
+                                     LOIS (CONT'D)
+                    ... You think I'd really expect you
+                    to go zipping off to Switzerland...
+
+     WHOOSH, he's back with huge wrapped blocks of chocolate.
+
+                                     LOIS (CONT'D)
+                    ... No more than if I said I wanted
+                    snow from the Andes...
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   17.    
+
+
+ 26  CONTINUED:                                                     26   
+
+     WHOOSH gone.
+
+                                     LOIS (CONT'D)
+                    These are just idle fantasies,
+                    not the kind of thing...
+
+     WHOOSH he's back with a pile of clean snow, which he 
+     deposits on the table with the other items.
+
+                                     LOIS (CONT'D)
+
+                    ... that's really important between two...
+                        (she turns and looks,
+                         jumps up)
+                    You've gotta stop _doing_ this!
+
+                                     CLARK
+                    Why??  Making you happy makes me                  (X)
+                    happy.
+
+     She drinks this in for a long beat.  Then:
+
+                                     LOIS
+                    Do you know why I gave up my crush
+                    on Superman?
+                        (he shakes his head)
+                    Because I realized he was a 
+                    fantasy.  Do you know why I fell in 
+                    love with Clark?
+                        (another "no")
+                    Because he's real.  That's what I
+                    want.
+
+                                     SUPERMAN
+                        (elated)
+                    You _do_?
+
+                                     LOIS
+                    He's got problems, insecurities,
+                    hat hair...
+
+                                     SUPERMAN
+                    I do not!
+
+                                     LOIS
+                    When I say to Clark I like the 
+                    scent of tulips from Holland, 
+                    that's not your cue to start 
+                    taxiing down the runway, it just 
+                    means Clark and I would figure out 
+                    a way we could put aside the money 
+                    to take a vacation... Together.  
+                    Like normal couples.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   18.    
+
+
+  26 CONTINUED:  2                                                  26   
+
+                                     SUPERMAN
+                    Lois, I am Clark!
+
+                                     LOIS
+                    You're also a guy who's off saving 
+                    the world from killer bees or 
+                    propping up the Golden Gate Bridge 
+                    or...
+
+                                     SUPERMAN
+                    Couldn't you think of me as a very 
+                    busy... very fast... very strong... 
+                    doctor?
+
+     Superman's suddenly distracted by a distant distress call.
+
+                                     LOIS
+                    It's just that I need stability...
+
+                                     SUPERMAN
+                    Uh, Lois...
+
+                                     LOIS
+                    ... some sense I'm not always 
+                    sharing you with five billion other 
+                    people on the planet...
+
+                                     SUPERMAN
+                    If you could just hold that
+                    thought...
+
+                                     LOIS
+                    Can you tell me you'll be there
+                    when _I_ need you?                                (X)
+
+                                     SUPERMAN
+                    I... gotta go.
+
+     And he takes off.
+
+ 27  LOIS                                                           27   
+
+     WHOOSH, she stands there, hair fluttering in the breeze,
+     sighing wistfully as if her question were answered.
+
+                                                       CUT TO:
+
+
+ 28  EXT. SPENCER SPENCER'S ISLAND - ESTABLISHING - DAY #2          28   
+                        (STOCK)
+
+     Small, tropical, set in a turquoise sea.  Over this, we hear
+     Aerobics MUSIC.
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   19.    
+
+
+ 29  INT. SPENCER SPENCER'S BUNKER - ON TV - DAY                    29   
+
+     The "Body by Jake" exercise show.
+
+
+ 30  THE ROOM                                                       30   
+
+     CAMERA MOVES past Spencer Spencer's spectacular Attendants,
+     attired in exercise wear, doing aerobics, finally arriving 
+     at Spencer Spencer.  His box moves feverishly up and back 
+     and side to side in time to the music, as:
+
+                                     JAKE (V.O.)
+                    Okay you guys, let's cool down.
+
+     Spencer's box rolls to a halt.
+
+                                     SPENCER SPENCER
+                    Klavel!  Towel me!
+
+     Klavel brings over as towel, wipes Spencer's brow as the 
+     other Attendants exit, taking TV with them.
+
+                                     SPENCER SPENCER (CONT'D)
+                    Easy!  Think you're scrubbin' a 
+                    bowling ball?  First day I got new 
+                    arms, I'm gonna wring your neck.
+
+                                     DR. PESCADO (O.S.)
+                    There is one little wrinkle, Senor 
+                    Spencer!
+
+
+ 31  NEW ANGLE                                                      31   
+
+     as Dr. Pescado enters, followed by Heidi.
+
+                                     DR. PESCADO
+                    As Heidi and I were making final 
+                    preparations for surgery, she 
+                    raised a rather important issue.
+                    Didn't you, Heidi?
+
+                                     HEIDI
+                    Jawohl, Herr Doktor!
+
+                                     DR. PESCADO
+                    My understanding is that this 
+                    Superman is invulnerable.  How do I 
+                    perform the excision of his head?
+                    My scalpels will not even nick El
+                    Hombre de Acero!                                  (X)
+
+                                     SPENCER SPENCER
+                    What?
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   20.    
+
+
+ 31  CONTINUED:                                                     31   
+
+                                     HEIDI
+                    His scalpels will not even nick...
+
+                                     SPENCER SPENCER
+                    I speak English, Heidi.
+
+                                     HEIDI
+                        (coldly)
+                    ... The Man of Steel!
+
+                                     SPENCER SPENCER
+                    You crepe hanging crybabies!  Think 
+                    you're playin' with kids here?!  
+                    The guy'll cut like butter!  Ever 
+                    hear of Kryptonite?
+
+                                     DR. PESCADO
+                    I know only a few specimens exist.
+                    How could you get it?
+
+                                     SPENCER SPENCER
+                        (exploding)
+                    I'm gettin' a body transplant!  You
+                    think I can't pull off a piece of
+                    Kryptonite?!  Cash and connections,
+                    Doc!  Without 'em I'm just a head
+                    with a dream!
+
+                                     HEIDI
+                    And I suppose Superman will just
+                    cha cha into our waiting clutches?
+
+                                     SPENCER SPENCER
+                        (lips curling)
+                    No, Miss Reichstag.  His two best 
+                    friends, Lois Lane and Clark Kent 
+                    will lure him here.  My man in 
+                    Metropolis says their boss is 
+                    pushin' 'em to go off to some 
+                    remote little spot.  He says this
+                    Clark guy is all for it.  Well,
+                    gee whiz, I _live_ in a remote 
+                    little spot!  And when they think 
+                    they're stranded here, their 
+                    buddy'll show up, and I _got_ him!
+                    Am I smart or what??
+
+     An awkward silence as they all wait in fear.
+
+                                     SPENCER SPENCER (CONT'D)
+                    This would be the appropriate time
+                    for a resounding 'oh yes.'
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   21.    
+
+
+ 31  CONTINUED:  2                                                  31   
+
+                                     KLAVEL/HEIDI/DR. PESCADO
+                    Oh yes!
+
+                                     SPENCER SPENCER
+                    Too late.
+
+                                                       CUT TO:
+
+
+ 32  INT. DAILY PLANET BULLPEN - ON HUGE BASKET - DAY               32   
+
+     It's a huge promotional basket loaded with tropical fruit
+     and flowers, leis, photos, brochures, and wrapped in
+     cellophane. Jimmy struggles into Perry's office with it.
+
+                                     JIMMY
+                    This promotional basket just came.
+
+                                     PERRY
+                        (shaking his head)
+                    They get worse every year. People
+                    are fleeing Cuba in things smaller
+                    than this.
+
+     He whips the letter from the envelope.
+
+                                     JIMMY
+                    They're hoping you'll send the
+                    Travel Editor to review this new
+                    private island resort.  They say
+                    it's the perfect spot to fall in
+                    love.
+
+                                     PERRY
+                        (slowly looks up)
+                    Should I read _any_ of my mail, or
+                    just ask you for a summary?
+
+                                     JIMMY
+                        (hinting)                                     (X)
+                    I was kinda thinking the Travel
+                    Editor's awful busy and you might
+                    wanna send someone oh... younger
+                    and more in need of a vacation.
+
+     Perry looks thoughtful as Jimmy waits eagerly, hoping
+     Perry's taken the hint.
+
+                                     PERRY
+                    You know, son, I think you're onto
+                    something?
+
+                                     JIMMY
+                    Great!
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   22.    
+
+
+ 32  CONTINUED:                                                     32   
+
+                                     PERRY
+                    Tell Lois to get in here.
+
+     ON Jimmy's deflated reaction,                                    (X)
+
+                                                       CUT TO:
+
+
+ 33  INT. LOIS' LIVING ROOM - ON FRONT DOOR - NIGHT #2              33   
+
+     Lois struggles to unlock door and retrieve her keys while 
+     carrying the huge promotional basket.  She kicks the door 
+     closed and carries it straight to a trash can, trying to 
+     stuff it in.  KNOCK at DOOR.  She opens it to find Clark.
+
+                                     CLARK
+                    See?  I used the door.  Just like a
+                    regular guy.
+
+                                     LOIS
+                    Very impressive.
+
+     She returns to stuffing the basket into the trash.
+
+                                     CLARK
+                    Yessir.  Walked down the old
+                    street, came up the old stairs...
+                        (notices her efforts)
+                    Lemme help.
+
+     He takes the basket and compresses it into a tiny cube of 
+     matter, tosses it over his shoulder, kicks it with his heel 
+     into the trash.
+
+                                     CLARK (CONT'D)
+                    Just like a regular guy.
+                        (off her look)
+                    Sort of.
+                        (eying trash)
+                    Uh, what _was_ that thing we
+                    just...
+
+                                     LOIS
+                    Promotion for this stupid tropical
+                    resort.
+
+                                     CLARK
+                    Oh, so Perry got to you, too.
+
+                                     LOIS
+                    He's practically ordering us to go!
+                    I told him I'm way too busy.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   23.    
+
+
+ 33  CONTINUED:                                                     33   
+
+                                     CLARK
+                    Yeah, I guess work'd be a lot safer 
+                    than seeing what an uninterrupted 
+                    weekend with me would be like.
+
+                                     LOIS
+                    Hold it, _hold_ it.  I'm not the 
+                    one leaping off big buildings at 
+                    every distant S.O.S...
+
+                                     CLARK
+                    What're you saying?
+
+                                     LOIS
+                    Just that you couldn't stand
+                    letting the world get by on its own
+                    for two whole days.                               (X)
+
+                                     CLARK
+                    And you'd rather write about other
+                    people's lives, 'cause it's less
+                    scary than living one of your own!
+
+                                     LOIS
+                    Oh yeah?
+
+                                     CLARK
+                    Yeah!
+
+     He hears something. She knows he hears something.
+
+                                     LOIS
+                        (casually)
+                    Someone... want you?
+
+                                     CLARK
+                        (lying)
+                    Nope, nope.
+                        (relents)
+                    Yes.
+
+                                     LOIS
+                    Go.
+
+     He SPINS into Superman, heads for the window, looks back.
+
+                                     SUPERMAN
+                    I could do it if you could.
+
+     She looks at him, starts to smile mischievously.                 (X)
+
+                                     LOIS
+                    Wanna bet?                                        (X)
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   24.    
+
+
+ 33  CONTINUED:  2                                                  33   
+
+                                     CLARK
+                    Bet.                                              (X)
+
+                                                       CUT TO:
+
+
+ 34  EXT. TROPICAL ISLAND - DAY #3 (STOCK)                          34   
+
+     A small boat makes its way toward the island.
+
+
+ 35  EXT. DOCK - DAY                                                35   
+
+     The boat pulls up and the aging Captain helps Lois and 
+     Clark, wearing casual resort wear, ashore.  He sets down 
+     their bags as they look around.  The place is deserted.
+
+                                     LOIS
+                    Excuse me, sir, where do we check
+                    in?
+
+     The Captain waves vaguely off in the distance.
+
+                                     LOIS (CONT'D)
+                    The brochure mentioned a
+                    'Welcoming Hukilau...'  Do we                     (X)
+                    wait here for the hotel jitney?                   (X)
+
+     The man has lugged two beach chairs onto the beach, hands
+     Clark a sun umbrella.  Clark senses Lois' growing alarm          (X)
+     and, for her benefit:                                            (X)
+
+                                     CLARK
+                        (to Captain)
+                    Captain, I guess you're saying we                 (X)
+                    shouldn't be fooled by the casual
+                    elegance here.  Big city tourists                 (X)
+                    like us might think it looks kinda
+                    rustic... or even... primitive.
+
+     The Captain has cast off, and as Lois and Clark stare, he
+     CHUGS away.  They smile weakly at each other.
+
+                                                       DISSOLVE TO:
+
+
+ 36  EXT. SAME BEACH - LATER                                        36   
+
+     Lois sits forlornly in her chair, holding her umbrella. She
+     scribbles something on the notepad in her lap.  Clark            (X)
+     appears through the trees.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   25.    
+
+
+ 36  CONTINUED:                                                     36   
+
+                                     CLARK
+                    Aha, I knew you couldn't live up to 
+                    our bargain.  Two hours and already 
+                    you're working.
+
+                                     LOIS
+                    I'm writing my will.  Someday when 
+                    they find our bleached bones 
+                    they'll read my last wishes.
+
+                                     CLARK
+                    Well if these are my last minutes,
+                    who better to spend them with?
+
+     He plops down on the sand next to her.
+
+                                     CLARK (CONT'D)
+                    Alone in paradise with the woman I
+                    love.  It's almost biblical.
+
+                                     LOIS
+                    Clark, when you went exploring, did 
+                    you see any proof whatsoever that 
+                    there is in fact a hotel?
+
+                                     CLARK
+                    No, but why wouldn't there be a
+                    hotel?
+
+                                     LOIS
+                        (trying to stay calm)
+                    Well... Oh... Maybe no one ever
+                    built one... Maybe we're on the
+                    wrong island... Maybe this is a
+                    penal colony.  Or maybe no other 
+                    living being has ever been here in 
+                    the history of the earth!!
+                        (gets a grip)
+                    Why don't you take a quick buzz
+                    around and look?
+
+                                     CLARK
+                        (innocently)
+                    Why would I do that?  I don't buzz
+                    anywhere.
+
+                                     LOIS
+                    Yes, but...
+                        (silently mouths)
+                    ... Superman...
+                        (audible)
+                    Does.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   26.    
+
+
+ 36  CONTINUED:  2                                                  36   
+
+                                     CLARK
+                    But...
+                        (silently mouths)
+
+                    ... Superman...
+                        (audible)
+                    isn't here.
+
+                                     LOIS
+                    That's cute.  That's really,
+                    really, really cute.
+
+     Clark smiles, reaches for shirt buttons, Lois is relieved.
+
+                                     LOIS (CONT'D)
+                    Thanks.  I knew you'd come through.
+                    A joke's a joke, but...
+
+     He pulls open his shirt.  Only flesh beneath.
+
+                                     LOIS (CONT'D)
+                    Okay, where's the suit?
+
+                                     CLARK
+                    No suit.  Left it at home.
+                        (stretches out)
+                    It's just you and me.  Joe and Judy
+                    Regular.
+
+     She stares at him in horror as he glances lazily up at her.
+
+                                     CLARK (CONT'D)
+                    So... Wanna neck?
+
+                                                       CUT TO:
+
+
+ 37  INT. SPENCER SPENCER'S BUNKER - ON TV MONITOR - DAY            37   
+
+     Beneath the monitor is an electronic control panel.  On 
+     the screen is a silent, black and white picture from a high 
+     angle camera.  Lois and Clark are on the beach, and she is 
+     getting more annoyed.  PULL BACK to find Spencer Spencer, 
+     Klavel and Belzer watching.  On the screen, Lois flops back, 
+     puts a sun hat over her face, folds her arms.  Clark grins 
+     at her, lies back, closes his eyes to doze.
+
+                                     SPENCER SPENCER
+                    Pretty quick it'll hit 'em they're 
+                    in trouble and that's when they 
+                    call in the big boy.
+
+     He hits a lever with the side of his head, the monitor snaps 
+     off.  He starts to roll away, then:
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  Pink Rev.            7/21/95         27.    
+
+
+ 37  CONTINUED:                                                     37   
+
+                                     SPENCER SPENCER (CONT'D)
+                    Oh well, I've never been a patient
+                    man.  Do it.
+
+     Klavel hits a button on the control panel.  Spencer Spencer 
+     chuckles and rolls on out.
+
+
+ 38  EXT. BEACH - DAY                                               38   
+
+     A foliage-covered panel opens in the brush.  In the gloom 
+     within we now see two glittering eyes, and then a sleek
+     tiger emerges through the grass.                                 (X)
+
+     WIDEN to reveal the cat just a short distance from Lois, 
+     headed straight for her.
+
+                                                       BLACK.
+                            _END OF ACT TWO_
+
+                            ---page break---
+     "Ordinary People" (#2)  Pink Rev.            7/21/95         28.    
+
+                            _ACT THREE_
+
+     FADE IN:
+
+ 39  EXT. BEACH - LOIS AND CLARK - DAY                              39   
+
+     They lie dozing on the beach.  CAMERA MOVES to SHOOT across 
+     Lois.  The tiger is nearing her.  Clark lazily stretches,        (X)
+     glances over at Lois, reacts to the sight of the approaching 
+     cat.  Lois rolls over toward him, her eyes closed.  Clark 
+     dips his glasses and beams of HEAT VISION appear.
+
+
+ 40  THE TIGER                                                      40(X)
+
+     It slinks forward.  A strip of sand, hit by the heat vision,
+     turns a pale shade of pink and steams slightly.  The animal
+     reaches the heated area, pauses, stares at the sand, and
+     abruptly turns and runs off into the brush.
+
+
+ 41  LOIS AND CLARK                                                 41   
+
+     She groggily looks up at him as he quickly replaces his
+     glasses and smiles at her.
+
+                                     LOIS
+                    Hi.
+
+                                     CLARK
+                    Hi.
+
+                                     LOIS
+                        (then, looking around)
+                    God, it's not a dream.  We are
+                    here.
+
+     He grins, jumps up, trots out of FRAME.  She sits up, swats
+     a bug on her arm, watches him.
+
+                                     LOIS (CONT'D)
+                    What're you doing?
+
+
+ 42  LOOSER                                                         42   
+
+     Clark is enthusiastically dragging a bunch of palm fronds to
+     a spot, going off for more.
+
+                                     CLARK
+                    Building our hut.
+
+                                     LOIS
+                    'Our hut?!'
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   29.    
+
+
+ 42  CONTINUED:                                                     42   
+
+                                     CLARK
+                    Well, I'm sure the hotel people
+                    will be here before night... or the
+                    boat people will realize they took 
+                    us to the wrong place... But just 
+                    in case... We'll need shelter.
+
+                                     LOIS
+                    What we need is a sauna, massage,
+                    and room service!  Look, why don't 
+                    you just scoop me up in your arms 
+                    and fly us off?  Maybe we're near 
+                    Rio.
+
+                                     CLARK
+                    No scooping, no flying.
+
+                                     LOIS
+                    You've been scooping and flying on 
+                    a fairly regular basis ever since 
+                    I've known you, but _now_, now when 
+                    we're surrounded by crazed insects 
+                    and murderous plants... now you 
+                    figure would be a bad time?!
+
+                                     CLARK
+                    You challenged me to let the world 
+                    get along without me for a weekend.
+                    The world and I seem to be doing 
+                    fine.  You, on the other hand, are 
+                    a wreck.
+
+                                     LOIS
+                        (steamed)
+                    Really?  'Wreck?' I'll show you
+                    who's the wreck.
+
+     And she picks up branches and throws herself into the task 
+     with a vengeance.  He grins, starts back in, himself.
+
+                                     LOIS (CONT'D)
+                    I wish you didn't look like you 
+                    were having so much fun!
+
+                                     CLARK
+                    I haven't had a vacation in years.
+
+                                     LOIS
+                    Trust me.  There are better ones.
+
+                                                       CUT TO:
+
+                            ---page break---
+     "Ordinary People" (#2)  Pink Rev.            7/21/95         30.    
+
+
+ 43  INT. SPENCER SPENCER'S BUNKER - DAY                            43   
+
+     Spencer Spencer has been approving page lay-outs for "Love
+     Fortress" Magazine.  He dismisses the Handmaiden who's been
+     holding the lay-out boards while turning on Klavel.
+
+                                     SPENCER SPENCER
+                    The tiger 'ran away?!'  You said                  (X)
+                    this is the most vicious animal
+                    alive!
+
+                                     KLAVEL
+                        (dying)
+                    And it is!  Assuming it keeps
+                    going, you know... Forward.
+
+                                     SPENCER SPENCER
+                        (rolling away)
+                    Contaminate the drinking water!
+
+                                                       CUT TO:
+
+
+ 44  EXT. BEACH - LOIS AND CLARK - DAY                              44   
+
+     They stand staring at their work.
+
+                                     CLARK
+                    Well, it's not so bad.
+
+                                     LOIS
+                    No, no, I think it looks pretty
+                    sturdy.
+
+                                     CLARK
+                    I guess _this_ shows what we can do
+                    without super powers, right?
+
+     They high five.
+
+
+ 45  THE HUT                                                        45   
+
+     It's lopsided, wobbly, and sheds the occasional branch.
+
+
+ 46  INCLUDE LOIS AND CLARK                                         46   
+
+                                     CLARK
+                    Gee.  Our first house.
+
+     She smiles in disbelief.  Impulsively, he lifts her up.
+
+                                     LOIS
+                    Hey, I thought no scooping!
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   31.    
+
+
+ 46  CONTINUED:                                                     46   
+
+                                     CLARK
+                    This isn't scooping, it's carrying.
+                    I'm carrying you over the 
+                    threshold.
+
+     He carries her toward the hut, which suddenly shudders and 
+     collapses into a pile of rubble.  They stare, we
+
+                                                       CUT TO:
+
+
+ 47  INT. PERRY'S OFFICE - DAY                                      47   
+
+     Perry's on the phone.
+
+                                     PERRY
+                    Yes, Alice my pet, of course I'll 
+                    stop at the video store.  What's 
+                    your second choice if they're out 
+                    of 'Tora, Tora, Tora?'
+
+     Jimmy enters with photos for Perry to approve.
+
+                                     PERRY (CONT'D)
+                    Oops, breaking news, Dumplin'.
+                    Gotta go.
+
+                                     JIMMY
+                    Chief, sometimes it seems you're
+                    afraid of Alice.
+
+                                     PERRY
+                        (casually, looking at
+                         photos)
+                    I am.  So... any word from Lois or
+                    Clark?
+
+                                     JIMMY
+                    No, and there won't be any.  C.K. 
+                    said the island doesn't even have 
+                    phones.
+
+                                     PERRY
+                        (wistfully eying his own
+                         phone)
+                    Really.  Olsen, lad, learn to value 
+                    life's treasures.  A beautiful 
+                    woman and a pitcher of rum.
+                        (sigh)
+                    I envy Clark.  Those two must be in
+                    heaven right now.
+
+                                                       CUT TO:
+
+                            ---page break---
+     "Ordinary People" (#2)  Pink Rev.            7/21/95         32.    
+
+
+ 48  EXT. STREAM - DAY                                              48   
+
+     Lois, now wearing shorts, tries to cross the water on a
+     series of slimy rocks, falls screaming into the water, sits
+     there sputtering.  Clark, also wearing less, trots back with
+     an armload of bananas.
+
+                                     CLARK
+                    What happened?
+
+                                     LOIS
+                    I thought a swim might be nice.
+
+     She cups her hands, scoops up water for a drink.
+
+
+ 49  ON CLARK                                                       49   
+
+     He peers over his glasses, squints at the water.
+
+
+ 50  POV - SUPER CLOSE-UP VISION                                    50   
+
+     Close, closer, CLOSEST. The water is teaming with bacteria.
+
+
+ 51  BACK TO SCENE                                                  51   
+
+                                     CLARK
+                    Lois!
+
+     Startled, she drops the water.
+
+                                     CLARK (CONT'D)
+                    That water doesn't look so good...
+                    But look... There's an underground
+                    spring right over here...
+
+     She wearily climbs out of the water as Clark steps behind a
+     boulder.
+
+                                     LOIS
+                    Where've you been, anyway?
+
+
+ 52  CLARK                                                          52   
+
+     Behind the boulder, he punches a hole into rocky ground
+     surface and pushes down the length of his arm, with a low        (X)
+     DRILLING SOUND, as:
+
+                                     CLARK
+                    I was searching for food.  Boy are
+                    we lucky.  Look at all those
+                    bananas!
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   33.    
+
+
+ 52  CONTINUED:                                                     52   
+
+     He withdraws his arm and water bubbles up out of the hole
+     just as Lois appears around the side of the boulder.
+
+                                     CLARK (CONT'D)
+                    Here, this looks better.                          (X)
+
+                                     LOIS
+                    Great.  By the way, I hate                        (X)
+                    bananas.
+
+     She gratefully scoops up the water, drinks, washes off her
+     face as Clark smiles.
+
+                                     CLARK
+                    Well, there's always roots and
+                    snails.
+
+     She picks up the bunch of bananas, stares at them
+     distastefully.
+
+                                     LOIS
+                    And to think I was complaining
+                    about Camembert from France.  It's
+                    like those words came from another
+                    woman.  A clean woman.  A dope.
+
+     She flops down as Clark peers into the stream.                   (X)
+
+                                     CLARK
+                    If there's fish, I bet I could
+                    figure out a way to catch one.   My
+                    pop used to take me fishing all the
+                    time when I was a kid.  I got
+                    pretty good.
+
+     Lois stares off, chewing a banana with distaste.
+
+                                     LOIS
+                    I've never been fishing.                          (X)
+
+                                     CLARK
+                    He's just an ordinary guy, you
+                    know ...?  And he loved doing this
+                    ordinary thing.... fishing.  And I
+                    guess I loved it because he did.
+
+     Lois slowly looks at him.
+
+                                     LOIS
+                    Your parents are wonderful.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   34.    
+
+
+ 52  CONTINUED:  2                                                  52   
+
+                                     CLARK
+                        (smiles)
+                    Maybe I wanna get married and have 
+                    kids because they made it look like 
+                    so much fun.
+
+     She covers her eyes, suddenly emotional.
+
+                                     LOIS
+                    Oh God.
+
+                                     CLARK
+                        (startled)
+                    What?
+
+                                     LOIS
+                        (near tears)
+                    I'll never be as good a mom as 
+                    yours was!  What do _I_ know about 
+                    it?!  My parents didn't make 
+                    marriage look fun, they made it 
+                    look like root canal!
+
+                                     CLARK
+                        (going to her)
+                    Lois...
+
+                                     LOIS
+                    My mother's depressed, my brother 
+                    won't come out of his room, and my 
+                    father only relates to cyborgs!  I 
+                    didn't _want_ a family!  I ran as 
+                    far away from it as I could!
+
+     He lifts her up, holds her.
+
+                                     CLARK
+                    Okay, your parents made a mistake!
+                    That doesn't mean _you're_ going 
+                    to!
+
+                                     LOIS
+                    How do you know?!
+
+                                     CLARK
+                        (softly)
+                    Because I hear the guy who wants to 
+                    marry you is really, really 
+                    terrific.
+
+                                                       CUT TO:
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   35.    
+
+
+ 53  INT. CORRIDOR - SPENCER'S BUNKER - HEIDI - TRACKING - DAY      53   
+
+     Heidi, in surgical gown, pushes a gurney briskly down the
+     gloomy stone corridor.
+
+
+ 54  INCLUDE GURNEY                                                 54   
+
+     A terrified male PATIENT is strapped to the gurney,
+     struggling and looking around wildly.  Heidi nears Spencer
+     Spencer, who waits outside a door to the operating room.
+
+                                     SPENCER SPENCER
+                    One last trial run before the big
+                    event?
+
+                                     HEIDI
+                    Jawohl, Herr Spencer Spencer!
+
+     The Patient struggles to tilt back his head to see Spencer
+     Spencer, who's behind him.
+
+
+ 55  PATIENT'S UPSIDE-DOWN POV                                      55   
+
+     Spencer wiggles his eyebrows impishly.
+
+
+ 56  BACK TO SCENE                                                  56   
+
+     The Patient screams in fright, irking Spencer.
+
+                                     SPENCER SPENCER
+                    Get him outta here.
+
+     Heidi pushes him into the operating room as CAMERA MOVES to
+     reveal Dr. Pescado, in mask and cap, standing amidst an
+     array of terrifying machines, tubes, and blinking lights.
+
+                                     PATIENT
+                    No.... no... !
+
+     The door swings closed, muffling the shouts. CAMERA MOVES
+     to a side ANGLE as Spencer moves to watch the procedure
+     (which we can't see) through the glass in the door.  Belzer
+     comes up.
+
+                                     BELZER
+                    Well, they're not sick, and no sign
+                    of Superman anywhere.  Why don't I
+                    just go grab those two?
+
+                                     SPENCER SPENCER
+                    No.  I don't want Superman even
+                    _thinking_ he's walkin' into a
+                    trap.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   36.    
+
+
+ 56  CONTINUED:                                                     56   
+
+                                     BELZER
+                    I'm telling you... They look like
+                    they don't want to be rescued.
+
+                                     SPENCER SPENCER
+                        (considers, then:)
+                    I'm not a patient man.  Grab                      (X)
+                    'em.
+
+     Belzer goes as Spencer stares through the glass.
+
+
+ 57  INT. OPERATING ROOM - VARIOUS ANGLES (INSERTS)                 57   
+
+     Electricity arcs, lights blink, chemicals swirl through
+     tubes, the Patient looks up, eyes wide with horror at:
+
+
+ 58  DR. PESCADO                                                    58   
+
+     He approaches with a scalpel, moving into CAMERA.                (X)
+
+
+ 59  SPENCER SPENCER                                                59   
+
+     Spencer Spencer winces, then smiles nastily.                     (X)
+
+                                     SPENCER SPENCER
+                    Oh, Superman... What a way to go.
+
+                                                       CUT TO:
+
+
+ 60  EXT. CLEARING - NIGHT #3                                       60   
+
+     Clark, changed for nighttime, is trying to build a fire by
+     rubbing one stick against a wood block.  He's not having
+     much luck.  Lois, also in clean clothes, comes up, watches.
+
+                                     LOIS
+                    I guess you never learned how to do
+                    this.
+
+                                     CLARK
+                    Think about it, Lois.  Why would
+                    I _have_ to learn how to do this?
+
+     She yanks a drawstring from a sweatshirt hood on the ground,
+     rigs a bow with a long twig, inserts a second stick in a
+     loop in the bowstring, starts spinning the second stick
+     against the wood block by rocking the bow back and forth,
+     all during:
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   37.    
+
+
+ 60  CONTINUED:                                                     60   
+
+                                     LOIS
+                    It just so happens I'm a former
+                    Girl Scout.
+
+                                     CLARK
+                    Good.  I'm a strange visitor from
+                    another planet.
+
+                                     LOIS
+                    I guess by now you'd pretty much                  (X)
+                    concede we're on the wrong island.
+
+                                     CLARK
+                    Well... Yeah.                                     (X)
+                        (glances up at her)
+                    Did you wanna leave?                              (X)
+
+                                     LOIS
+                        (working away)                                (X)
+                    I...suppose I could stick it out
+                    for one night.                                    (X)
+
+     She sneaks a glance at him, then notices a wisp of smoke 
+     rising from the wood.
+
+                                     LOIS (CONT'D)
+                    Quick, add some dried leaves! 
+                    Okay... blow!
+
+     Clark blows a short blast of super breath, which kicks up 
+     the dirt all around Lois.
+
+                                     LOIS (CONT'D)
+                        (wiping dust out of her eyes)
+                    One more time, and remember it's a
+                    campfire, not a nuclear reactor.
+
+     He blows gingerly.
+
+                                     LOIS (CONT'D)
+                    Harder
+                        (he blows)
+                    More leaves.
+                        (adds leaves)
+                    Faster!
+                        (more blowing)
+                    Not so fast!
+
+     Clark is gamely trying to cooperate and finally Lois bursts 
+     out laughing at their predicament.
+
+                                     CLARK
+                    What's so funny?
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   38.    
+
+
+ 60  CONTINUED:  2                                                  60   
+
+                                     LOIS
+                    This is exactly what I thought
+                    camping with Clark would be like!
+
+                                     CLARK
+                    Lois, you are camping with Clark,
+                    remember?
+
+     And suddenly the little leaf pile catches fire.
+
+                                     LOIS
+                    Oh!  Oh!  We did it!  Boy, why 
+                    don't we have any hot dogs on 
+                    sticks?
+
+     Clark reaches around to grab something.
+
+                                     CLARK
+                    Next best thing.
+
+     And he impales a banana on a stick, holds it over the fire, 
+     as she sighs, begins to smile, we
+
+                                                       DISSOLVE TO:
+
+
+ 61  EXT. CLEARING - ON BANANA PEELS - NIGHT                        61   
+
+     The peels are scattered on the ground with the roasting 
+     sticks.
+
+     TILT UP to find a CRACKLING fire, and Lois and Clark, 
+     clothes from their suitcase spread under them for a bed, 
+     snuggled in each other's arms, staring at the fire.
+
+                                     LOIS
+                    You know, I dreamed of this?  Of 
+                    spending the night this close to 
+                    you?
+                        (smiles up at him)
+                    I mean, first it was Superman I 
+                    dreamed of.  But then... it was 
+                    Clark.
+
+                                     CLARK
+                    What happened?
+
+                                     LOIS
+                    Well, I'd be in your arms....                     (X)
+                        (he holds her closer)
+                    We'd kiss...
+                        (they do)
+                    And....
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   39.    
+
+
+ 61  CONTINUED:                                                     61   
+
+                                     CLARK
+                    And ... ?
+
+                                     LOIS
+                        (a little timid;
+                         searching)
+                    And you'd tell me how you felt                    (X)
+                    about me.
+
+                                     CLARK
+                    I don't know how I feel about you.
+
+                    She's a bit taken aback.
+
+                                     CLARK (CONT'D)
+                    There's no one way I feel.  I feel
+                    so many things.  And all at once...
+                    Happy but kinda scared... Excited..
+                    calm. Lost... found.  Safe in a
+                    way I've never known, but in
+                    danger, too.  This thing with us,
+                    whatever it is... is stronger than
+                    me.  Being with you is stronger
+                    than me alone.  That's new for me.
+
+     She is staring up at him, very moved by this. She gently
+     reaches up touches his cheek, and he kisses her.  It's
+     tender at first, then, as things heat up:
+
+
+ 62  EXT. JUNGLE - ON FEET - TRACKING - NIGHT                       62   
+
+     Black boots into which are bloused black jumpsuits.  TILT UP
+     to find Klavel and Belzer, wearing goggles to which are
+     attached tiny, powerful spotlights.  They carry automatic
+     weapons and make their way through the steaming jungle,
+     finally approach a clearing up ahead.
+
+                                     BELZER
+                    There they are.
+
+
+ 63  LOIS AND CLARK                                                 63   
+
+     They're kissing as the muzzles of the guns enter FRAME.
+
+                                     BELZER (O.S.)
+                    On your feet.
+
+     Lois and Clark dive apart and stare up.  Clark stifles his
+     impulse to leap up when he looks over and finds the gun
+     aimed at Lois.
+
+                                                       BLACK.
+
+                           _END OF ACT THREE_
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   40.    
+
+
+                             _ACT FOUR_
+
+     FADE IN:
+
+ 64  INT. BASEMENT DUNGEON - LOOSE - NIGHT                          64   
+
+     CAMERA MOVES IN on side by side cells in which Lois and 
+     Clark have been placed, their hands chained to the wall, 
+     over their heads.  Fast and hushed:
+
+                                     LOIS
+                    Tell you what.  I'll forego the 
+                    bet.  Any time you wanna change into..
+                        (silently mouths)
+                    Superman...
+                        (audible)
+                    ... would be fine with me.
+
+                                     CLARK
+                    Look, I have to pick my moments for
+                    changing into
+                        (silently mouths)
+                    ... Superman.
+
+                                     LOIS
+                    _This_ one!  This moment!  Pick
+                    _this_ one!
+
+                                     CLARK
+                    Maybe we're being watched.  I don't 
+                    have the suit.  Maybe we'd bust 
+                    outta here and never find out 
+                    what's behind all this....
+
+                                     LOIS
+                    What, do you have rules for
+                    everything?!
+
+                      LOIS                        CLARK
+               It's good to               Being impulsive
+               know, because I'd          can get you into
+               really have to             even more
+               think twice about          trouble, as I'd
+               marrying that              think, you, of
+               kind of                    all people,
+               compulsive                 surely woulda
+               personality!               learned by now!
+
+                                     BELZER (O.S.)
+                    Hey, pipe down!
+
+     They both look up as:
+                        
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   41.    
+
+
+ 65  NEW ANGLE                                                      65   
+
+     Belzer and Klavel approach.  Klavel covers Lois with a gun
+     as Belzer swiftly opens her cell, frees her hands during:
+
+                                     BELZER
+                    Your host requests the honor of
+                    your company upstairs.
+
+
+ 66  CLARK                                                          66   
+
+     He surreptitiously snaps the manacles at his wrists without
+     lowering his hands.  He peers over the top of his glasses
+     and aims a beam of HEAT VISION at the lock.
+
+                                     LOIS (O.S.)
+                    I'm gonna have to pass.  I didn't
+                    pack party clothes.
+
+
+ 67  THE LOCK                                                       67   
+
+     It heats and a small puff of smoke issues from inside it.
+
+                                     BELZER (O.S.)
+                    Spencer Spencer says it's
+                    come-as-you-are.
+
+
+ 68  BOTH CELL                                                      68   
+
+     Lois and Clark react to the name and Clark pulls his wrists
+     through the manacles.  Belzer spots him, whips a hypodermic
+     syringe from his pocket.
+
+                                     BELZER
+                    Hold, it Houdini!
+
+     He plunges the needle into Lois' arm.
+
+                                     LOIS
+                    OW!
+
+                                     BELZER
+                    I don't know how you got outta
+                    those chains, but this toxin takes
+                    just seconds to kill.  The
+                    antidote's upstairs.  You so much
+                    as blink, she won't get it, and you
+                    can say good-bye to your babe.
+
+                                     LOIS
+                    Don't call me 'babe.'
+
+     And she passes out.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  Pink Rev.            7/21/95         42.    
+
+
+ 68  CONTINUED:                                                     68   
+
+                                     BELZER
+                        (to Klavel)
+                    He even breathes wrong, push the                  (X)
+                    alarm, and this one's dead.
+
+                                                       CUT TO:
+
+
+ 69  INT. SPENCER SPENCER'S BUNKER - ON SPENCER SPENCER - NIGHT     69   
+
+     He sips a martini through surgical tubing as chamber MUSIC 
+     plays somewhere.
+
+                                     SPENCER SPENCER
+                    C'mon, wake up.  I've had lousy 
+                    dates before, but this is 
+                    ridiculous.
+
+
+ 70  LOIS AND BELZER                                                70   
+
+     Belzer is holding a second syringe, gives Lois a couple 
+     gentle slaps and exits.  She groggily tries to focus, then:
+
+
+ 71  LOOSER                                                         71   
+
+     as Lois sees she's ringed by crossbows on stands, the arrows 
+     all aimed at her.  Then she sees:
+
+                                     SPENCER SPENCER
+                    Hiya, Toots.  I'm Spencer Spencer.
+                    Welcome to my windowless lair.
+
+                                     LOIS
+                    _You're_ Spencer Spencer?
+                        (stares, taken aback)
+                    I pictured you... taller.
+
+                                     SPENCER SPENCER
+                    You know, you're lovely when you're
+                    revolted?
+
+                                     LOIS
+                    I don't know what this is all 
+                    about, but you might as well let me 
+                    go.  Superman'll be here any minute.
+
+                                     SPENCER SPENCER
+                        (leers at her)
+                    Well.  That'd just be hunky-dory
+                    with me.
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   43.    
+
+
+ 72  INT. CLARK'S CELL - NIGHT                                      72   
+
+     He paces, agitated, CAMERA MOVES IN ON his eyes as he lowers
+     glasses, stares at ceiling.
+
+
+ 73  POV - X-RAY VISION                                             73   
+
+     It penetrates the plaster ceiling to reveal:  A square of
+     dark nothing.
+
+
+ 74  CLARK AND KLAVEL                                               74   
+
+     as Clark reacts, turns to Klavel, who watches, hand poised
+     over an alarm button.
+
+                                     CLARK
+                    This place lined with lead?
+
+                                     KLAVEL
+                    It was built as a fallout shelter.
+                    Quiet.
+
+     Another agitated moment, Clark can't stand it.
+
+                                     CLARK
+                    What's he doing with her?
+
+                                     KLAVEL
+                    Anything he wants.
+
+                                     CLARK
+                    What _does_ he want?
+
+                                     KLAVEL
+                        (a beat)
+                    Superman.
+
+     CAMERA MOVES IN on Clark.
+
+
+ 75  INT. SPENCER SPENCER'S BUNKER - NIGHT                          75   
+
+                                     SPENCER SPENCER
+                    You know, I was gonna kill you for
+                    all that crap you wrote about me,
+                    but I thought you might prefer an
+                    exciting career opportunity.
+
+                                     LOIS
+                    What do you mean?
+
+                                     SPENCER SPENCER
+                    You can be my sex slave.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   44.    
+
+
+ 75  CONTINUED:                                                     75   
+
+                                     LOIS
+                    Kill me.
+
+                                     SPENCER SPENCER
+                    I know, I know, the body.  Maybe I
+                    shouldn't hide it in a box, maybe                 (X)
+                    you imagine it worse than it is.
+
+                                     LOIS
+                    Maybe.                                            (X)
+
+                                     SPENCER SPENCER
+                        (exploding)
+                    You _couldn't_ imagine worse than                 (X)
+                    this!!  My only chance at girls                   (X)
+                    like you is shootin' 'em up with
+                    cobra venom, and _then_ it's iffy!!
+                        (calming)
+                    Well, all that's about to change,
+                    thanks to modern medicine...
+
+     And he nods toward the wall.
+
+
+ 76  THE PORTRAIT                                                   76   
+
+     The drape falls to reveal Spencer with Superman's body.
+
+
+ 77  BACK TO SCENE                                                  77   
+
+     Lois stares in shock and horror.
+
+                                     LOIS
+                        (hollow)
+                    Oh my God.
+
+                                     SPENCER SPENCER
+                    What? I don't look good in tights?
+
+                                     LOIS
+                    The bodies without heads... It was
+                    you.
+
+     A door opens and Klavel shoves Clark into the room.
+
+                                     KLAVEL
+                        (re Clark)
+                    He says he can get you what you
+                    want.
+
+                                     CLARK
+                    Lois!
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   45.    
+
+
+ 77  CONTINUED:                                                     77   
+
+                                     LOIS
+                    Clark!
+
+                                     SPENCER SPENCER
+                    Shaddup.
+                        (to Klavel)
+                    Blow.
+
+     Klavel leaves, Spencer places his head against a red lever.
+
+                                     SPENCER SPENCER (CONT'D)
+                    Mess up and she'll look like a
+                    goalie for a dart team.
+
+     Clark stares from Spencer to Lois to the lever.
+
+                                     CLARK
+                    Okay, Spencer, here's the deal.
+                    I'm Superman.
+
+                                     SPENCER SPENCER
+                    What?
+
+                                     CLARK
+                    I'm Superman.
+
+                                     LOIS
+                    No, you're not!
+
+                                     CLARK
+                    Stop it, Lois.
+                        (to Spencer Spencer)
+                    Yes, I am.
+
+                                     LOIS
+                    No, he's not.  You might as well
+                    know, this man is insane.
+
+                                     CLARK
+                    Lois!                                             (X)
+
+                                     SPENCER SPENCER
+                    So where's the suit?  No, don't                   (X)
+                    tell me, you left it at home.
+
+                                     CLARK
+                    As a matter of fact, I did.                       (X)
+
+                                     LOIS
+                    Oy.
+
+                                     SPENCER SPENCER
+                        (yelling)
+                    Someone get him outta here!
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   46.    
+
+
+ 77  CONTINUED:  2                                                  77   
+                                     CLARK
+                        (dramatically)
+                    Keep your eye on the candelabra!
+
+                                     LOIS
+                        (helplessly)
+                    Clark...
+
+     Clark lowers his glasses, a very faint beam of HEAT VISION.
+
+
+ 78  INTERCUT CANDELABRA                                            78   
+
+     The candles flicker slightly, but nothing happens.  Clark
+     bears down.  Nothing.
+
+                                     SPENCER SPENCER
+                    Gee.  Am I impressed.                             (X)
+
+
+ 79  LOIS AND CLARK                                                 79   
+
+     Clark turns toward her.
+
+                                     CLARK
+                        (through clenched teeth)
+                    Is there Kryptonite here?
+
+                                     LOIS
+                        (clenched teeth)
+                    I have the feeling.
+
+                                     CLARK
+                        (brightly, to Spencer)
+                    Well!  You figured me out.  I'm not
+                    Superman.
+
+                                     LOIS
+                    He's not Superman.
+
+                                     CLARK
+                    A passing resemblance, maybe...
+
+                                     LOIS
+                    It's a thing he does at parties...
+
+                                     CLARK
+                    Let her go and we'll figure out a
+                    way to...
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  Pink Rev.            7/21/95         47.    
+
+
+ 79  CONTINUED:                                                     79   
+
+                                     SPENCER SPENCER (had it)
+                    Enough!!!  I don't know what's
+                    goin' on here, but something is.
+                        (into intercom)
+                    Pescado!  Bring in the
+                    you-know-what!
+
+     A panel in the wall slides up, and Dr. Pescado wheels in a 
+     large metal box on a cart.  As Lois and Clark watch 
+     fearfully, he opens the box to reveal a GLOWING nugget of
+     Kryptonite.
+
+                                     CLARK
+                        (weakly)
+                    Oh boy.
+
+     His knees buckle and he collapses into a chair.
+
+                                     LOIS
+                    Clark!
+
+                                     SPENCER SPENCER
+                        (staring)
+                    It _is_ him!
+                        (then)
+                    Doctor... !
+                        (an evil smile)
+                    Scrub for surgery.
+
+                                                       CUT TO:
+
+
+ 80  INT. BASEMENT DUNGEON - NIGHT                                  80   
+
+     Belzer drags a struggling Lois into the room, flings her
+     into the cell Clark once occupied, locks it, and leaves.
+     Lois fearfully clutches the bars as CAMERA RUSHES IN on her.
+
+
+ 81  INT. OPERATING ROOM - NIGHT                                    81   
+
+     Clark, shirtless, is strapped to a surgical table by a
+     gowned Dr. Pescado, and a drape pulled up over his chest.
+     On a cart, the Kryptonite glows nearby.  WIDEN to find
+     Spencer Spencer, several feet away, watching with                (X)
+     fascination.  Dr. Pescado positions a suspended tank marked      (X)
+     "Liquid Nitrogen" overhead between the two tables.  Attached
+     to it are two thick hoses.  Red arrows point to a trap door
+     in the tank's bottom marked "Emergency Flush."
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   48.    
+
+
+ 81  CONTINUED:                                                     81   
+
+                                     DR. PESCADO
+                        (to Spencer)
+                    Following removal of the head, we
+                    will immediately freeze the body in
+                    liquid nitrogen for attachment to
+                    you.
+
+     Now Pescado looms approaches with a long I.V. needle.
+
+
+ 82  LOIS' CELL                                                     82   
+
+     Lois glumly stares through the bars, then glances down.
+
+
+ 83  HER POV                                                        83   
+
+     The inside of the lock is badly scorched where Clark had
+     melted the mechanism.
+
+
+ 84  LOIS                                                           84   
+
+     She gives the cell door a hard push, the lock gives way,
+     door opens.
+
+ 85  OPERATING ROOM                                                 85   
+
+     Pescado tapes the needle into place on Clark's arm.
+
+                                     DR. PESCADO
+                        (to Spencer Spencer)
+                    The Kryptonite has rendered his
+                    flesh completely vulnerable.
+
+                                     SPENCER SPENCER
+                    'Night, 'night... Superman.
+
+     CAMERA MOVES IN ON Clark, eyes filled with dread.
+
+
+ 86  INT. SHADOWY CORRIDOR - NIGHT                                  86   
+
+     Lois creeps along the slimy stones, freezes, presses herself
+     into the shadows as Klavel passes through the far end of the
+     hall, pauses, lights a cigarette, moves off down another
+     passageway.  Lois moves to where he was, goes the opposite
+     way, up the other corridor.
+
+
+ 87  WITH LOIS                                                      87   
+
+     She stops, spotting an open doorway, someone's shadow
+     visible on the wall inside.  She creeps forward, peers
+     around the doorway.
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   49.    
+
+
+ 88  HER POV                                                        88   
+
+     Heidi is pulling on her surgical gown and cap.
+
+                                     HEIDI
+                        (singing softly)
+                    'Deutschland, Deutschland, uber
+                    alles... Einigkeit und recht und
+                    freiheit...'
+
+ 89  LOIS                                                           89   
+
+     She picks up a brick from rubble in the corridor, bounces it
+     in her hand, creeps inside.  The shadows on the wall show
+     her poised to brain Heidi.
+
+
+ 90  OPERATING ROOM - VARIOUS ANGLES (INSERTS)                      90   
+
+     The machines ROAR, chemicals boil through tubing, lights
+     blink!  Clark's head is strapped, eyes heavy.  Dr. Pescado
+     approaches with the scalpel.                                     (X)
+
+                                     DR. PESCADO
+                    Heidi!
+
+     "Heidi" enters, gowned, capped, masked.  She approaches the
+     table as Clark stares.
+
+
+ 94  CLOSE ON "HEIDI"                                               91   
+
+     Her eyes are familiar.  She winks slightly.  It's Lois.
+
+
+ 92  OPERATING TABLE                                                92   
+
+     Clark's eyes close as Pescado comes within inches of Clark's
+     neck, about to make his incision, not noticing Lois gently
+     rock back out of FRAME.
+
+ 93  LOOSER                                                         93   
+
+     Lois grabs the Kryptonite cart and dashes from the room.
+
+                                     DR. PESCADO
+                    Heidi!!
+
+                                     SPENCER SPENCER
+                    Belzer!!
+
+     Belzer rockets in.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  Pink Rev.            7/21/95         50.    
+
+
+ 93  CONTINUED:                                                     93   
+
+                                     SPENCER SPENCER (CONT'D)
+                    Get whoever just ran outta here!
+
+     Belzer takes off after Lois.
+
+                                     SPENCER SPENCER (CONT'D)
+                    Do it, Pescado!
+
+
+ 94  INT. CORRIDOR                                                  94   
+
+     Lois races down the hall with the cart, out of FRAME.  A
+     beat later, Belzer comes into view, dashes after her.
+
+
+ 95  CLOSE ON DR. PESCADO                                           95   
+
+     Flustered, he comes close to Clark again, his knife about to
+     touch flesh.  A SNAPPING sound, and suddenly a strong hand
+     grabs Pescado's wrist.  Dr. Pescado goes pale, as:
+
+
+ 96  LOOSER - VARIOUS ANGLES                                        96   
+
+     Clark has burst through the arm strap.  Still gripping the
+     Doctor, he bursts through the head strap.                        (X)
+
+                                     SPENCER SPENCER
+                    Dammit, Doctor, make the cut!
+                    Before he regains full strength!!
+
+     Heidi staggers into the room, sees Dr. Pescado struggling
+     with Clark who pulls through a chest strap.  Spencer Spencer
+     hits another lever with his head, an ALARM sounds.
+
+                                     DR. PESCADO
+                    Heidi!  The nitrogen!
+
+     Heidi shoves the overhead tank into place over Clark, Dr.
+     Pescado backs away, Heidi pulls a cord.
+
+
+ 97  CLOSE ON TANK                                                  97   
+
+     The door marked "Emergency Flush" drops open and fumes start
+     pouring forth.
+
+
+ 98  VARIOUS ANGLES                                                 98   
+
+     Clark takes a deep breath.  Pescado, Heidi, and Spencer move
+     back, clumped together some distance away.                       (X)
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   51.    
+
+
+ 98  CONTINUED:                                                     98   
+
+     A blast of Clark's SUPER COLD breath sends the cloud of
+     fumes swirling over their heads, now turning deep blue,
+     until they entirely encircle the villains.
+
+
+ 99  INT. CORRIDOR                                                  99   
+
+     Belzer, hearing the ALARM, stops his pursuit, doubles back.
+
+
+100  OPERATING ROOM                                                100   
+
+     Clark is now off the table, continuing his blast of frigid
+     air.  Heidi, Pescado, and Spencer Spencer are frozen in
+     place, completely encased in a glittering block of ice.
+
+                                     CLARK
+                    Okay, that'll hold you 'til...                    (X)
+
+101  CORRIDOR OUTSIDE OPERATING ROOM                               101   
+
+     Belzer, joined by Klavel, automatic weapons ready, flings
+     open the door.  A blast of mist.  Clark is barely visible as
+     he turns to face Belzer.  The mist obscures Clark, but
+     Belzer and Klavel FIRE.
+
+
+102  A CORRIDOR - LOIS                                             102   
+
+     She crouches in a recess in the gloom, hears the GUNFIRE,
+     leaves the cart, rushes back toward the operating room.
+
+
+103  OPERATING ROOM - CLARK                                        103   
+
+     The bullets RICOCHET off Clark and strike the ice block,
+     creating a thousand hairline fractures.
+
+
+104  OUTSIDE OPERATING ROOM - BELZER AND KLAVEL                    104   
+
+     They blink into the mist, which is beginning to clear, and
+     step cautiously inside.  Now they stare at the ice block.
+
+
+105  BLOCK OF ICE                                                  105   
+
+     The block of ice, along with the villains inside, collapses
+     into a pile of tiny chips.
+
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   52.    
+
+
+106  BELZER AND KLAVEL                                             106   
+
+     They stand staring, stunned.  Clark suddenly appears behind 
+     them, grabs their heads, knocks them together, and the thugs 
+     go down.  WIDEN as Clark stands surveying the wreckage and 
+     Lois arrives.
+
+                                     LOIS
+                        (stunned)
+                    Oh.  Oh gee.
+
+     Clark moves into the room, looking at the rubble, disturbed.
+
+                                     CLARK
+                    I really didn't mean for this to
+                    happen...
+
+                                     LOIS
+                        (looks around)
+                    Where's Spencer Spencer?
+
+                                     CLARK
+                        (soberly)
+                    He's a broken man.
+
+     Lois recoils, Clark follows her into the corridor.
+
+
+107  WITH LOIS AND CLARK                                           107   
+
+     As they move up the corridor.
+
+                                     CLARK
+                    I'll call someone to pick up those two.
+
+                                     LOIS
+                        (exhausted)
+                    And then could we please go home?
+
+                                     CLARK
+                    You... want to wait for a boat?
+
+                                     LOIS
+                        (a little smile)
+                    I wanna fly.
+                        (she touches his chest)
+                    First class.
+
+     And he scoops her up in his arms, grins, we
+
+                                                       CUT TO:
+                            ---page break---
+     "Ordinary People" (#2)  FULL Blue Rev.             7/18/95   53.    
+
+
+108  INT. PERRY WHITE'S OFFICE - ON PERRY - NIGHT                  108   
+
+     Perry, working late, is on the phone.
+
+                                     PERRY
+                        (into phone)
+                    ... So he tried to decapitate
+                    Superman and make you his love
+                    slave?!  This is terrific!
+                        (catches himself)
+                    You must be very shaken.  Even
+                    unable to write.
+
+
+109  INTERCUT LOIS' LIVING ROOM - LOIS - NIGHT                     109   
+
+     Lois, on phone in nightgown and robe, smiles resignedly. on
+     the table, her laptop glows, attached to modem.
+
+                                     LOIS
+                    The story's on its way to you.
+                        (pushes computer key)
+                    Now.
+
+                                     PERRY
+                    Lois... About the other thing...
+                    with Clark... You thought it over,
+                    yet?
+
+
+110  EXT. LOIS' WINDOW - NIGHT                                     110   
+
+     Superman, holding flowers, floats down into f.g., some
+     distance from window, unnoticed by Lois.  He hovers, as:
+
+                                     LOIS
+                    Well, it's been a little hectic,
+                    Chief.
+                        (beat)
+                    But that other side of him I
+                    mentioned?  I ... decided it's
+                    something I could put up with.
+
+     Superman smiles.
+
+                                     LOIS (CONT'D)
+                    G'night, Perry.
+
+     Superman flies in through Lois' window. She turns, and:
+
+                        SUPERMAN
+                    I was out...                                      (X)
+                        (flying hand motion)
+                    And just... wondered how you were.                (X)
+
+     He gives her the flowers, then:                                  (X)
+
+                                                       (CONTINUED)
+
+                            ---page break---
+     "Ordinary People" (#2)  Pink Rev.            7/21/95         54.    
+
+
+110  CONTINUED:                                                    110   
+
+                                     LOIS
+                        (teasing)
+                    Dare I ask where these came from?
+
+                                     SUPERMAN
+                    Down the street.  Tony's.  Paid
+                    cash.  Wanna see a receipt?
+
+                                     LOIS
+                        Nope.
+
+     She puts her arms around his neck and they kiss.
+
+                                     CLARK
+                        (still watching her)                          (X)
+                    Well, gotta...                                    (X)
+
+     He makes the flying hand motion, she nods, he turns and          (X)
+     FLIES off.  Lois moves to the window, watching him soar
+     away, smiling, and, for the moment, at peace.
+
+                                                       BLACK.
+                             _THE END_
+

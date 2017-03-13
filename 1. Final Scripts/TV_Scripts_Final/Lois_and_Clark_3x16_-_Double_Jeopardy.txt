@@ -1,0 +1,3446 @@
+To pop everything into place...    
+
+use Courier 10 (or 10 characters per inch)
+
+set top margin at 0.4", bottom margin at 0.4" (or minimums)
+left margin at 1", right margin at .25 (or minimum)
+   (I had to tell the program I was using legal paper)
+
+page breaks in hard copy indicated by ---page break---
+
+regular tabs, hard returns and right flushes are used 
+to position things to look as much like original as possible
+
+sometimes the formatting changes slightly (as in the numbers at the end
+of the lines), but I'm going to keep consistent because it's easier
+
+logo on front page will be noted when used but not included here
+
+as this may be sent in .txt, originally underlined words will 
+look like   _this_
+
+I don't know what the (X) or the * (this on Cast, Locations and
+Chronology pages) designate.
+
+Notes: 
+
+Cover:  "Double Jeopardy", Written by Brad Buckner & Eugenie Ross-Leming
+[and] Directed by Chris Long are all in large bolt print. The remainder
+of the text is in Courier 10 (10 characters per inch)
+
+Typos noted:
+
+"all right" misspelled as "alright" in three places
+
+page 17. 2/3 down, Martha says: What do you mean 
+     'not exactly?'  "?" should be outside '
+
+
+
+
+
+                       graphic (see script.bmp)
+
+                          "Double Jeopardy"
+
+                            EPISODE SIXTEEN
+
+                             Prod. #457416
+
+
+                                Written by
+
+                    Brad Buckner & Eugenie Ross-Leming
+
+                               Directed by
+
+                                Chris Long
+
+
+
+
+
+
+
+                                             _Production Draft_
+                                             January 3, 1996
+                                             FULL Blue   1/9/96
+
+                            ---page break---
+
+
+
+
+                              _LOIS & CLARK_
+
+                           "_Double Jeopardy_"
+
+                            FULL Blue 1/9/96
+
+                                 _CAST_
+
+
+CLARK KENT/SUPERMAN
+
+LOIS LANE/LOIS CLONE/WANDA DETROIT
+
+JIMMY OLSEN
+
+PERRY WHITE
+
+MARTHA KENT
+
+JONATHAN KENT
+_________________________________________________________
+
+LEX LUTHOR
+
+BIBBO BIBOWSKI
+
+RED DIXON
+
+CHURCH DEACON
+
+PASSENGER     *
+
+                            ---page break---
+
+
+
+
+                              _LOIS & CLARK_
+
+                           "_Double Jeopardy_"
+
+                            FULL Blue 1/9/96
+
+                               _LOCATIONS_
+
+
+
+_INTERIORS_:                              _EXTERIORS_:
+
+Daily Planet                              Daily Planet
+  Newsroom
+  Perry's Office                          Metropolis Bank
+
+Clark's Apartment                         Tenement Street
+  Bedroom
+  Living Room                             Ace O' Clubs
+  Kitchen        *
+
+Lex's Underground Bunker                  Alley
+
+Ace O' Clubs                              Ledge
+
+Lois' Car                                 Metropolis Street
+
+Lex's Limousine
+
+Red Dixon's Truck
+
+Lex's Sedan
+
+                            ---page break---
+
+
+
+
+                              _LOIS & CLARK_
+
+                           "_Double Jeopardy_"
+
+                            FULL Blue 1/9/96
+
+                              _CHRONOLOGY_
+
+
+                    SC.   1 - 4      NIGHT 1
+
+                    SC.   5 - 12     DAY 2
+
+                    SC.  13          NIGHT  2
+
+                    SC.  14 - 54     DAY 3      *
+
+                    SC.  55 - 67     NIGHT  3   *
+
+                    SC.  68 - 90     DAY 4
+
+                            ---page break---
+
+
+
+
+                              _LOIS & CLARK_
+
+                      _The New Adventures of Superman_
+
+                            "Double Jeopardy"
+
+                                 _TEASE_
+
+
+   1  FAST RECAP                                                    1   
+
+      Quick scenes from Episode 15: Lois frets that trouble's 
+      coming; happy toast at rehearsal dinner; Church Deacon shows 
+      Lois to a door; Lois comes down the aisle; the wedding kiss; 
+      Lois Clone eats the frog; Happy Clark watches Lois Clone 
+      enter bedroom.  DIP TO BLACK and we are:
+
+
+   2  INT. CLARK'S BEDROOM - NIGHT #1                               2   
+
+      LOIS CLONE, breathtaking in her beautiful nightgown, stands
+      watching Clark, who's in bed.  CLARK, all but panting, 
+      smiles and:
+
+                                      CLARK
+                     You know, I have... imagined this
+                     moment... For so long.
+
+      He pulls back covers to make a space for her.  She smiles,
+      approaches. outside, a soft roll of THUNDER.
+
+                                      CLARK (CONT'D)
+                     Hello, Mrs. Kent.
+
+      She gets into bed, he moves in close, kisses her.
+
+                                      CLARK (CONT'D)
+                     We've gone through so much to get 
+                     to this night, but none of that 
+                     matters.  It's perfect.
+
+                     He starts to kiss her again.
+
+                                      LOIS CLONE
+                     Are you as tired as I am?
+
+                                      CLARK
+                     What?
+
+                                      LOIS CLONE
+                     It's just the past few days... The 
+                     preparations... The wedding... I'm 
+                     just exhausted.
+
+                                      CLARK
+                     I'm... not that tired.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96           2.
+
+
+   2  CONTINUED:                                                    2   
+
+                                      LOIS CLONE
+                     Clark... I'm really sorry... I just
+                     don't think I can keep my eyes 
+                     open.
+
+      She rolls on her side, facing CAMERA.  A roll of THUNDER.
+
+                                      CLARK
+                     Uh... well... I guess tomorrow in
+                     Hawaii could be just as perfect.
+                     More... perfect.
+
+      He snuggles in close, putting an arm around her.
+
+                                      LOIS CLONE
+                     Good night.
+
+      He just stares down at her, astonished, covering how 
+      godawful this is.
+
+                                      CLARK
+                     Lois?
+                           (she's asleep)
+                     Good night.
+
+      THUNDER, LIGHTNING.  We...
+
+                                                       CUT TO:
+
+   3  EXT. TENEMENT STREET - HIGH ANGLE - NIGHT                     3   
+
+      Pouring rain.  THUNDER.  LIGHTNING.  CAMERA CRANES DOWN as a
+      limousine rolls up to an abandoned tenement.  The car's rear
+      door opens, and the Church Deacon from last episode climbs
+      out.  He looks inside the car, addresses someone we can't
+      yet see.
+
+                                      CHURCH DEACON
+                     Welcome to your new home.  Oh, I
+                     know it doesn't look like much, but
+                     I'm sure you'll find it cozy.
+
+
+   4  ANGLE - SIDE OF CAR                                           4   
+
+      We now reveal, inside the car, slumped in the seat and
+      unconscious... LOIS LANE, wearing the clothes she arrived at
+      the church in.
+
+                                      CHURCH DEACON
+                     I suppose I'll just have to carry
+                     you across the threshold.
+
+      He reaches inside for her.  THUNDER, LIGHTNING, we...
+
+                                                       CUT TO:       (X)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96       3.    
+
+
+  4A  INT. UNDERGROUND BUNKER - NIGHT                              4A(X)
+
+      Creepy and damp.  Items are crated as if about to be moved.    (X)
+      We come to Lois, strapped to an ornate chair and gagged.
+      The Church Deacon's body passes through FRAME, as:             (X)
+
+                                      CHURCH DEACON
+                     The whole time I was away, I was                (X)
+                     consumed...
+
+
+  4B  ANGLE - MIRROR, SHELF WITH MAKE-UP                           4B(X)
+
+      The Church Deacon steps into FRAME, begins pulling off wig     (X)
+      and mask.
+
+                                      CHURCH DEACON
+                     ... by the memory of your beauty.
+                     I can assure you, the memory                    (X)
+                     didn't do you justice.
+
+      The mask comes off to reveal... LEX LUTHOR.                    (X)
+
+
+  4C  LOIS                                                         4C(X)
+
+      She stares in horror, and                                      (X)
+
+                                                       BLACK.
+
+                             _END OF TEASE_
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96       4.    
+
+                               _ACT ONE_
+
+      FADE IN:
+
+   5  INT. CLARK'S LIVING ROOM - ON LOIS CLONE - MORNING - DAY #2   5   
+
+      Lois Clone, in robe, dabs at her mouth with a napkin, 
+      glances hungrily in her purse as if it were a candy box, 
+      selects another frog, pulls it out, prepared to munch, when:
+
+                                      CLARK (O.S.)
+                     Lois... you out there?
+
+      She instantly stuffs the frog back in her purse, shuts it, 
+      and whips around, assuming an innocent pose as Clark, 
+      pulling on robe, comes out of the bedroom.
+
+                                      CLARK (CONT'D)
+                     Hi.
+
+                                      LOIS CLONE
+                     Hi.  Would you like coffee?
+                           (crosses to kitchen)
+                     I know you like coffee.  It's one 
+                     of the many, many things I know 
+                     about you.
+
+                                      CLARK
+                     Uh, great.  Could we talk about
+                     last night?
+
+                                      LOIS CLONE
+                     Warmer than normal for this time of
+                     year.
+
+                                      CLARK
+                     Yeah well, depending on how you
+                     define 'warm.'
+
+                                      LOIS CLONE
+                           (crossly; staring into 
+                            cupboard)
+                     Where are the cups?  Where are the
+                     cups?!  Where are they?!
+
+                                      CLARK
+                           (yikes)
+                     To your right.  We changed 'em
+                     around.  Two weeks ago.  Remember?
+
+                                      LOIS CLONE
+                     Of course I remember.  Why wouldn't 
+                     I?  To the right, you say?
+
+      She flings open the cupboard.
+
+                                                       (CONTINUED)
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96       5.    
+
+
+   5  CONTINUED:                                                    5   
+
+                                      LOIS CLONE (CONT'D)
+                     Ah yes.  Right where I left them.
+
+                                      CLARK
+                     Lois... We've been waiting... And 
+                     _waiting_... For our honeymoon 
+                     night... For a long time.  Because 
+                     we wanted that night to be one of 
+                     the most special... meaningful... 
+                     moments of our lives.
+
+                                      LOIS CLONE
+                     You're saying it wasn't?
+
+                                      CLARK
+                     You fell asleep!
+
+                                      LOIS CLONE
+                     I was tired!
+
+                                      CLARK
+                     I understand that!  I just hope it 
+                     was... You know, nothing more than 
+                     that.
+
+      Lois Clone, remembering her mission, softens and scoots over 
+      to him with a cup of coffee.
+
+                                      LOIS CLONE
+                     Of course not.  Honey.  It was just 
+                     a big day for me.  Lots of 
+                     pressure.
+
+                                      CLARK
+                           (softening)
+                     Well, okay...  You're right.
+                     Things'll be better when we get to
+                     Hawaii today.
+
+                                      LOIS CLONE
+                     Oh.  That's another thing.  I
+                     canceled the hotel in Hawaii.                   (X)
+
+                                      CLARK
+                     _What_?!
+
+                                      LOIS CLONE
+                     Well, with Lex Luthor on the loose, 
+                     I thought it was a bad idea to 
+                     leave the paper!  I didn't think 
+                     you'd mind!
+
+                                      CLARK
+                     Lois, this is the kind of thing we
+                     should _talk_ about first!
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96       6.    
+
+
+   5  CONTINUED:  2                                                 5   
+
+                                      LOIS CLONE
+                     Is it?  How would I know?  I've
+                     never been married.  You have to
+                     give me time!
+
+                                      CLARK
+                     We both need time!  That's why I
+                     think Hawaii is a great idea.
+
+                                      LOIS CLONE
+                           (pouty; toying with his
+                            chest)
+                     Honey.  You don't want to make me
+                     unhappy, do you?  This is a big
+                     adjustment.  I'm feeling insecure.
+                     I don't want to leave town.
+
+                                      CLARK
+                           (staring)
+                     Lois, are you okay?  You're not                 (X)
+                     saying you're going in to work.
+
+                                      LOIS CLONE
+                           (crosses to bedroom)
+                     No.  I'm going shopping.
+
+      He stares, bewildered, we...                                   (X)
+
+                                                       CUT TO:
+
+   6  INT. UNDERGROUND BUNKER - DAY                                 6   
+
+      Lois struggles in the chair; furious mumbling from behind      (X)
+      the gag.  Lex enters FRAME, now carrying a large syringe 
+      filled with green serum.
+
+                                      LEX
+                     Look, we'll make a deal.  I'll 
+                     lower the gag, but you so much as 
+                     _breathe_ the name 'Superman,' and 
+                     I'll paralyze your vocal cords.
+                           (waves syringe)
+                     Can't get fairer than that.
+                           (lowers gag)
+                     Let me hear that lilting voice.
+
+                                      LOIS
+                     You sick, twisted, disgusting
+                     sociopath.
+
+                                      LEX
+                     Oh, you finishing school girls.
+                                                       (CONTINUED)
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96       7.    
+
+
+   6  CONTINUED:                                                    6   
+
+                                      LOIS
+                     Lex, they're scouring the country 
+                     for you.  Your only hope is to turn 
+                     yourself in and finish your time.
+
+                                      LEX
+                     'Finish my time?'  I was doing a
+                     double life sentence.
+
+                                      LOIS
+                     You can catch up on your reading.
+
+                                      LEX
+                     My Lois has turned cruel.  Life in 
+                     this ugly city can do that.  You'll 
+                     be more chipper in the Alps.
+
+                                      LOIS
+                     The Alps?!
+
+                     I have a windowless fortress in a
+                     mountain.  You can scream
+                     'Superman' all day long, but it'll
+                     get boring.
+
+                                      LOIS
+                           (stricken)
+                     _Why_?!  Why would you want me?!
+                     I'm marrying another man!
+
+                                      LEX
+                     Yes, but you almost married _me_,
+                     so obviously you're flexible.
+                           (takes her chin)
+                     Lois, some component in your brain 
+                     finds me irresistible.  Together 
+                     we'll find that little clump of 
+                     cells and awaken them.
+
+      He kisses her.  She bites his lip, he leaps back.              (X)
+
+                                      LOIS
+                           (seething)
+                     Don't _ever_ do that again.
+
+                                      LEX
+                     Oh, things've changed while I was 
+                     away?  People tied to chairs have 
+                     room to negotiate?
+
+                                      LOIS CLONE (O.S.)
+                     Lex!
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96           8.
+
+
+   6  CONTINUED:  2                                                 6   
+
+                                      LOIS
+                           (staring)
+                     Oh my God.
+
+                                      LEX
+                           (wearily)
+                     What do _you_ want?
+
+   7                                                                7   
+THRU  OMITTED                                                    THRU   
+   8                                                                8   
+
+
+   9  ANGLE                                                         9   
+
+      As Lois Clone flounces in.
+
+                                      LOIS
+                     Lex, what have you done?! Is this               (X)
+                     who Clark _married_?!                           (X)
+
+                                      LOIS CLONE
+                           (ignoring her)                            (X)
+                     You didn't tell me about the cups!
+                     They moved the cups!  They moved
+                     the _cups_, Lex!
+
+                                      LEX
+                     For this you deserted your post?
+
+                                      LOIS CLONE
+                     I might make other mistakes!
+
+                                      LEX
+                           (dangerously)
+                     But you won't.  Because Clark isn't
+                     going to suspect a thing until
+                     _she's_ out of the country...
+                           (nods to Lois)
+                     Is he?
+                           (closing in)
+                     And you're going to find out
+                     everything you can about Clark's                (X)
+                     friend _Superman_, aren't you?
+                     Anything that might help me destroy
+                     him.
+
+                                      LOIS CLONE
+                           (intimidated)
+                     Yes, Lex.
+
+                                      LEX
+                     Now go make Clark happy.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96       9.    
+
+
+   9  CONTINUED:                                                    9   
+
+                                      LOIS CLONE
+                           (sulky)
+                     I don't like him.  All those
+                     muscles.  He's not my type.
+
+                                      LEX
+                           (thundering)
+                     You don't have a type!  You've been
+                     alive for nine days!
+                           (grabs her shoulders)
+                     Look.  I wrote the checks that got
+                     you made.  I am God. And God can
+                     smite you down.
+
+                                      LOIS CLONE
+                     What's 'smite' mean?
+
+                                      LEX
+                     Get out of here!!
+
+      She dashes out.
+
+
+  10  WITH LEX                                                     10   
+
+      as he returns to Lois.
+
+                                      LEX
+                     They're like spoiled children.
+                     It's such perfect revenge that
+                     Clark Kent is married to... that.
+
+      Now he notices Lois is crying softly.
+
+                                      LEX (CONT'D)
+                     Please don't do that. I can't bear
+                     it.
+
+                                      LOIS
+                     Clark... and I... thought this'd be
+                     be the happiest time of our lives.
+
+                                      LEX
+                           (gently)
+                     And you _can_ be happy, Lois.  You
+                     just have to have an open mind.
+
+                                                       CUT TO:
+
+
+  11  EXT. DAILY PLANET - ESTABLISHING - DAY                       11   
+
+                                      PERRY (V.O.)
+                     Jennings!  Get me every recent
+                     photo we've got of Lax Luthor.
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      10.    
+
+
+  12  INT.  DAILY PLANET - WITH PERRY - DAY                        12   
+
+      Frenzied activity as PERRY strides swiftly through the 
+      troops, barking orders:
+
+                                      PERRY
+                     Connors!  They've frozen all of 
+                     Luthor's assets.  Dig up any other 
+                     places he might've stashed some 
+                     cash!
+
+      He comes upon JIMMY, seated at Lois' computer, typing and
+      scanning.
+
+                                      PERRY (CONT'D)
+                     Olsen, what're you doing with Lois'
+                     computer?
+
+                                      JIMMY
+                           (working away)
+                     Lois is the expert on Lex Luthor, 
+                     Chief.  I'm pulling up all her Lex 
+                     files.  Maybe there's some clue to 
+                     where he's hidin' out.
+
+                                      PERRY
+                     Good idea.  Lord, do I envy Lois 
+                     and Clark right now.  Their wedding 
+                     was the most romantic shindig I 
+                     ever saw.  Kinda inspired me.  You 
+                     know, I've been puttin' off having 
+                     that first date, but I....
+
+                                      JIMMY
+                     Whoa!  Look at this.
+
+                                      PERRY
+                     What?
+                           (squints at screen)
+                     You're not snoopin' into anything
+                     personal there, are you?
+
+                                      JIMMY
+                           (reading, tickled)
+                     Did you know Lois was writing a
+                     novel?
+
+                                      PERRY
+                     What?
+                           (reading)
+                     'The True and Amazing Adventures of 
+                     Wanda Detroit.' Looks like she was 
+                     workin' on it a couple years back.  
+                     She probably forgot it's here.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      11.    
+
+
+  12  CONTINUED:                                                   12   
+
+                                      PERRY
+                     Look, just get the Lex Luthor
+                     stuff, and...
+
+                                      JIMMY
+                           (staring at screen;
+                            reads, cracking up)
+                     'Wanda Detroit is my name.  I sing              (X)
+                     for drinks down at the docks.  But
+                     it wasn't always like this....                  (X)
+
+                                      PERRY
+                     Jimmy!  Get the Luthor file and 
+                     shut that darn thing off.  Lois' 
+                     book is no concern of ours!
+
+                                      JIMMY
+                           (nervously)
+                     Sure, Chief.
+
+      He's about to start typing, when Perry suddenly stops his
+      hands.  Something on the screen's caught Perry's eye.
+
+                                      PERRY
+                           (reading)
+                     'I taunted him with my smoldering               (X)
+                     smile.  I knew Clark wanted me, but
+                     I didn't care.'                                 (X)
+
+                                      JIMMY
+                           (beside himself)
+                     '_Clark_'?!  Aw man, this is _way_
+                     psychological!
+
+                                      PERRY
+                     This is none of our business.
+
+                                      JIMMY
+                     I know.
+
+      They look at each other, tempted to look back at the screen.
+      Finally Perry gets a grip and clears the screen, charges
+      off.  Jimmy looks disappointedly at the empty screen, we...
+
+                                                       CUT TO:
+
+
+  13  INT. CLARK'S LIVING ROOM - ON FRONT DOOR - NIGHT #2          13   
+
+      Clark enters with a bag of groceries.  The door hits some
+      clothing and shoe boxes as it opens.  He stares, then comes
+      inside, staring at a room piled with new clothes (with tags
+      on), shopping bags, empty boxes.  A beat, then:
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      12.    
+
+
+  13  CONTINUED:                                                   13   
+
+                                      CLARK
+                     Lois?
+
+                                      LOIS CLONE (O.S.)
+                     Hi!  I've had the best day!
+
+      And she comes out of the bedroom.  Clark is startled to see 
+      she's dressed in a kind of trashy teen-age style, with 
+      incredibly short skirt, thigh-high stockings, tight top, 
+      tags flapping.
+
+                                      LOIS CLONE (CONT'D)
+                     What do you think?
+
+                                      CLARK
+                     Well, you know, it's... different.  
+                     Nice.  It's very nice.  Lois... Can we 
+                     afford this?
+
+                                      LOIS CLONE
+                     Sure!  I opened charge accounts at
+                     about twenty stores!
+                           (as his mouth falls open)
+                     Well, it wasn't _my_ idea.  _They_ 
+                     asked _me_.  I am very well thought 
+                     of in this town.  Aw please don't 
+                     be a drag, I've spent all _day_ 
+                     doing this!  It's hard work!
+
+                                      CLARK
+                           (taken aback)                             (X)
+                     Well.  Hey.  If it makes you                    (X)
+                     happy, it makes me happy.
+
+      He gives her a quick kiss, crosses to kitchen.  Behind his 
+      back, Lois Clone makes a bit of a face at having kissed him.
+
+                                      CLARK (CONT'D)
+                     I did some shopping, too.  I 
+                     thought I'd whip up some dinner... 
+                     Crack open a bottle-of wine... You 
+                     know, our first romantic evening at 
+                     home.
+
+                                      LOIS CLONE
+                     But there's a whole big city out
+                     there, Clark!
+                           (looks out window)
+                     All lit up... Clubs... music... 
+                     dancing... Sometimes I feel like I
+                     was just born.
+
+      Clark has come up behind her.
+
+                                                       (CONTINUED)
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      13.    
+
+
+  13  CONTINUED:  2                                                13   
+
+                                      CLARK
+                     Me, too.  Is that what getting
+                     married does to you?
+
+                                      LOIS CLONE
+                           (attempting sincerity)
+                     I just want you to be happy.
+                     That's my job, keeping you happy.
+                     Are you happy?
+
+                                      CLARK
+                     Absolutely.  You know, I was a
+                     little worried we'd gotten
+                     off-track, but we're okay, right?
+
+                                      LOIS CLONE
+                     What makes you ask that?  I'm
+                     keeping you happy, right?  You
+                     are happy.
+
+                                      CLARK
+                     Yes! Perfect.
+                           (moving closer)                           (X)
+                     Tonight's gonna be perfect.
+
+      He's very close; she feels trapped; he's about to kiss her;    (X)
+      she's flustered, and:                                          (X)
+
+                                      LOIS CLONE
+                     Uh... about Superman....                        (X)
+
+                                      CLARK
+                     What?
+
+                                      LOIS CLONE
+                     I was just thinking tonight'd be
+                     even _more_ perfect if Superman                 (X)
+                     were here.
+
+      He looks at her, startled.
+
+                                      CLARK
+                     You... want.... Superman here.
+
+                                      LOIS CLONE
+                           (seductively)
+                     I sure do.
+
+      Clark considers this, figures it may be a turn-on he wasn't 
+      aware of.  What the hell.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      14.    
+
+
+  13  CONTINUED:  3                                                13   
+
+                                      CLARK
+                           (slyly)
+                     Well... I just might be able to 
+                     arrange that.  If that's what you 
+                     want.
+
+                                      LOIS CLONE
+                     Oh, it really is.
+
+                                      CLARK
+                     I didn't know you felt that way
+                     about him.
+
+                                      LOIS CLONE
+                     I'm crazy about him.
+
+                                      CLARK
+                     Well, then let's just see if I can
+                     get hold of him.
+
+      He gives her a jaunty little smile and suddenly SPINS into
+      SUPERMAN.  He stands there with an expectant grin.  Her 
+      mouth falls open.
+
+                                      LOIS CLONE
+                     You... You're... Superman!
+
+                                      SUPERMAN
+                           (confused)
+                     Well... yeah, Lois.
+
+                                      LOIS CLONE
+                           (covering badly)
+                     I mean, you're Superman.  Of
+                     course, you're Superman.  Well!
+                     How 'bout some dinner?
+
+      She staggers off to the kitchen, Superman looks confused.
+
+
+ 13A  CLARK'S KITCHEN - LOIS CLONE                                13A(X)
+
+      Lois Clone has a frog close to her face, speaking to it        (X)
+      confidentially, trying to control her glee.                    (X)
+
+                                      LOIS CLONE
+                     I'm... Mrs. _Superman_!  I can have
+                     anything I want!  Cool.
+
+                                                       BLACK.
+
+                               _END OF ACT ONE_
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      15.    
+
+                                 _ACT TWO_
+
+      FADE IN:
+
+  14                                                               14   
+THRU  OMITTED                                                    THRU   
+  15                                                               15   
+
+
+ 15A  INT. UNDERGROUND BUNKER - DAY #3                            15A(X)
+
+      The room is now empty of crates.  Suitcases are piled up       (X)
+      Lex wears an overcoat, speaking to a closed door:              (X)
+
+
+                                      LEX
+                     I had this outfit made for you when
+                     we planned our wedding.  It'll be
+                     wonderful to see you wearing it.                (X)
+
+      Lois enters, wearing a lovely traveling suit.
+
+                                      LOIS
+                     You were threatening me with a
+                     hypodermic needle; it seemed like
+                     the thing to do.
+
+                                      LEX
+                     Forgive me if I stare, but as 'twas
+                     in our past, your restless beauty
+                     stuns me.  The fire in your eyes.
+                     the pallor in your cheek, the
+                     sultry curl of your lip.
+
+                                      LOIS
+                           (flatly)
+                     It's nausea.
+
+                                      LEX
+                           (smiles)
+                     Do you know why I suffer such
+                     castigation at your hands?  Because
+                     in a few hours we'll be sealed in
+                     my fortress in the Alps.  You'd be
+                     Surprised, Lois my love, at how
+                     incarceration can change a person.
+                     Look at me.
+
+                                      LOIS
+                     Yes, you're a regular poster boy
+                     for rehabilitation.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      16.    
+
+
+ 15A  CONTINUED:                                                     15A
+
+                                      LEX
+                     Hardly.  You see, once my name and 
+                     character were branded criminal, 
+                     my outcast status allowed the true 
+                     Lex to blossom.  I was relieved of a
+                     all pretense at respectability.  I 
+                     may be starting over, but on terms 
+                     far easier to stomach.  An empire 
+                     of pure evil.  Created solely for 
+                     the enrichment and glorification 
+                     of....
+                           (takes her chin)
+                     ... us.
+
+      She jerks away, trying hard to stay tough, but emotion is 
+      getting the better of her.
+
+                                      LOIS
+                     You're insane.
+
+                                      LEX
+                     You're melting already.  And 
+                     eventually you'll acclimate 
+                     yourself to the seductive misuse of 
+                     power.
+                           (gazing hungrily into her
+                            eyes)
+                     Every lord needs a lady.  Every 
+                     poet, a muse.  You'll be at my 
+                     side Lois, where you've always
+                     belonged.  Forever.
+
+                                                       CUT TO:
+
+
+  16  INT.  CLARK'S PLACE - MORNING                                16   
+
+      There's a rattling at the door and JONATHAN and MARTHA let
+      themselves in.  They're carrying piles of gift-wrapped boxes 
+      which they stack in Clark's apartment.
+
+                                      MARTHA
+                     Careful of your back, hon.  Those
+                     boxes are heavy.
+
+                                      JONATHAN
+                     What do they give as wedding gifts
+                     these days -- farm equipment?
+
+                                      MARTHA
+                     Let's just get these gifts sorted 
+                     so the kids can return from their 
+                     honeymoon to an organized place.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      17.    
+
+
+  16  CONTINUED:                                                   16   
+
+                                      JONATHAN
+                           (musing)
+                     Ah Hawaii... Blue skies, blue 
+                     water, blue drinks.  I can see our 
+                     boy now.
+
+      There's a WHOOSH, then Superman LANDS.  All three are          (X)
+      surprised to see one another.
+
+                                      MARTHA
+                     Clark!  What are you doing here?
+
+                                      SUPERMAN
+                     Here?  Oh, here here.  Now.  
+                     Well... there was a tidal wave in 
+                     the Philippines that needed looking 
+                     into.
+
+      He passes into bedroom, instantly re-emerges as Clark, as:     (X)
+
+                                      MARTHA
+                     Wasn't that last week?
+
+                                      CLARK
+                     Well yeah, but I'm... very big on
+                     follow-up.
+
+                                      JONATHAN
+                     And you just left Lois in Hawaii?
+
+                                      CLARK
+                           (evasively)
+                     Not exactly.
+
+                                      MARTHA
+                     What do you mean 'not exactly?'
+                     Where _is_ she, exactly?
+
+                                      CLARK
+                     Metropolis, exactly.
+
+                                      JONATHAN
+                     You two had a fight.  Listen, don't 
+                     let it get you down.  Emotions run 
+                     high on honeymoons, both good and 
+                     bad.  That first awareness that the 
+                     two of you have become one is very
+                     scary.  Sparks are gonna fly.
+
+                                      CLARK
+                           (ruefully)
+                     I wish.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      18.    
+
+
+  16  CONTINUED:  2                                                16   
+
+                                      MARTHA
+                     Clark, you know you can tell us 
+                     anything, right?  What's on your 
+                     mind?
+
+                                      CLARK
+                           (looks off,
+                            uncomfortably)
+                     Christmas tree lights.
+
+                                      MARTHA
+                     Sorry?
+
+                                      CLARK
+                     You know how the holidays come up, 
+                     and you're all excited about making 
+                     the house just explode with warmth 
+                     and love and you hang a box of 
+                     brand new lights on the tree, 
+                     waiting for that burst of warmth 
+                     and love, and you plug 'em in 
+                     and.... nothing happens.
+
+                                      JONATHAN
+                     Nothing happens?
+
+                                      CLARK
+                     Nothing.
+
+                                      JONATHAN
+                     Nothing.
+                           (beat)
+                     No sparks?
+                           (another head shake)
+                     No flickering?
+                           (another head shake)
+                     No electricity at all?
+
+                                      CLARK
+                     The power is out.
+
+      An awkward silence, then it dawns on the parents what he's 
+      saying and they look at each other with raised eyebrows.
+
+                                      MARTHA
+                     Oh Clark, the power's not out, just 
+                     fiddle with your fuses.  The two of 
+                     you have more electricity than 
+                     anyone I ever saw.
+
+                                      CLARK
+                     That's what I thought.  I'm telling 
+                     you things are suddenly different 
+                     between us.
+                                      (MORE)
+                                                       (CONTINUED)
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      19.    
+
+
+  16  CONTINUED:  3                                                16   
+
+                                      CLARK (CONT'D)
+                           (confidentially)
+                     For a minute, it was like she
+                     didn't even remember I'm Superman.
+
+                                      JONATHAN
+                     Son, there were times on our
+                     honeymoon your mother didn't
+                     think _I_ was Superman...
+
+                                      MARTHA
+                     Jonathan.
+                           (to Clark)
+                     And what does Lois say about this?
+
+                                      CLARK
+                           (sighs)
+                     Well, lately, 'Let's go to the                  (X)
+                     mall.'
+
+                                      JONATHAN
+                     What?
+
+                                      CLARK
+                     She really likes to shop.
+
+                                      MARTHA
+                     That doesn't sound like Lois.
+
+                                      CLARK
+                     It's almost like she isn't the same
+                     person!
+                           (a new thought)
+                     You don't think ... ?
+
+                                      MARTHA
+                     Clark!  You don't think you're                  (X)
+                     living with... an impostor... !                 (X)
+
+      He rushes to a cabinet, pulls out a trophy engraved "Best
+      Local News Story, 1994 - Lois Lane/Clark Kent."  He now
+      scoops up an orange juice glass, trains beams of MICRO         (X)
+      VISION on them.  He sighs.
+
+                                      MARTHA (CONT'D)
+                     Well?
+
+                                      CLARK
+                     Her fingerprints match.                         (X)
+
+                                      JONATHAN
+                     You sound disappointed.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      20.    
+
+
+  16  CONTINUED:  4                                                16   
+
+                                      CLARK
+                     I was hoping for an explanation I
+                     guess.
+
+                                      MARTHA
+                     Sweetie, marriage is a transition
+                     that different people handle in
+                     different ways.  Don't show Lois
+                     your anxiety or frustration.  Be
+                     romantic... protective... all the
+                     things she fell madly in love with.
+                     Can you do that?
+
+                                      JONATHAN
+                     Sure he can.  He's Superman.
+
+                                                       CUT TO:
+
+
+  17                                                               17   
+THRU  OMITTED                                                    THRU   
+  18                                                               18   
+
+
+  19  EXT. METROPOLIS BANK - DAY                                   19   
+
+      Lex's Limousine pulls up in front of the bank.                 (X)
+
+
+  20  INT. LIMOUSINE - DAY                                         20   
+
+      Lois sits opposite Lex in the passenger compartment.           (X)
+
+                                      LEX
+                     We have one quick stop to make
+                     before we board the plane.
+
+                                      LOIS
+                     We're knocking over a bank?
+
+                                      LEX
+                     Do you recall the bank account I
+                     opened for you in honor of our
+                     pending nuptials?
+
+                                      LOIS
+                     No.
+
+                                      LEX
+                     Well, I deposited a little mad
+                     money in it.  About $200 million
+                     dollars.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      21.    
+
+
+  20  CONTINUED:                                                   20   
+
+                                      LOIS
+                     I had $200 million dollars just 
+                     sitting around all this time and 
+                     never knew it?
+
+                                      LEX
+                     I needed cash that was quickly
+                     available and not traceable to me.
+
+                                      LOIS
+                     What if I refuse to go inside and 
+                     withdraw it?  Who'll get your blood 
+                     money then?
+
+      The door opens and Lois Clone climbs in, sits in the seat 
+      opposite them.
+
+                                      LEX
+                     She will.
+
+                                      LOIS CLONE
+                     How long is this gonna take?  The 
+                     saleslady at the bikini boutique is 
+                     holding some stuff for me.
+
+                                      LEX
+                     I guess this means you're enjoying
+                     life as Mrs. Clark Kent.
+
+                                      LOIS CLONE
+                     I think it could maybe work out.  
+                     He like gives me things.  Money... 
+                     shoes.
+
+                                      LEX
+                     You see, Lois, how quickly one can 
+                     adapt?  It's the key to a 
+                     successful marriage.
+
+                                      LOIS CLONE
+                     And anyway, there are sides to
+                     Clark I didn't know about before.
+
+                                      LEX
+                     What're you talking about?
+
+                                      LOIS CLONE
+                     I've got a secret.  Actually it's
+                     not _my_ secret, it's someone
+                     else's.  But it's _super_ cool.
+                           (a mischievous look to
+                            Lois)
+                     Know what I mean?
+
+      Lois stares, startled.  Lex looks from one to the other.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      22.    
+
+
+  20  CONTINUED:  2                                                20   
+
+                                      LEX
+                     If there's some little game you're
+                     playing here...
+
+                                      LOIS
+                           (jumping in)
+                     Lex, is there really time for small 
+                     talk?  We have a plane to catch.  
+                     Send in the clone.
+
+      Lex hands papers to the Clone.
+
+                                      LEX
+                     Here's the information.  You know
+                     what to do.  Hurry.
+
+      The Clone looks bored, hops out, slams door.  Lex looks over
+      at Lois, frightening her with his obsessive gaze.
+
+                                      LEX (CONT'D)
+                     I'm so pleased you've had a change              (X)
+                     of heart.
+
+                                                       CUT TO:
+
+
+  21  EXT BANK - LIMOUSINE - HIGH ANGLE - DAY                      21   
+
+      CAMERA CRANES DOWN to the car.
+
+
+  22  INT. LIMOUSINE - DAY                                         22   
+
+      Lex glances impatiently at his watch.
+
+                                      LEX
+                     Where the hell is she?
+
+                                      LOIS
+                     Lex, listen.  You know I'm never
+                     going to love you.  I thought I
+                     did, once, but everything's
+                     different now.  You don't need me.
+                     You'll have your money... I
+                     couldn't tell anyone how to find
+                     you...
+
+                                      LEX
+                     Stop it!  We're never going to be
+                     apart again, Lois.  Understand
+                     that.  Accept it.
+
+                                      LOIS
+                     No!
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      23.    
+
+
+  22  CONTINUED:                                                   22   
+
+                                      LEX
+                           (leaning near)
+                     My single redeeming quality may in
+                     fact be my love for you.
+                           (beat)
+                     Accept it.
+
+                                      LOIS
+                     No... no...
+
+                                      LEX
+                     Accept it.
+
+      And something in her snaps.
+
+                                      LOIS
+                           (crying out)
+                     Superman!!
+
+      And in a flash, an enraged Lex plunges the hypodermic 
+      syringe into her arm.  She goes rigid for a moment, then 
+      clutches her throat.
+
+                                      LOIS (CONT'D)
+                           (a rasping whisper)
+                     Superman...
+
+                                      LEX
+                     Loose lips sink ships.
+                           (then)
+                     It doesn't last long, but there's
+                     more where that came from.
+
+
+  23  EXT. BANK - DAY                                              23   
+
+      The Clone trots down the steps, approaches the Limo.  Lex's
+      window slides down.                                            (X)
+
+                                      LOIS CLONE
+                     I've rethought this.
+
+                                      LEX
+                     You don't think!  You obey.
+
+                                      LOIS CLONE
+                     I'm like totally and completely 
+                     bored with your controlling me.  
+                     It's totally and completely unfair.
+
+                                      LEX
+                     So?
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      24.    
+
+
+  23  CONTINUED:                                                   23   
+
+                                      LOIS CLONE
+                     So you get to go to Europe and have 
+                     fun and ski and have _her_... I 
+                     want something too.
+
+                                      LEX
+                     You are in no position to...
+
+                                      LOIS CLONE
+                     I want to be left alone. With
+                     Clark.  No more spying for you.  No
+                     more reporting in.  Oh and I want
+                     all the different cable TV
+                     channels.  That's the deal.
+
+      Lex furiously jams on his dark glasses and hat and leaps       (X)
+      out.  The Clone marches off, Lex follows.
+
+                                      LEX
+                     I don't cut deals with clones!
+
+                                      LOIS CLONE
+                     Then I guess the money stays in the
+                     bank!                                           (X)
+
+      He grabs her arm, she wrenches away.
+
+                                      LOIS CLONE (CONT'D)
+                     You don't wanna make a scene...
+                     Do you?
+
+      And she dashes off around the corner.  The Driver has jumped
+      out and Lex turns furiously to him.
+
+                                      LEX
+                     Follow that clone!
+
+      The Driver runs off in the same direction as the Clone.
+
+  24                                                               24   
+THRU  OMITTED                                                    THRU   
+  25                                                               25   
+
+
+  26  INT. REAR OF LIMO - ON DOORWAY                               26   
+
+      Lex starts to climb back in, muttering:
+
+                                      LEX
+                     Wretched... wretched creature...
+
+      Suddenly Lois' two feet kick up into FRAME, connecting with
+      Lex's jaw.  He flies backwards onto the sidewalk.
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      25.    
+
+
+  27  LOOSER                                                       27   
+
+      as Lois rolls out the opposite door, takes off running.
+
+                                                       CUT TO:
+
+
+  28  EXT. WINDOWS ABOVE DAILY PLANET - DAY                        28(X)
+
+      People in windows are staring down as wisps of smoke float
+      upward.  We CRANE DOWN to find smoke pouring from the          (X)
+      subway station as terrified Passengers rush up the steps.
+      Superman BLURS IN, blasts SUPER BREATH at the smoke, which     (X)
+      quickly dissipates.  The Clone hurries over to him.            (X)
+
+                                      LOIS CLONE
+                     Honey, can I have two dollars for a
+                     frozen yogurt?
+
+                                      SUPERMAN
+                     Lois, you know you can't call me
+                     that.  And I'm kinda tied up right
+                     now.
+
+      A choking PASSENGER has staggered up the steps.
+
+                                      PASSENGER
+                     Superman!...  Two people are
+                     trapped in one of the subway
+                     cars...
+
+      The Clone looks impatient as Superman BLURS below and BACK,    (X)
+      floating down to a bus stop bench with two coughing            (X)
+      Passengers:  others from the crowd hurry up to help them.      (X)
+      The Clone impatiently taps Superman"s shoulder.                (X)
+
+                                      LOIS CLONE
+                     You're ignoring me.  I hate that.
+
+                                      SUPERMAN
+                           (trying not to be angry)
+                     I'm not ignoring you.  I just had               (X)
+                     some lives to save.
+
+                                      LOIS CLONE
+                     You never have time for me!  Maybe
+                     I should just move to L.A. and
+                     become a super model.
+
+                                      SUPERMAN
+                     That's not true.  I always have
+                     time for you...
+                           (he hears a distant cry
+                            for help)
+                     Except now.
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      26.    
+
+
+  29  A SIDE STREET                                                29   
+
+      Lois runs away from her captors.  She stops, staring up
+      ahead:
+
+
+  30  HER POV                                                      30(X)
+
+      Superman BLURS off.
+
+
+  31  OMITTED                                                      31   
+
+
+  32  LOIS                                                         32   
+
+      sees the take-off, frantically starts running, waving her
+      arms.  A SCREECH, and:
+
+
+  33  INTERCUT CAR - VARIOUS ANGLES                                33   
+
+      A car careens toward her, Lois turns mouth open in fright,
+      the car sideswipes her, she flies back onto the sidewalk.
+      The car stops, the driver leaps out, rushes toward Lois.  A
+      small crowd forms.
+
+
+  34  THE CLONE                                                    34   
+
+      She notes the activity across the street, trots over.
+
+
+  35  LOIS - CLONE - VARIOUS ANGLES                                35   
+
+      Lois is unconscious.  The Clone pushes through the crowd,
+      sees her.
+
+                                      LOIS CLONE
+                     That's my twin sister!  Someone
+                     help me get her into my car.
+
+      The crowd begins helping lift Lois.
+
+                                                       CUT TO:
+
+
+  35A INT. UNDERGROUND BUNKER - ON LEX - DAY                         35A
+
+      Lex, livid, is on a cellular phone.                            (X)
+
+                                      LEX
+                     What do you _mean_ 'don't yell at               (X)
+                     you?'  I'm your creator!  I'm
+                     entitled to yell at you!                        (X)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      27.    
+
+
+  36  INTERCUT LOIS CLONE'S CAR - BACK SEAT - DAY                  36   
+
+      The car is parked on a side street.  Lois groggily comes       (X)
+      to, clutches her aching head.  She hears Lois Clone talking    (X)
+      into the car phone, peers up over the seat, stares at the
+      Clone, as:                                                     (X)
+
+                                      LOIS CLONE
+                     Oh, then maybe you aren't
+                     interested that I have what you
+                     want.
+
+                                      LEX
+                     You're lying.
+
+
+  37  OMITTED                                                      37   
+
+
+  38  INTERCUT LOIS                                                38   
+
+      She listens with frightened eyes.
+
+                                      LOIS CLONE
+                     I _do_ have her, and even though
+                     you don't deserve it, my offer
+                     still stands.
+
+                                      LEX
+                     You ridiculous child!  Do you
+                     have any idea who you're dealing
+                     with?!  Bring me Lois at once, do
+                     you understand!  I am ordering
+                     you to....
+
+                                      LOIS CLONE
+                           (screaming into phone)
+                     You're really hurting my feelings!
+                     You can't have her!  You never
+                     will!  I'm gonna kill her!!  For                (X)
+                     Clark!                                          (X)
+
+      Lois reaches for the door handle, rolls out, as:               (X)
+
+                                      LOIS CLONE (CONT'D)
+                     You think you can boss me around!
+                     Well, I'm a human being, too!
+                     Okay, maybe not exactly...  You're              (X)
+                     yelling again!...                               (X)
+
+
+  39  EXT. STREET                                                  39   
+
+      Lois is running for dear life through traffic.  A battered     (X)
+      pick-up truck marked "Red's Dockside Plumbing" SCREECHES to
+      a halt, nearly hitting her.  Lois rushes up, to the
+      passenger door, yanks open the door, leaps in, the truck
+      takes off.
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      28.    
+
+
+  40  LOIS CLONE'S CAR                                             40   
+
+      The Clone jerks her head around to see:                        (X)
+
+
+  41  HER POV                                                      41   
+
+      Red's truck tears off around the corner.                       (X)
+
+
+  42  THE CLONE                                                    42   
+
+                                      LOIS CLONE
+                           (reading)
+                     'Red's Dockside Plumbing.'
+
+
+  43  INT. RED DIXON'S TRUCK - RED AND LOIS - ROLLING - DAY        43   
+
+      RED DIXON is big, scruffily handsome, in his 30's.  Lois       (X)
+      tries to speak, chokes, then rasps:
+
+                                      LOIS
+                     Sorry, I needed a lift.  It's life              (X)
+                     or death.
+
+                                      RED
+                     Are you okay?                                   (X)
+
+                                      LOIS
+                           (regaining voice)                         (X)
+                     Looks like.
+
+                                      RED
+                           (offers hand)
+                     I'm Red Dixon.
+                           (a pause)
+                     And you're ... ?
+
+      Lois stares at him, utterly blank.  She stares around,         (X)
+      clearly trying to recall who she is, touches her throbbing
+      head.  Red doesn't get it.                                     (X)
+
+                                      RED (CONT'D)
+                     C'mon, you got a name, don't you?               (X)
+                     Everyone's got a name                           (X)
+                           (off her blank look)                      (X)
+                     You from around here?  Me, I'm                  (X)
+                     from New Jersey....                             (X)
+
+                                      LOIS
+                           (concentrating hard)                      (X)
+                     Detroit.                                        (X)
+
+                                      RED
+                     Oh.  Detroit. You're from
+                     Detroit                                         (X)
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      29.    
+
+
+  43  CONTINUED:                                                   43   
+
+                                      LOIS
+                     No....                                          (X)
+
+      Suddenly Lois turns into the hard-livin', hard lovin',
+      tough-talkin':
+
+                                      WANDA
+                     That's my name.  Detroit.  Wanda                (X)
+                     Detroit.  Pleased to meet ya,
+                     sugar.
+
+                                                       BLACK.
+
+                             _END OF ACT TWO_
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      30.    
+
+                                _ACT THREE_
+
+      FADE IN:
+
+  44  INT. DAILY PLANET - PERRY'S OFFICE - DAY                     44   
+
+      Clark gazes idly at framed photos on Perry's shelves,
+      troubled and preoccupied, as:
+
+                                      PERRY
+                     Clark, it's not that I don't
+                     appreciate your comin' into work
+                     and all...  But why the heck aren't
+                     you two in Hawaii?
+
+                                      CLARK
+                     Lois... Didn't feel like Hawaii,
+                     Chief.
+
+                                      PERRY
+                           (taken aback)
+                     Oh.
+                           (beat)
+                     Son, is there anything you wanna
+                     talk about?
+
+
+  45  INT. BULLPEN - LOIS' DESK - DAY                              45   
+
+      Jimmy sits perusing Lois' novel.
+
+                                      JIMMY
+                           (reading screen)
+                     'Clark had a secret he was hiding,              (X)
+                     I was sure of it.  He made me                   (X)
+                     angry like no other man could.'                 (X)
+                           (then)
+                     Wow, she must've been steamed the
+                     day she wrote _this_.
+
+                                      LOIS CLONE (O.S.)
+                     Hello, Jimmy.
+
+      Jimmy jumps, startled, as we MOVE to REVEAL Lois Clone,
+      loaded shopping bags.
+
+                                      JIMMY
+                     Lois!  Listen, I can explain... I
+                     accidentally found your...
+
+                                      LOIS CLONE
+                           (wearily dumping bags)
+                     I have been shopping all _day_.
+                     Clark doesn't understand what hard
+                     work it is.
+                                      (MORE)
+
+                                                       (CONTINUED)
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      31.    
+
+
+  45  CONTINUED:                                                   45   
+
+                                      LOIS CLONE (CONT'D)
+                           (stares at him)
+                     Have I ever told you you're very
+                     attractive?
+
+
+                           (nervously)
+                     What?  No. You never have.
+
+      She's leaning over him, dangerously close.
+
+                                      LOIS CLONE
+                     Well, you certainly are.  Free for 
+                     lunch?  We could go out for frog 
+                     legs.
+
+      Clark comes out of Perry's office in b.g., watches, as:
+
+                                      JIMMY
+                           (panicky)
+                     I gotta get back to work.  And, uh, 
+                     I guess I should tell you... I read 
+                     your book.
+
+                                      LOIS CLONE
+                     What book?  _Oh_.  Oh my book.
+                     Want me to autograph it?
+
+                                      JIMMY
+                           (startled)
+                     _No_, Lois.  It's on your 
+                     computer... You were writin' it 
+                     two years ago.
+
+      Clark digests this, steps back into Perry's office.
+
+
+  46  PERRY'S OFFICE                                               46   
+
+      Perry's editing copy at his desk.  Clark crosses over, picks 
+      up one of the framed photos.
+
+                                      CLARK
+                     Lois was writing a book two years
+                     ago?
+
+                                      PERRY
+                           (embarrassed)
+                     Yeah, we just sorta stumbled
+                     onto...
+
+                                      CLARK
+                           (sorting it out)                          (X)
+                     She'd _remember_ a thing like that.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      32.    
+
+
+  46  CONTINUED:                                                   46   
+
+                                      PERRY
+                     Excuse me?
+
+                                      CLARK
+                     Chief, this company ski trip...
+
+                                      PERRY
+                           (back at work)
+                     ... It was just before you started
+                     here...
+
+                                      CLARK
+                     Didn't Lois break her ankle?
+
+                                      PERRY
+                     Right.  Dragged her down off the
+                     hill, myself.  The language that
+                     woman used that day woulda...
+
+                                      CLARK
+                     When a break heals, isn't there a
+                     scar left on the bone?
+
+                                      PERRY
+                     Yeah, uh-huh, and the bone is often
+                     stronger than before the....
+
+      He looks up to see he's alone.
+
+
+  47  BULLPEN - LOIS'S DESK                                        47   
+
+      The Clone has a mirror set up on her desk, holding a new top
+      up to herself and admiring the view.  Clark approaches, and,
+      unnoticed by Lois, tips his glasses, X-RAYS her ankle.
+
+
+  48  CLARK'S X-RAY POV                                            48   
+
+      Lois Clone's perfectly intact ankle bone.
+
+
+  49  BACK TO SCENE                                                49   
+
+                                      CLARK
+                     You never broke your ankle.
+
+                                      LOIS CLONE
+                     So?  Boy, there's just no pleasing
+                     you.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      33.    
+
+
+  49  CONTINUED:                                                   49   
+
+                                      CLARK
+                           (quiet but urgent)
+                     I just x-rayed your ankle and you
+                     never broke it.  Lois did.
+                           (a long beat)
+                     Where is she?
+
+                                      LOIS CLONE
+                     What're you talking about?!
+
+                                      CLARK
+                           (now loud)
+                     You are not my wife!
+
+                                      LOIS CLONE
+                           (noting people staring)
+                     Honey!  Maybe I'm not the wife you
+                     were hoping for, but I'm trying!
+
+      She charges away, he's right behind her, grabs her arm.
+      Jimmy's crossing toward them.
+
+                                      CLARK
+                     Who sent you?  Lex?!  What've you
+                     done with Lois?!
+
+                                      LOIS CLONE
+                           (bursting into tears)
+                     Stop it, Clark, you're scaring me!
+
+                                      JIMMY
+                     C.K., are you alright?
+
+                                      LOIS CLONE
+                     Jimmy, I don't know what's gotten
+                     into him!  He's lost his mind!
+
+                                      CLARK
+                           (shaking her)
+                     You're not Lois!  Tell me where she
+                     is!
+
+                                      LOIS CLONE
+                     Clark!
+
+      Perry has arrived, takes Clark's arm.
+
+                                      PERRY
+                     Son, son... Take it easy...
+
+                                      CLARK
+                     Chief, this isn't Lois...!
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      34.    
+
+
+  49  CONTINUED:  2                                                49   
+
+                                      PERRY
+                     Now what would make you say a thing
+                     like that?
+
+                                      LOIS CLONE
+                           (slyly)
+                     Yes, Clark.  What _would_ make you
+                     say a thing like that?
+
+      Clark looks from one to the other, then wrenches away from
+      Perry and dashes out the entry doors.  Lois Clone cries
+      noisily as Perry comforts her.  A soft WHOOSH beyond the
+      doors.
+
+                                      LOIS CLONE (CONT'D)
+                     It's horrible.  I don't know why I
+                     married him!
+
+                                                       CUT TO:
+
+
+  50  EXT. BIBBO'S ACE O' CLUBS - DAY                              50   
+
+      Distant ship HORNS; tug WHISTLES. A seedy street near the
+      docks.  Red's plumbing truck is parked outside the bar.  We
+      MOVE IN on a sign in the window reading "Singer Wanted."
+      Inside, someone's singing.
+
+
+  51  INT. ACE O' CLUBS - ON BIBBO AND RED - DAY                   51   
+
+      A colorful dive loaded with mementos of Bibbo's colorful
+      life.  Tough ex-prizefighter and current bar owner BIBBO
+      BIBOWSKI, late 40's, sits at a table with Red, watching the
+      O.S. singer.  Chairs are atop tables; a few diehards drink
+      at the bar; a busboy mops the floor.
+
+                                      BIBBO
+                     That's some set of lungs.
+
+                                      RED
+                           (transfixed)
+                     I told you you'd like her.
+
+
+  52  INTERCUT WANDA DETROIT                                       52   
+
+      Wanda belts out her song on a small, raised area of floor
+      that serves as a stage, backed by a guy at an upright piano.
+      Wanda finishes, sashays overland in her gravelly voice:
+
+                                      WANDA
+                     So do I get the gig or not?  Just
+                     gimme a straight answer and don't
+                     jerk me around.  Got any bourbon?
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      35.    
+
+
+  52  CONTINUED:                                                   52   
+
+                                      BIBBO
+                     Easy, it ain't even noon.  Pull 
+                     yourself together.  You look like 
+                     you got hit by a car.
+
+                                      WANDA
+                     Yeah.  A car called 'life.'  Think 
+                     I ain't played Vegas?  Think I 
+                     ain't played New York?  I dated a
+                     _duke_, doggone it!  But one day                (X)
+                     the liquor and the cigarettes catch 
+                     up to you and you end up in joints 
+                     like this singin, for palookas like 
+                     you.
+
+                                      RED
+                     That's the saddest story I ever
+                     heard.
+
+                                      WANDA
+                     My life reads like a bad novel.
+
+                                      BIBBO
+                     Well, you got a job if you want it.
+                           (offers hand)
+                     Bibbo Bibowski.  Put 'er there.
+
+                                      RED
+                           (shyly)
+                     And uh... if you're not doin'
+                     anything for dinner...
+
+      Sadly amused, Wanda takes hold of his chin, looks at him.
+
+                                      WANDA
+                     You know, kid, I like you.  But I'm 
+                     poison.  Trouble sticks to me like 
+                     stink on old fish.  Do yourself a 
+                     favor and forget me.
+
+                                      BIBBO
+                     Wanda, Wanda.  Life's a lonely road 
+                     to be travelin' solo.  You mean to 
+                     say you got _no_ one?
+
+      Wanda glances over at the window, stares off,
+
+                                      WANDA
+                           (drifting to the window)
+                     It's weird, Bibbo.  I got this 
+                     feeling there _is_ someone out
+                     there
+                           (beat)
+                     I just don't know who.
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      36.    
+
+
+  53  OMITTED                                                      53   
+
+
+  54  EXT. ACE O' CLUBS WINDOW                                     54   
+
+      Wanda stares sadly out at the world as we PULL BACK and
+
+                                                       CUT TO:
+
+
+  55  EXT. DAILY PLANET - WITH LOIS CLONE - NIGHT #3               55(X)
+
+      Lois Clone hurries out of the building and down the street
+      toward her car.  A man suddenly steps from the shadows, in
+      overcoat and hat, his back to CAMERA.  The Clone looks
+      shocked and a bit frightened; the man grabs her arm and
+      hustles her into...
+
+
+  56  EXT. GLOOMY ALLEY - NIGHT                                    56(X)
+
+      The man is Lex Luthor.
+
+                                      LEX
+                           (seething)
+                     Where... is... she?
+
+                                      LOIS CLONE
+                     My offer still stands.
+
+                                      LEX
+                           (grabs her)
+                     Don't make deals with me, Frog
+                     Eater!  You think I won't snap your
+                     traitorous little neck?  I am at
+                     rock bottom.  The only thing I have
+                     in this miserable existence is the
+                     woman I love, and neither you nor
+                     any force of nature is going to
+                     keep me from her!
+
+      The Clone defiantly wrenches away from him.
+
+                                      LOIS CLONE
+                     Let _go_ of me!!
+
+                                      LEX
+                     What have you done with her?!
+
+                                      LOIS CLONE
+                     I've lost her!  Your Precious is                (X)
+                     out there somewhere!  But don't
+                     worry, I'll find her.
+
+                                      LEX
+                     You certainly will.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      37.    
+
+
+  56  CONTINUED:                                                   56   
+
+                                      LOIS CLONE
+                     Find her and kill her!
+
+                                      LEX
+                     You...
+
+      He charges at her; she whips a gun from her pocket, aims it,
+      he freezes.
+
+                                      LEX (CONT'D)
+                     What are you doing?!
+
+                                      LOIS CLONE
+                     Who do you think I am?  That wimp, 
+                     Lois Lane?  I'm a girl who gets 
+                     what she wants, and what I want is 
+                     Clark.
+
+                                      LEX
+                     You didn't before!
+
+                                      LOIS CLONE
+                     Well, I do now!
+
+                                      LEX
+                     He won't want you!
+
+                                      LOIS CLONE
+                     Maybe he will if _she's_ outta the              (X)
+                     way!!  Can't you even encourage 
+                     me?!!  What kind of father _are_ 
+                     you?
+
+                                      LEX
+                           (getting a grip)
+                     This is absurd.  I am the master in 
+                     this relationship.  You are the 
+                     creature.  I _command_ you to give 
+                     me that gun.
+
+                                      LOIS CLONE
+                     Don't be silly.  If I give you the
+                     gun, I can't shoot Lois.  Duh.
+
+                                      LEX
+                           (drawing near,
+                            hypnotically:)
+                     You aren't shooting Lois, and you 
+                     aren't shooting me.  Look into my 
+                     eyes.  Look into my eyes!
+
+      She SHOOTS him in the shoulder.  He flies back against the 
+      wall, holding his shoulder, staring in disbelief.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      38.    
+
+
+  56  CONTINUED:  2                                                56   
+
+                                      LEX (CONT'D)
+                     You shot me!
+
+                                      LOIS CLONE
+                     These must be my rebellious years.
+
+      She dashes off down the street as he slides down the wall.
+
+                                                       CUT TO:
+
+
+  57  EXT. METROPOLIS NIGHT SKY - NIGHT                            57   
+
+      A sad, SONG drifts in.  Then Superman flies into view,         (X)
+      scanning the city below for any sign of Lois.  MOVES
+      IN on his face, frustrated and sad, then he soars off.  The
+      SONG continues as we go to:
+
+
+  58  INT. ACE O' CLUBS - NIGHT                                    58   
+
+      Wanda sits in a pool of light before a make-up mirror with 
+      three hinged mirrors.  CAMERA ARCS around as she applies 
+      make-up then lets her hand drop as she stares into the three
+      images reflected back.  DISSOLVE TO:
+
+
+  59  INT. LEX'S BUNKER - NIGHT                                    59   
+
+      Dark, but for.a pool of light in which Lex sits, alone and
+      miserable, holding his bandaged arm, plotting.  DISSOLVE TO:
+
+
+  60  INT. CLARK'S APARTMENT - NIGHT                               60   
+
+      Lois clone sits poring through the yellow pages in a pool of 
+      light at the table.  She pops a frog in her mouth as she 
+      finds the page and CAMERA MOVES IN ON IT.  A small display 
+      ad features "Red's Dockside Plumbing."  DISSOLVE TO:
+
+
+  61  EXT. BUILDING LEDGE - NIGHT                                  61   
+
+      Superman sits on the ledge, staring down at the city below,    (X)
+      wrapping his cape around himself, turning sadly toward 
+      CAMERA as we MOVE IN CLOSE to find the beginnings of a tear
+      trickling down one cheek.
+
+
+ 61A  MEMORY SHOTS                                                61A(X)
+
+      Clips from previous episodes.  Lois laughing.  Lois and        (X)
+      Clark sharing a warm moment.  Lois and Clark kissing.  Lois    (X)
+      in her window as CAMERA PULLS AWAY from her.                   (X)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      39.    
+
+
+ 61B  SUPERMAN - TIGHT CLOSE UP                                   61B(X)
+
+      He looks devastated at the memories.                           (X)
+
+                                                       MATCH DISSOLVE:
+
+
+  62  INT. ACE O' CLUBS - TIGHT ON WANDA - NIGHT                   62   
+
+      Wanda, now with big hair and sleazy outfit, has just           (X)
+      finished singing and accepts the APPLAUSE which we begin to
+      HEAR as CAMERA PULLS BACK.  She replaces the mike in its       (X)
+      stand as the follow spot irises down on her and she bows.
+      Black, then lights come up as the APPLAUSE continues.  She     (X)
+      moves through the crowd of low-lifes to find Bibbo and Red
+      APPLAUDING at a table.  The SONG ENDS.
+
+                                      BIBBO
+                     Toots, these eyes ain't shed a tear
+                     in thirty years, but you dam near
+                     got me just now.
+
+                                      RED
+                           (going off)
+                     Lemme get you a brew, Wanda.
+
+                                      WANDA
+                     Sure, what's one more nail in the
+                     coffin?
+
+                                      BIBBO
+                     The kid there's dyin' to ask you
+                     out.  Cut him a break.  You could
+                     do worse than Red.
+
+                                      WANDA
+                     And have, believe me.  Look, if you
+                     really like him, tell him to keep
+                     his distance.  I got this crazy
+                     chick lookin' to kill me, and I
+                     can't even go to the cops 'cause
+                     the cops are lookin' for me.
+
+      Red has come up during this last, holding a mug of beer.
+
+                                      RED
+                           (stunned)
+                     Wanda.  C'mon, not you.                         (X)
+
+                                      WANDA
+                     I was stupid.  I made a fool of
+                     myself over...
+                           (darkly)
+                     ... Him.
+
+                                      RED
+                     Him who?
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      40.    
+
+
+  62  CONTINUED:                                                   62   
+                                      WANDA
+                     His name's Clark.  I always thought 
+                     of men as paper napkins.  You pig 
+                     out, you clean up the mess, you 
+                     toss 'en.  This guy actually got to
+                     me.  But Clark had a secret he was 
+                     hiding.  I was sure of it.  He                  (X)
+                     made me angry like no other man 
+                     could.                                          (X)
+
+                                      BIBBO
+                     What kinda secret?                              (X)
+
+                                      WANDA
+                     Whenever we were together, held 
+                     just take off.  No explanation.
+                     I'd be right on the edge of pourin' 
+                     out my heart.  Ban.  He had 
+                     somethin' urgent to do.
+                           (beat)
+                     Turns out he was knockin' over gas 
+                     stations.  Left me sittin' in his 
+                     car with a trunk full of cash and 
+                     thirty state troopers on my tail.
+
+                                      BIBBO
+                     What's this 'Clark' look like?                  (X)
+                     I'll be on the look out.                        (X)
+
+                                      WANDA
+                           (confused)                                (X)
+                     'Look like?'  Funny, I can't 
+                     picture him.  All I see in my head              (X)
+                     is a buncha words.                              (X)
+
+                                      RED
+                     Wanda, how can I help?                          (X)
+
+                                      WANDA
+                     Keep me away from Clark!  I've had 
+                     enough of that life, I tell ya!  He 
+                     ain't gonna drag me back!
+                           (beat; staring off)
+                     I sing the sad songs, boys.  'Cause 
+                     sadness is what I know.  But it's a 
+                     sadness with no face.  Who is it 
+                     I'm lookin' for?
+
+
+  63  EXT. ACE O' CLUBS - NIGHT                                    63   
+
+      Foggy and gloomy.  Lois' car pulls up to CAMERA.  At the
+      wheel is Lois Clone.
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      41.    
+
+
+  64  HER POV                                                      64   
+
+      The truck marked "Red's Dockside Plumbing."
+
+
+  65  LOIS' CAR                                                    65   
+
+      Lois Clone gets out of the car, steps up to the truck, then
+      glances over at the window of Bibbo's, goes over, pears in.
+
+
+  66  HER POV - INSIDE BIBBO'S                                     66   
+
+      Wanda is talking to Bibbo and Red.
+
+
+  67  LOIS CLONE                                                   67   
+
+      She digests this; her eyes narrow; we...
+
+                                                       CUT TO:
+
+
+  68  EXT. CITY SKYLINE - TO ESTABLISH DAWN (STOCK) - DAY #4       68   
+
+
+  69  INT. CLARK'S APARTMENT - ON DOORS DAWN                       69   
+
+      We hear the lock UNLOCK, and the door opens. Clark, we
+      from a night of searching, enters the din room, flipping on
+      a light.  He looks up and his mouth falls open.
+
+
+  70  WIDER - THE ROOM                                             70   
+
+      Every image of Lois has been trashed.  A large photo has a     (X)
+      meat cleaver in it.  Pictures of Lois and Clark are ripped     (X)
+      in half.  Framed Lois photos are smashed.  Scrawled on the     (X)
+      wall in huge letters:  "Lois dies!"  Then:
+
+                                      LEX (O.S.)
+                     It appears we both have our hands
+                     full.
+
+
+  71  ANGLE                                                        71   
+
+      Clark spins and Lex Luthor, coat draped over his shoulders,
+      steps from the shadowy bedroom area.  Clark's face contorts
+      and he loses it, charging at Lex and slamming him up against
+      a wall.
+
+                                      CLARK
+                           (dangerous; seething)
+                     Do you know how easily I could kill
+                     you?
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      42.    
+
+
+  71  CONTINUED:                                                   71   
+
+                                      LEX
+                     Probably.
+
+                                      CLARK
+                     Probably not.
+
+                                      LEX
+                     Unfortunately, we need each other.
+
+                                      CLARK
+                     What have you done with her?!
+                     Where _is_ she?!!
+
+                                      LEX
+                     I replaced her.  Just before the
+                     wedding.
+
+                                      CLARK
+                     And sent that 'thing' to be with
+                     me!  Where's Lois?!
+
+                                      LEX
+                     I lost her.
+
+                                      CLARK
+                     _Lost_ her?!
+
+      Clark lightly tosses Lex, who hurtles across the room and 
+      lands on the couch, hurting his injured arm.
+
+                                      LEX
+                     Ow!!  Easy.
+                           (then)
+                     Kent, you must hate me with more 
+                     hate than you thought possible.  
+                     But there's a larger issue.  The 
+                     Clone's gotten it into her head to 
+                     destroy Lois.
+
+                                      CLARK
+                     What?
+
+                                      LEX
+                     Replicants are quite childish,
+                     always throwing tantrums...
+                           (nods to the room)
+                     ... as you can see.  Well, she's
+                     decided she wants you and has to
+                     eliminate the competition.
+                           (pulls down coat to
+                            reveal his bloody sleeve)
+                     I guarantee she means business.
+
+      Clark grabs Lex by the shirt front, yanks him to his feet, 
+      grabs a phone, dials.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      43.    
+
+
+  71  CONTINUED:  2                                                71   
+
+                                      LEX (CONT'D)
+                           (screaming)
+                     Calling the police?  Sending me 
+                     back to prison?  The clock is 
+                     ticking, Kent!  We need each other!
+                     I know that Clone's every move.  
+                     And you... You're the only man on 
+                     earth who wants to find Lois as 
+                     much as I.
+
+      Clark slowly puts down the phone, and with his other hand, 
+      brings Lex very close to his own face as CAMERA MOVES IN:
+
+                                      CLARK
+                           (barely in control)
+                     I.... swear to you.... If anything's 
+                     happened to Lois...
+
+                                      LEX
+                     We're wasting time.  The creature
+                     may have already found her.
+
+                                                       BLACK
+
+                             _END OF ACT THREE_
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      44.    
+
+                              _ACT FOUR_
+
+
+  72  CLOSE ON DAILY PLANET HEADLINES -- SPINNING OUT AT US.       72   
+
+      The front page settles and reveals a photo of:  "Lois Lane:
+      missing."
+
+                                                       MATCH CUT TO:
+
+
+  73  INT. ACE O'CLUBS - ON NEWSPAPER - MORNING                    73   
+
+      Red and Wanda Detroit are sitting at the bar, staring at the
+      newspaper.
+
+                                      WANDA
+                     That's her.  The crazy woman who
+                     looks just like me.
+
+                                      RED
+                     And you still can't figure out why
+                     she wants to kill you?
+
+                                      LOIS
+                     Life's been tough.  Guess I ruffled
+                     some feathers along the way.
+                           (then)
+                     Boys, it may be time for me to move
+                     on.
+
+                                                       CUT TO:
+
+   74 INT. CLARK'S LIVING ROOM - MORNING                           74   
+
+      Lex is there with Clark.
+
+                                      CLARK
+                           (furious)
+                     You gave her _what_?!
+
+                                      LEX
+                     A simple injection to keep her from
+                     speaking.  It's possibly why you
+                     haven't heard from her.
+
+      He slams Lex up against the wall.
+
+                                      CLARK
+                     Lois would move heaven and earth to
+                     contact me.  Or Superman.  I know
+                     Lois.                                           (X)
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      45.    
+
+
+  74  CONTINUED:                                                   74   
+
+                                      LEX
+                     Lest you forget, Kent, she was                  (X)
+                     once my intended.  The fact that I              (X)
+                     knew some aspects of her and you                (X)
+                     others, can be an asset to our
+                     search.
+
+      Clark roughly releases Lex, turns away.
+
+                                      CLARK
+                     Where'd you see her last?
+
+                                      LEX
+                     Outside a bank.  She'd just kicked
+                     me in the jaw.
+
+      Clark grins in spite of himself.
+
+                                      CLARK
+                     That's Lois.
+
+                                      LEX
+                     She's an amazing woman.  I've never
+                     known anyone like her.
+
+                                      CLARK
+                     Fearless.
+
+                                      LEX
+                           (looking off)
+                     Stupidly so, at times.
+
+                                      CLARK
+                           (looking off)
+                     I try to get her to take it easy,
+                     but...
+
+                                      LEX
+                     ... She won't listen.  And yet,
+                     when she's sad, and she cries...
+
+                                      CLARK
+                     You wanna die.
+
+                                      LEX
+                     Tell me about it.
+
+      They stop, glance uncomfortably at each other, Good and Evil 
+      met on common ground.  Then:
+
+                                      LEX (CONT'D)
+                     I'll help find her, Kent.  In this
+                     one instance, you can trust me.
+
+      He extends a hand to Clark to shake.  Clark glances warily 
+      at the hand, then a KNOCK at the door.  Both men spring 
+      back.
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      46.    
+
+
+  75  THE DOOR                                                     75   
+
+      Lex has shrunk back to the bedroom area as Clark opens the 
+      door to reveal Jimmy.  Rapid fire:
+
+                                      JIMMY
+                           (urgently)
+                     C.K.!  This guy just showed up at
+                     the Planet.
+
+                                      CLARK
+                     What guy?
+
+                                      JIMMY
+                     Red something or other.  When you 
+                     told us last night Lois was 
+                     missing, we ran her picture on the 
+                     front page.  This 'Red' saw the 
+                     picture and says we need to know 
+                     something about Lois Lane.
+
+                                      CLARK
+                     And that would be..?
+
+                                      JIMMY
+                     She's a murderer.  Or potential
+                     murderer.
+
+                                      CLARK
+                     What?!!
+
+                                      JIMMY
+                     But that's not the important part.
+
+                                      CLARK
+                     What _is_?!
+
+                                      JIMMY
+                     Red says Lois is trying to kill his
+                     new girlfriend.
+
+                                      CLARK
+                     And she would be..?
+
+                                      JIMMY
+                     Wanda Detroit!!
+
+                                      CLARK
+                     Who is ... ?
+
+                                      JIMMY
+                     The heroine of Lois's secret novel.
+
+
+  76  ON LEX                                                       76   
+
+      He presses against the bedroom doorway, listening.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      47.    
+
+
+  76  CONTINUED:                                                   76   
+
+                                      CLARK (O.S.)
+                     ... Lois is somewhere acting like               (X)
+                     the heroine of her secret novel?!
+
+
+  77  BACK TO JIMMY AND CLARK                                      77   
+
+      Jimmy waves the print-out he made from her computer.
+
+                                      JIMMY
+                     Wanda Detroit!  Wanda's got this                (X)
+                     jerk of a boyfriend named...                    (X)
+                     'Clark.'  He's elusive and
+                     secretive.
+
+                                      CLARK
+                     She must've written that when she
+                     was mad at me.
+
+                                      JIMMY
+                     Then there's this other dude who 
+                     she seriously loves.  Her hero.  
+                     The guy she'd do anything for.  
+                     Only he won't give her the time 
+                     of day.  His name's Kent.  One 
+                     thing about Lois's brain, it sure 
+                     is filled with a lot of you.
+
+                                      CLARK
+                     Oh God...  Where can I find her?                (X)
+
+                                      JIMMY
+                     At the docks.  She sings at this
+                     dive called The Ace-O'-Clubs.
+
+                                      CLARK
+                     Jimmy, thanks!
+
+      He tosses the door closed as:
+
+                                      JIMMY
+                     Wait, take me with...
+
+      SLAM!  The door is closed.  Clark yanks it back open.
+
+                                      CLARK
+                     Can't.
+
+      He SLAMS the door again, dashes down to the bedroom.
+
+                                      CLARK (CONT'D)
+                     Luthor, I think I know where...
+
+      But as he looks in the bedroom he finds no one.  Then he 
+      notices the window is wide open.  Lex has fled.
+
+                                                       CUT TO:
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      48.    
+
+
+  78  INT.  ACE Of CLUBS - DAY                                     78   
+
+      Bibbo is watering the liquor.  Wanda comes rushing out of 
+      the back room carrying a brown paper bag.
+
+                                      BIBBO
+                     We're gonna miss you Wanda.  You're 
+                     really stacked, and you enchant the 
+                     clientele.
+
+                                      WANDA
+                     Gotta keep movin'.  Honky-tonk bars 
+                     and blues guitars.  Story of my 
+                     life.
+
+                                      BIBBO
+                     What about Red?
+
+                                      WANDA
+                     Aw, he's better off without me.  
+                     I'm like cheap booze, Bibbo: The 
+                     high ain't bad; the hangover's 
+                     murder.  I'm gonna kiss the cook 
+                     good-bye.
+
+      She exits to the kitchen just as:
+
+
+  79  ANGLE                                                        79   
+
+      The SUPER WHOOSH outside swings open the door, scattering 
+      napkins, and knocking over a bottle.  Then Clark enters.
+      Inside, he notices an easel next to the piano. on it is a 
+      photo of Lois, under which is written "Tonight - Wanda
+      Detroit."  He approaches the bar.
+
+                                      BIBBO
+                     What can I offer you today?
+
+                                      CLARK
+                     Information.
+
+                                      BIBBO
+                     The capital of Connecticut is
+                     Hartford.
+
+                                      CLARK
+                     About Wanda Detroit.  Is she around
+                     now?
+
+                                      BIBBO
+                     At Bibbo's, our artists have a 'no
+                     autograph' policy.
+
+                                      CLARK
+                     I'm with the Daily Planet.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      49.    
+
+
+  79  CONTINUED:                                                   79   
+
+                                      BIBBO
+                           (dryly)
+                     The food critic.  At last.
+
+                                      CLARK
+                     I'm a reporter.  And a friend of 
+                     Lo... Wanda Detroit's.  Maybe you 
+                     could get a note to her.
+
+
+  80  BEHIND THE DOOR BETWEEN KITCHEN AND BAR                      80   
+
+      Wanda listens in horror to:
+
+                                      BIBBO (O.S.)
+                     All right.  What's your name?
+
+                                      CLARK (O.S.)
+                     Clark.
+
+      Wanda cringes, frightened.
+
+                                      WANDA
+                     'Clark?'
+
+      Then she looks around, vanishes from FRAME.
+
+
+  81  THE BAR                                                      81   
+
+                     Clark and Bibbo.
+
+                                      RED (O.S.)
+                     What'd ya say your name was, buddy?
+
+      Clark spins as CAMERA ADJUSTS to find an angry-looking Red.
+
+                                      CLARK
+                     Clark.
+                                      RED
+                     Bibbo, this is the creep who's                  (X)
+                     hounding Wanda.
+                           (to Clark)
+                     I just got one thing to say to                  (X)
+                     you, buster.
+
+                                      CLARK
+                     Yes?
+
+      And Red hauls off and slugs Clark.  Clark, stares, 
+      unaffected.  Then he catches himself and feigns hurt.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      50.    
+
+
+  81  CONTINUED:                                                   81   
+
+                                      CLARK (CONT'D)
+                           (mildly)
+                     Uh. Ow.
+
+                                      BIBBO
+                     Maybe this'll teach you to mess
+                     with Wanda.
+
+      And he slugs Clark who once again takes the punch.
+
+                                      CLARK
+                     Guys...
+
+
+  82  EXT. GLOOMY STREET - DAY                                     82   
+
+      Wanda has raced away from the club and is hustling down the
+      street.  She turns a corner, and:
+
+                                      WANDA
+                     You!
+
+
+  83  NEW ANGLE                                                    83   
+
+      The Clone has a gun aimed at Wanda.
+
+                                      LOIS CLONE
+                     Yeah.
+
+                                      WANDA
+                     Who are you?                                    (X)
+
+                                      LOIS CLONE
+                     Oh, like you don't know.  We both               (X)
+                     have the same boyfriend!
+
+                                      WANDA
+                     Kid.  I doubt we draw from the same
+                     date pool.  Who's your boyfriend?
+
+                                      LOIS CLONE
+                     Like you don't know!  I've decided
+                     being Mrs. Clark Kent is really
+                     cool, and you being alive is a
+                     drag.  So...
+
+      She raises the gun and prepares to fire.
+
+                                      WANDA
+                     Now, wait a minute!!
+
+      O.S., the sound of SQUEALING TIRES.  The Clone spins, and:
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      51.    
+
+
+  84  NEW ANGLE                                                    84   
+
+      A dark sedan is bearing down on the Clone.  It jumps the
+      curb and ROARS down the sidewalk and she takes off running,
+      finally diving over some trash barrels into an alley as the
+      car ROARS past.  The gun has gone flying, Wanda grabs it.      (X)
+
+      Up ahead, the Car goes into a SCREECHING U-Turn and doubles
+      back, skidding to a stop near Wanda, who aims the gun at the
+      driver's door.  Lex pops out.                                  (X)
+
+                                      LEX
+                     Angel!  It's me!  The man you love.
+                           (off her blank stare)
+                     Wanda... It's Kent!
+
+                                      WANDA
+                           (lowering gun)
+                     You're... Kent?                                 (X)
+
+                                      LEX
+                           (tossing gun in car)                      (X)
+                     The man you love and thought you                (X)
+                     couldn't have.  Well, good news.                (X)
+                     You can.
+
+                                      WANDA
+                     I sure hope this isn't a dream.                 (X)
+
+                                      LEX
+                     A dream come true.                              (X)
+
+      Wanda melts in his arms, he kisses her.                        (X)
+
+                                      LEX (CONT'D)
+                     Only one person stands in our way.              (X)
+
+                                      WANDA
+                     I know, I know!  Clark!  He's
+                     here!                                           (X)
+
+                                      LEX
+                     He's got it in his crazed brain                 (X)
+                     that _I'm_ the one who's no good
+                     for you.  But everything will be                (X)
+                     fine if you do _exactly_ as I say.              (X)
+
+
+  85  INT. ACE Of CLUBS - DAY                                      85   
+
+      Bibbo and Red, sweating and weary, stand before Clark, both
+      slugging him in the gut with rhythmic punches, during:
+
+                                      CLARK
+                     Look.  I just need some
+                     information.  Hello?  Please, I've
+                     had enough.  I give.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      52.    
+
+
+  85  CONTINUED:                                                   85   
+
+      He finally sighs, tosses the two men lightly away from him,
+      they hit the wall.  Clark strides off.                         (X)
+
+                                      RED
+                           (breathing hard)
+                     And if you come back, there's more
+                     where that came from.
+
+  86  OMITTED                                                      86   
+
+
+  87  INT. SEDAN - WANDA AND LEX                                   87   
+
+                                      WANDA
+                     I'm not sure I can do what you
+                     said...                                         (X)
+
+                                      LEX
+                     of course you can; you're a
+                     thespian.                                       (X)
+
+      Lex puts the car in gear, it doesn't move.
+
+
+  88  ACCELERATOR - INSERT                                         88   
+
+      He floors it.
+
+
+  89  REAR TIRE                                                    89   
+
+      It spins and smokes; the car goes nowhere.
+
+
+  90  EXT. CAR - LOOSER                                            90   
+
+      Superman stands holding the earls rear bumper.  The wheels
+      stop turning and Superman gives the car a spin.  It spins
+      around at HIGH SPEED and Superman BLURS behind a parked
+      truck and comes out the other side as Clark.  The car
+      abruptly stops spinning, facing Clark.  Clark yanks open the
+      driver's door and grabs Lex, yanking him out of the car.
+      Wanda jumps out of the passenger door.                         (X)
+
+                                      CLARK
+                     Why did I trust you? Even for a
+                     second?
+
+                                      LEX
+                     I'm only trying to protect her...               (X)
+                           (glances at Wanda)
+                     ... _Clark_.                                    (X)
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      53.    
+
+
+  90  CONTINUED:                                                   90   
+
+                                      WANDA
+                           (hurrying over)                           (X)
+                     Clark...                                        (X)
+
+      Clark tosses Lex back against the car, turns to Wanda,
+      palls her into an intense embrace.                             (X)
+
+                                      CLARK (CONT'D)
+                     Oh God, I missed you!
+                           (kissing all of her)
+                     You're alright!  _Are_ you alright?
+
+                                      WANDA
+                     Clark, we have to talk.                         (X)
+
+                                      CLARK
+                     Let's just get you safe.                        (X)
+
+                                      WANDA
+                     I'm safe now.                                   (X)
+                           (beat)
+                     With Lex.                                       (X)
+
+                                      CLARK
+                           (staring)
+                     Lois, what're you talking about?                (X)
+
+                                      WANDA
+                     Clark, we've been saved from a                  (X)
+                     horrible mistake.                               (X)
+
+                                      CLARK
+                     What mistake?                                   (X)
+
+                                      WANDA
+                     Getting married.                                (X)
+
+      Clark just stares in horror; Wanda goes on as if repeating     (X)
+      memorized lines.                                               (X)
+
+                                      WANDA (CONT'D)
+                     I had doubts. I was afraid to                   (X)
+                     disappoint you... our parents...                (X)
+                     I couldn't even face you.  That's               (X)
+                     why I hid out here... pretending to
+                     be Wanda.  The truth is, I'm not                (X)
+                     made for marriage.  I need to go
+                     away and sort things out.                       (X)
+
+                                      CLARK
+                     Go... where?                                    (X)
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      54.    
+
+
+  90  CONTINUED:  2                                                90   
+
+                                      WANDA
+                     Wherever Lex takes me.  Seeing him              (X)
+                     again brought back all my old
+                     feelings.                                       (X)
+
+                                      CLARK
+                           (almost unable to ask)                    (X)
+                     What old feelings?                              (X)
+
+                                      WANDA
+                     I love him.                                     (X)
+
+                                      CLARK
+                           (moving toward her)
+                     Lois, you don't mean this. What                 (X)
+                     about me?                                       (X)
+
+                                      WANDA
+                     I _don't_ love you.                             (X)
+                           (then)
+                     I'm leaving, Clark!  And if you                 (X)
+                     love me as much as you say you do,
+                     you'll let me go!                               (X)
+
+      He's stunned; she turns and heads back to the other side of    (X)
+      the car, as:
+
+                                      LEX
+                     Tough break, old man. Well, I hope
+                     you'll handle it with dignity.
+
+                                      CLARK
+                     Lois....                                        (X)
+
+      Clark grabs Lex's arm.                                         (X)
+
+                                      CLARK (CONT'D)
+                           (barely able to control
+                            himself; to Lex)
+                     I don't know yet what you've done               (X)
+                     to her, but I will find you. And I
+                     will bring Lois back.  And if I
+                     have to go right through you to do
+                     it, I will. I promise you.
+
+      Wanda glares at Clark.  Lex wrenches free.                     (X)
+
+                                      LEX
+                     Why, that sounds like a threat,
+                     Clark.  My woman doesn't take
+                     kindly to threats.
+
+      He smiles, jumps in the car, hits the gas, takes off up the
+      street.  We are shooting over Clark's back as the Clone        (X)
+      enters FRAME, sidles up to him.
+
+                                                       (CONTINUED)
+
+                            ---page break---
+      "DOUBLE JEOPARDY" (#16)  FULL Blue Rev.        1/9/96      55.    
+
+
+  90  CONTINUED:  3                                                90   
+
+                                      LOIS CLONE
+                     Well.  I guess it's just you and
+                     me.
+
+      He stares over at her as CAMERA CRANES UP, leaving Clark and 
+      the Clone watching each other.
+
+
+ 90A  INT. LEX'S SEDAN - LEX AND WANDA - ROLLING - DAY            90A(X)
+
+                                      LEX
+                     My dear, you were magnificent.                  (X)
+
+      Wanda snuggles up to Lex, puts her arms around his neck.       (X)
+      She is back to the sassy, tough Wanda.
+
+                                      WANDA
+                     I tell ya, I coulda been an                     (X)
+                     actress.                                        (X)
+                           (beat)
+                     Who's this Lois, anyway?                        (X)
+
+      Lex smiles an evil, contented smile.                           (X)
+
+                                      LEX
+                     Oh... Someone better off
+                     forgotten.                                      (X)
+
+
+ 90B  THE STREET                                                  9OB(X)
+
+      The car races off, rounds a corner, and                        (X)
+
+                                                       BLACK.
+
+                           _TO BE CONTINUED..._
+
+
+

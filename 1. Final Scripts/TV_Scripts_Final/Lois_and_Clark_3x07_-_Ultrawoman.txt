@@ -1,0 +1,3210 @@
+notes:
+
+To pop everything into place...
+
+use Courier 10 (or 10 characters per inch)
+
+set top margin at 0.4", bottom margin at 0.4" (or minimums)
+left margin at 1", right margin at .25 (or minimum)
+   (I had to tell the program I was using legal paper)
+
+page breaks in hard copy indicated by ---page break---
+
+regular tabs, hard returns and right flushes are used 
+to position things to look as much like original as possible
+
+sometimes the formatting changes slightly (as in the numbers at the
+end of the lines), but I'm going to keep consistent because it's
+easier
+
+logo on front page will be noted when used but not included here
+
+as this may be sent in .txt, originally underlined words will 
+look like   _this_
+
+I don't know what the (X) means; maybe it means the same thing as the
+"*" in the other scripts
+
+
+Notes: 
+
+Cover:  "Ultra Woman," Written Gene O'Neill & Norren Tobin" [and]
+Directed by Mike Vejar are all in large bolt print. The remainder of
+the text is in Courier 10 (10 characters per inch)
+
+Typos noted:
+
+The occasional comma is missing in original
+Page 11, mid page, "stops, The DRIVER" "The" is 
+     capitalized in original
+Page 35A, "satisified -- and I'm never" satisfied is 
+     spelled wrong in original
+                       graphic (see script.bmp)
+
+                             "Ultra Woman"
+
+                             EPISODE SEVEN
+
+                             Prod. #457407
+
+
+                              Written by
+
+                             Gene O'Neill
+
+                                  &
+
+                             Norren Tobin
+
+
+                              Directed by
+
+                               Mike Vejar
+
+
+
+
+                                             _Production Draft_
+                                             September 7, 1995
+                                             Blue Rev.  9/8/95
+                                             Pink Rev.  9/12/95
+                           ---page break---
+                             _LOIS & CLARK_
+
+                             "_Ultra Woman_"
+
+                            Pink Rev. 9/12/95
+
+                                  _CAST_
+
+CLARK KENT/SUPERMAN
+
+LOIS LANE/ULTRA WOMAN
+
+JIMMY OLSEN
+
+PERRY WHITE
+
+MARTHA KENT
+
+JONATHAN KENT
+___________________________________________________________________
+
+LUCILLE NEWTRICH
+
+NELL NEWTRICH
+
+SCIENTIST
+
+DRIVER
+
+HUSBAND
+
+THUG
+
+GIRL
+
+                           ---page break---*
+                             _LOIS & CLARK_
+
+                             "_Ultra Woman_"
+
+                            Pink Rev. 9/12/95
+
+                               _LOCATIONS_
+
+_INTERIORS_:                              _EXTERIORS_:
+
+Daily Planet                              Daily Planet
+  Newsroom                                   Street
+  *                                          Alley
+
+Newtrich Garage                           S.T.A.R. Labs
+                                          Testing Range
+Clark's Apartment
+                                          Metropolis Park
+
+                                          Wishing Well
+
+                                          Old Gate
+
+                                          Open Field - Road
+
+                                          Newtrich Garage
+
+                           ---page break---
+                             _LOIS & CLARK_
+
+                             "_Ultra Woman_"
+
+                              _CHRONOLOGY_
+
+
+
+
+                   SC.   1 - 37    DAY 1
+
+                   SC.  38 - 40    DAY 2
+
+                   SC.  41 - 57    NIGHT 2
+
+                   SC.  58 - 74    DAY 3
+
+                   SC.  75 - 76    NIGHT 3
+
+                           ---page break---
+                             _LOIS & CLARK_
+
+                      _The New Adventures of Superman_
+
+                              "Ultra Woman"
+
+                                 _TEASE_
+
+
+      FADE IN:
+
+   1  EXT. METROPOLIS PARK - IN TREES NEAR WISHING WELL - DAY #1  1   
+
+      A familiar, gleaming red chunk of rock is held up to the sun 
+      by LUCILLE NEWTRICH, a sassy, sexy woman of presence and
+      determination.
+
+                                      LUCILLE
+                     Ready?
+
+      NELL NEWTRICH, her serious and brainy little sis, checks a 
+      futuristic looking video camera, almost gun-like in 
+      appearance.  It is a laser.
+
+                                      NELL
+                     Ready.
+
+      Lucille gives Nell the rock.  Nell, hands shaking nervously,
+      drops it.  Lucille glares.
+
+                                      NELL (CONT'D)
+                     Sorry.
+
+      Nell opens the breach of the laser and fumbles the Kryptonite
+      into it.
+
+                                      LUCILLE
+                     I thought you said I could count on
+                     you.
+
+                                      NELL
+                     You can.
+
+      Nell snaps the breach shut -- on her thumb -- which causes 
+      her to drop the laser, but Lucille, expecting this, grabs 
+      the laser before it hits the ground.  Then grabs Nell by the
+      collar.
+
+                                      LUCILLE
+                     Tell me this is going to work.
+
+                                      NELL
+                     It's going to work.
+
+                                      LUCILLE
+                     Tell me why.
+
+                                      (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95       2.    
+
+
+   1  CONTINUED:                                                  1   
+
+                                      NELL
+                     We're Newtriches.
+
+                                      LUCILLE
+                     Which means... ?
+
+                                      NELL
+                           (by rote)
+                     ... we live by our own code, go our
+                     own way and don't take any crap
+                     from anybody.
+
+                                      LUCILLE
+                     And ... ?
+
+                                      NELL
+                     We have a Red Kryptonite laser.
+
+                                      LUCILLE
+                     Which will ... ?
+
+                                      NELL
+                     Make Superman permanently
+                     apathetic.
+
+                                      LUCILLE
+                     So we ... ?
+
+                                      NELL
+                     ... can be rich beyond our wildest
+                     dreams, spend money like wild
+                     baboons and get back at every creep
+                     who was mean to us in high school.
+
+                                      LUCILLE
+                     Mean to _you_, I...
+
+                                      NELL
+                     ... was very popular and 
+                     well-liked.  Sorry, I always mess 
+                     up that part.
+
+
+   2  INT. DAILY PLANET - DAY                                     2   
+
+      It is literally minutes after the final scene of Episode 6.
+      CLARK is still at his desk, contemplating the ring.  He 
+      snaps the case shut, determined, and steals a glance at 
+      LOIS, just heading back to her desk, away from the 
+      celebratory hoopla.  He moves to her.
+
+                                      CLARK
+                     How about dinner tonight?
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95      3.    
+
+
+   2  CONTINUED:                                                  2   
+
+                                      LOIS
+                     Sure.  As long as it's not Chinese.  
+                     We're kind of in a rut lately, and 
+                     I've had my life's quota of soy 
+                     sauce.
+
+                                      CLARK
+                     Well, I wouldn't take you all the
+                     way to Paris for egg rolls.
+
+                                      LOIS
+                     ... Paris?
+
+      PERRY crosses as JIMMY races in.
+
+                                      JIMMY
+                     Chief, there's a kid trapped in the
+                     wishing well at Metropolis Park!
+
+                                      PERRY
+                     Lois, Clark --
+
+                                      LOIS
+                     On it.
+
+      As she packs her purse, Lois sees Clark go to his desk and 
+      slip the ring box back in.  She pretends not to notice.
+
+                                      JIMMY
+                           (to Perry)
+                     Your wife called.
+
+                                      PERRY
+                     Call her back for me, willya?  Tell 
+                     her it's lookin' like another late 
+                     one.
+
+      Clark, looking back over his shoulder to make sure Perry's 
+      not watching --
+
+                                      CLARK
+                           (to Lois, loosening his
+                            tie)
+                     See you there.
+
+
+   3  EXT. METROPOLIS PARK - WISHING WELL - DAY                   3   
+
+      Lois makes her way through the crowd, passing FIREMEN and    (X)
+      COPS and, among the cluster of T.V. REPORTERS are Lucille    (X)
+      and Nell -- Lucille appearing to be a coiffed correspondent  (X)
+      with a mike, Nell the grungy camera-tech, holding the laser  (X)
+      like a camcorder.  They see Lois and nod to each other.      (X)
+
+                                                        (CONTINUED)
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95      4.    
+
+
+   3  CONTINUED:                                                  3   
+
+      Lois sees Superman standing with the CRYING BABY he's just   (X)
+      rescued from the well.                                       (X)
+
+                                      LOIS
+                     Superman, is he all right?
+
+                                      SUPERMAN
+                     Fine...
+
+      He shows Lois that the baby is a DOLL -- and the cry is a
+      tape recorder in its chest.
+
+                                      SUPERMAN (CONT'D)
+                     ... but his batteries are a little
+                     run down.
+
+                                      LOIS
+                     Oh, that is the sickest, most
+                     disgusting --
+
+
+   4  ON NELL AND LUCILLE                                         4   
+
+      as Nell trains the laser on Superman.
+
+                                      LUCILLE
+                     Fire.
+
+   5  ON SUPERMAN                                                 5   
+
+      as he sees a RED FLASH from somewhere in the crowd,
+      instinctively grabs Lois and pulls her into a protective
+      hug.  The RED BEAM hits Superman's back in a BLINDING BURST.
+      A CRACKLING GLOW engulfs Lois and Superman.
+
+
+   6  BACK TO LUCILLE AND NELL                                    6   
+
+      The laser shorts out with a WHITE HOT SIZZLE.  Nell SHRIEKS
+      and drops it as --
+
+
+   7  SUPERMAN                                                    7   
+
+      whirls, scanning the crowd -- barely glimpses Nell and
+      Lucille disappear into the trees -- then to his horror, sees
+      Lois start to faint.  He catches her.
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95      5.    
+
+
+   8  NELL AND LUCILLE                                            8   
+
+      scurry through an old iron gate in the trees
+
+                                      LUCILLE
+                     Idiot, moron, cretin --
+
+                                      NELL
+                     I burned my hand --
+
+                                      LUCILLE
+                           hypochondriac --
+
+
+   9  BACK TO LOIS AND SUPERMAN                                   9   
+
+      as Lois starts to come to in his arms.
+
+                                      SUPERMAN
+                     Are you all right?
+
+                                      LOIS
+                     Just a little dizzy.  What was
+                     that?
+
+                                      SUPERMAN
+                     Somebody shot us with a red beam.
+
+                                      LOIS
+                     Well, go get 'em.
+
+      He turns and makes a skyward leap.  Only he doesn't take
+      off.  A FEW in the crowd note this.
+
+                                      LOIS (CONT'D)
+                     What is it?
+
+                                      SUPERMAN
+                     Um, I think I saw them go this way.
+
+      He gestures for Lois to follow him into the stand of trees.  (X)
+
+
+  10  IN THE STAND OF TREES                                      10   
+
+      Superman is on the other side of the old rusted gate Nell    (X)
+      and Lucille went through; Lois is catching up as he scans    (X)
+      the woods, looking for them.                                 (X)
+
+                                      LOIS
+                     What is it?
+
+                                      SUPERMAN
+                     I can't fly.
+
+                                      LOIS
+                     What?
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95       6.    
+
+
+  10  CONTINUED:                                                 10   
+
+                                      SUPERMAN 
+                     And no x-ray vision, no 
+                     super-hearing...
+
+                                      LOIS
+                     Clark...
+
+                                      SUPERMAN
+                     How do _you_ feel?
+
+                                      LOIS
+                     Fine.
+
+      She pulls the wrought iron door open -- and TEARS IT off its
+      hinges.  Then stands holding it as if it were balsa.
+
+                                      SUPERMAN
+                           (sighs)
+                     Oh, boy.
+
+                                                        FADE OUT:
+
+                            _END OF TEASE_
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95      7.    
+
+                              _ACT ONE_
+
+      FADE IN:
+
+  11  EXT. METROPOLIS PARK - TREES/GATE - DAY - CONTINUOUS       11   
+
+      A stunned Lois and Superman, as she studies the gate in her
+      hand.
+
+                                      SUPERMAN
+                     Do you feel... different?
+
+                                      LOIS
+                     Uhhhh...
+
+      She studies the light-as-air gate in her grip.               (X)
+
+                                      LOIS (CONT'D)
+                     ... yeah.  Yeah, I'd say I feel
+                     different.
+
+                                      SUPERMAN
+                     Let's stay calm.
+
+                                      LOIS
+                     Okay.
+
+      She tosses the gate away.  It FLIES OUT OF FRAME and lands
+      seconds later with a giant O.S. CLANG.
+
+                                      LOIS (CONT'D)
+                     Oh, God, what's happening?
+
+                                      SUPERMAN
+                     I think we know what's happening.
+                     The question is how?  Let's go back
+                     out there --
+                           (gestures to well)
+                     -- and see if we can find some
+                     clues.
+
+                                      LOIS
+                     Right.  Clues.  Good.  Clues I can
+                     handle.
+
+
+  12  INT. NEWTRICH GARAGE - DAY                                 12   
+
+      Nell's workshop.  Lots of electronic gadgets and gizmos.
+      Nell's hand is in a bandage.  She tinkers with what appears  (X)
+      to be a TV remote control.                                   (X)
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95      8.    
+
+
+  12  CONTINUED:                                                 12   
+
+                                      LUCILLE
+                     'I can handle it,' you said, 'I 
+                     won't screw up,' you said, 'This 
+                     time it's going to be different,' 
+                     you said.
+
+      She moves to a blackboard. on it, a map of a Metropolis 
+      street corner has been sketched, along with arrows, cars, 
+      stick figures and time codes.
+
+                                      LUCILLE (CONT'D)
+                     It's me.  _I'm_ the idiot.  The 
+                     idiot who told you my plan, 
+                     believed you when you said you'd 
+                     make it foolproof, then went ahead 
+                     and invested every last cent in a 
+                     heist that's never going to happen!
+
+      She swipes the board with an eraser, taking out most of the
+      plan.
+
+                                      NELL
+                     Are you through?
+
+                                      LUCILLE
+                     We both are.
+
+                                      NELL
+                     The beam hit him.  I think it
+                     worked.
+
+                                      LUCILLE
+                     Really.
+
+                                      NELL
+                     He didn't come after us, did he?
+
+                                      LUCILLE
+                     Nell, just be grateful that I'm too
+                     depressed to beat you to death.
+
+                                      NELL
+                     In forty-eight hours, we either 
+                     have to move on that two hundred 
+                     million dollar shipment --
+                           (points to the
+                            blackboard) 
+                     -- or bail.  I'd say with that kind 
+                     of payoff, it's a worth a little 
+                     test.
+
+                                      LUCILLE
+                     What kind of test?
+
+      Nell just smiles and hits a button on the remote.  At the    (X)
+      other end of the workbench, a lighter FLICKS ON.             (X)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95       9.    
+
+
+  13  EXT. OPEN FIELD - DAY                                      13   
+
+      Clark studies a SMOKING, INCINERATED LOG.
+
+                                      CLARK
+                     Okay, A-plus on the heat vision.
+
+                                      LOIS
+                     I was aiming for the bottles.
+
+      They lie on the ground, intact.
+
+                                      CLARK
+                     Well, you did a good job on the
+                     boulders.
+
+      He indicates some SHATTERED ROCKS.
+
+                                      LOIS
+                     I was just trying to lift them.
+                     Clark, I don't like this.
+                           (looks at her hands)
+                     All of a sudden I'm scared of my
+                     own... my...
+
+                                      CLARK
+                           (moving to her)
+                     I know, I know, it's okay.
+
+                                      LOIS
+                     When do you think S.T.A.R. Labs'll 
+                     be able to tell us about that 
+                     laser?
+
+                                      CLARK
+                     Well, it was pretty burned up...
+
+                                      LOIS
+                     But it doesn't make any sense, Red 
+                     Kryptonite isn't supposed to do 
+                     this... it made you act a little 
+                     weird last time, but not this...
+
+                                      CLARK
+                     Lois, I'm sure they'll figure it 
+                     out, just like I'm sure we'll track 
+                     down whoever did this.
+
+                                      LOIS
+                     Well, why are you so calm?  Don't 
+                     you feel... I mean, aren't you 
+                     upset...?
+
+                                      CLARK
+                     I'm fine.
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95     10.    
+
+
+  13  CONTINUED:                                                 13   
+
+                                      LOIS
+                     Oh, don't even _try_ to pull that.
+
+                                      CLARK
+                     Okay.  I'm upset.  But I also 
+                     _know_ we're going to figure this 
+                     out.  In the mean time, you've got 
+                     powers that need to be 
+                     controlled... or you're going to do 
+                     some damage without meaning to.
+
+      Suddenly her head snaps around and she peers in the 
+      direction of a nearby road.
+
+                                      CLARK
+                           What?
+
+                                      LOIS
+                           That truck...
+
+                                      CLARK
+                           What truck?
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95     11.    
+
+  14                                                             14   
+THRU  OMITTED                                                  THRU   
+  15                                                             15   
+
+
+  19  ON THE ROAD - A TRUCK                                      19   
+
+      careens into view, out of control.
+
+
+  20  BACK TO SCENE                                              20   
+
+                                      LOIS
+                     The brakes
+
+      Clark instinctively rips his shirt open, exposing the "S"
+      and takes a few preliminary steps, then suddenly remembers.
+      Lois becomes a SUPER-BLUR and WHOOSHES past him.
+
+
+  21  ON THE ROAD - THE TRUCK speeds for a deadly curve.         21   
+
+
+  22  LOIS                                                       22   
+
+      BLURS into its path.  The grill hits her hand.  The truck 
+      PLOWS into her.  Her shoes SMOKE as they're dragged 
+      backwards along the road, grinding her heels off.  Then, as 
+      the truck stops, The DRIVER gets out, amazed and confused.
+
+                                      DRIVER
+                     Lady, did you just do what I think
+                     you did?
+
+                                      LOIS
+                     Ummmmm...
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      12.    
+
+
+  22  CONTINUED:                                                 22   
+
+                                      DRIVER
+                     What's your name?  I gotta call the
+                     papers, this is amazing...
+
+                                      LOIS
+                     No, please...
+
+      Superman comes running up behind the truck, then slows to a
+      walk.
+
+                                      SUPERMAN
+                     Everyone okay?
+
+                                      DRIVER
+                           (now he gets it)
+                     Oh, Superman.  Thanks.  Geez for a 
+                     minute there I thought this lady 
+                     here --
+
+      Lois laughs at the ludicrousness of this.  Superman joins 
+      her.
+
+
+  23  MINUTES LATER - LOIS AND SUPERMAN                          23   
+
+      are walking back across the field to her jeep.  Lois is
+      carrying her heel-less shoes.
+
+                                      LOIS
+                     These shoes were eighty-five 
+                     dollars.  Does the superheroes 
+                     union cover expenses?
+
+                                      SUPERMAN
+                     No, but it does bring up an 
+                     interesting issue.
+
+                                      LOIS
+                     Which is?
+
+                                      SUPERMAN
+                     You're just not the kind of person 
+                     who can sit and watch someone in 
+                     trouble if you can help...
+
+                                      LOIS
+                     Oh, I've got a bad feeling about
+                     where this is going.
+
+                                      SUPERMAN
+                     ... but you don't want the world 
+                     knowing it's Lois Lane stopping 
+                     trucks, so...
+
+                                      LOIS
+                     Does this mean I have to start
+                     wearing glasses?
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95     13.    
+
+
+  24  INT. CLARK'S APARTMENT - DAY                               24   
+
+                                      MARTHA
+                     No, of course not, dear.
+
+      MARTHA rummages through a steamer trunk of bright 
+      super-heroish fabrics.
+
+                                      MARTHA (CONT'D)
+                     I think we'll try a mask.
+
+      Lois looks at JONATHAN, who crosses from the kitchen.
+
+                                      LOIS
+                     A mask?
+
+                                      JONATHAN
+                     I think a mask'd be very sharp.
+
+      Jonathan hands her a cup of tea.
+
+                                      MARTHA
+                     You want a cape?
+
+                                      LOIS
+                     Guys, can we slow down?  Because I
+                     don't think I can do this...
+
+                                      MARTHA
+                     So no cape?                                   (X)
+
+                                      LOIS
+                     No, I mean any of it.  This --                (X)
+                           (grabs material from
+                            trunk)
+                     -- isn't me, it's Clark.
+                           (sighs)
+                     He's putting on this brave face 
+                     when I know it's just eating him 
+                     alive... and if he sees me all red 
+                     and blue, what's that going to do 
+                     to him?
+
+                                      JONATHAN
+                     Lois, Clark is strong.  And I'm not 
+                     talking about what he can bench 
+                     press.  He's strong where it counts 
+                     -- and _when_ it counts.
+
+                                      MARTHA
+                     He'll get through this.  You both
+                     will.  Now.  Let's talk boots.
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      14.    
+
+
+  25  EXT. S.T.A.R. LABS - TESTING RANGE - DAY                   25   
+
+      An outdoor area for exploding, shooting and generally 
+      testing cool stuff.  Superman with a SCIENTIST, who holds 
+      the burned-out laser.
+
+                                      SCIENTIST
+                     I thought I had it working but it
+                     just burned up again.
+
+                                      SUPERMAN
+                     Do you know how it works?
+
+                                      SCIENTIST
+                     Like any other laser, except all 
+                     its power seems to refract through
+                     that chunk of Red Kryptonite in the 
+                     casing.  What happened when the 
+                     beam hit you?
+
+                                      SUPERMAN
+                           (covering)
+                     I felt a little dizzy and uhhh...
+
+                                      SCIENTIST
+                     No lingering reactions?
+
+                                      SUPERMAN
+                     Well, between you and me, I'm not 
+                     quite myself.  I'd like to get this 
+                     working again... fast.
+
+                                      SCIENTIST
+                     I'll do my best.
+
+  26  INT. CLARK'S APARTMENT - DAY                               26   
+
+      Costumed Lois IN SILHOUETTE behind changing screen.
+
+                                      MARTHA
+                     How's it going?
+
+                                      LOIS (O.S.)
+                     Feels tight.
+
+                                      MARTHA
+                     I know.  That cuts down your wind 
+                     resistance.  Took me three tries to 
+                     get Clark's right.
+
+      Lois steps our from behind the screen but WE DON'T SEE HER.
+      The Kents do.
+
+                                      LOIS (O.S.)
+                     So what do you think?
+
+      On Jonathan and Martha's reaction --
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95     15.    
+
+
+  27  INT. DAILY PLANET - DAY                                    27   
+
+      Perry comes in, peels off sport coat.                        (X)
+
+                                      PERRY
+                     Jimmy, any word on those nutballs
+                     who stuck Betsy Wetsy in the well?
+
+                                      JIMMY
+                     Not yet but --
+
+      An envelope falls out of Perry's coat.  Jimmy picks it up.
+
+                                      PERRY
+                     Hm.  From Alice.  Wonder how long
+                     that's been there?
+
+                                      JIMMY
+                     Well you've been wearing that coat
+                     three years...
+
+      Perry opens the letter.  Reads.  His face goes slack as
+      Clark walks up with some copy.
+
+                                      PERRY
+                     Oh, no...
+
+                                      JIMMY
+                     What?
+
+                                      PERRY
+                     She left me.
+
+                                      CLARK
+                     Alice?                                        (X)
+
+                                      PERRY
+                     No, no, wait.  'Call me by five and
+                     we'll talk...
+                           (looks at clock it's
+                            five-thirty)
+                     '... otherwise, don't bother.
+                     Ever.'
+
+                                      CLARK
+                     Chief, I'm really sorry.
+
+                                      JIMMY
+                     Me too.  This blows.
+                           (off Clark's look)
+                     In that it's... sad.
+
+      A PHONE RINGS.  Jimmy gets it.  Clark moves to Perry.
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95     16.    
+
+
+  27  CONTINUED:                                                 27   
+
+                                      PERRY
+                     Things've been a little rocky
+                     lately between us but I didn't
+                     think they were this bad.  I gotta            (X)
+                     track her down...                             (X)
+
+                                      JIMMY
+                           (cups phone)
+                     Chief, anonymous phone call.  The
+                     Planet gets torched in two
+                     minutes -- unless Superman shows.
+
+                                      PERRY
+                     Lord, raining _and_ pouring.  Hit
+                     the alarm, son.  Let's clear out!
+
+      Clark heads for the elevator.  FIRE ALARM SOUNDS.  Major
+      commotion ensues.
+
+
+  28  OMITTED                                                    28   
+
+
+  29  EXT. DAILY PLANET - DAY                                    29   
+
+      Jimmy and Perry hustle the last few STRAGGLERS out, past a   (X)
+      stack of water cooler bottles apparently left at the door    (X)
+      in the panic.  A canvas tarp partially covers them.  Jimmy   (X)
+      and Perry move the Stragglers across the street, where they  (X)
+      join the STAFF, waiting anxiously.                           (X)
+
+
+  30  ACROSS THE STREET - LUCILLE AND NELL                       30   
+
+      watch, anxious..
+
+                                      NELL
+                     Two and a half minutes and
+                     counting.
+
+                                      LUCILLE
+                     Get the smug out of your voice.
+
+                                      NELL
+                     Why?
+
+                                      LUCILLE
+                     He's here.
+
+
+  31  SUPERMAN                                                   31   
+
+      walks out of the now-deserted Planet, surveys the scene and  (X)
+      inspects the sidewalk around the water bottles.              (X)
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      17.    
+
+
+  31  CONTINUED:                                                 31   
+
+      He sees a wet trail leading from the bottles into the
+      street.  He touches it and sniffs.
+
+                                      SUPERMAN
+                     Kerosene...
+
+
+  32  NELL AND LUCILLE                                           32   
+
+      watch him carefully.
+
+                                      LUCILLE
+                     He doesn't look very apathetic to
+                     me.
+
+                                      NELL
+                     Only one way to find out.
+
+      Nell hits a button on a remote control device.
+
+
+  33  EXT. NEARBY ALLEY - DAY                                    33   
+
+      The trail of kerosene begins in here, where a
+      radio-controlled lighter is flicked on and IGNITES the LINE
+      of gas.  It rushes out --
+
+  34  EXT. PLANET - DAY                                          34   
+
+      -- toward Superman. He stands right in its path, about to
+      be engulfed.
+
+                                                        FADE OUT:
+
+                             _END OF ACT ONE_
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95     18.    
+
+                               _ACT TWO_
+
+      FADE IN:
+
+  35  EXT. DAILY PLANET - DAY - CONTINUOUS                       35(X)
+
+      The FLAME races toward Superman.  Thinking fast, he whips
+      the tarp off the top of the stack of water bottles, drops to
+      his knees with it, and uses it to wipe the kerosene.  Then, 
+      just as the FLAMES reach the tarp, he rolls out of the way.
+
+      The tarp is CONSUMED.  The line of FLAME is slowed but not
+      stopped.  Superman looks inside the Planet lobby and sees a 
+      fire extinguisher on the wall.  As he starts for it --
+
+      A BLAST OF SUPER-BREATH from above blows the FLAMING TARP 
+      out.
+
+      Superman looks up as the Crowd 'ooooohs' at the sight of --
+
+      Lois, resplendent in tights, cape and mask, hovering to 
+      Earth, blowing out the last of the fire.
+
+
+  36  LUCILLE AND NELL                                           36   
+
+      are agape.
+
+                                      LUCILLE
+                     Oh, my God, now there's two of
+                     them...
+                           (glaring)
+                     ... and funny, neither one seems
+                     all that apathetic.
+
+                                      NELL
+                     I say bolt.
+
+      They do.
+
+
+  37  BACK TO LOIS AND SUPERMAN                                  37   
+
+      He pries the top off one of the water jugs.
+
+                                      SUPERMAN
+                     Thanks.  Great costume.
+
+                                      LOIS
+                     It sure is tight.
+
+                                      SUPERMAN
+                           (nods as he dips a
+                            finger into jug)
+                     Mom says it cuts down on...
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.              9/12/95       19.    
+
+
+  37  CONTINUED:                                                 37   
+
+                                      LOIS
+                     ... wind resistance, I know.
+                           (re: jug)
+                     is it -- ?
+
+                                      SUPERMAN
+                     Water.
+
+                                      LOIS
+                     Another practical joke.
+
+      The crowd tentatively approaches.  Among them, Perry and 
+      Jimmy.  She draws close to Clark, whispering.
+
+                                      LOIS (CONT'D)
+                     Perry, Jimmy -- they'll --
+
+                                      SUPERMAN
+                     No, they won't.
+
+                                      LOIS
+                     Clark, how blind do you think
+                     people are -- ?
+
+                                      PERRY
+                     Miss, you saved the Planet!  I'm
+                     Perry White.  And you are ... ?
+
+      Lois hesitates.
+
+                                      SUPERMAN
+                     This is uh...
+
+      A bus bench ad catches his eye:  ULTRA VITAMINS.
+
+                                      SUPERMAN
+                     Ultra... Gir... Woman.
+
+      Lois looks at Superman.  "Ultra Woman?" Then Jimmy snaps 
+      her picture and grins at her.  The crowd begins to press in,
+      everyone asking questions or giving thanks.  More FLASHBULBS 
+      POP and --
+
+                                                        CUT TO:
+
+
+  38  INT. NEWTRICH GARAGE - DAY #2                              38   
+
+      The Daily Planet headline screams "Ultra Woman Saves
+      Planet."  Nell and Lucille both study it quietly.  Then --   (X)
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95     20.    
+
+
+  38  CONTINUED:                                                 38   
+
+                                      LUCILLE
+                     Why -- when there's 200 million 
+                     only 24 hours away -- does this 
+                     happen?  Why -- then I take 
+                     Superman out of the picture -- does 
+                     _she_ show up?  Why -- when I am 
+                     speaking -- are you not listening 
+                     in _rapt_ attention?
+
+      Lucille starts to crumple the paper but Nell pulls it away.
+
+                                      NELL
+                     I have a theory.
+
+                                      LUCILLE
+                     Oh. Joy.
+
+      Nell takes yesterday's late edition of the paper.  On the 
+      front page, a shot of Lois and Superman in the burst of 
+      laser light and the headline "Faster Than Speeding Light.',  (X)
+      She lays it alongside today's shot of "Ultra Woman Saves
+      Planet."
+
+                                      NELL
+                     Let's say that MY Kryptonite laser 
+                     worked... but not in the way we 
+                     expected.  Let's say it created an 
+                     unforeseen energy field... that 
+                     passed through Superman, into this 
+                     reporter and made her...
+                     ultra-unique.
+
+      She taps the picture of Ultra Woman.  Lucille looks at Nell.
+
+                                      LUCILLE
+                     Tell me you were adopted.  Because 
+                     if we actually share genes, I'll 
+                     jump in front of a bus.
+
+                                      NELL
+                     Lucille.  Superman didn't fly onto 
+                     the scene, he walked.  He didn't 
+                     blow the flame out, he used a tarp.
+                     I'm telling you, he's got all the 
+                     super-powers of... Batman.  And 
+                     _she_ is proof that those powers 
+                     are transferrable.
+
+                                      LUCILLE
+                     Okay, let's say you're... not 
+                     totally wrong.  We don't have the 
+                     laser anymore.
+
+      Nell produces a _second_ laser from her work bench.  Holds 
+      it up.
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      21.    
+
+
+  38  CONTINUED:  2                                              38   
+
+                                      NELL
+                     Last night, while _you_ were
+                     binging and purging, some of us
+                     were working.
+
+                                      LUCILLE
+                     And our Red Kryptonite ... ?
+
+                                      NELL
+                           (flips open breech)
+                     Down to our last chunk.  So it'd 
+                     better work.  Which means you'd 
+                     better practice.
+
+      She hands the laser over to Lucille.
+
+                                      LUCILLE
+                     Sorry?
+
+                                      NELL
+                     I'm going to take Ultra Woman's
+                     powers.
+
+                                      LUCILLE
+                     Nell, in every partnership, there's 
+                     a kind of symbiosis.  Ours is 
+                     inspiration --
+                           (points to self)
+                     -- and execution.
+                           (points to Nell)
+                     My dreams become our reality 
+                     because of _you_.  That's your 
+                     gift... it always has been.
+
+                                      NELL
+                     Lucille...
+
+                                      LUCILLE
+                           (handing laser back)
+                     Ultra Lucille, angel.  Practice it,
+                     it just rolls off the tongue... 
+                     Ultra Lucille.
+
+
+  39  INT. DAILY PLANET - DAY                                    39   
+
+      Lois gets off elevator, finds.huge array of floral 
+      arrangements Jimmy carries in another one shaped like a
+      horseshoe.
+
+                                      LOIS
+                     What are these?
+
+                                      JIMMY
+                     They're for Ultra Woman.
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95     22.    
+
+
+  39  CONTINUED:                                                 39   
+
+                                      LOIS
+                           (reads bouquet cards)
+                     Really?  'The Governor,' 'Deion
+                     Sanders,' 'Fabio' ... 'Brad Pitt,'
+                     'Jimmy Ol -- ?'
+                           (looks at him)
+                     Jimmy? (looks at him)
+
+                                      JIMMY
+                     I know it's not the biggest bouquet
+                     but... you think she'll like it?
+
+                                      LOIS
+                     I, uhhh...
+
+                                      JIMMY
+                     I can't get her out of my mind,               (X)
+                     Lois.  I know it's crazy but the 
+                     way she looked in those tights and 
+                     those boots... You think they're 
+                     leather?
+
+                                      LOIS
+                     I think you should apply ice.  And 
+                     take my advice -- super-heroes 
+                     don't make the best paramours.
+
+      Clark gets off elevator, looks tired, has some bits of 
+      tissue on his chin.  Carries a bottle of orange juice.
+
+                                      JIMMY
+                     Morning, C.K.  Cut yourself
+                     shaving?
+
+                                      CLARK
+                     Repeatedly.
+
+                                      LOIS
+                     Morning.
+
+                                      CLARK
+                     Morning.
+                           (notes flowers)
+                     For Ultra Woman?
+                           (she nods; he reads a
+                            card)
+                     'Antonio Banderas.'  I never liked
+                     that guy...
+
+                                      LOIS
+                     Me neither.
+
+      But she holds onto Antonio's card to give it a second 
+      glance.  She and Clark walk to his desk.  He tries to open 
+      juice bottle.  Can't.
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      23.    
+
+
+  39  CONTINUED:  2                                              39   
+
+                                      CLARK (CONT'D)
+                     Jimmy, did I get that fax from the
+                     State Pen?
+
+                                      JIMMY
+                     Right there on your desk.
+
+      Clark bangs top of juice on edge of desk.
+
+                                      LOIS
+                     Are you onto something?
+
+      Frustrated, he still can't get bottle open.
+
+                                      CLARK
+                     Well, I think the key here is the 
+                     Red Kryptonite.  It was found by 
+                     that geologist, Gene Newtrich, 
+                     remember?
+
+                                      LOIS
+                     I remember we helped send him
+                     away...
+                           (studies fax)
+                     ... and since then, he's only had
+                     two visitors?
+
+                                      CLARK
+                     His sisters.  Lucille and Nell.
+
+      Clark can't get the bottle open.  Sets it down.  Lois takes 
+      it. Pops it open easily.  He tries to be a sport.
+
+                                      CLARK (CONT'D)
+                     Don't say I loosened it for you.
+
+                                      LOIS
+                           (scratches leg)
+                     Did I mention how much I hate 
+                     wearing this costume under my 
+                     clothes?  It feels like long 
+                     underwear.
+
+                                      CLARK
+                     It feels good after a while.  Snug.
+                     You miss it when --
+
+                                      LOIS
+                           (eyeing him)
+                     You don't like just wearing your
+                     boxers?
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95     24.    
+
+
+  39  CONTINUED:  3                                              39   
+
+                                      CLARK
+                           (looking down at his
+                            pants)
+                     Lois... did you x-ray my -- ?
+
+                                      LOIS
+                     I'm kidding.  Jeez.
+
+      She smiles at him.  He turns to his desk.  She looks at his
+      butt and we see a burst of PINK X-RAY BEAMS aimed in that    (X)
+      direction -- cut short by Perry, who charges in, not in the
+      greatest of moods.
+
+                                      PERRY
+                     Lois, Clark!  You get me that
+                     exclusive on Ultra Woman yet?
+
+                                      LOIS
+                     Not just yet, Chief.
+
+                                      CLARK
+                     But we're working on it.
+
+                                      LOIS
+                     Should be any day now.
+
+                                      PERRY
+                     Any day's not good enough!  Any 
+                     hour's not good enough!  Be 
+                     thinking any minute, people, any 
+                     minute!
+
+      He storms into his office.
+
+                                      LOIS
+                     What's up with Perry?
+
+                                      CLARK
+                     It's Alice.  She left him.
+
+                                      LOIS
+                     When?
+
+                                      CLARK
+                     Yesterday.
+
+                                      LOIS
+                     Is this another super-hero thing to 
+                     get used to?  Missing huge events 
+                     in your personal life, not being 
+                     able to be there for friends?
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      25.    
+
+
+  39  CONTINUED:  4                                              39   
+
+                                      CLARK
+                     That's one of the tougher ones,
+                     yeah.
+                           (re: fax)
+                     C,'mon...
+
+      Lois and Clark move to his desk with the fax and he logs 
+      onto his computer.
+
+                                      CLARK (CONT'D)
+                     ... let's run a check on these 
+                     Newtrich girls.
+
+                                      LOIS
+                     I think the bleeding's stopped.
+
+      She gently picks the tissue off his chin.
+
+                                      CLARK
+                     Thanks.
+
+      She touches his face tenderly, leans down to kiss him, then 
+      the screen catches her eye.
+
+                                      LOIS
+                     Here we go.  'Lucille Newtrich... 
+                     employed by First National Bank of 
+                     Metropolis... fired... Moved, no 
+                     forwarding.'
+
+                                      CLARK
+                     'Nell Newtrich... employed by
+                     Unitech... in laser research.'
+
+                                      LOIS
+                     Well, this is getting good.
+
+                                      CLARK
+                     Resigned her job two days after her 
+                     sister was fired.  Again, no 
+                     forwarding.
+
+                                      LOIS
+                     Well, that never stopped us before,
+                     let's pound some pavement and --
+
+      She stops suddenly.  SUPER HEARS SCREECHING TIRES.
+
+                                      LOIS (CONT'D)
+                     Uh-oh.
+
+                                      CLARK
+                     Go.
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95     26.    
+
+
+  39  CONTINUED:  5                                              39   
+
+                                      LOIS
+                     But
+
+                                      CLARK
+                     I'll find these two and we'll catch
+                     up later, now go!
+
+      She starts off, unbuttoning top blouse button.  Then she 
+      turns back.
+
+                                      LOIS
+                     Something I've got to finish
+                     first..
+
+                                      CLARK
+                     What?
+
+      She kisses him passionately.  He rocks back in his seat.
+
+
+  40  EXT. METROPOLIS STREET - DAY                               40   
+
+      A post-accident scene.  Banged up cars at an intersection.
+      The door ripped off one of them and lying in the street.
+      Ultra Woman tenderly setting an injured WOMAN on a medic's   (X)
+      stretcher.  The CROWD CHEERS.  The HUSBAND looks on, sour.   (X)
+
+                                      HUSBAND
+                     Excuse me but did you have to tear
+                     the whole door off?  Who's your
+                     insurance company?
+
+                                      ULTRA WOMAN
+                     Insurance company?
+
+                                      HUSBAND
+                     It's not coming out of my pocket,
+                     lady.
+
+                                      ULTRA WOMAN
+                     Look, I know you're upset --
+
+                                      HUSBAND
+                     You tore up my car!
+
+                                      ULTRA WOMAN
+                     Because your wife was choking.  And
+                     by the way, she's fine. I'm sure
+                     she appreciates your concern.
+
+      Another CHEER from the Crowd and the Husband turns away,
+      chagrined.  PEOPLE take her picture.  She's handed papers to
+      autograph.  She tries to take it all in stride.  Then a GIRL
+      runs up.
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95     27.    
+
+
+  40  CONTINUED:                                                 40   
+
+                                      GIRL
+                     Ultra Woman, on LNN, there's an oil
+                     fire in Texas...!
+
+                                      ULTRA WOMAN
+                     Texas...?
+
+      Ultra Woman turns to fly off, then hears A CRY FOR HELP 
+      nearby.  She turns and starts to fly off the other way.  
+      Then she hears A SECOND CRY and turns in that direction.  
+      Then she hears an ALARM go off.
+
+                                      GIRL
+                     Hurry!  They say a whole town could
+                     burn!
+
+      She stands, not knowing which way to go first, the SOUNDS of
+      mayhem pounding her.  Finally, she takes a deep, calming
+      breath and CAPES OUT.                                        (X)
+
+
+  41  INT. CLARK'S APARTMENT - NIGHT #2                          41   
+
+      Clark is on the phone.  His parents watch him, concerned.
+
+                                      CLARK
+                           (looks at watch)
+                     No, believe me, I understand... 
+                     Absolutely, if the hijackers won't 
+                     listen, you've got to take them 
+                     out.  In fact, you know, what I did 
+                     once in a situation like that 
+                     was --
+                           (stops)
+                     Go, go.  Be careful.  Love you.
+
+      He hangs up.
+
+                                      CLARK (CONT'D) 
+                     Lois says she's sorry she missed 
+                     dinner but there's a 747 with a 
+                     bomb on it...
+
+                                      JONATHAN
+                     Oh, well, maybe she'll get back in
+                     time for pie.
+
+                                      CLARK
+                           (shakes head)
+                     I told her she should head home and 
+                     get some rest.  You guys want to 
+                     play Monopoly?
+
+                                      MARTHA
+                     Are you okay, sweetie?
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Blue Rev.                9/8/95      28.    
+
+
+  41  CONTINUED:                                                 41   
+
+                                      CLARK
+                     I'm fine.
+
+                                      MARTHA
+                     Clark.  What on earth makes you
+                     think you can fool me?
+
+                                      CLARK
+                     I am, I'm fine.  I mean, it's not 
+                     like I'm sick or dying.  I'm 
+                     just... just...
+                           (sighs)
+                     I don't know what I am.
+
+                                      JONATHAN
+                     Martha, remember when I had the               (X)
+                     back surgery that laid me up for 
+                     six months, and we almost lost the 
+                     farm?
+                           (to Clark)
+                     Your mother went to work as a 
+                     secretary, and ended up as office 
+                     manager -- with a secretary of her 
+                     own.
+
+                                      MARTHA
+                     Oh, Jonathan, stop.
+                           (to Clark)
+                     It was two secretaries.
+
+                                      JONATHAN
+                     Anyway, your mother saved the day.
+                     And it was hard for me to lie there 
+                     and watch her do everything.  But I 
+                     got over that.  What I didn't get 
+                     over was her twelve hour days, 
+                     working weekends, holidays.  I 
+                     guess I was afraid I was losing
+                     her.
+
+                                      MARTHA
+                     Like some silly job could ever
+                     replace you.
+                           (to Clark)
+                     Either of you.
+                                      CLARK
+                     Maybe I'll go for a walk.  Maybe... 
+                     head over toward Lois'.  Maybe... 
+                     wait for her to get home?
+
+                                      JONATHAN
+                           (beams)
+                     Did we raise a smart boy or what?
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      29.    
+
+
+  42  EXT. METROPOLIS STREET - NIGHT                             42   
+
+      Clark walks.  Then, from a nearby alley, he hears the SOUNDS
+      of a struggle.
+
+
+  43  IN THE ALLEY                                               43   
+
+      TWO THUGS attack a SKINNY KID.  ONE holds him down while the
+      SECOND THUG gets his wallet, opens it and --
+
+                                      THUG
+                     Fourteen bucks? That's it?
+
+      The Thug draws his fist back.  Clark catches it and whips
+      the Thug around.
+
+                                      CLARK
+                     All his, so give it back.
+
+      The kid scrambles to a corner.  The Thug knocks Clark's hand
+      off; he and his partner circle Clark menacingly.
+
+                                      THUG
+                     I got a better idea.  Gimme yours.
+
+                                      CLARK
+                     Come get it.
+
+      They attack.  But even without super-powers, Clark is nimble
+      and fierce.  As he ducks Thug One's roundhouse, he
+      SPIN-KICKS Thug Two into the garbage, then pivots back
+      around... as Thug One whips out a gleaming knife.
+
+                                      THUG
+                     You wanna get crazy? Huh?
+
+      He stabs at Clark and catches his sleeve.  Clark winces in
+      pain and sees blood on his wrist.  The Thug grins and
+      swipes.  Clark dodges.  The Thug circles, then lunges hard.
+      Clark sidesteps, catches his wrist and flips the punk onto
+      his back.  Clark takes the knife away, straightens and --
+
+      Thug Two SMASHES Clark on the back of the head with a pipe.
+      Clark drops, stunned.  Thug Two prepares to beat Clark to a
+      pulp...  From behind, comes the SOUND of a gun being cocked.
+
+                                      LUCILLE (O.S.)
+                     Back off, Junior.
+
+      Thugs One and Two look up to see Lucille with a gun, Nell at
+      her side.  The Thugs don't move.
+
+                                      LUCILLE
+                     NOW.
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      30.    
+
+
+  43  CONTINUED:                                                 43   
+
+      She FIRES, just missing them.  The Thugs run out of alley.
+      Clark lifts his aching head.
+
+                                      CLARK
+                     Thank you...
+
+      He is of course surprised when the gun is trained on him.
+
+                                      LUCILLE
+                     Our pleasure, Mr. Kent.
+
+
+  44  INT.  NEWTRICH GARAGE - NIGHT                              44   
+
+      Nell ties Clark's wrists behind him, securing him to a metal
+      chair.  Lucille keeps the gun on him.
+
+                                      NELL
+                     I wired this steel chair to a 220 
+                     volt line, which will run a double 
+                     electric range, a four ton air 
+                     conditioning unit...
+
+                                      LUCILLE
+                     ... or charbroil a reporter.
+                     Unless you call Ultra Woman.
+
+                                      CLARK
+                     I think she's unlisted.
+
+                                      LUCILLE
+                     I'm thinking more in the 'Help,
+                     help, save me,' area.
+
+                                      CLARK
+                     Why me?  I've never even met her.
+
+                                      LUCILLE
+                     I'm sorry, you don't know Lois
+                     Lane?  Your own partner?
+
+      Clark tries to hide his shock with --
+
+                                      CLARK
+                     I don't know what you're talking
+                     about.
+
+      Nell connects a digital timer to the electric chair then 
+      sets it for 5:00.
+
+                                      LUCILLE
+                     I'll make it simple.  We want you
+                     to get Ultra Woman here...
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Blue Rev.                9/8/95      31.    
+
+
+  44  CONTINUED:                                                 44   
+
+      Clark watches Nell punch timer, then go to the workbench and
+      pick up the second laser.
+
+                                      NELL
+                     ... fast.
+
+                                      LUCILLE
+                     She's got something we want.                  (X)
+
+      They exit.  Clark looks at the timer.  4:50 4:49 4:48 ...
+
+                                      FADE OUT.
+
+                            _END OF ACT TWO_
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      32.    
+
+                              _ACT THREE_
+
+      FADE IN:
+
+  45  INT. NEWTRICH GARAGE - NIGHT - CONTINUOUS                  45   
+
+      The timer reads: 3:58 ... 3:57... 3:56...
+
+      Clark's wrists are bound behind the chair back and his 
+      ankles are tied to the legs.  Pressing his toes down, Clark
+      rocks his chair back quietly and looks out the half-open
+      door.  Outside, he can glimpse Lucille and Nell in the
+      moonlight, pacing, murmuring.  He rocks back a little
+      further and now we see he's trying to free his ankles of
+      their rope-bonds by sliding them down and over the end of
+      the chair legs.
+
+      The timer counts down: 3:40... 3:39... 3:38...
+
+
+  46  EXT. NEWTRICH GARAGE - NIGHT                               46   
+
+      Lucille slips the gun in her waistband and studies the night
+      sky.  Nell, holding the laser, glances back into the garage.
+
+                                      NELL
+                     If he doesn't yell for help we're
+                     not really going to ... ?
+                           (off Lucille's look)
+                     Lucille, come _on_.
+
+                                      LUCILLE
+                     It's up to him.  Which any Buddhist
+                     will assure you slides the whole
+                     thing right out of murder and into
+                     suicide... keeping us karmically
+                     covered.
+
+
+  47  INT. NEWTRICH GARAGE - NIGHT                               47   
+
+      Lucille pops her head in the door.  Sees Clark still in the
+      chair.  The electric wires looped everywhere disguise that
+      one of his ankles is free.
+
+                                      LUCILLE
+                     Anything to share with the group?
+
+                                      CLARK
+                     I'm thinking.
+
+                                      LUCILLE
+                     Good boy.
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Blue Rev.                9/8/95      33.    
+
+
+  48  INT. CLARK'S APARTMENT - NIGHT                             48   
+
+      Martha's on the phone.
+
+                                      MARTHA
+                     No, Lois, he said he was going to
+                     your place... About an hour ago.
+                           (a worried look at
+                            Jonathan)
+                     He's not?
+
+
+  49  OMITTED                                                    49   
+
+
+  50  INT. NEWTRICH GARAGE - NIGHT                               50   
+
+      Clark has both legs free and is now struggling to get his
+      bound wrists up and over the back of the chair.  The timer's
+      at 7... 6... 5...
+
+
+  51  EXT. NEWTRICH GARAGE - NIGHT                               51   
+
+      Nell looks at her watch, horrified.  Lucille looks at her
+      watch, resigned.
+
+
+  52  INT. NEWTRICH GARAGE - NIGHT                               52   
+
+      Desperate, Clark rocks the chair from side to side and it
+      starts to topple over.
+
+
+  53  EXT. NEWTRICH GARAGE - NIGHT                               53   
+
+      Nell and Lucille both whirl at the O.S. SOUND of the chair
+      CRASHING INTO THE FLOOR.  Then a FLASH OF LIGHT and an
+      ELECTRIC SIZZLE through the doorway O.S.  Lucille squints
+      against the LIGHT BURST.  Nell hides her eyes.
+
+
+  54  INT. NEWTRICH GARAGE - NIGHT                               54   
+
+      Lucille comes in.  Nell hovers in the doorway peeks through
+      her fingers.  Sees the empty, smoking chair on its side.
+      Charred ropes.
+
+                                      NELL
+                           (revolted)
+                     Oh, no... it worked better than I
+                     thought.
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      34.    
+
+
+  54  CONTINUED:                                                 54   
+
+                                      LUCILLE
+                     You idiot!
+
+      Lucille steps in further, whips out her gun.  And at that
+      moment, Clark -- hands still bound behind him -- charges out
+      of the corner and runs out the door behind them.
+
+
+  55  EXT. NEWTRICH GARAGE - NIGHT                               55   
+
+      Clark takes off like a running back and tears around a
+      corner.  Lucille runs after him, gets around the corner
+      and... he's gone.  Looks every which way but no Clark.
+
+                                      LUCILLE
+                           (to Nell)
+                     Well.  Another job well done.
+                     Don't you ever get tired of
+                     perfection?
+
+      She and Nell head back to the garage.  PAN DOWN TO REVEAL
+      CLARK in the thick bushes that line the lawn, hiding. As
+      soon as the sisters go back into the garage, he gets up and
+      runs.
+
+
+  56  EXT. BUS STOP - NIGHT                                      56   
+
+      Deserted.  Clark, arms still bound behind him, staggers up,
+      winded, achy.  Collapses.  GROANS.  Closes his eyes.
+
+      We hear a familiar O.S. WHOOSH and suddenly Ultra Woman is
+      beside him.
+
+                                      ULTRA WOMAN
+                     Oh, my God...
+
+      He sits up.
+
+                                      CLARK
+                     Hi.
+
+      She snaps his bonds free. He rubs his wrists.
+
+                                      ULTRA WOMAN
+                     Clark, what happened? Who did
+                     this?
+
+
+  57  INT. NEWTRICH GARAGE - NIGHT                               57   
+
+      An O.S. WHOOSH through the garage door, then Ultra Woman and
+      Clark come in.
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95     35.    
+
+
+  57  CONTINUED:                                                 57   
+
+                                      CLARK
+                     You sure you x-rayed the whole -- ?
+
+                                      ULTRA WOMAN
+                     They're not here.  And they should
+                     thank God because when I get my
+                     hands on them for what they did to
+                     you --
+
+      Furious, SMASHES the work bench.  A small bolt flies off     (X)
+      and CLIPS Clark in the head.  He reels.  She gasps,          (X)
+      startled.
+
+                                      ULTRA WOMAN (CONT'D)
+                     Honey, are you okay?
+
+                                      CLARK
+                     I'm fine.
+
+                                      ULTRA WOMAN
+                     You're bleeding.
+
+                                      CLARK
+                     It's just a nick...
+
+                                      ULTRA WOMAN
+                     Oh, Clark... I'm sorry, I'm so
+                     sorry...
+
+                                      CLARK
+                     Lois, it was an accident, it
+                     happens.
+
+                                      ULTRA WOMAN
+                     Well, it can't happen anymore.  No            (X)
+                     more accidents, no more mistakes.             (X)
+                     Not after tonight...
+
+                                      CLARK
+                     What do you mean?
+                           (beat)                                  (X)
+                     Lois, what is it?                             (X)
+
+                                      ULTRA WOMAN
+                     I was landing that plane in Paris
+                     when I heard about a mudslide in
+                     Brazil... I got there as fast as I
+                     could but...
+                           (tears)
+                     I wasn't fast enough...
+
+                                      CLARK
+                           (taking her in his arms)
+                     Sshhhhh, ssssssshhh...
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Blue Rev.                9/8/95     35A.    
+
+
+  57  CONTINUED:  2                                              57   
+
+                                      LOIS
+                     What'd I do wrong?  How come I                (X)
+                     couldn't get there fast enough,               (X)
+                     how come all those people... all              (X)
+                     those people got... ?                         (X)
+
+                                      CLARK
+                     Lois, listen to me.  No matter how            (X)
+                     strong you are, no matter how                 (X)
+                     fast... sometimes it just isn't               (X)
+                     enough and you have to accept                 (X)
+                     that.
+
+                                      ULTRA WOMAN
+                     But what makes me a good reporter
+                     is I don't accept -- I'm always
+                     questioning, I'm never                        (X)
+                     satisified -- and I'm never                   (X)
+                     _going_ to be satisfied getting               (X)
+                     there five seconds too late.                  (X)
+                           (as he's about to
+                            interrupt)                            (X)-
+                     And I don't care what you say,
+                     you're no good at watching me do
+                     what you were born for!  So can we            (X)
+                     please bag these two lunatics and
+                     put things back to normal... before
+                     we both go nuts?
+
+      He takes her in his arms and kisses her, wipes her tears.
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      36.    
+
+
+  57  CONTINUED:  2                                              57   
+
+                                      CLARK
+                     I overheard them talking about some 
+                     kind of plan to get 200 million by 
+                     tomorrow...
+                           (looks around)
+                     Looks like they cleared out of here 
+                     pretty fast, maybe they left a 
+                     clue.
+
+      Ultra Woman sees the blackboard.  It's mostly been erased.
+      She turns on the X-RAY BEAMS.  Because the chalk lines are
+      broken up, it's still mostly illegible as she scans.
+
+                                      CLARK (CONT'D)
+                     What do you see?
+
+      She zeroes in on the lower corner.  There, a NUMBER wasn't
+      erased entirely.  It was smeared over by a streak of chalk.  
+      So by X-RAYING _beneath_ this streak she can read --
+
+                                      ULTRA WOMAN (CONT'D)
+                     A number. 9117841... something, 
+                     something, something... can't get 
+                     the other three, they're gone.
+
+      She looks at Clark.
+
+                                      CLARK
+                     So how does that add up to two
+                     hundred million dollars?
+
+                                                        CUT TO:
+
+
+  58  INT.  DAILY PLANET - DAY #3                                58   
+
+      Lois works at computer.  Clark sits on her desk.  Jimmy 
+      stands.  All mulling.
+
+                                      LOIS
+                     There's no facility in town with
+                     that much cash.
+
+                                      CLARK
+                     So is the money coming _in_ to 
+                     Metropolis.  But what bank needs 
+                     that much?
+
+                                      LOIS
+                     9117841, then three missing digits.
+
+                                      JIMMY
+                     A phone number?
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      37.    
+
+
+  58  CONTINUED:                                                 58   
+
+                                      CLARK
+                     No, the 911 cancels that out.
+
+                                      LOIS
+                     Too long for a license plate.
+
+                                      CLARK
+                     Too short for a car registration.
+                     Anybody want coffee?
+
+      Lois and Jimmy, absorbed by the screen, raise their hands.
+      Clark moves off.
+
+                                      JIMMY
+                     Hey, Lois?
+
+                                      LOIS
+                     Hm?
+
+                                      JIMMY
+                     You ever get that interview with
+                     Ultra Woman?
+
+      Lois glances back at him, then the screen again.
+
+                                      LOIS
+                     Why?
+
+                                      JIMMY
+                     I just wondered if she... you 
+                     know... mentioned if she was seeing 
+                     anybody?
+
+                                      LOIS
+                     Jimmy --
+
+                                      JIMMY
+                     It's not that I think I'm good 
+                     enough for her -- up against Deion 
+                     Sanders and Brad Pitt -- but I just 
+                     can't stop thinking about her and 
+                     if you could tell her that I... 
+                     well, that I'm really a nice guy.
+
+                                      LOIS
+                     You are.
+
+                                      JIMMY
+                     And that I've been waiting to meet
+                     somebody like her my whole life.
+
+      Perry stalks through the scene, looking rumpled, haggard and
+      pissed off.
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      38.    
+
+
+  58  CONTINUED:  2                                              58   
+
+                                      JIMMY (CONT'D)
+                     Morning, Chief.
+
+                                      LOIS
+                     Morning, Chief.
+
+      He grunts and moves off as Clark walks up with coffee.
+
+                                      CLARK
+                     Is the chief okay?
+
+                                      JIMMY
+                     He's been sleeping in his office.
+                     Doesn't want to go home... face 
+                     that big empty house.
+
+                                      LOIS
+                     Has he talked to anybody?
+
+                                      JIMMY
+                     No but he's made up for it by
+                     yelling at _everybody_.
+
+      A phone rings.  Jimmy gets it as Lois sips her coffee and 
+      Clark looks at the computer.
+
+                                      CLARK
+                     Maybe it's a winning lottery ticket
+                     number.
+
+      Behind them, Jimmy cups the phone in fear.
+
+                                      JIMMY
+                     It's Alice!  What do I do?
+
+                                      LOIS
+                     Tell him.
+
+                                      JIMMY
+                     You.  You're his favorite.
+
+                                      LOIS
+                     Oh, please...
+
+                                      JIMMY
+                     He'll scream at anybody else.  Go
+                     on, tell him.
+
+      Perry's halfway across the newsroom.  Lois gets up and goes 
+      to him.
+
+                                      LOIS
+                     Perry?  It's Alice, on three.
+
+      A pause, then --
+                                                        (CONTINUED)
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      39.    
+
+
+  58  CONTINUED:  3                                              58   
+
+                                      PERRY
+                     I've got nothing to say to that
+                     woman.
+
+                                      LOIS
+                     I know how you must feel.  And it's 
+                     none of my business but... take it 
+                     from somebody who's never been all 
+                     that good at confronting her 
+                     personal life?  The longer you put 
+                     it off, the more it haunts you.
+
+      Perry thinks on this a moment, then nods.
+
+                                      PERRY
+                     Thanks.  I'll take it in my office.
+
+      He moves into his office as Lois heads back to her desk and 
+      the guys.
+
+                                      JIMMY
+                     See?  No yelling.  The favorite.
+
+                                      LOIS
+                     That is totally untrue.  I simply 
+                     have the ability to speak 
+                     rationally and sensitively to the 
+                     man.
+
+                                      CLARK
+                           (to Jimmy)
+                     She's right.
+                           (to Lois)
+                     And you're his favorite.
+
+      The phone rings again.  Jimmy, exasperated:
+
+                                      JIMMY
+                     What do people think this is, a
+                     newspaper?
+
+                                      LOIS
+                     Let's link this up to what we know 
+                     about the Newtriches.  Could it 
+                     have something to do with the laser 
+                     or...
+
+                                      CLARK
+                     ... banking?  Like an account
+                     number?
+
+                                      JIMMY
+                     One of you guys better get to the
+                     corner of Giordano and Adams.
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      40.    
+
+
+  58  CONTINUED:  4                                              58   
+
+                                      LOIS
+                     What's up?
+
+                                      JIMMY
+                     Jumper on the ledge.
+
+                                      LOIS
+                     Uhhh, I think I'll take that one.
+                     You guys keep working on the 
+                     number.
+
+      And she's up and gone.
+
+                                      JIMMY
+                     This job can really get to you, 
+                     hearing the worst stuff people do 
+                     day and night...
+
+                                      CLARK
+                     Yeah.
+
+                                      JIMMY
+                     And her sister sounded so upset.
+
+                                      CLARK
+                     Who's sister?
+
+                                      JIMMY
+                     The jumper.  It was her sister who
+                     called, crying and sobbing...
+
+      Clark gets a very bad feeling.
+
+                                      CLARK
+                     I think I want to cover this one
+                     too.
+
+      He takes off.
+
+
+  59  EXT. STREET BELOW - DAY                                    59   
+
+      Ultra Woman LANDS Lucille gently amidst the small CROWD.
+
+                                      ULTRA WOMAN
+                     Do you want to talk to someone?  A
+                     doctor?
+
+                                      LUCILLE
+                     No. But I would like a hug.
+
+                                      ULTRA WOMAN
+                           (hesitates)
+                     Well... okay.
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      41.    
+
+
+  59  CONTINUED:                                                 59   
+
+      Clark comes running around the corner.
+
+                                      CLARK
+                     No! It's her --
+
+      In mid-hug, Ultra Woman looks up and sees Clark -- but 
+      doesn't see Nell behind _her_ with the laser.  Clark is too 
+      far to stop it.  Nell FIRES.  The RED BEAM hits Ultra Woman
+      first, then ENGULFS her and Lucille in that EERIE GLOW.
+
+      Both women are dazed.  Then Lucille grabs Ultra Woman and 
+      HOISTS her up.
+
+                                      LUCILLE
+                     I am an empowered woman!
+
+                                                        FADE OUT.
+
+                          _END OF ACT THREE_
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      42.    
+
+                               _ACT FOUR_
+
+      FADE IN:
+
+  60  EXT. STREET - DAY - CONTINUOUS                             60   
+
+      Lucille has Ultra Woman hoisted up in her steel grip.
+
+                                      LUCILLE
+                     Let's see just how strong I am.
+
+      She's about to toss Ultra Woman when --
+
+                                      CLARK
+                     Hey, you in the dime store dress!
+                     over here!
+
+      Lucille turns, pissed.
+
+                                      CLARK
+                           (circling toward Nell)
+                     Is that real polyester?  Goes good 
+                     with the cheap lipstick and the bad 
+                     wig!
+
+                                      NELL
+                     Don't talk about my sister like
+                     that!
+
+                                      LUCILLE
+                     Shut up, Nell.
+                           (tosses Ultra Woman OUT
+                            OF FRAME)
+                     I can fight my own battles.
+
+                                      CLARK
+                     Well, you're losing the one with
+                     taste.
+
+      As Clark taunts, he puts himself between Lucille and Nell.
+
+                                      LUCILLE
+                     I'm gonna ram you into next
+                     Thursday!
+
+      Lucille charges and becomes a SUPER-BLUR.  Clark leaps out 
+      of the way.  The BLUR shoots by him and RAMS into Nell and 
+      now both sisters are a SPEEDING BLUR that zooms OUT OF 
+      FRAME.  Clark runs to Ultra Woman.
+
+                                      ULTRA WOMAN
+                     That's the nasty thing about those 
+                     super-powers.  Hard to control with 
+                     a bad temper.
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95     43.    
+
+
+  60  CONTINUED:                                                 60   
+
+                                      CLARK
+                     Let's get out of here before she
+                     calms down.
+
+                                      ULTRA WOMAN
+                           (as they take off)
+                     I guess I'd better get used to
+                     being earthbound again...
+
+
+  61  EXT. ALLEY - DAY                                           61   
+
+      An O.S. WHOOSH and WHUMPH, then PAN to find Nell and Lucille
+      in a huge pile of garbage, some of it raining back down on
+      them.
+
+                                      NELL
+                     Well, you're off to a good start.
+
+                                      LUCILLE
+                     I'm gonna break them both into
+                     bite-sized chunks... just as soon
+                     as we're rich.
+                           (as they get up)
+                     Oh, and one more thing.
+
+      She takes the laser from Nell and THROWS it high into the
+      sky.
+
+                                      LUCILLE (CONT'D)
+                     Just in case you had one bright
+                     idea in your whole life.
+
+
+ 61A  EXT. EARTH ORBIT                                          61A   
+
+      The laser spins into space.                                  (X)
+
+
+  62  EXT. DIFFERENT METROPOLIS STREET - DAY                     62   
+
+      Ultra Woman on pay phone, signing autographs for PEOPLE as
+      Clark waits.
+
+                                      ULTRA WOMAN
+                           (into phone)
+                     Thanks, Jimmy.  Good-work.
+                           (hangs up)
+                     That number is a Post Office truck.
+
+                                      CLARK
+                     A Post Office truck?  What are
+                     they, gonna steal Ed McMahon's ten
+                     million?
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95    43A.    
+
+
+  62  CONTINUED: 62
+
+                                      ULTRA WOMAN
+                     Whatever it is, it's the world vs.
+                     Hurricane Lucille... unless we can 
+                     get your powers back.
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      44.    
+
+
+  62  CONTINUED:                                                 62   
+
+      A LITTLE GIRL hands Ultra Woman a crayon rendering of the
+      super-heroine.
+
+                                      ULTRA WOMAN (CONT'D)
+                     Oh, thank you, isn't that sweet.
+
+      The Girl smiles shyly and runs off.
+
+                                      ULTRA WOMAN (CONT'D)
+                     There are one or two things about
+                     this I'm going to miss.
+
+      They move down the street and into --
+
+
+  63  INT. NARROW ALLEY - DAY                                    63   
+
+      He begins to strip out of his street clothes, exposing the
+      'S.'  She unfolds a blouse and begins to get into her street
+      clothes.
+
+                                      CLARK
+                     I'll go pay another visit to
+                     S.T.A.R. Labs, you get back to the
+                     Planet and see if you can narrow
+                     down which truck it is.
+
+                                      ULTRA WOMAN
+                     Okay, be careful.
+
+                                      CLARK
+                     You too.
+
+      They kiss and separate, both still changing.
+
+
+  64  INT. PLANET - DAY                                          64   
+
+      Lois and Jimmy at the computer.
+
+                                      LOIS
+                     That's it.
+
+                                      JIMMY
+                     What?
+
+                                      LOIS
+                     One of these trucks is making a
+                     pickup at the Bank of Metropolis.
+                           (looks at watch)
+                     No, made a pickup.
+
+                                      JIMMY
+                     I don't get it, so they picked up
+                     some bank mail...
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      45.    
+
+
+  64  CONTINUED:                                                 64   
+
+                                      LOIS
+                     No, I'll bet you anything it's old
+                     ATM money.
+
+                                      JIMMY
+                     Sorry, maybe I'm a little slow
+                     today...
+
+                                      LOIS
+                           (dialing)
+                     I did a story on this.  Banks need
+                     to constantly replenish ATM's with
+                     new bills.  And the old ones are
+                     shipped off -- in postal vans.
+                     Lucille used to work at --
+                           (into phone)
+                     Hi, I'm looking for Superman?
+
+
+  65  EXT. S.T.A.R. LABS TESTING RANGE - DAY                     65   
+
+      The Scientist shows Superman the repaired laser device.
+
+                                      SUPERMAN
+                     Thanks for the rush job.
+
+                                      SCIENTIST
+                     But we haven't even tested it 
+                     properly.  It could conk out or 
+                     even blow up.
+
+      The Scientist's cel phone BEEPS.
+
+                                      SUPERMAN
+                     Well, one thing I've learned the 
+                     last couple days... just roll with 
+                     the punches.
+
+                                      SCIENTIST
+                           (into phone)
+                     Yes?  He's right here.
+                           (to Superman)
+                     Lois Lane for you.
+
+                                      SUPERMAN
+                     Hi... Uh-huh... Okay, give me the
+                     route.
+                           (to Scientist)
+                     Do you have a pen?
+
+
+  66  EXT. DESERTED METROPOLIS STREET - DAY                      66   
+
+      An armored Postal Truck is stopped in the middle of a narrow
+      downtown side street.  Its back door has been ripped off and
+      tossed half-a-block away.  GUARDS and DRIVERS lie on the
+      pavement, semi-conscious and moaning.
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  O'Neill & Tobin          9/7/95      46.    
+
+
+  67  IN THE BACK OF THE TRUCK                                   67   
+
+      Nell and Lucille, amid the stuffed bags of money.
+
+                                      LUCILLE
+                     You like the way those bullets
+                     bounced off my chest?
+
+                                      NELL
+                     Watching you get shot was a real
+                     pleasure, yes.
+
+                                      LUCILLE
+                           (Smelling handfuls of
+                            cash)
+                     Ahhhh, this is the way crime ought
+                     to be.  Forget the gang of guys
+                     with Uzis, the getaway chopper
+                     just rip, punch and grab.
+
+                                      NELL
+                     We're rich, we're rich...
+
+                                      LUCILLE
+                     ... we're happy misers!
+
+      They laugh.
+
+                                      ULTRA WOMAN (O.S.)
+                     Oh, ladies, could I have a word?
+
+
+  68  EXT. DESERTED STREET - DAY                                 68   
+
+      Lucille and Nell poke their heads out and see Ultra Woman
+      standing there..
+
+                                      LUCILLE
+                     Ultra Woman?  I believe you qualify
+                     for protection under the Endangered
+                     Species Act.
+
+                                      ULTRA WOMAN
+                     You're the one up for early
+                     extinction.  See, I've still got
+                     all my power.
+
+      Lucille levels a look at Nell.
+
+                                      LUCILLE
+                     You make me so mad, my hair hurts.
+
+                                      NELL
+                     She's lying.
+
+                                      ULTRA WOMAN
+                     Let's just see.
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95     47.    
+
+
+  68  CONTINUED:                                                 68   
+
+      Lucille BLURS out of the back of the van and STOPS behind    (X)
+      Ultra Woman.                                                 (X)
+
+                                      LUCILLE
+                     Why do I think you're bluffing?
+
+                                      ULTRA WOMAN
+                           (a tad nervous)
+                     Well... I don't know.
+
+                                      LUCILLE
+                           (advancing)
+                     I see fear in your eyes.
+
+                                      ULTRA WOMAN
+                           (backing up)
+                     That's just... extreme modesty.
+
+                                      LUCILLE
+                     Nell... let's do a little test.
+                     Pick up that guard's gun there.
+
+      Nell gets out of the van and picks up the gun from fallen
+      guard.
+
+                                      LUCILLE (CONT'D)
+                     You're familiar with the phrase,
+                     faster than a speeding bullet?
+
+      She indicates that Nell should shoot Ultra Woman.
+
+                                      NELL
+                     Lucille, I...
+
+                                      LUCILLE
+                     She knows who we are, Nell.  And
+                     what we did.  Now, there's not a
+                     jail on Earth that can hold me but
+                     you...
+                           (shrugs)
+                     ... you'd be in an awful lot of
+                     trouble if she talks to the police.
+                     So-ooooo, if you're so sure your
+                     little laser worked, finish the
+                     job.
+
+                                      ULTRA WOMAN
+                     Look, just come in quietly, I don't
+                     want to hurt either of you...
+
+                                      LUCILLE
+                     Really?  I think little Nell feels
+                     differently.
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95     48.    
+
+
+  68  CONTINUED:  2                                              68   
+
+      Yes, she does.  With a shaking hand, she aims the gun at 
+      Ultra Woman.  Squeezes the trigger and --
+
+      A cab pulls up and SCREECHES to a halt.  Nell, Lucille and 
+      Ultra Woman are all startled as the sight of Superman, who 
+      leaps out with the laser.  Lucille lets out a SUPER-BREATH 
+      that knocks him back into the cab.  The laser clatters to 
+      the ground.  He's dazed.
+
+                                      LUCILLE
+                           (shakes head)
+                     Dorks n tights.  But which dork 
+                     dies first?  My dear sister, I 
+                     leave it to you.
+
+      But Ultra Woman is already in motion, a garbage can lid in 
+      her hand, which she flings across the street into Nell's
+      stomach, knocking her back.
+
+      Lucille starts to go for Lois but Superman grabs the 
+      sideview mirror of the cab, flicks it and
+
+      THE SUN REFLECTS into Lucille's eyes.
+
+                                      LUCILLE
+                     OW!
+
+      This gives Ultra Woman enough time to snatch the laser off
+      the ground.                                                  (X)
+
+                                      ULTRA WOMAN
+                     Get her!
+
+      Superman grabs onto Lucille. She gets her hands on him.      (X)
+
+                                      LUCILLE
+                     Express Shuttle, now leaving Earth!
+
+      Lois readies and aims the laser as --
+
+      Nell sits up and sees Superman struggling against Lucille's
+      fierce grip.
+
+                                      NELL
+                     Leave my sister alone!
+
+      Nell FIRES the gun.                                          (X)
+
+      Lois pulls the trigger on the laser.                         (X)
+
+      The beam HITS and engulfs Lucille and Superman.              (X)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95     49.    
+
+
+  69                                                             69   
+THRU  OMITTED                                                  THRU   
+  73                                                             73   
+
+
+  74  THE BULLET                                                 74   
+
+      bounces off Superman's "S."
+
+      Superman pries Lucille's hands off him.                      (X)
+
+                                      LUCILLE
+                           No... no!
+
+      Lois grabs the gun from Nell.  Lois and Superman meet in     (X)
+      mid-street, she holding Nell, he holding Lucille.
+
+                                      ULTRA WOMAN
+                     Well, not a bad note for Ultra
+                     Woman to go out on.
+
+                                      SUPERMAN
+                     Just one last thing...
+
+      He goes to the laser, picks it up and
+
+                                      SUPERMAN (CONT'D)
+                     ... if it's okay with you.
+
+                                      ULTRA WOMAN
+                     If I could do it myself... I would.
+
+      -- smiling, he THROWS it into orbit.
+
+                                      NELL
+                           (to Lucille)
+                     Pray we don't end up in a cell
+                     together.
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95     50.    
+
+
+  75  INT. DAILY PLANET - NIGHT #3                               75   
+
+      Perry comes out of his office with the hard copy of Lois and
+      Clark's story:  "THIEVES FOILED BY ULTRA-SUPER DUO."'  He    (X)
+      moves up to Lois, Clark and Jimmy.
+
+                                      PERRY
+                     Fine stuff, kids.  But we still
+                     don't know... where'd this Ultra
+                     Woman come from and are we ever
+                     gonna see her again?
+
+                                      CLARK
+                           (looks at Lois)
+                     Well...
+
+                                      LOIS
+                     She was a very close friend of
+                     Superman's... and neither one's
+                     saying much more.
+
+                                      PERRY
+                     That's super-heroes for you
+                     mighty cryptic.  Let's slap this on
+                     the front page and head home.
+
+                                      LOIS
+                     Does this mean you won't be
+                     sleeping here?
+
+                                      PERRY
+                     Alice is staying with a friend.
+                     I'll be moving out at the end of
+                     the month.
+
+                                      CLARK
+                     Chief, I'm really sorry.
+
+                                      PERRY
+                     Well, the fact is, I've lived and             (X)
+                     breathed the Planet for thirty                (X)
+                     years... it's always my first                 (X)
+                     thought in the morning and my last            (X)
+                     thought at night.  And Alice said             (X)
+                     no matter how much I promise to               (X)
+                     change, it always _will_ be.  She             (X)
+                     said she's got a right to play                (X)
+                     first fiddle with somebody... and             (X)
+                     I can't disagree.                             (X)
+                           (beat)
+                     I thank you all for your concern
+                     and understanding that my fuse has            (X)
+                     been a little short lately.
+                           (as everyone is about to
+                            politely disagree)
+                     Now, let's hit it, we got a paper
+                     to print!
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Pink Rev.                9/12/95     50A.   
+
+
+  75  CONTINUED:                                                 75   
+
+      Clark moves off, Perry heads into his office, leaving Jimmy
+      alone with Lois.  As Jimmy starts off --
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Blue Rev.                9/8/95      51.    
+
+
+  75  CONTINUED:                                                 75   
+
+                                      LOIS
+                     Jimmy? I talked to Ultra Woman
+                     before she flew off.  She asked me
+                     to give you a message.
+
+                                      JIMMY
+                     Yeah?
+
+                                      LOIS
+                     'You're cute.'
+
+                                      JIMMY
+                     She said that?
+
+                                      LOIS
+                     Her exact words.
+
+                                      JIMMY
+                           (in heaven, walking off)
+                     Man.  I'm cute.  All right.
+
+      Lois moves to Clark's desk and surreptitiously opens his top
+      drawer, reaches in and
+
+
+  76  EXT. METROPOLIS PARK - THE FOUNTAIN - NIGHT                76   
+
+      Lois and Clark walk, hand in hand.                           (X)
+
+                                      LOIS
+                     You know, if somebody asked me
+                     three days ago, 'Who's the one
+                     person in the world you really
+                     admire?'  I'd've said you.                    (X)
+                     Without really knowing what that              (X)
+                     meant.
+                           (off his confused look)
+                     Without understanding that the                (X)
+                     hardest thing about _being_ you is
+                     all the things you can't do; all
+                     the cries for help you can never
+                     answer; and all the ways that                 (X)
+                     quietly tears you apart... but                (X)
+                     never stops you.  And living a                (X)
+                     little of that myself, I felt
+                     something... something I never                (X)
+                     thought was possible.                         (X)
+
+                                      CLARK
+                     What?
+
+                                      LOIS
+                     I love you _more_.  More than I               (X)
+                     ever have... more than I ever
+                     thought I could love anyone.                  (X)
+
+                                                        (CONTINUED)
+
+                           ---page break---
+      "ULTRA WOMAN" (#7)  Blue Rev.                9/8/95      52.    
+
+
+  76  CONTINUED:                                                 76   
+
+      They're at the fountain.  She gently pushes him back and     (X)
+      sits him down
+
+                                      LOIS (CONT'D)
+                     So I have to ask you...                       (X)
+
+      She pulls out the engagement ring box. Kneels and opens it.
+
+                                      LOIS (CONT'D)
+                     ... will you marry me?
+
+      He looks at her, his every desire met at this moment.  Then
+      smiles.
+
+                                      CLARK
+                     Who's asking -- Lois or Ultra
+                     Woman?
+
+                                      LOIS
+                     Who's answering -- Clark or                   (X)
+                     Superman?
+
+      He stands.
+
+                                      CLARK
+
+                     _I'm_ answering.
+
+                                      LOIS
+                     I'm waiting.                                  (X)
+
+      He slides the ring out of the box and onto her finger as
+
+                                      CLARK
+                     Yes.                                          (X)
+
+      They kiss.  Her bejewelled left hand caresses his cheek as
+      their lips meet and we...
+
+
+                                                        FADE OUT.
+
+                                _THE END_
+
+

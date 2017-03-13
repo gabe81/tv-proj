@@ -1,0 +1,3460 @@
+notes:
+
+To pop everything into place...
+
+use Courier 10 (or 10 characters per inch)
+
+set top margin at 0.4", bottom margin at 0.4" (or minimums)
+left margin at 1", right margin at .25 (or minimum)
+   (I had to tell the program I was using legal paper)
+
+page breaks in hard copy indicated by ---page break---
+
+regular tabs, hard returns and right flushes are used 
+to position things to look as much like original as possible
+
+sometimes the formatting changes slightly (as in the numbers at
+the end of the lines), but I'm going to keep consistent because
+it's easier
+
+logo on front page will be noted when used but not included here
+
+as this may be sent in .txt, originally underlined words will 
+look like   _this_
+
+
+Notes: 
+
+Cover:  "And The Answer Is...." , Written by Tony Blake & Paul
+Jackson [and] Directed by Alan J. Levi are all in large, bold
+print.  WARNER BROS. TELEVISION is in an arial-type font. The
+remainder of the script is in Courier 10.
+
+Typos noted:
+Page 11, mid page, Martha speaking 
+     says 'wedding.  'And    apostrophe in wrong place
+     in original
+occasional commas are missing, i.e., "I've always been 
+     honest with you Lois" (there should be one 
+     after "you")
+"all right" is misspelled here and there as "alright"
+Page 16., mid page, "Grimacing, lifts the receiver to his"
+     the word "Clark" is missing from original
+Page 19., just below mid page:
+     "A thoughtful look crosses Clarks's"  should be "Clark's"
+
+
+                    <Logo; see script.bmp>
+
+                      "And The Answer Is...
+
+                       EPISODE TWENTY-TWO
+
+                         Prod. #456472
+
+
+                           Written by
+
+                    Tony Blake & Paul Jackson
+
+
+                           Directed by
+
+                          Alan J. Levi
+
+
+
+
+
+
+
+
+WARNER BROS. TELEVISION                      _Rev. Prod. Draft_
+                                             BLUE April 6, 1995
+
+                        ---page break---
+                          _LOIS & CLARK_
+
+                      "_And The Answer Is..._"
+
+                              _CAST_
+
+CLARK/SUPERMAN
+
+LOIS LANE
+
+JIMMY OLSEN
+
+PERRY WHITE
+
+MARTHA KENT
+
+JONATHAN KENT
+_________________________________________________________
+
+JACE MAZIC
+
+NIGEL ST. JOHN
+
+COP
+
+MARVIN
+
+MAN AT JEWELRY EXCHANGE
+                        ---page break---
+                          _LOIS & CLARK_
+
+                      "_And The Answer Is..._"
+
+                            _LOCATIONS_
+
+
+_INTERIORS_:                        _EXTERIORS_:
+
+Daily Planet                        Street
+   Newsroom
+   Conference Room                  Centennial Park
+
+Clark's Apartment                   Alley
+   Bedroom
+   Living Room                      Barrington Jewelry Mart
+
+Lois' Apartment                     Jellico's House ofJewels
+
+Jace's Penthouse                    Mazik's Jeweler's
+
+Jace's Bunker                       Marvin's Gardens
+   Hallway
+
+Mazik's Jeweler's
+
+Lois' Jeep
+
+                        ---page break---
+                          _LOIS & CLARK_
+
+                      "_And The Answer Is..._"
+
+                           _CHRONOLOGY_
+
+
+                SC.    1 - 25     DAY 1
+
+                SC.   26 - 48     NIGHT 1
+
+                SC.   49 - 71     DAY 2
+
+                SC.   72          NIGHT 2
+
+                        ---page break---
+                          _LOIS & CLARK_
+
+                 _The New Adventures of Superman_
+
+                     "And The Answer Is..."
+
+                              _TEASE_
+
+    FADE IN:
+
+ 1  INT.  LOIS' APARTMENT - DAY 1                                     1   
+
+    There's a KNOCK at Lois' door.  A beat, then she ENTERS 
+    FRAME, her hair in rollers.
+
+                                    LOIS
+                   Hang on, Clark.
+
+    She glimpses herself in a mirror.  The rollers.  Can't let 
+    Clark see her like this.  What to do?.  She TIPTOES to the
+    door, stealthily UNLOCKS it, then scurries away.
+
+                                    LOIS (CONT'D)
+                   It's open!
+
+    She disappears into the bathroom as CLARK enters with 
+    something obviously on his mind.
+
+                                    CLARK
+                   Lois?
+
+                                    LOIS (O.S.)
+                   I'll be out in a minute.  You're a
+                   little early.
+
+                                    CLARK
+                   I know.  It's just... there's 
+                   something I want to talk to you 
+                   about.
+
+    The HAIR DRYER kicks in from O.S.
+
+                                    LOIS (O.S.)
+                   I can't hear you!  Hold on a 
+                   minute, I'll be right out.
+
+    Clark eyes a photo on a shelf showing Lois and him holding a
+    Kerth award.  Over this...
+
+                                    LOIS (O.S.)
+                   where are we going for breakfast?
+
+                                    CLARK
+                   I thought we'd try Callard's.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95        2.    
+
+
+1   CONTINUED:                                                        1   
+
+                                    LOIS (O.S.)
+                   What?l I can't hear you!
+
+    Clark smiles, shakes his head, then focuses on the photo.  A 
+    beat, then he begins talking to the photo.
+
+                                    CLARK
+                   Lois... I have something to tell
+                   you... I'm Superman.
+                         (no good)
+                   Lois, have you ever noticed how 
+                   much I look like Superman?  Well, 
+                   it's funny you should say that, 
+                   because...
+
+    He whips off the glasses, mimes waiting for her response.  
+    No good.  Then...
+
+                                    CLARK (CONT'D)
+                   Hey!  Guess what?  I'm Superman!
+                         (nah)
+                   Lois... I've wanted to tell you 
+                   this for some time.  Before we go 
+                   any further in our relationship, 
+                   you have to know that I'm...
+
+                                    LOIS (O.S.)
+                   What are you doing?
+
+    Startled, Clark turns to see Lois standing at the edge of 
+    the bathroom, the long cord on the dryer allowing her to 
+    catch him in the act.  As she flips off the dryer...
+
+                                    CLARK
+                   I uh... uh... I've got something to
+                   tell you.
+
+    She unplugs the dryer, absently carries it with her thru...
+
+                                    LOIS
+                   It's not good news, is it.
+
+                                    CLARK
+                   Well, I don't know.  Maybe.
+
+                                    LOIS
+                   No, it's not.  I can tell by your
+                   face.
+
+                                    CLARK
+                   Maybe you'd better sit down.
+
+                                    LOIS
+                         (as she sits)
+                   Oh yeah.  This is good news.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95        3.    
+
+
+1   CONTINUED:  2                                                     1   
+
+    Clark sits next to her on the couch.  A beat, then...
+
+                                    CLARK
+                   You know how you always complain 
+                   that I run out on you Just when 
+                   we're starting to talk about 
+                   something important?
+
+                                    LOIS
+                   I recall mentioning it once or
+                   twice.
+
+                                    CLARk
+                   Well, there's a reason for that.  
+                   And it has nothing to do with my 
+                   having a fear of intimacy, or being 
+                   afraid of falling in love, or 
+                   anything like that.
+
+    She waits.
+
+                                    CLARK (CONT'D)
+                   Lois... I might as well say this 
+                   honestly and simply...
+                         (deep breath)
+                   I'm Super-
+
+    Her PHONE RINGS.  Lois would like to ignore it; Clark's 
+    almost relieved.
+
+                                    CLARK (CONT'D)
+                   Maybe you should just answer that.
+
+    Lois snatches up the phone, unhappy with the interruption.
+
+                                    LOIS
+                   Hello?  Yes, he's right here.
+                         (extends the phone)
+                   It's for you.
+
+                                    CLARK
+                   Who knows I'm here?
+                         (into phone)
+                   Hello?
+
+                                    JACE (Filtered)
+                   We know everything about you, Mr. 
+                   Kent.  Or should I say... Superman.
+
+    As Clark tries to hide his reaction from Lois...
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95        4.    
+
+
+1   CONTINUED:  3                                                     1   
+
+                                    JACE (Filtered)
+                   If you don't want the world to know 
+                   your secret, go to a dumpster 
+                   behind the Planet.  You'll find an 
+                   envelope with your name on it.
+
+    The phone clicks off.  As Clark slowly hangs up...
+
+                                    LOIS
+                   Who was it?
+
+                                    CLARK
+                   Huh?  Oh, uh... my barber...
+
+                                    LOIS
+                   Your barber?
+
+                                    CLARK
+                   Yeah.  Confirming my appointment.
+                   I've got to go.
+
+                                    LOIS
+                   Wait a minute!  You were about to
+                   tell me something.
+
+                                    CLARK
+                   I was?
+
+                                    LOIS
+                   Yes.  You said Lois, I'm super...
+
+                                    CLARK
+                   Right, right.  I'm ... super
+                   late... for my haircut!
+                         (he rises)
+                   And I'm sorry, but I can't go to
+                   breakfast with you.
+
+    He backpedals for the door.
+
+                                    CLARK (CONT'D)
+                   But I'll see you at the office and
+                   maybe we can have lunch?  Okay?
+
+                                    LOIS
+                         (confused)
+                   Clark!
+
+    He opens the door.
+
+                                    CLARK
+                   I gotta go.  Bye.
+
+    And he's gone.  A frustrated Lois picks up the hair dryer 
+    and aims it like a gun at the door.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95        5.    
+
+
+1   CONTINUED:  4                                                     1   
+
+                                    LOIS
+                   Bang.
+
+                                                       FADE OUT:
+
+                              _END OF TEASER_
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95        6.    
+
+                               _ACT ONE_
+
+    FADE IN:
+
+2   EXT. ALLEY - DAY                                                  2   
+
+    Clark rushes into the alley, sees an automated sanitation
+    truck idling in the alley, the bored DRIVER at the Wheel.
+    The truck's hydraulic arm lifts the only dumpster in the
+    alley and empties it into the back of the vehicle.
+
+
+3   RESUME CLARK                                                      3   
+
+    He grimaces, realizing he's too late.  He glances around to
+    make sure no one can see, then SPINS, becoming Superman.  As
+    the hydraulic arm lowers the dumpster, Superman LEAPS unseen
+    into the rear of the truck.  Superman BURROWS through the
+    rubbish at SUPERSPEED, trash flying out of the truck left
+    and right.
+
+
+4   ON DRIVER                                                         4   
+
+    He absently glances in his side view mirror and reacts as he
+    sees the debris spewing out of his truck.
+
+
+5   ANOTHER ANGLE                                                     5   
+
+    Superman finds the envelope.  Written on the outside are the
+    words SUPERMAN.  As the driver steps out of his cab,
+    Superman LEAPS out of the truck.
+
+                                    SUPERMAN
+                   Don't worry.  I'll take care of it.
+
+    The driver stares in awe as Superman tosses the rubbish
+    back in at SUPERSPEED.
+
+                                    SUPERMAN (CONT'D)
+                   There you go.  Oh, and I separate
+                   the recyclables.
+
+    WHOOSH ----
+
+6   EXT. ANOTHER ALLEY - DAY - CONTINUOUS                             6   
+
+    ---- Superman lands and rips open the envelope.  Inside, he
+    discovers a hand-held WATCHMAN.  He flips it on.  A man's
+    face appears in shadows.  (JACE MAZIK)
+
+                                    JACE (T.V.)
+                   Boy, that was fast.  Guess you were
+                   movin' at _Super_ _Speed_ huh?
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95        7.    
+
+
+6   CONTINUED:                                                        6   
+
+                                    SUPERMAN
+                   Whoever you are, you've made a big
+                   mistake.
+
+    INTERCUT WITH:
+
+
+ 7  INT. JACE'S PENTHOUSE - SAME TIME                                 7   
+
+    Superman's face fills a large wall monitor.  The man in 
+    shadows sits directly in front of it.
+
+                                    SUPERMAN
+                   I'm not Clark Kent.  He's a friend
+                   of mine, that's all.
+
+    Jace raises a small, leather bound DIARY.
+
+                                    JACE
+                   I have a diary here that says
+                   otherwise.  And I believe it.
+
+                                    SUPERMAN
+                   Whatever that is, it's wrong.
+
+                                    JACE
+                   Let me ask you a question.  Do you 
+                   believe in time travel?  You know, 
+                   Back to the Future, The Time 
+                   Machine, that sort of thing?
+
+                                    SUPERMAN
+                   What are you talking about?
+
+                                    JACE
+                   This diary was written by a man
+                   named Tempus.  Ring a bell?
+
+                                    SUPERMAN
+                   No.
+
+    INSERT "TEMPUS FUGITIVE" FLASHBACK SEQUENCE
+
+                                    JACE (V.O.)
+                   He claims to have flown through 
+                   time with H.G. Wells.  In this 
+                   diary, he writes about how he 
+                   traveled back to when you were just 
+                   a baby.  He wanted to kill you, but 
+                   you and Lois Lane went back in time 
+                   and stopped him.  And for 
+                   punishment, Wells dumped Tempus in 
+                   an insane asylum in 1866 
+                   Smallville, where he wrote the 
+                   whole story down.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95        8.    
+
+
+7   CONTINUED:                                                        7   
+
+    END FLASHBACK - RESUME SCENE
+
+    Superman's expression says it might be coming back to him.
+
+                                    JACE
+                   Gettin' a case of deja vu?
+
+                                    SUPERMAN
+                         (covering)
+                   No.  And only a fool would believe
+                   the ravings of a madman.
+
+                                    JACE
+                   Yeah, at first I thought he was 
+                   crazy too.  But this diary 
+                   accurately predicted every major 
+                   historical event from 1866 'til
+                   now.  He makes Nostradamus look 
+                   like a freakin' palm reader.
+
+                                    SUPERMAN
+                   He's still wrong about me being
+                   Clark Kent.
+
+                                    JACE
+                   Then won't I have egg on my face
+                   when I tell everyone.
+
+    As Superman's expression darkens...
+
+                                    JACE (CONT'D)
+                   Now here's the deal.  There's 
+                   twenty million dollars in uncut 
+                   diamonds in a safe at Mazik's 
+                   Jewelers.  If you get it for me, 
+                   your secret's safe.
+                         (and then)
+                   I'll be in touch.
+
+    The Watchman's screen goes dark.  HOLD ON Superman's 
+    tormented expression, then...
+
+                                                       SMASH CUT TO:
+
+
+8   INT. JACE'S APARTMENT - DAY                                       8   
+
+    The lights go up, revealing JACE MAZIK, late 20's.  Someone 
+    behind him starts to CLAP.  Jace turns around in his chair 
+    and faces NIGEL ST. JOHN.
+
+                                    NIGEL
+                   Bravo performance.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95        9.    
+
+
+8   CONTINUED:                                                        8   
+
+    Jace slips the diary into his jacket pocket.  As he heads 
+    for a nearby bar...
+
+                                    NIGEL
+                   So tell me Mister Mazik.  Exactly 
+                   how did you come by possession of 
+                   that diary?
+
+                                    JACE
+                   I found it.  Buried in a box of 
+                   my old man's stuff.  He died four 
+                   years ago but no one ever got 
+                   around to going through his junk.
+
+                                    NIGEL
+                   And now you're robbing one of his
+                   jewelry stores?
+
+                                    JACE
+                   Just getting what should have been 
+                   mine.  The old man left everything 
+                   to my suck up brother.
+
+                                    NIGEL
+                   I see.  Whereas your father made 
+                   his fortune the old fashioned way, 
+                   you're just going to steal yours.
+
+                                    JACE
+                   Let me tell you something.
+                   Everyone thought he was just a 
+                   humble junk man who made it big 
+                   through hard work.  But all he 
+                   really did was follow this and 
+                   invest well.  Plastics in the 
+                   sixties, oil in the seventies, 
+                   computers in the eighties.
+
+                                    NIGEL
+                   And why is it he never revealed
+                   Superman's identity?
+
+                                    JACE
+                   Mainly because he died before
+                   Superman ever showed up.
+
+                                    NIGEL
+                   How very fortunate for you.
+
+                                    JACE
+                   Very.
+
+                                    NIGEL
+                   I'd like to see it.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       10.    
+
+
+8   CONTINUED:  2                                                     8   
+
+                                    JACE
+                   No can do, bucker-roo.
+
+                                    NIGEL
+                         (annoyed)
+                   Perhaps we need to clarify our 
+                   relationship.  _You_ called _me_.
+                   You need Kryptonite, which I 
+                   have...
+
+                                    JACE
+                         (interrupting)
+                   Which you stole from Lex Luthor.
+
+                                    NIGEL
+                         (ignoring him)
+                   And which I've agreed to share it 
+                   with you... in return for certain 
+                   rewards.
+
+                                    JACE
+                   Right.  Half of what we get by 
+                   having Superman under our control.
+                   That's our deal.  And the diary 
+                   ain't part of it.  Got it?
+
+    As Nigel eyes him coldly...
+
+                                                       CUT TO:
+
+9   INT. CLARK'S BEDROOM - DAY                                        9   
+
+    MARTHA and JONATHAN are unpacking their suitcases.
+
+                                    MARTHA
+                   This is so romantic.  Spending our 
+                   anniversary in Metropolis.
+
+                                    JONATHAN
+                   Yeah.  It was a good idea.
+                         (and then)
+                   Did Clark seem okay to you?  He was
+                   acting kinda odd.
+
+                                    MARTHA
+                   Jonathan.  Of course he's acting 
+                   odd.  Haven't you been listening to 
+                   him?  He's in love.
+                         (and then)
+                   And speaking of love...
+
+    She reaches into her suitcase and withdraws a small object 
+    WRAPPED in tissue paper.  She hands it to Jonathan.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       11.    
+
+
+9   CONTINUED:                                                        9   
+
+                                    MARTHA (CONT'D)
+                   Happy Anniversary.
+
+                                    JONATHAN
+                   Aw... thank you.
+
+    Jonathan unwraps the paper, revealing a beautifully hand 
+    carved wooden box, 12 inches by 12 by 3.
+
+                                    MARTHA
+                   It's a memory box.  I carved it
+                   myself.  Look inside.
+
+    Jonathan opens the lid, revealing it's filled with small, 
+    smooth stones.  A word is painted on each one.
+
+                                    MARTHA (CONT'D) 
+                   Each pebble represents a year of 
+                   our marriage.  After I buffed them, 
+                   I painted a word on each that 
+                   corresponds to something that 
+                   happened to us in different years.
+                         (lifts a few)
+                   See?  This one says 'wedding.  'And 
+                   this one says 'Clark.' And this 
+                   one says 'Florida,' for that 
+                   vacation we took in '79.  Now all 
+                   our memories are in one place.
+
+                                    JONATHAN
+                   I love it.  And you.
+
+    They kiss, then he reaches into his suitcase and withdraws 
+    an envelope.  Beaming, he extends it to Martha.
+
+                                    JONATHAN (CONT'D)
+                   Happy Anniversary.
+
+                                    MARTHA
+                         (forced enthusiasm)
+                   Gee... an envelope.
+                         (opens it)
+                   It's... a gift certificate.
+
+                                    JONATHAN
+                         (enthusiastic)
+                   Yeah.  To Costmart.  I know some
+                   people say it's run by crooks, but
+                   they have nice stuff there.
+
+                                    MARTHA
+                   I... don't know what to say 
+                   Jonathan... except... thanks.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       12.    
+
+
+9   CONTINUED:  2                                                     9   
+
+                                    JONATHAN
+                         (sees she's upset)
+                   You know Martha, it's hard to shop
+                   for you.  I don't know what you
+                   need...
+
+                                    MARTHA
+                   it's fine, Jonathan.  Really.
+                   You're right.  I don't need
+                   anything.
+
+    They hear a SOUND in the living room, bailing them out.
+
+                                    MARTHA (CONT'D)
+                   Clark?  Is that you?
+
+    She tosses the envelope in her suitcase and heads for the
+    living room.  Jonathan sighs, then follows.
+
+
+10  INT. CLARK'S LIVING ROOM - DAY - CONTINUOUS                      10   
+
+    Martha steps out of the bedroom, Jonathan right behind.
+    Clark's obviously upset.
+
+                                    MARTHA
+                   I know that look. What's wrong?
+
+                                    CLARK
+                   Someone found out I'm Superman.
+
+                                    MARTHA
+                   Oh my God...
+
+                                    JONATHAN
+                   How could that be?
+
+                                    CLARK
+                   He said he's got some kind of diary
+                   that tells everything about me.
+                   And he's threatening to reveal who
+                   I am unless I do what he wants.
+
+                                    MARTHA
+                   And what's that?
+
+                                    CLARK
+                   Steal for him.
+                         (off their reaction)
+                   I don't know what to do.
+
+    A beat, then...
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       13.    
+
+
+10  CONTINUED:                                                       10   
+
+                                    JONATHAN
+                   Well, looks like there's only one
+                   thing you can do.  Go on the
+                   offensive.  Reveal who you are.
+                   Then he'll have no power over you.
+
+                                    CLARK
+                   I don't know Dad.  Everything I've
+                   worked for would change...
+
+    Martha looks at Jonathan, concerned, then...
+
+                                    MARTHA
+                   I know how hard it will be, but I
+                   think your father's right.
+                         (and then)
+                   It's time you told Lois anyway.
+
+                                    CLARK
+                   I've been trying to tell her, Mom.
+                         (and then)
+                   But the whole world...
+
+                                    JONATHAN
+                   Clark.  Nothing lasts forever.
+                   Maybe you need to take this as a 
+                   sign that the time has come to make 
+                   a change.  Life may be a lot easier 
+                   for you if everyone knew who you 
+                   really are.
+
+    As Clark considers we...
+
+                                                       CUT TO:
+
+
+11  INT. DAILY PLANET BULLPEN - DAY                                  11   
+
+    An agitated Lois pounds the keyboard of her computer fast 
+    and furious.  JIMMY passes with some papers, notices.
+
+                                    JIMMY
+                   That must be some story.
+
+    He reads the screen over her shoulder a beat, then blanches.
+
+                                    LOIS
+                   Seen enough?
+
+                                    JIMMY
+                   Uh... you're not actually going to
+                   say those things to C.K... are you?
+
+    She stops typing, fixes Jimmy with a stare.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       14.    
+
+
+11  CONTINUED:                                                       11   
+
+                                    JIMMY (CONT'D)
+                         None of my business? 
+                                    (off her nod)
+                         Right.
+
+    He moves on, leaving Lois to type.  He approaches PERRY, 
+    who's standing at his office door, watching.
+
+                                    PERRY
+                   That didn't look like your basic
+                   friendly, co-worker exchange.
+
+                                    JIMMY
+                   Something's going on between her
+                   and C.K.
+
+                                    PERRY
+                   Something always is.
+
+
+12  ANOTHER ANGLE                                                    12   
+
+    As Jimmy crosses the bullpen, Clark enters.
+
+                                    CLARK
+                   Hi Jimmy.
+
+                                    JIMMY
+                   Nice coat.
+                         (then, sotto)
+                   Although a flak jacket might have
+                   been a better call.
+
+    He nods towards Lois.
+
+                                    CLARK
+                   Upset?
+
+                                    JIMMY
+                   You only wish.
+
+    He continues on.  Clark sighs, heads for Lois.
+
+
+13  AT LOIS' DESK                                                    13   
+
+    Lois finishes with a pounding flourish as Clark arrives.
+
+                                    CLARK
+                   I think we need to talk.
+
+                                    LOIS
+                         (no kidding)
+                   You read my mind.  Or my screen.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       15.    
+
+
+13  CONTINUED:                                                       13   
+
+    She rises and heads for the conference room.  Confused, 
+    Clark takes a quick look at her screen, reacts, then turns 
+    it off before anyone else can see.
+
+
+14  INT. CONFERENCE ROOM - DAY - CONTINUOUS                          14   
+
+    Lois paces as Clark enters, closes the door behind him.
+
+                                    CLARK
+                   Look, I owe you an explanation...
+
+                                    LOIS
+                   Don't.  I can't listen to another
+                   stupid story about your barber, or
+                   your doctor, or you just remembered
+                   you have a library book due!
+                         (exhales, then)
+                   What you owe me is respect.  I'm 
+                   tired of the lies, Clark.  What 
+                   kind of relationship can we have if 
+                   you're not honest with me?
+
+                                    CLARK
+                   I've always been honest with you 
+                   Lois, except for one thing.  And 
+                   when I tell you what it is... well, 
+                   I hope you'll understand.
+
+    He's so sincere it deflates her anger.  She approaches him, 
+    searching his face.
+
+                                    LOIS
+                   What is it?
+
+                                    CLARK
+                         (beat, then)
+                   Lois, I'm...
+
+    The door opens and Jimmy pokes his head in.
+
+                                    JIMMY
+                   C.K.?
+
+                                    LOIS
+                   Jimmy!  Can't you see we're
+                   talking?!
+
+                                    JIMMY
+                   I'm sorry, but there's someone on
+                   line one for Clark.
+
+                                    CLARK
+                   Take a message, Jimmy.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       16.    
+
+
+14  CONTINUED:                                                       14   
+
+                                    JIMMY
+                   Okay.  But he said you'd want to
+                   talk with him.  Something about a
+                   dumpster.
+
+                                    CLARK
+                         (reacts, then, to Lois)
+                   I'm sorry.  I have to take this.
+
+                                    LOIS
+                   Wait a minute.  A dumpster?  You
+                   have to take a call about a
+                   dumpster over me?!
+
+    Uh oh.  Jimmy hotfoots it out.
+
+                                    CLARK
+                   Lois, please...
+
+                                    LOIS
+                         (evenly)
+                   You pick that up now...
+
+                                    CLARK
+                   Lois... I have to.
+
+    He lifts the phone.  Their eyes meet, then Lois looks away
+    and leaves the room.  Grimacing, lifts the receiver to his
+    ear.
+
+                                    JACE (Filtered)
+                   Did I call at a bad time?
+
+                                    CLARK
+                   There won't be any more bad times.
+                   I hate to ruin your plans, but I've
+                   decided to go ahead and tell
+                   everyone I'm Superman.  Want to see
+                   who can call a press conference the
+                   fastest?
+
+    INTERCUT AS NEEDED WITH:
+
+
+15  INT. BUNKER - DAY                                                15   
+
+    We're TIGHT ON JACE as he speaks into a cellular phone.
+
+                                    JACE
+                   Interesting change of attitude.
+                   Your folks didn't have anything to
+                   do with it, did they?
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       17.    
+
+
+15  CONTINUED:                                                       15   
+
+                                    CLARK
+                         (thrown)
+                   My folks...
+
+                                    JACE
+                   We're sharing some quality time
+                   together now.  Well, I call it
+                   that.  They call it kidnapping.
+
+                   He turns and eyes...
+
+
+16  ANOTHER ANGLE                                                    16   
+
+    ... Martha and Jonathan, sitting on a cot in a sparsely
+    furnished underground bunker.  They're under the watchful
+    eye of Nigel.
+
+                                    JACE
+                   They're good people.  And I know
+                   you wouldn't want anything to
+                   happen to them.
+
+                                    JONATHAN
+                   Clark!  We're in a lead lined room
+                   somewhere north of...
+
+    Nigel slaps him.  Hard.
+
+                                    MARTHA
+                   Jonathan!
+
+    As she tends to him...
+
+                                    CLARK
+                         (he's heard it all)
+                   Let them go.  They mean nothing to
+                   you.
+
+                                    JACE
+                   Oh sure they do.  Because now you
+                   have to do what I say no matter
+                   what happens.
+
+                                    CLARK
+                   I can't steal for you.
+
+                                    JACE
+                   You can do anything.  You're
+                   Superman.  Remember?
+
+    END INTERCUT as Jace clicks off. HOLD ON Clark's anguished
+    look, then...
+
+                                                       FADE OUT:
+
+                             _END OF ACT ONE_
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       18.    
+
+                               _ACT TWO_
+
+    FADE IN:
+
+17  INT. CLARK'S APARTMENT - DAY                                     17   
+
+    Clark quickly enters and takes in the sign of struggle: 
+    several suitcases knocked over and kicked aside; a fallen 
+    lamp; one end of the couch shoved too close to the coffee 
+    table.  He lets out a sigh of anguish and frustration.
+
+                                    CLARK
+                         (to himself)
+                   All right, whoever you are, let's 
+                   see what your fingerprints look 
+                   like.
+
+    He turns and focuses his SUPERVISION an the doorknob of his 
+    front door.
+
+
+18  SUPER CLOSEUP - DOORKNOB                                         18   
+
+    It's clean.  Not a print on it.
+
+                                    CLARK (V.O.)
+                         (surprised)
+                   Hmph.  Wiped clean.  Okay, what
+                   else did you touch?
+
+
+19  BACK TO SCENE                                                    19   
+
+    Clark quickly moves around the room and does a SUPER CLOSEUP
+    SCAN of: the suitcase handles; the fallen lamp; the top of 
+    the coffee table.  They're all clean.
+
+                                    CLARK
+                         (frustrated)
+                   No fingerprints, so... what about 
+                   footprints?  Or a piece of your 
+                   hair?
+
+    He SUPERSCANS the floor.  Then a throw rug.  There's 
+    something an the rug, but it's a blurred series of 
+    overlapping prints... nothing definite.  He spots a hair and
+    instantly picks it up, then frowns.
+
+                                    CLARK (CONT'D)
+                   Mom, when did you start dying your
+                   hair?
+
+    He tosses it away in frustration and begins to pace around 
+    the room.  He picks up the lamp; rights the suitcases.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       19.    
+
+
+19  CONTINUED:                                                       19   
+
+                                    CLARK (CONT'D)
+                   What else?!  What else?!
+
+    Suddenly, the Watchman in Clark's pocket beeps.  He pulls it
+    out and punches it on.  The shadowy figure of Jace appears.
+    on the screen.
+
+                                    JACE (T.V.)
+                   Hey, Superman, how's it going?  We
+                   didn't make too much of a mass, did
+                   we?
+
+    Clark immediately  heads for the window,
+
+                                    JACE (T.T.)
+                   Don't bother looking for me.  I'm 
+                   nowhere nearby, but my eyes are 
+                   everywhere.
+
+    Clark checks himself.
+
+                                    CLARK
+                   What do you want?
+
+                                    JACE (T.V.)
+                   Remember that little job I 
+                   mentioned?  Well, gosh, I forgot to 
+                   tell you where to take the stuff.
+                   I want it delivered to me by 
+                   midnight tonight.  I'll be waiting 
+                   behind the fountain in Centennial 
+                   Park.  No diamonds, no parents.  
+                   And if I smell anything funny, 
+                   you'll be an orphan, comprende?
+
+    The screen goes black.  A thoughtful look crosses Clarks's 
+    face.
+
+                                    CLARK
+                   'Smell anything funny.' Hmmmm.
+
+    He sniffs the air and we ZOOM IN an his nose.  A second 
+    later he SUPERSPEEDS and SNIFFS around the apartment and 
+    suddenly stops like a pointer on a scent.  He takes a final 
+    sniff and smiles.
+
+                                    CLARK (CONT'D)
+                   Gotcha!
+
+    He SPINS and changes into Superman.  Just as he stops, Lois 
+    runs up to the open front door and spots him.
+
+                                    LOIS
+                   Superman!
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       20.    
+
+
+19  CONTINUED:  2                                                    19   
+
+    Superman turns in surprise.
+
+                                    SUPERMAN
+                   Lois!
+
+                                    LOIS
+                   What're you doing here?
+
+
+                                    SUPERMAN
+                   I... uh... was looking for Clark.
+
+                                    LOIS
+                   Is that why he left?   Are you and 
+                   he working on something?  Something 
+                   you don't want me to know about?
+
+                                    SUPERMAN
+                   No!  Isn't he at the Planet?  I... 
+                   just came by to say 'hello' to his 
+                   folks, but... I guess they went out 
+                   to get groceries... or frozen 
+                   yogurt.  Or... coffee.
+
+    Superman lamely trails off.  He's dying to get out of here.
+
+                                    LOIS
+                   But if you thought he was at the 
+                   Planet, why'd you think he might be 
+                   here?
+
+    Superman gulps.  She's got him.
+
+                                    SUPERMAN
+                   Because... I stopped here first, 
+                   and if he wasn't here, I figured 
+                   he'd be at the Planet.
+
+    Lois digests this.  It makes sense.  Her antennae retract a 
+    bit.
+
+                                    LOIS
+                   Well, he's not there.
+
+    Superman starts to LEVITATE in anticipation of leaving... 
+    and cutting short any more Lois questions.
+
+                                    SUPERMAN
+                   I guess I'll catch him later then.
+                   See ya.
+
+    He FLIES out the window.  Lois watches him for a moment, 
+    then turns and looks back at the apartment.  Hmmm.
+
+                                                       CUT TO:
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       21.    
+
+
+20  EXT. STREET - DAY                                                20   
+
+    Superman WALKS down the sidewalk, sniffing, following the
+    scent from his apartment.  Passersby pause and look at him
+    in puzzlement Superman steps into the street, walks 
+    through oncoming traffic, oblivious to the commotion he's 
+    causing, and crosses to the other sidewalk, continuing along 
+    his way.
+
+
+21  CLOSEUP - SUPERMAN'S FACE                                        21   
+
+    as he frowns, straining to stay on the trail.  As we DOLLY
+    IN on his face, we go to...
+
+
+22  SUPERMAN'S POV - THE SIDEWALK/STREET                             22   
+
+    In a Zarate SFX, we do an EXTREME RACK FOCUS, from the 
+    street to a flurry of floating SCENT MOLECULES.  The street 
+    is a blurry background.  The scent molecules appear from the 
+    distance and bob towards camera in ones and twos as Superman 
+    moves forward.  It's similar to moving through the star 
+    field in Star Wars, except there are only a few molecules 
+    and they float and drift erratically, being blown by the 
+    wind.
+
+    We HEAR Superman still sniffing and then we FADE IN 
+    something else that Superman's SUPERHEARING picks up: it 
+    seems like a dozen other noses sniffing.
+
+
+23  SUPERMAN                                                         23   
+
+    stops on the sidewalk and slowly turns around.  A whole
+    CROWD of curious people are trailing behind him sniffing,
+    trying to smell what he's smelling.  It's as if he were the
+    Pied Piper of Hamlin.
+
+                                    SUPERMAN
+                         (slightly embarrassed)
+                   It's... okay. There's nothing to
+                   be worried about.  Everything's
+                   under control.  I'm just...
+                         (lamely)
+                   checking something out.  So...
+                   don't mind me.
+
+    He turns back around, does a SUPER SNIFF strong enough to 
+    roll trash along the sidewalk, whip a newspaper out of a 
+    man's hand and pull a woman's hat off.  He catches the hat 
+    and hands it back to her.
+
+                                    SUPERMAN (CONT'D)
+                   Sorry.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       22.    
+
+
+23  CONTINUED:                                                       23   
+
+    Then, with a much gentler sniff, be picks up the trail again 
+    and heads off.
+
+                                                       CUT TO:
+
+
+24  INT. BUNKER DAY                                                  24   
+
+    Martha stands on a chair and scrutinizes an air vent set in 
+    the wall above bar head . . It's about ten inches wide.  
+    Jonathan steadies the chair for her.
+
+                                    MARTHA
+                         (still rankled)
+                   It must've taken a lot of thought 
+                   to come up with the idea of a gift 
+                   certificate.
+
+                                    JONATHAN
+
+                         (halfheartedly)
+                   Well, I _did_ consider a few other
+                   things before I settled an it.
+
+    Martha steps down from the chair.
+
+                                    MARTHA
+                         (re: vent)
+                   Even if we _could_ get the grill 
+                   off, neither one of us could get 
+                   through it.
+
+    She heads for the door and, for the lack of any other 
+    option, tries the doorknob.  It gives her an electric shock, 
+    which causes her to jump back.
+
+                                    MARTHA (CONT'D)
+                   Ow!
+
+                                    JONATHAN
+                   Martha, are you all right?!
+
+                                    MARTHA
+                         (shaking her hand)
+                   I'm fine.  Maybe I can use your 
+                   gift certificate to buy some 
+                   Bandaids when we get out of here.
+
+                                    JONATHAN
+                   if you don't like it, just come out
+                   and say it.
+
+    Martha drops to the floor and tries to look under the door.
+    Jonathan stiffly kneels down next to her.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       23.    
+
+
+24  CONTINUED:                                                       24   
+
+                                    MARTHA
+                   I can't see anything.  Must be some
+                   kind of seal.  Usually you don't 
+                   see that.
+
+    She waves off Jonathan's help as she stands up.  She studies 
+    the doorknob again and looks up at the single, overhead light.
+
+                                    JONATHAN
+                   You want me to get you something 
+                   else?  Tell me.  I'll be happy to.
+
+                                    MARTHA
+                   You know, if we had some wire, 
+                   maybe we could run it from the 
+                   light to the doorknob and short it 
+                   out, then we could really get to 
+                   work on it.
+
+                                    JONATHAN
+                   Martha, would you just look at me
+                   for a second.
+
+    Martha, who's been avoiding eye contact all this time, 
+    finally looks at him.
+
+                                    MARTHA
+                   Jonathan, I guess I'm just hurt, 
+                   that's all.  I guess I was 
+                   expecting a little more.
+
+                                    JONATHAN
+                         (beat)
+                   Maybe there is.
+
+    Martha looks at him for a moment, then suddenly digs in her 
+    pocket and pulls out the gift certificate.  She studies it 
+    for a second, sees Jonathan's encouraging look, and flips it 
+    over.  On the back there's a note in Jonathan's handwriting.  
+    Her face falls.
+
+                                    MARTHA
+                   I'm supposed to use this to get a
+                   _book_ at the book counter?
+
+                                    JONATHAN
+                   They're holding it for you.
+
+                                    MARTHA
+                         (pissed)
+                   It better be a really great
+                   book.
+
+    And on Jonathan's sickly smile, we...
+
+                                                       CUT TO:
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       24.    
+
+
+25  EXT. MARVIN'S GARDENS FLORIST SHOP - DAY                         25   
+
+    MARVIN, a large African-American who looks like he used to 
+    play football; delicately tends the flowers on display in 
+    front of his store, in particular a cascade of orchids.  
+    Still sniffing, Superman rounds the corner and walks right 
+    up to Marvin.
+
+                                    SUPERMAN
+                   Excuse me, sir what kind of
+                   orchids are those?
+
+                                    MARVIN
+                         (without looking up)
+                   Oncidium Fifty-Two Blitz Go Right 
+                   Stunt.  Breed 'em myself.  And 
+                   unless you know something about 
+                   getting rid of aphids, beat it.
+
+                                    SUPERMAN
+                   Un, I could give them a stern
+                   talking to.
+
+    For the first time Marvin looks up.  He's surprised to see 
+    it's Superman.
+
+                                    MARVIN
+                   Superman.  Sorry, I... uh, didn't
+                   know it was you.
+
+                                    SUPERMAN
+                         (smiles)
+                   That's okay.
+                         (studies Marvin)
+                   Didn't you used to play for the
+                   Bills?
+
+                                    MARVIN
+                   Til my knee blew out.  Now I do 
+                   this.  It's much more relaxing, and 
+                   _definitely_ less painful.
+
+    Superman picks up the stem of orchids.
+
+                                    SUPERMAN
+                   I'm looking for a man who's wearing
+                   one of these.
+
+                                    MARVIN
+                   Don't actually sell many of them to 
+                   people off the street.  Haven't 
+                   sold one to a man in weeks.
+
+                                    SUPERMAN
+                   This one was fresh.  It almost
+                   smelled like cherry vanilla.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       25.    
+
+
+25  CONTINUED:                                                       25   
+
+                                    MARVIN
+                   That's the Fifty Two Blitz Go Right 
+                   Stunt alright.  Only orchid that 
+                   smells that way.  Your friend 
+                   Swiss?
+
+                                    SUPERMAN
+                   He doesn't sound it.  Why do you
+                   ask?
+
+    Marvin's a bit puzzled by Superman's reply, but he answers anyway.
+
+                                    MARVIN
+                   My biggest customer is Zurich Air.
+                   They hand them out to all their 
+                   First Class transatlantic 
+                   passengers.
+
+                                    SUPERMAN
+                   Really?
+
+                                                       CUT TO:
+
+26  INT. DAILY PLANET BULLPEN - NIGHT #2                             26   
+
+    Clark is on the phone, trying to keep his temper.  He 
+    glances at his watch; it's getting late.
+
+                                    CLARK
+                         (into phone)
+                   Yes?  Hello?  I've been on hold for 
+                   twenty minutes.  No, I can't call 
+                   back later, I just want to speak to 
+                   someone who can tell me who flew 
+                   with you the last couple of days. 
+                   No, I know you don't normally 
+                   release passenger lists, but this 
+                   is an emergency.  Is there a 
+                   supervisor, or someone in Zurich 
+                   I could talk to?
+                         (increasing anxiety)
+                   No no no!  Don't put me on hold.
+
+    They put him on hold.  Clark grits his teeth and checks his 
+    watch.  It's almost 8:00 pm.  Damn!
+
+
+27  ANGLE ON JIMMY AND PERRY                                         27   
+
+    Perry is choosing a donut from the box that Jimmy holds.
+    Suddenly, he frowns.  He's spotted Lois exiting the 
+    elevators.  She sees Clark and heads for him.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       26.    
+
+
+27  CONTINUED:                                                       27   
+
+                                    PERRY
+                         (half to himself;
+                          to Jimmy)
+                   All hands on deck
+
+    Jimmy follows Perry's look and then shifts to see the 
+    unsuspecting Clark.
+
+                                    JIMMY
+                   What?  She doesn't look angry.
+
+                                    PERRY
+                   That's when she's most dangerous.  
+                   You never know what's going to 
+                   happen.  Could be good... could 
+                   be _bad_.
+
+
+28  ANGLE ON CLARK                                                   28   
+
+    He checks his watch again, makes a decision and slams down 
+    the phone.  He pulls open a drawer and yanks out his copy of 
+    the Metropolis Yellow Pages.  He flips to the jewelry store 
+    pages.  On one page there are a dozen ads of various shapes, 
+    all for store names beginning with "M".  One ad is for 
+    "Mazik's Jewelry.  The only thing finer than our diamonds, 
+    is our service."  Clark reads the address: "1651 N. Thornton 
+    Street".
+
+                                    LOIS (V.O.)
+                   Oh, looking to buy me something?
+
+    Clark jumps.  He didn't hear her approach.  He awkwardly 
+    stands; he wants to leave.
+
+                                    CLARK
+                   Um, I... forgot to get an 
+                   anniversary present for my folks.
+                   I've gotta get one before the 
+                   stores close.
+
+                                    LOIS
+                         (brightly)
+                   Good idea.  You better take care of
+                   that.
+
+    The lack of Lois's resistance makes Clark pause.
+
+                                    CLARK
+                   You're not mad?
+
+                                    LOIS
+                   At what?
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       27.    
+
+
+28  CONTINUED:                                                       28   
+
+                                    CLARK
+                   That once again I'm running off?
+
+                                    LOIS
+                   Why should I be?  Doctor Friskin
+                   really helped set me straight an
+                   this.  I've come to realize, and
+                   accept, that we both have
+                   separate lives.  No matter how
+                   involved we are, or become, it's
+                   perfectly all right for us to
+                   sometimes do things apart.
+
+    Clark bobs his head in relief and dashes off.  Lois turns
+    away.
+
+                                    LOIS (CONT'D)
+                         (to herself; re:
+                          separate actions)
+                   Not!
+
+    She looks at the page Clark was studying. She tears it out.
+
+                                                       CUT TO:
+
+
+29  EXT. ALLEY - NIGHT                                               29   
+
+    Clark, dressed in a Cat Burglar-esque black outfit,
+    unhappily eyes the darkened FRONT DOOR to Mazik's Jewelry
+    for a beat, then with SUPER SPEED he picks the lock.  He
+    steps inside.
+
+                                                       CUT TO:
+
+
+30  EXT. BARRINGTON JEWELRY MART - NIGHT                             30   
+
+    Lois pulls up in the Jeep and studies the Barrington Jewelry
+    Mart.  It's completely dark.
+
+
+31  INT. JEEP - CONTINUOUS                                           31   
+
+    Lois wrinkles her nose; another dead end.  WE SEE her bend
+    down and cross off the ad for Barrington Jewelry Mart on the
+    yellow page she tore from Clark's directory.  About three
+    other stores have already been crossed off.  She puts the
+    Jeep in gear and heads for the next one.
+
+                                                       CUT TO:
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       28.    
+
+
+32  INT. MAZIK'S JEWELRY - NIGHT                                     32   
+
+    Numerous glass display cases filled with jewelry dot the
+    floor.  Clark quickly BLOWS COLD AIR ON A SECURITY PANEL,
+    freezing and deactivating the alarm.  He makes way to an
+    open doorway leading to a back area and stops.
+
+
+33  HIS POV                                                          33   
+
+    The back area.  Small and windowless.  Two jeweler's work
+    counters in the center and a six foot high double door
+    combination lock safe against a wall.
+
+
+34  RESUME SCENE                                                     34   
+
+    Clark activates his X-RAY VISION.
+
+
+35  X-RAY POV                                                        35   
+
+    SCANNING a grid of alarm activating sensor pads, embedded in
+    the floor.
+
+
+36  INT. BACK AREA - NIGHT CONTINUOUS                                36   
+
+    Clark FLOATS across the floor to the safe and lands.
+
+                                                       CUT TO:
+
+
+37  EXT. JELLICO'S HOUSE OF JEWELS - NIGHT                           37   
+
+    Lois pulls up across the street from Jellico's and kills her
+    lights.  The store is dark.
+
+
+38 INT. JEEP - CONTINUOUS                                            38   
+
+    Once again she looks for Clark, but there's no sign of
+    anyone.  She waits a minute, bites her lip, then flicks on
+    her lights.  She crosses off Jellico's ad on the yellow
+    pages and puts the Jeep in gear.
+
+                                                       CUT TO:
+
+39 INT. BACK AREA - MAZIK'S JEWELRY - NIGHT                          39   
+
+    Reluctantly, Clark uses his X-RAY VISION TO LOOK AT THE
+    TUMBLERS inside the combination lock.
+
+
+40  ON LOCK                                                          40   
+
+    As he spins it we see the tumblers fall into place.
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       29.    
+
+
+41  SCENE                                                            41   
+
+    He opens the door, reaches in and pulls oft a large black 
+    velvet box.  He opens it, revealing hundreds of small uncut 
+    diamonds.  He quickly closes the box, closes the safe and 
+    floats back out the doorway into the main room.
+
+
+42  INT. MAZIK'S JEWELRY - NIGHT CONTINUOUS                          42   
+
+    Suddenly he bears the FRONT DOOR UNLOCK.
+
+                                    MAN #1 (V.O.)
+                   It'll only take a second.  I left 
+                   it right under the counter.
+
+    A look of alarm flashes across Clark's face.  There's no 
+    place to hide.  He shoots a bean of HEAT VISION to defrost 
+    the alarm.
+
+
+43  ANOTHER ANGLE                                                    43   
+
+    A MAN enters the store, punches in the disarm code on the 
+    alarm.  He crosses behind a counter, grabs his cellular 
+    phone, then crosses back out of the store, resetting the 
+    alarm as he does.  He locks the door and as we hear his 
+    departing voice...
+
+                                    MAN #1 (V.O.)
+                   See.  Just took a second.
+
+    ... the CAMERA WIDENS TO REVEAL Clark, holding the velvet 
+    box, FLOATING prone on the ceiling over the front door.  Off 
+    his sigh of relief...
+
+                                                       CUT TO:
+
+
+44  EXT. MAZIK'S JEWELRY - NIGHT                                     44   
+
+    Nothing moves.  Then, the front door opens and Clark slips 
+    out carrying the velvet box.  He quickly slips off into the 
+    darkness.  CAMERA PULLS BACK and REVEALS Lois sitting 
+    slouched in her Jeep, her head just high enough to look over 
+    the window sill of the door.  Her face is a mixture of 
+    astonishment and hurt.  She can't believe what she's just 
+    seen.
+
+                                                       FADE OUT.
+
+                          _END OF ACT TWO_
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       30.    
+
+                             _ACT THREE_
+
+    FADE IN:
+
+45  EXT. PARK - NIGHT                                                45   
+
+    Dark, still, a little spooky.  Clark appears next to a
+    fountain.  He's carrying the proceeds from his heist.  The
+    Watchman BEEPS.  He takes it from his pocket.  The
+    unidentifiably shadowy Jace appears an the screen.
+
+                                    JACE (V.O.)
+                   Oh, you look fabulous in black,
+                   Clark.  Where are the diamonds?
+
+    Clark hates this.
+
+                                    CLARK
+                   Right here.
+
+
+46  INT. JACE'S PLACE - NIGHT                                        46   
+
+    Nigel sits, out of viewing range, as Jace talks to Clark.
+    Nigel is filing his nails.
+
+                                    JACE
+                   Show them to me.  No, don't bother,
+                   I'm sure you wouldn't double cross
+                   me.  Not as long as I have your
+                   parents.
+
+    INTERCUT AS NEEDED:
+
+                                    CLARK
+                   I've done what you asked. Where
+                   are my mom and dad?
+
+                                    JACE
+                   You know, I don't think they're
+                   enjoying their visit.  They keep
+                   trying to find a way out.
+
+                                    CLARK
+                   Where are they?
+
+                                    JACE
+                   It warms my heart to watch them.
+                   There's something so... bovine
+                   about them.
+
+                                    CLARK
+                   I'm glad you find then heart-
+                   warming.  Tell me where they are.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       31.    
+
+
+46  CONTINUED:                                                       46   
+
+                                    JACE
+                   Drop the diamonds in the fountain.
+
+    Clark does so.
+                                    JACE (CONT'D) 
+                   Thank you so much.  And, Clark,
+                   don't wait for the courier.  Don't 
+                   follow the courier. If you do, Ma
+                   and Pa will die... I'll be in 
+                   touch.
+
+    Jace reaches out to turn off the communication.
+
+                                    CLARK
+                   Hey!
+
+    Jace's hand stops aid-air.
+
+                                    JACE
+                   Yes, Clark?
+
+                                    CLARK
+                   I bring you these diamonds, you 
+                   release my parents, was that the 
+                   deal, was that what you said?
+
+                                    JACE
+                   Yes, Clark.
+
+                                    CLARK
+                   Well?
+
+                                    JACE
+                   I lied.
+
+    The Watchman screen goes dark. Off Clark's reaction --
+
+
+47  INT. JACE'S PLACE - NIGHT                                        47   
+
+    Jace turns to Nigel.
+
+                                    JACE
+                   Isn't this fun?
+
+    Nigel looks up from shaping his nails.
+
+                                    NIGEL
+                   Getting greedy?
+
+                                    JACE
+                   I'm thinking maybe another little 
+                   job or two.  We might as well get 
+                   stinking rich before we kill him.
+
+    He smiles.  Nigel remains stony-faced.
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       32.    
+
+
+48  EXT.  CLARK"S APARTMENT - NIGHT                                  48   
+
+    Lois is waiting, not calmly.  Clark appears.  Lois plunges 
+    right in:
+
+                                    LOIS
+                   You look good in black.  Perfect 
+                   for your skin tones.  Perfect for a 
+                   funeral, maybe yours.  Perfect for 
+                   robbing a jewelry store.
+
+    He opens his mouth, and:
+
+                                    CLARK AND LOIS
+                         (simultaneously)
+                   Lois, I can explain.
+
+                                    LOIS
+                   I thought I knew you.  I thought 
+                   you were decent and straight-up and 
+                   good.  I thought you were the last 
+                   honest man.  I thought you were...
+                   you were...
+
+    She searches for the perfect word.
+
+                                    LOIS (CONT'D)
+                   I thought you ware Clark Kent...
+                   Who are you?
+
+    They gaze at each other for a moment, then:
+
+                                    CLARK
+                   Mom and Dad have been kidnapped.
+
+    This stops Lois in her tracks.
+
+                                    LOIS
+                   What?
+
+                                    CLARK
+                   Mom and Dad have b --
+
+                                    LOIS
+                         (overriding)
+                   So that's why you ran out this 
+                   morning.  That's why you robbed the 
+                   jewelry store...
+
+                                    CLARK
+                   He threatened to kill them.  I had
+                   to rob that store...
+
+                                    LOIS
+                   Have you called the police?  The
+                   FBI?
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       33.    
+
+
+48  CONTINUED:                                                       48   
+
+                                    CLARK
+                   I can't take that chance, Lois.
+
+                                    LOIS
+                   So, he's letting them go now?
+
+                                    CLARK
+                   I don't think so.  I think he wants
+                   more.
+
+    Lois has moved closer to him during the preceding exchange.
+
+                                    LOIS
+                   Clark, I'm so sorry....
+
+                                    CLARK
+                   Thank you.
+
+    A moment, then:
+
+                                    LOIS
+                   Why?... Why would anybody kidnap 
+                   your parents?
+
+    A question Clark was no doubt hoping she wouldn't ask.  He 
+    can tell her the truth, or he can say:
+
+                                    CLARK
+                   I wish I knew, Lois.  I only know 
+                   that I have to keep doing what he 
+                   says while I try to find them.
+
+                                    LOIS
+                   What about Superman?
+
+                                    CLARK
+                   He hasn't been able to find then
+                   yet.
+
+    She puts a hand on his chest.
+
+                                    LOIS
+                   I'll do anything I can to help...
+
+    He runs a gentle hand along her hair, gazing deeply into her 
+    eyes.
+
+                                    CLARK
+                   Thank you, Lois.
+
+    He folds his arms around her, and they stand there in a 
+    tender embrace.
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       34.    
+
+
+49  INT. DAILY PLANET - DAY #2                                       49   
+
+    Lois and Clark are at Lois's desk, sitting so close to each 
+    other they're practically one person.  They don't look like 
+    they've gotten much sleep.  Lois in wearing what she wore 
+    yesterday.  She's an the phone.
+
+                                    LOIS
+                         (into phone)
+                   Do _not_ put as an hold, it's taken
+                   me eight hours just to find a human 
+                   being to talk to, you're an 
+                   international airline you should    
+                   have your phones covered 24 hours a 
+                   day,
+                         (unintelligible squawking
+                          from the phone)
+                   Voice mail doesn't count.
+
+    She gets to the purpose of her call:
+
+                                    LOIS (CONT'D)
+                   I need to talk to somebody who can 
+                   authorize the release of passenger 
+                   lists...
+
+    Perry's across the room checking a layout, keeping an eye on 
+    Lois and Clark.  As Jimmy walks-by him:
+
+
+50  WITH PERRY AND JIMMY                                             50   
+
+    The layout is a banner headline about the jewelry heist.
+
+                                    PERRY
+                   Jimmy.
+                         (to the layout person)
+                   That's fine, Maxwell.  Get it 
+                   composited.
+
+    Maxwell moves off.  Jimmy has stopped, awaiting the boss'
+    pleasure.
+
+                                    PERRY (CONT'D)
+                   That dress Lois has on, didn't she 
+                   wear that yesterday?
+
+    Jimmy looks.
+
+                                    JIMMY
+                   I don't know, chief.
+
+                                    PERRY
+                   You want to be a newspaperman, you 
+                   gotta be observant.  Does Clark 
+                   look a little haggard to you?
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       35.    
+
+
+50  CONTINUED:                                                       50   
+
+    Jimmy looks.  Clark does look a little haggard.
+
+                                    JIMMY
+                   Yes.
+
+    Lois is talking rather animatedly, if quietly, on the phone.
+
+                                    PERRY
+                   Like he hasn't had much sleep 
+                   lately?  Like he's got something 
+                   worrying him?  Like a dog trapped 
+                   in a cage?
+
+                                    JIMMY
+                   Yeah, I guess.. .
+
+                                    PERRY
+                   You know what I think, Jimmy?
+
+    Jimmy has no idea.
+
+                                    PERRY (CONT'D)
+                   I think they eloped.
+
+    Jimmy looks back toward:
+
+
+51  LOIS AND CLARK                                                   51   
+
+    Lois, still an the phone.
+
+                                    LOIS
+                         (into phone)
+                   I don't usually do this, but how 
+                   about this:  I'll give you a free 
+                   one-year subscription to the Daily 
+                   Planet, delivered every morning to 
+                   your doorstep in Zurich... well, 
+                   all right, to your doorstep in 
+                   Fresno...
+                         (the phone squawks, then)
+                   May I speak to your supervisor?
+
+    Some more SQUAWKING from the phone, then she's on hold.  She 
+    sees Perry and Jimmy staring at her and Clark.  They quickly 
+    turn away and go about their business.
+
+                                    LOIS (CONT'D)
+                         (to Clark)
+                   I don't think this is going to
+                   work.  We don't have any leverage.
+
+    The doughnut-scarfing COP from "Chi of Steel" has entered 
+    the room, moves over to Lois and Clark.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       36.    
+
+
+51  CONTINUED:                                                       51   
+
+                                    COP
+                   Could I talk to you, Kent?
+
+                                    CLARK
+                   Sure, Sergeant.
+
+    The cop takes a photo out of his pocket, doesn't show it to
+    Clark yet.
+
+                                    COP
+                   That jewelry store that got hit
+                   last night?
+
+    He gets a guarded reaction from Lois and Clark.
+
+                                    COP (CONT'D)
+                   They've got a hidden security
+                   camera.
+
+    He hands the photo to Clark.
+
+
+52  INSERT - PHOTO                                                   52   
+
+    It's a grainy three-quarter profile, but it really does look
+    like Clark.
+
+
+53  BACK TO SCENE                                                    53   
+
+    Clark's holding the picture, Lois -- still on hold -- is
+    looking at it, too.
+
+                                    LOIS
+                   That could be anybody, Zymak.
+
+    Zymak holds the photo up next to Clark's face.
+
+                                    COP
+                   Same nose, same chin, same glasses.
+
+    He and Lois both look from the picture to Clark's glasses.
+    Clark adjusts his glasses, hanging onto them lest somebody
+    decide to take them off his face for comparison purposes.
+
+                                    COP (CONT'D)
+                         (to Clark)
+                   Where were you last night from,
+                   say, nine o'clock on?
+
+    Into the silence that greets this question:
+
+                                    LOIS
+                   He was with me.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       37.    
+
+
+53  CONTINUED:                                                       53   
+
+                                    COP
+                   Yeah
+
+                                    LOIS
+                   Yeah.
+
+                                    COP
+                   All night?
+
+                                    LOIS
+                   All night.
+
+    Zymak looks skeptical.
+
+                                    CLARK
+                   Sergeant, you _know_ us.  Do you 
+                   really think I'd commit a burglary?
+                   Do you really think Lois would lie 
+                   about it?
+
+    Zymak considers this.
+
+                                    COP
+                   No. No, I don't.  But you've got a
+                   double out there somewhere, Kent.
+
+    He's going to leave, but:
+
+                                    CLARK
+                   Ah, Sergeant?  If I ask Superman to
+                   help you find this thief, could you
+                   do me a favor?  We need some
+                   information from Zurich Air, uh,
+                   for something we're working on...
+
+    Zymak raises his eyebrows.
+
+
+54  WITH PERRY                                                       54   
+
+    in yet another part of the room, watching Lois and Clark and
+    the cop as he gets himself a cup of coffee.  Clark says
+    something to the cop, who shrugs, then Lois hands the phone
+    to the cop.
+
+
+55  AT LOIS' DESK                                                    55   
+
+    The cop takes the receiver.
+
+                                    COP
+                         (into phone)
+                   This is Sergeant Zymak, Metropolis
+                   Police Department, Badge number
+                   0648...
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       38.    
+
+
+56  INT. BUNKER - DAY                                                56   
+
+    Jonathan and Martha have given up trying to escape.  They're 
+    sitting.  After a moment:
+
+                                    JONATHAN
+                   Clark will find us...
+
+                                    MARTHA
+                   I know.
+                         (then)
+                   But if he doesn't --
+
+                                    JONATHAN
+                   He will.
+
+                                    MARTHA
+                   But if he doesn't, I want you to 
+                   know I wouldn't trade one minute of 
+                   the life we've had together.
+
+                                    JONATHAN
+                   How about the time I told your
+                   mother to stuff a sock in it?
+
+                                    MARTHA
+                         (smiles)
+                   _That's_ what made me fall in love
+                   with you.
+
+    He smiles back, then gets more serious:
+
+                                    JONATHAN
+                   How about when we found out we
+                   couldn't have children?
+
+                                    MARTHA
+                   You were a tower of strength and 
+                   understanding... You're the best 
+                   man I know, the best I've ever 
+                   known.  I loved you then, and I 
+                   love you now.
+
+    Jonathan may cry.
+
+                                    JONATHAN
+                   I love you, too.
+
+    She takes his hand.  After a moment:
+
+                                    JONATHAN (CONT'D)
+                   Martha?  About that gift
+                   certificate...
+
+    She's moving into his arms.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       39.    
+
+
+56  CONTINUED:                                                       56   
+
+                                    MARTHA
+                   Shhh... shhh...
+
+    He stops talking and just holds her gently.
+
+
+57  INT. DAILY PLANET - DAY                                          57   
+
+    The cop has gone.  Lois and Clark are working at her desk.
+    They've got the applicable passenger manifests now.  Clark 
+    looks up.
+
+                                    CLARK
+                   Look at this, Lois.
+
+    He shows her his manifest, pointing to a name.
+
+                                    CLARK (CONT'D)
+                   Does this ring a bell?
+
+    Lois looks.  She's galvanized by what she sees.
+
+                                    LOIS
+                   It sure does.  It's one of the 
+                   names Nigel St. John uses.  What is 
+                   going on, Clark?  What could Nigel 
+                   St. John possibly have to do with 
+                   your parents?
+
+    He's pulled the phone toward him and has dialed.
+
+                                    CLARK
+                         (into phone)
+                   This is Sergeant Zymak again, 
+                   M.P.D., you had a passenger 
+                   Nicholas S. Janacek, Flight 697, 
+                   two days ago.  Can you tell me how 
+                   the fare was paid?
+
+    While he's waiting:
+
+                                    LOIS
+                   Is Nigel your kidnapper?
+
+                                    CLARK
+                   No.  My guy doesn't have an accent, 
+                   but it's too coincidental that 
+                   the --
+
+    He's cut off by the other phone party.  He listens, then:
+
+                                    CLARK (CONT'D)
+                         (into phone)
+                   Mazik?  Jason T. Mazik?
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       40.    
+
+
+57  CONTINUED:                                                       57   
+
+                                    LOIS
+                   As in Mazik Jewelers?
+
+                                    CLARK
+                         (phone)
+                   Thank you.
+                         (hangs up)
+                   Yes, as in Mazik Jewelers.
+
+    He gets up, energized.
+
+                                    CLARK (CONT'D)
+                   You wait here.
+
+    She nails him with a look.
+
+                                    LOIS
+                   When pigs fly.
+
+
+58  INT. JACE'S PLACE - DAY                                          58   
+
+    Lois and Clark are sitting across from Jace.  No Nigel.
+    Jace is being very charming.
+
+                                    JACE
+                         (to Lois)
+                   But you're not bothering me at all,
+                   Miss Lane. I'm honored. I read
+                   your articles all the time.
+                   They're wonderful. And yours, too,
+                   Mr. Kent.  Yours are just... super.
+
+    Clark blanches as Lois plows ahead:
+
+                                    LOIS
+                   Thank you. Do you know a Nicholas
+                   S. Janacek?
+
+    Clark's looking at the wall behind Jace. He activates his
+    X-RAY VISION and sees a bedroom -- empty.
+
+                                    JACE
+                   Janacek?  No, I don't believe I do.
+                   Why do you ask?
+
+                                    LOIS
+                   We're trying to trace him for a
+                   story we're doing.  You paid his
+                   plane fare from England a couple of
+                   days ago.
+
+    Clark's LOOKING THROUGH the wall to his left.  A roof
+    garden.  Nobody there.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       41.    
+
+
+58  CONTINUED:                                                       58   
+
+                                    JACE
+                   No, I didn't.
+
+                                    LOIS
+                   Yes, you did.
+
+                                    JACE
+                         (shrugs)
+                   I lost my wallet last week.  All my 
+                   credit cards were in it.
+
+    Clark's looking through the wall to his right.  A kitchen.
+    Nobody there.
+
+                                    LOIS
+                   You don't seem very concerned.
+
+                                    JACE
+                   You report them lost, you get new 
+                   ones.  But I'm really impressed at 
+                   your resourcefulness.  I thought it 
+                   would take, oh, I don't know, 
+                   _Superman_ to pry that kind of 
+                   information out of an airline.
+
+    Clark looks at Jace, who smiles at him.  Isn't this fun?  
+    Jace stands up.
+
+                                    JACE (CONT'D)
+                   I'm so sorry I can't be of any help
+                   to you.
+
+    He opens the door for them.
+
+                                    LOIS
+                   Thank you for your time.
+
+                                    JACE
+                   Oh, the pleasure was all mine,
+                   believe me.
+
+    He closes the door behind them.  As we hear their RECEDING 
+    FOOTSTEPS, we also hear the WHIR of an ELEVATOR.  Jace's 
+    private elevator, which opens into his living room.  After a 
+    moment, it stops and the doors open to reveal Nigel.
+
+                                    NIGEL
+                   What did they want?
+
+                                    JACE
+                   I think you were wrong, Nigel.  I
+                   thought she was sweet.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       42.    
+
+
+58  CONTINUED:  2                                                    58   
+
+                                    NIGEL
+                   The woman is a menace.  We have to
+                   do something about her.
+
+                                    JACE
+                   We're following my agenda, not
+                   yours.
+
+                                    NIGEL
+                   I have the Kryptonite.  You want
+                   it, you do something about that
+                   woman.
+
+    Jace doesn't care much one way or the other.
+
+                                    JACE
+                   All right.  Anything to see your
+                   sunny smile.
+
+    He pats Nigel's cheek.  Nigel would like to strangle him.
+
+
+59  INT. DAILY PLANET - DAY                                          59   
+
+    Lois and Clark, standing by-the fax machine, waiting for
+    something to come through.
+
+                                    CLARK
+                   I'm telling you, it's him.  It's
+                   the same voice.
+
+                                    LOIS
+                   All right, Clark, I'm not arguing
+                   with you.
+
+    The fax is coming through. Jimmy calls over:
+
+                                    JIMMY
+                   C.K., phone for you. You can take
+                   it at Stanley's desk.
+
+    As Clark reaches for the phone, Lois looks up from the fax:
+
+                                    LOIS
+                   He lied, Clark.  He didn't report
+                   his cards missing.
+
+                                    CLARK
+                         (into phone)
+                   Hello?
+
+                                    JACE (V.O.)
+                   Hello, Clark.  It was so nice of
+                   you to visit.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       43.    
+
+
+59  CONTINUED:                                                       59   
+
+                                    CLARK
+                   Just tell me what you want.
+
+                                    JACE (V.O.)
+                   I've called with your new
+                   assignment.  But first, let me ask
+                   you this -- you and Lois?  Are you
+                   guys close?
+
+                                    CLARK
+                         (tight)
+                   Yes.
+
+                                    JACE (V.O.)
+                   Ooooh.  Bummer.  Well, here's the
+                   assignment:  You have 30 minutes,
+                   otherwise Ma and Pa will die.
+                   Bring it to the old airbase outside
+                   of town.
+
+    Lois knows something's up, is watching Clark's face.
+
+                                    CLARK
+                   Bring what?
+
+                                    JACE (V.O.)
+                   Oh, didn't I say?  The body.  Bring
+                   the body.  Your new assignment is
+                   to kill Lois Lane.
+
+    Off Clark's reaction --
+
+                                                       FADE OUT.
+
+                            _END OF ACT THREE_
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       44.    
+
+                              _ACT FOUR_
+    FADE IN:
+
+
+60  INT. DAILY PLANET - CONTINUOUS                                   60   
+
+    Clark hangs up the phone, numb.  Lois is near.
+
+                                    LOIS
+                   That was him... Jace... wasn't it?
+
+                                    CLARK
+                   Lois, don't --
+
+                                    LOIS
+                   What'd he say to you?
+                         (beat)
+                   What did he say, Clark?
+
+                                    CLARK
+                   He wants you dead... in thirty 
+                   minutes... or he's going to kill my 
+                   parents.
+
+    A silence as their eyes meet.
+
+                                    LOIS
+                   It's Nigel... we got too close.
+
+                                    CLARK
+                   I want you to get out of town.  Get
+                   on a plane, go far...
+
+                                    LOIS
+                         (as a thought strikes)
+                   No... I have an idea...
+
+                                    CLARK
+                   Lois --
+
+                                    LOIS
+                         (in motion)
+                   Find Superman and have him meet me
+                   at my apartment.
+
+                                    CLARK
+                         (following)
+                   Lois.  Stop.
+
+                                    LOIS
+                   Everything's going to be all right.
+
+    She turns and kisses him hard on the lips, then moves off, 
+    passing Jimmy and Perry, who exchange a look.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       45.    
+
+
+60  CONTINUED:                                                       60   
+
+                                    JIMMY
+                   What do you think?
+
+                                    PERRY
+                   I think...
+
+    They watch Clark loosen his tie and move off to the back 
+    hall.
+
+                                    PERRY (CONT'D)
+                   ... I'm done thinking.  I don't 
+                   have clue one what's going on.
+
+                                                       CUT TO:
+
+
+61  INT. LOIS's APARTMENT - DAY                                      61   
+
+    Superman cocks his head as Lois paces past him.
+
+                                    SUPERMAN
+                   Freeze you?
+
+                                    LOIS
+                   Like cryogenics... people who fall 
+                   in frozen lakes but get revived?  
+                   You freeze me with your breath, 
+                   fast -- I've seen you do it a 
+                   hundred times -- then it looks 
+                   like I'm dead, you bring the body 
+                   and --
+
+                                    SUPERMAN
+                   Lois, do you have any idea how 
+                   dangerous that is?  There could be 
+                   arterial ruptures, permanent brain 
+                   damage... you could die.
+
+                                    LOIS
+                   Yes.  I could die.  But Clark's
+                   parents _will_ die unless we help.
+                         (pleading)
+                   Please, Superman.  You haven't seen
+                   him...
+                         (crying)
+                   ... you don't know what he's going
+                   through.
+                         (as he almost disagrees)
+                   He needs me and I've never needed 
+                   you more than right now - you 
+                   can't turn me down...
+                         (close; he holds her)
+                   ... you can't.
+
+    He looks at her, torn, then --
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       46.    
+
+
+61  CONTINUED:                                                       61   
+
+                                    SUPERMAN
+                   All right.
+
+    She wipes her eyes.
+
+                                    LOIS
+                   If anything happens, tell Clark I
+                   love him.
+
+    He looks at her, tears quivering in his eyes, his voice
+    breaking --
+
+                                    SUPERMAN
+                   He knows, but I will.  Close your
+                   eyes.
+
+    She does.  He pushes her hair back, just the way Clark did.
+    Her face registers the shock of recognition at this
+    intimate, familiar touch.
+
+                                    LOIS
+                   The way you -- you touched --
+
+                                    SUPERMAN
+                   Close your eyes.
+
+    One last curious look at him, then she does as she's told.
+    He takes an enormous breath and BLOWS A HUGE, ICY BLAST at
+    her that FILLS THE SCREEN.  And as we PUSH IN ON HER, face
+    barely visible in the sudden storm --
+
+                                                       CUT TO:
+
+
+62   INT. JACE'S BUNKER - HALL - DAY                                 62   
+
+    START TIGHT ON LOIS' FACE -- rigid, eyes closed, as it is
+    gently lowered into frame then REVEAL --
+
+    Superman setting her stiff body down on the floor.  His face
+    full of pain and doubt, as --
+
+    Jace and Nigel appear.
+
+                                    NIGEL
+                   Well, well.. Dream all you want...
+                         (moving close to Lois'
+                          body)
+                   ... but nothing quite prepares you
+                   for the sheer thrill of the moment.
+
+                                    JACE
+                   Not a mark on her.  How'd you do
+                   it, Superman?
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       47.    
+
+
+62  CONTINUED:                                                       62   
+
+                                    SUPERMAN
+                   Where are my parents?
+
+                                    JACE
+                   'Where are my parents, _sir_?'
+
+    Superman grabs Jace by the collar.
+
+                                    NIGEL
+                   Now boys, boys, let's not fight,
+                   particularly, since...
+                         (pulls out a small lead
+                          box, opens it)
+                   ... it wouldn't exactly be fair.
+                         (in the box: Kryptonite)
+                   To Superman.
+
+    He backs up and suddenly weakens, shielding his face with
+    his hand.  Nigel gets right in his face with it.
+
+                                    NIGEL (CONT'D)
+                   It's relatively simple to use,
+                   Jace.  Very few moving parts.
+                   Short term exposure...
+
+    Superman leans against the wall.
+
+                                    NIGEL (CONT'D)
+                   ... leads to lasting effect.  Give
+                   it a whirl.
+
+    He hands the box of Kryptonite over.  Jace takes it and
+    taunts Superman with it.
+
+                                    JACE
+                   Superman... do the words
+                   'Nyah-nyah, nuh-nyah-nyah' have any
+                   meaning to you?
+
+
+63 INT. BUNKER ROOM - DAY                                            63   
+
+    Jace uses the Kryptonite to "push" Superman into the room.
+    Superman trips and falls in a heap.
+
+                                    MARTHA
+                   Clark!
+
+    She rushes to him, cradling her boy.  Jonathan rushes him
+    but Nigel's gun stops him.
+
+                                    JACE
+                   I know you must be in a lot of pain
+                   but here's the good news -- it'll
+                   all be over soon.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       48.    
+
+
+63  CONTINUED:                                                       63   
+
+    Jace tosses the Kryptonite into the room as he and Nigel
+    back out.
+
+
+64  INT. BUNKER HALL - DAY                                           64   
+
+    Jace closes the door and locks it.  Then he throws a switch
+    on the wall and -
+
+
+65 INT. BUNKER ROOM - DAY                                            65   
+
+    The vent near the ceiling begin to HISS gas.  Superman sees
+    this.  The Kents cough.  He tries to got up but can't.
+
+                                    SUPERMAN
+                   Move me... over there...
+
+
+66  INT. BUNKER HALL - DAY                                           66   
+
+    Standing over Lois' stiff body, Jace uncaps a flask, using
+    the cap as a shot glass.  He hands the full cap to Nigel.
+
+                                    JACE
+                   My father always said, close a good
+                   deal with a toast.
+
+                                    NIGEL
+                   No doubt a man of excellent
+                   breeding.
+
+    Nigel toasts and drinks.
+
+                                    JACE
+                   He was a pig.  If it hadn't been
+                   for that diary --
+
+    Nigel raises his pistol.
+
+                                    NIGEL
+                   Ah, yes, the diary.  Subject of our
+                   next negotiation.
+
+                                    JACE
+                   Aw, man. I guess I shoulda known.
+                         (pulls diary out)
+                   I read all about how you did the
+                   same thing to Luthor.  Kind of
+                   reminded me of what happened with
+                   my old man.  I ever tell you how I
+                   killed him?  Poison.
+
+    Nigel's eyes widen, then he keels over dead, falling near
+    Lois.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       49.    
+
+
+66  CONTINUED:                                                       66   
+
+                                    JACE (CONT'D)
+                   Guess it's true what they say.
+                   Reading _is_ fundamental.
+
+    He turns and strolls down the hall.
+
+
+67  INT. BUNKER ROOM - DAY                                           67   
+
+    The gas is filling the room.  The Kryptonite is on one side,
+    Superman and the Kents on the other, right under the vent,
+    as the Kents try to keep from passing out.
+
+                                    SUPERMAN
+                   Mom, prop me up.
+                         (she does)
+                   Dad, go get the Kryptonite.
+
+    He moves back across the room.  Summoning the very last of
+    his strength, Superman BLOWS an ICY JET of air at the vent.
+    It FREEZES white and --
+
+                                    SUPERMAN (CONT'D)
+                   Throw it!  At the vent!
+
+    Jonathan winds up and throws the rock.  It SHATTERS the vent
+    like balsa and goes RATTLING AWAY.
+
+
+68  INT. BUNKER HALL - DAY                                           68   
+
+    The door is KICKED out.  Superman and the coughing Kents
+    emerge.  Superman moves straight to Lois and kneels to her.
+
+                                    MARTHA
+                   Oh, no... Lois...
+
+    The Kents stand back, holding each other and watching, as he
+    blows a BREATH OF RIPPLING HEAT across her body.  Her body
+    relaxes but there is still no life.  He grips her hand in
+    his.
+
+                                    SUPERMAN
+                   Live.
+
+    He gives her mouth to mouth.
+
+                                    SUPERMAN (CONT'D)
+                   Lois, come back, you come back to
+                   me...
+
+    Nothing.  He uses a SPRAY OF HEAT RAYS across her body,
+    warming it more.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       50.    
+
+
+68  CONTINUED                                                        68   
+
+                                    SUPERMAN (CONT'D)
+                   You come back now!  Do you hear me, 
+                   Lois, don't go!  Don't go!  Fight!
+
+    More mouth to mouth.  His face close to hers.  No breathing.
+
+                                    SUPERMAN (CONT'D)
+                   You are not dying an me, you are
+                   not giving up, now breathe!  You
+                   breathe, dammit!
+
+    Nothing.  Stillness... then, a racking cough from her.  She 
+    grips him hard and takes a ragged breath.
+
+                                    SUPERMAN (CONT'D)
+                   That's right, that's it... Oh, my God...
+
+    It's hard to tell if he's laughing or crying.  He holds her, 
+    rocking her as her eyes open and the first thing she sees is 
+    his face.
+
+                                    LOIS
+                   You were calling... I heard you
+                   calling...
+
+                                    SUPERMAN
+                   Shhhhhhh, shhhhhh...
+
+    Jonathan kneels and puts a hand on his son's shoulder.  
+    Martha brings a blanket from the bunker room and she and 
+    superman wrap it around Lois' shivering body.
+
+                                    JONATHAN
+                   You get her to a hospital, we'll be
+                   fine.
+
+    He nods and they're gone with an O.S. WHOOSH.
+
+
+69  INT. JACE'S APARTMENT - DAY                                      69   
+
+    Jace is on the phone, playing with the stack of diamonds on 
+    his desk.
+
+                                    JACE
+                   How much is your biggest yacht?
+                   Really, that all?
+
+    He moves past the window and doesn't see that Superman has 
+    just landed there.
+
+                                    JACE (CONT'D)
+                   You sure you don't have anything
+                   bigger?
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       51.    
+
+
+69  CONTINUED:                                                       69   
+
+    He freezes. Turns. Sees.
+
+                                    JACE (CONT,D)
+                   Call you back.
+                         (hangs up)
+                   Superman, I think you should
+                   know... I had a horrible childhood.
+
+                                    SUPERMAN
+                         (moving toward him)
+                   It's going to seem idyllic...
+                         (hoists him)
+                   compared to your life in
+                   prison.
+
+    He reaches in with his free hand and extracts the diary.
+    Flips through at SUPER-SPEED as --
+
+                                    JACE
+                   Look, you better let me go or I'll
+                   tell the world you're Superman.
+
+                                    SUPERMAN
+                   Well, I've decided I like my secret
+                   identity and since we live in
+                   skeptical times...
+
+    He IGNITES the diary with a BLAST of HEAT VISION.
+
+                                    SUPERMAN (CONT'D)
+                   ... where people demand proof...
+                   I'd say I'm pretty safe. And so is
+                   everyone close to me.
+
+    Off Jace's reaction --
+
+                                                       CUT TO:
+
+70  INT. PLANET - CONFERENCE ROOM - DAY                              70   
+
+    Clark gives his parents a last good-bye hug.
+
+                                    CLARK
+                   You guys are really okay?
+
+                                    MARTHA
+                   Kidnapping, getting gassed... we're
+                   farmers, Clark, it takes a lot more
+                   than that to beat us down.
+
+                                    JONATHAN
+                   How's Lois?
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       52.    
+
+
+70  CONTINUED:                                                       70   
+
+                                    CLARK
+                   She's home, resting.  Caught a
+                   little cold.
+
+
+                   We better get going, gonna miss our 
+                   flight.  Oh, that reminds me. 1,
+                   uh, hope you don't mind, Martha, 
+                   but I used that gift certificate...
+
+                                    MARTHA
+                   You used my gift certificate?
+
+                                    JONATHAN
+                   To get you the book they're holding.
+
+    He hands her a wrapped gift.  As she opens it, father and 
+    son exchange sly smiles.  The gift is a book on Italian art.
+
+
+                                    JONATHAN (CONT'D)
+                   You like it?
+
+                                    MARTHA
+                   Oh, anything from you, I love...
+
+                                    JONATHAN
+                   The kidnapping kind of screwed up 
+                   my plan but... the idea was, gift 
+                   certificate to book... book is in 
+                   Italian and hopefully we both know 
+                   some Italian by the time we get 
+                   back from...
+                         (Martha finds two plane
+                          tickets)
+                   ... Florence.
+
+                                    MARTHA
+                         (stunned)
+                   Oh, Jonathan.
+
+    She hugs him.  Clark looks on at his parents, so in love.  A 
+    wistful smile.
+
+
+71  INT. PLANET - DAY                                                71   
+
+    Clark leads his parents across the bullpen to the elevators 
+    as Jimmy and Perry look on.
+
+                                    PERRY
+                   Heard from Lois?
+
+                                    JIMMY
+                   Feeling better.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft    4/6/95    53.    
+
+
+71  CONTINUED:                                                       71   
+
+                                    PERRY
+                   She or Clark tell you how they
+                   bagged this?
+
+    He lifts the paper.  Headline reads:  HEIR KILLS EX-SPY.
+    Pictures of Jace and Nigel.
+
+                                    JIMMY
+                   They're a couple clams.
+
+                                    PERRY
+                   You ever get the feeling we'll 
+                   never really know everything that's 
+                   going on with them?
+
+                                    JIMMY
+                   Hey, Chief?
+
+                                    PERRY
+                   Yeah?
+
+                                    JIMMY
+                   Instead of always standing around 
+                   watching Lois and Clark, wondering 
+                   what they're doing, what if we... I 
+                   don't know... got lives of our own 
+                   that were a little more 
+                   interesting?
+
+    This stops Perry in his tracks.  He looks at the lad.
+
+                                    PERRY
+                   Son, you're shootin' a bullseye.
+                   It's like we're supporting 
+                   character in some TV show that's 
+                   _only_ about them...
+
+                                    JIMMY
+                   ... and all we do is advance their 
+                   plots...
+
+                                    PERRY
+                   ... and I, for one, am sick of it.
+
+                                    JIMMY
+                         (as they move off)
+                   Man, me, too.
+
+
+72  EXT. PARK - NIGHT #2                                             72   
+
+    Lois and Clark walk.  A gentle breeze blows.  Clark puts his 
+    arm around her.
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft     4/6/95   54.    
+
+
+72  CONTINUED:                                                       72   
+
+                                    CLARK
+                   Chilly?
+
+                                    LOIS
+                   No.
+
+    He starts to draw his arm away but she snuggles closer.
+
+                                    CLARK
+                   Lois, I've been thinking...
+
+                                    LOIS
+                   Me too.
+
+                                    CLARK
+                   What about?
+
+                                    LOIS
+                   You first.
+
+                                    CLARK
+                   Okay.
+
+    They stop at a fountain.  He looks at her.
+
+                                    CLARK (CONT'D) 
+                   I've been thinking about how when 
+                   something bad happens, it makes you 
+                   realize that most of what you spend 
+                   your days worrying about doesn't 
+                   matter at all...
+                         (pause)
+                   Almost losing you the way I did,
+                   I... I feel ashamed.
+
+                                    LOIS
+                   Ashamed, why?
+
+                                    CLARK
+                   I kept pushing you away, even when 
+                   I promised I'd stop.  And if you'd 
+                   died not knowing how much I love 
+                   you, I'd've never forgiven myself.  
+                   Because you are the most beautiful, 
+                   unique soul I've ever come across.
+                         (pause)
+                   Lois...
+
+    It starts to THUNDER and LIGHTNING.  Clark looks heavenward.
+
+                                    CLARK (CONT'D)
+                   Oh, come on, give me a break
+                   here...
+
+                                                       (CONTINUED)
+
+                             ---page break---
+    AND THE ANSWER IS... (#22)  BLUE Rev. Prod. Draft 4/6/95       55.    
+
+
+72  CONTINUED:  2                                                    72   
+
+                                    LOIS
+                   Do you want to go back?
+
+                                    CLARK
+                   If the Earth opened up at my feet, 
+                   I wouldn't move till I'd finished 
+                   saying this.
+                         (sits bar on edge of
+                          fountain)
+                   Lois...
+                         (he drops to one knee)
+                   will you marry me?
+
+    He offers her a ring.  The rain begins to beat down on them.
+    She leans, so close her wet lips almost touch his.
+
+                                    LOIS
+                   Who's asking?  Clark... or
+                   Superman?
+
+    Off his shock,  and the cryptic look on her race we...
+
+    SUPERIMPOSE: TO BE CONTINUED.
+
+                                  _THE END_
+
+

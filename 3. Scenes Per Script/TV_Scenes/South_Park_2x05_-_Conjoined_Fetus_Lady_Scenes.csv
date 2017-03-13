@@ -1,0 +1,33 @@
+1,               INT GYMNASIUM  DAY,222
+2,               EXT NURSES OFFICE  DAY,4
+3,               INT NURSES OFFICE  DAY,83
+4,               EXT KYLES HOUSE  NIGHT,4
+5,               INT KYLES HOUSE  NIGHT,108
+6,               INT KYLES HOUSE  KITCHEN,24
+7,               INT STANS HOUSE  NIGHT,47
+8,               EXT SOUTH PARK ELEMENTARY  DAY,4
+9,               INT GYMNASIUM  DAY,70
+10,               INT PRINCIPALS OFFICE  DAY,91
+11,               EXT MOUNTAIN ROAD,5
+12,               INT SCHOOLBUS,52
+13,               EXT DENVER PUBLIC SCHOOL,7
+14,               INT DENVER PUBLIC SCHOOL,40
+15,               EXT KYLES HOUSE  NIGHT,4
+16,               INT KYLES HOUSE  NIGHT,33
+17,               EXT DENVER PUBLIC SCHOOL,4
+18,               INT DENVER PUBLIC SCHOOL,61
+19,               INT KYLES HOUSE  NIGHT,101
+20,               INT DENVER PUBLIC SCHOOL  NIGHT,63
+21,               EXT SOUTH PARK  DAY,68
+22,               INT SCHOOLBUS,63
+23,               EXT WASHINGTON DC,7
+24,               EXT ULYSSES S GRANT ELEMENTARY,82
+25,               EXT CHINA SCHOOL,4
+26,               INT CHINA SCHOOL,20
+27,               INT WASHINGTON DC  GYMNASIUM,16
+28,               INT MAYORS OFFICE  NIGHT,86
+29,               INT SCHOOL BUS  DAY,106
+30,               EXT CHINA SCHOOL  DAY,5
+31,               INT CHINA SCHOOL,126
+32,               EXT SOUTH PARK  DAY,24
+33,               EXT CHINA SCHOOL,4

@@ -1,0 +1,3505 @@
+notes:
+
+To pop everything into place...
+
+use Courier 10 (or 10 characters per inch)
+
+set top margin at 0.4", bottom margin at 0.4" (or minimums)
+left margin at 1", right margin at .25 (or minimum)
+   (I had to tell the program I was using legal paper)
+
+page breaks in hard copy indicated by ---page break---
+
+regular tabs, hard returns and right flushes are used 
+to position things to look as much like original as possible
+
+sometimes the formatting changes slightly (as in the numbers at the
+end of the lines), but I'm going to keep consistent because it's
+easier
+
+logo on front page will be noted when used but not included here
+
+as this may be sent in .txt, originally underlined words will 
+look like   _this_
+
+NOTES: on front page LOIS & CLARK is in large, bold, underline
+     The New Adventures of Superman is in not so large, italics
+     "Fly Hard" is in same size font, not italicized
+     EPISODE 18, Written by: Thania St. John, Directed by: Phil
+Sgriccia (and) WARNER BROS. TELEVISION are somewhat smaller, all
+caps
+     All other text on first page is in courier 10 
+
+page 3.:  "Jimmy comes out of the office holding a carboard
+     cut-out.." cardboard is spelled wrong in original
+page 6.:  "Clark and Luthor share a competative look as Lois leans"
+     competitive is spelled wrong in original
+page 15.: "Then he looks at Fuentes who is emersed in in his work."
+     "in" repeated in original.
+page 18.:  (mid page, Clark speaking) "possibilites already?  The
+     timing," possibilities is spelled wrong in original
+page 19.:  (mid page, Lois speaking) "Bagdhad Hotel," Baghdad 
+     is spelled wrong in original.
+page 21.:  (Near top, Clark speaking) "The oils and tannen from 
+     the tea" tannin is spelled wrong in original.
+page 24.:  (at top of page) "a gangster era flashback" gangster 
+     is spelled wrong in original.
+page 25.: (mid top page, DRAGONETTI/LUTHOR speaking)
+     "precint...", precinct is spelled wrong in original
+page 31.: in message on screen "RECIEVE" is spelled wrong in
+     original
+page 39.: (lower half of page) "...enter the the Pit..."
+     double "the" in original.
+page 45., into scene 48, "Bud crosses the room..." I don't know
+     who Bud is, but it was in the original. They may have 
+     meant "Bill."
+
+                        _LOIS AND CLARK_
+                The New Adventures of Superman
+
+
+                           "Fly Hard"
+                           EPISODE 18
+
+                          Prod. 0455318
+
+                           Written by:
+                         Thania St. John
+
+                          Directed by:
+                         Phil Sgriccia
+
+
+
+
+WARNER BROS. TELEVISION                   _Production Draft_
+                                          February 9, 1994
+                                          FULL Blue 2/11/94
+                                          Pink. Rev. 2/14/94
+                                          Yellow 2/14/94
+                                          Green Rev. 2/15/94
+                                          Gold Rev. 2/16/94
+                                          White Rev. 2/18/94
+                                          Blue Blue 2/22/94
+                                          Pink Pink 2/23/94
+                                          Yell. Yell. 2/24/94
+                       ---page break---
+
+                         _LOIS & CLARK_
+
+                          "_Fly Hard_"
+
+                      Yellow Rev. 2/14/94
+
+                              _CAST_
+
+CLARK KENT/SUPERMAN
+
+LOIS LANE
+
+PERRY WHITE
+
+JIMMY OLSEN
+
+CAT GRANT
+
+LEX LUTHOR
+______________________________________________________________
+
+JACK
+
+WILLIE
+
+FUENTES     *
+
+REMY
+
+SCHUMAK
+
+BLACKMAN
+                       ---page break---
+                         _LOIS & CLARK_
+
+                          "_Fly Hard_"
+
+                      Yellow Rev. 2/14/94
+
+                           _CHRONOLOGY_
+
+                 SC.   1 - 65   NIGHT 1
+
+                 SC.  66        DAY 2
+                       ---page break---
+                         _LOIS & CLARK_
+
+                          "_Fly Hard_"
+
+                      Yellow Rev. 2/14/94
+
+                           _LOCATIONS_
+
+
+_INTERIORS_:                              _EXTERIORS_:
+
+Daily Planet                              Daily Planet
+   The Pit                                   Alley
+   Perry's Office                            Street Outside
+            *                                Roof
+   Conference Room
+   Lobby
+   Stairwell
+   Hallway
+   Air Conditioning Duct
+
+Speakeasy
+                       ---page break---
+                          _LOIS & CLARK_
+
+                 _The New Adventures of Superman_
+
+                            "Fly Hard"
+
+                             _TEASER_
+
+FADE IN:
+
+
+ 1  INT. DAILY PLANET - (NIGHT #1) - CLOSE ON A DIGITAL CLOCK    1 
+
+    ... as it flips over to 8:00 p.m. We PAN over and read the 
+    date off of a digital desk calendar.  SATURDAY 3-26.
+    We PAN further to reveal CLARK sitting at his desk which
+    is covered with small stacks of papers and receipts.  He 
+    works diligently, dressed in jeans and a T-shirt.  After 
+    all, it's after hours.  Also on Clark's desk are two large 
+    feet encased in sneakers.  They belong to JACK who sits 
+    next to him glued to a computer game.  Enthusiasm is not 
+    high.
+
+    We HEAR a CRASH.  Neither Clark nor Jack seem phased as we 
+    CONTINUE the PAN toward Perry's office.  There is a large     *
+    pile of junk outside his door.
+
+                              PERRY'S VOICE
+                No, not that!
+
+    A faded, cardboard elephant with an arrow on it's stomach
+    lands on top of the pile.  PERRY retrieves his prized
+    possession.  JIMMY is in the middle of the mess,
+    overwhelmed.
+
+                              PERRY
+                This marked the way to the GOP 
+                hospitality suite at the '76 
+                convention.  Gerry Ford tripped 
+                over it, for criminy sakes.  It's 
+                _history_.
+
+                              JIMMY
+                You're right.   It's history.
+
+    He puts it back on the pile.
+
+                              PERRY
+                Olsen --
+
+                              JIMMY
+                Look, Chief, if you want me to help 
+                you Spring clean, you're going to 
+                have to be willing to part with 
+                some of this stuff.
+
+                              PERRY
+                But --
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                 2.  
+
+
+ 1  CONTINUED:                                                   1 
+
+                              JIMMY
+                Chief, it's
+
+                              PERRY
+                I know, Jimmy, but it's _my_ junk.
+
+                              JIMMY
+                You know, this isn't exactly my
+                idea of an exciting Saturday night,
+                so why don't I just --
+
+                              PERRY
+                All right, all right.  Keep going.
+                But I'm warning you.  Touch the
+                Elvis box and you're a dead man.
+
+    Jimmy knows he's in for a long night as we go to...
+
+ 2  OMITTED                                                      2 
+
+ 3  THE ELEVATORS                                                3 
+
+    The doors open revealing LOIS and LUTHOR.  He looks 
+    annoyed.
+
+                              LUTHOR
+                Lois, the opera begins in thirty
+                minutes.
+
+                              LOIS
+                Well, how did I know one of my
+                sources would get arrested?  I have
+                to rewrite my lead.
+
+    They walk through the darkened newsroom and come across
+    the rest of the gang.
+
+                              LUTHOR
+                Don't any of you people have
+                _homes_?
+
+    Clark sees Lois, all dressed up for a night on the town.
+
+                              CLARK
+                Evening, Lois.
+
+                              LOIS
+                Clark, what are you doing here?
+
+                              CLARK
+                Taxes.
+
+                              JACK
+                It was supposed to be a movie.
+
+                                                 (CONTINUED)
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                 3.  
+
+
+ 3  CONTINUED:
+                                                                 3 
+
+                              CLARK
+                We can still make the late show.
+                       (to Lois)
+                Aren't you a little over-dressed
+                for a night at the office?
+
+    Lois sits down at her computer and begins to type 
+    furiously.
+
+                              LUTHOR
+                We were on our way to 'Madame
+                Butterfly.'
+
+                              LOIS
+                Ten minutes, all I need is ten                    *
+                minutes.
+
+    Perry comes over wearing a hat that can hold two beer         *
+    cans on either side with a flexi-straw leading to his 
+    mouth.
+
+                              PERRY
+                Super Bowl Twenty, Bears and the
+                Pats.  What a blow out.
+
+                              LUTHOR
+                Why, it's a party.
+
+    Perry takes it off, embarrassed and puts it on the pile.
+
+                              PERRY
+                Evening Lex, Lois.  Just getting
+                rid of a few things.
+
+    Jack salvages the hat from the scrap heap.
+
+                              JACK
+                Cool.  Anybody want a pizza?
+
+    Jimmy comes out of the office holding a carboard cut-out
+    of Elvira, Mistress of the Dark.                              *
+
+                              JIMMY
+                Sure.  Fresh tomatoes, mushrooms,
+                peppers, olives --
+
+                              JACK
+                Hey, if it goes on a salad, it
+                doesn't go on a pizza.
+
+    Jack goes to the phone as Perry studies Elvira.               *
+
+                              PERRY
+                Elvira, Mistress of the Dark.                     *
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                 4.  
+
+
+ 3  CONTINUED:  2                                                3 
+
+                              JIMMY
+                She's a little scary to me, boss.                 *
+
+                              PERRY
+                Not to me, son.  She's the reason                 *
+                I've seen Godzilla a hundred and                  *
+                sixteen times.                                    *
+
+3A  ANOTHER ANGLE - DOOR TO STAIRWELL                           3A 
+
+    CAT stumbles into the Pit, locked in a passionate embrace
+    with her latest Romeo.  They are halfway into the Pit 
+    before they notice anyone else is around.
+
+                              CAT
+                Oh.  Hi, everybody.  This is.
+                George.
+
+    George waves, embarrassed.
+
+                              LOIS
+                What are you doing here?
+
+                              CAT
+                It's what we were _going_ to do
+                here, but it's a little crowded.
+
+    Jimmy crosses on his way to the storage room, his arms
+    full of Perry's junk.
+
+                              JIMMY
+                I could've lived without knowing
+                that.
+
+                              CAT
+                Come on, George, I think the 
+                observation deck at the Metropolis 
+                Tower is still open.
+
+    They exit out the stairwell door.
+
+
+ 4  THE ELEVATORS                                                4 
+
+    ... as they open with a DING.  A very old man in a 
+    security guard uniform surveys the crowd.  This is WILLIE, 
+    the night watchman.
+
+                              WILLIE
+                What's going on here?
+
+    He looks at his pocket watch.
+
+                              CLARK
+                Hey Willie, it's just us.
+
+                                                 (CONTINUED)
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                 5.  
+
+
+ 4  CONTINUED:                                                   4 
+
+                              WILLIE
+                You're not supposed to be here now.
+
+                              PERRY
+                Everything's fine, Willie, don't
+                you worry about a thing.  Keep up
+                the good work.
+
+                              WILLIE
+                Yes, sir, Mr. White.
+
+    Willie quickly hobbles back onto the elevator.  Jack is 
+    finishing the pizza order as Lois keeps typing and Clark 
+    and Luthor flash phony smiles at each other.
+
+                              JACK
+                Hello?  Anybody there?  All right,
+                who cut me off?
+
+    Lois grunts in frustration.
+
+                              LOIS
+                The system's down.  I lost my
+                story.
+
+                              LUTHOR
+                Better luck tomorrow.  Shall we?
+
+    Suddenly, the lights flicker.  Clark realizes something is 
+    up but not before the elevator DINGS once again and five
+    TERRORISTS, armed to the teeth with automatic weapons 
+    (with silencers attached) burst into the pit and spread 
+    out.  REMY, a gorgeous female terrorist, sprays the           *
+    ceiling with bullets to get everyone's attention.  Clark      *
+    can't possibly cover them all at once.  He lifts up his 
+    glasses ready to use heat vision on the closest one when 
+    Perry steps in front of him.
+
+                              PERRY
+                What in the Sam Hill is --?
+
+    One of the terrorists grabs Perry while the head terrorist 
+    gets their attention by firing off a few rounds at the 
+    ceiling.  This is FUENTES, a slick, ominous looking           *
+    fellow who fancies black leather.
+
+                              FUENTES
+                The Daily Planet building is now 
+                ours.  I suggest you cooperate and 
+                everything will go smoothly.  Let 
+                him go.
+
+    Perry is released and he goes to stand by the others.
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                 6.  
+
+
+4A  STORAGE ROOM DOOR                                           4A 
+
+    Jimmy opens it and sees the terrorists.                       *
+
+                              JIMMY
+                Holy...                                           *
+
+    His eyes grow wide and he shuts himself back in.              *
+
+
+4B  BACK TO SCENE                                               4B 
+
+    Remy tosses Fuentes a nylon bag.  Fuentes unzips the          *
+    bag and removes a small, black device with digital readout
+    and several buttons.  It resembles a cellular phone.
+
+                              FUENTES (Cont'd)
+                And in case any of you feel the
+                need to contact the authorities or
+                your friend Superman...
+
+    Fuentes pushes a button, activating the device.               *
+
+                              FUENTES (Cont'd)
+                ... you can tell him I'm holding a
+                small but dirty nuclear device and
+                if I catch so much as a glimpse of
+                a red cape, this building and the
+                gene pool of Metropolis will pay
+                the price.
+
+    All eyes are glued to Fuentes' finger on the button.          *
+    Clark can't make a move.  If he goes for the device, one
+    of the other terrorists may shoot his friends. He tries
+    to put a hand on Lois' shoulder for comfort but he's
+    beaten by Luthor who protectively puts his arm around her.
+    Clark and Luthor share a competative look as Lois leans
+    appreciatively into the gesture.
+
+                              FUENTES (Cont'd)
+                So relax. By morning this will all
+                be over, one way or another.
+
+    Clark just glares at his new nemesis, wondering how he's
+    going to get them all out of this one.
+
+                                                 FADE OUT.
+
+                            _END OF TEASER_
+
+                          ---page break---
+    FLY HARD  (#18)  Goldenrod Revision   2/16/94              7.  
+
+
+                            _ACT ONE_
+
+    FADE IN:
+
+5  INT. DAILY PLANET - CONFERENCE-ROOM - NIGHT                   5 
+
+    Clark, Lois, Luthor, Perry, and Jack are all in the 
+    conference room.  They talk in loud whispers while 
+    SCHUMAK, the beefiest terrorist, stands guard outside, 
+    sub-machine gun in hand.
+
+                              LOIS
+                No telephones, we're too high up to 
+                signal for help.  It could be 
+                morning before anyone even realizes 
+                something's wrong.
+
+                              PERRY
+                That's what they're counting on.
+                But what do they want with the
+                Daily Planet?
+
+                              JACK
+                And what are they going to do with
+                us when they're finished?
+
+
+5A  OMITTED                                                     5A 
+
+
+5B  BACK TO THE OTHERS                                          5B 
+
+    Clark has been watching Fuentes and Remy through the
+    glass.  They have set up a command center at one of the
+    desks in the pit and are conferring over a portable
+    computer that they have brought with them.  Fuentes still
+    holds the nuclear device.
+
+                              LOIS
+                We've got to find a way out of
+                here.
+
+                              LUTHOR
+                Negotiation.  I've dealt with worse
+                across a boardroom table.  We find
+                out what they want, then offer them
+                a better deal.
+
+                              CLARK
+                       (sotto)                                    *
+                If we could burn the wires leading                *
+                to the bomb.                                      *
+
+                              LOIS
+                Great, Clark.  Then we'll all just                *
+                fly out of here.                                  *
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Goldenrod Revision   2/16/94             7A.  
+
+
+5B  CONTINUED:                                                  5B 
+
+                              JACK
+                It's five against five.  I say we
+                take 'em.  I bet that bomb's not
+                even real.
+
+    Clark uses his _X-RAY VISION_ to see inside Fuentes' bomb
+    but it is encased in lead and he can't see through it.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                 8.  
+
+
+5B  CONTINUED:                                                  5B 
+
+                              CLARK
+                       (frustrated)
+                Lead.
+                       (covering)
+                I mean, we can't take that chance,
+                can we?
+
+                              LOIS
+                Clark, they're going to _kill_ us.
+
+                              CLARK
+                We don't know that.
+
+                              LOIS
+                We can identify them.
+
+                              CLARK
+                The safest thing for all of us to
+                do is just wait.
+
+                              LOIS
+                What about Jimmy?  Maybe Jimmy can                *
+                save us.                                          *
+
+                              PERRY
+                Jimmy couldn't save baseball                      *
+                cards.                                            *
+
+                              LUTHOR
+                I know these kind of people.  We                  *
+                should consider ourselves dead.                   *
+                In that regard, we have nothing to                *
+                lose.  We must take the offensive.                *
+
+                              CLARK
+                Luthor, he may be holding the                     *
+                lives of thousands of people in his
+                hand.  Don't do anything to provoke
+                him.
+
+                              LUTHOR
+                Well, now that we know what Mr. 
+                Kent is made of, it's obvious we 
+                need someone with a cool head and a 
+                keen sense of judgment to take 
+                charge.
+
+                              CLARK
+                You?
+
+                              LUTHOR
+                I have thousands of employees...
+
+                                                 (CONTINUED)
+                          ---page break---
+    FLY HARD  (#18)  Green Revision   2/15/94                  9.  
+
+
+5B  CONTINUED:  2                                               5B 
+
+                              PERRY
+                Now, just a dog gone minute.. This
+                is my ship and I'm still the
+                captain.
+
+                              JACK
+                Yeah, the Exxon Valdes.
+
+    Lois watches as Fuentes and Remy cross to the elevators 
+    and get in.
+
+                              LOIS
+                Lex is right, we need a plan.
+
+    She eyes Schumak through the blinds.
+
+                                                                  *
+                              CLARK
+                It's too risky, Lois.
+
+                              LOIS
+                We're wasting time.
+                       (to Luthor)
+                I'll create a diversion, you hit
+                him with a chair.
+
+                              CLARK
+                Lois --
+
+    But she's already in action.
+
+                              LOIS
+                       (to Perry)
+                Chief, sit down, you're having a
+                heart attack.
+
+                              PERRY
+                What the --?
+
+    She pushes him into a chair, and before anyone can stop,
+    her she's banging on the windows trying to get attention.
+
+                              LOIS
+                Help!  Help us!  He's having a
+                heart attack.  Quickly!  He needs a
+                doctor.
+
+    She looks over at Perry who has no choice now but to play
+    along.  He clutches his arm and breathes hard as Schumak
+    enters.  Clark eyes him nervously as Schumak trains his
+    weapon on Lois.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                10.  
+
+
+5B  CONTINUED:  3                                               5B 
+
+                              LOIS (Cont'd)
+                Do something. He's going to die
+                and _then_ where will you be?  On
+                trial for _murder_ that's where.
+
+    Clark is about to lunge for Schumak when Fuentes and Remy     *
+    come in.  Fuentes points his gun toward Perry and fires.      *
+    Everyone is stunned silent.  A semi-circle of bullet holes
+    appears around Perry's feet.  He is frozen in fear, no
+    longer faking the coronary.  Fuentes smiles, satisfied.       *
+
+                              FUENTES
+                A nine millimeter automatic.
+                Better than a triple by-pass.
+
+    Perry can only nod.  Fuentes goes over to Lois.  Luthor       *
+    and Clark tense up.
+
+                              FUENTES (Cont'd)
+                There will be no more tests of my.
+                patience, is that understood?
+
+    Lois flashes a defiant look, about to say something 
+    when...
+
+                              CLARK
+                She understand, sir.
+
+    She throws Clark a dirty look then steps back toward 
+    Luthor.  A loud NOISE by the elevators makes everyone 
+    turn.  The other two terrorists, NEWBERRY and BLACKMAN are 
+    moving heavy demolition machinery out of the elevator.
+
+                              FUENTES (Cont'd)
+                       (frustrated)
+                They're on the wrong floor.
+                Schumak, go.  Tell them it's down
+                one.
+                                                                  *
+
+    Remy catches up with Fuentes and they begin to have an        *
+    animated conversation out of earshot.  Meanwhile, every
+    one is concerned for Perry.
+
+                              PERRY
+                       (ruffled)
+                Lois, I swear, if you ever rope me
+                into anything like that again,
+                you'll be writing recipes for the
+                food section.
+
+                              LOIS
+                There won't even _be_ a food
+                section if we don't do something to
+                stop them.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Green  Revision   2/15/94                 2.  
+
+
+5B  CONTINUED:  4                                               5B 
+
+                              LUTHOR
+                Division among the ranks is a sure
+                sign of weakness.  I suggest we put
+                this incident behind us and
+                concentrate on learning their next
+                move.
+
+    Clark turns his ear toward Fuentes and Remy, eavesdropping
+    with his _SUPER HEARING_.
+
+                              REMY
+                What do you mean?  They've seen our
+                faces.  We can't just let them go.
+
+                              FUENTES
+                You know what our instructions are.
+
+                              REMY
+                I say kill then now.
+
+                              FUENTES
+                You don't have any say.  None of                  *
+                us do until the boss comes.                       *
+
+
+5C  STORAGE ROOM                                                5C 
+
+    Jimmy is pacing.
+
+                              JIMMY
+                Stay calm, I'm calm.  I'm in the 
+                storage room and out there are a 
+                million terrorists with _guns_!  I 
+                can handle this, no problem.
+                       (beat)
+                I gotta get out of here.
+
+    He looks up at the air vent.
+
+
+
+5D  BACK TO THE OTHERS                                           5D
+
+    Clark, concentrating on Remy and Fuentes hasn't heard Jack
+    who has stepped up next to him.
+
+                              JACK
+                Clark.  Hey, Kent.
+
+                              CLARK
+                What?  Oh.  Everything all right?
+
+                              JACK
+                That's what I was just about to ask
+                you.  You look kind of out of it.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                12.  
+
+
+5D  CONTINUED:                                                  5D 
+
+                              CLARK
+                Just thinking, that's all.
+
+                              JACK
+                You really believe that's a nuclear
+                bomb?
+
+                              CLARK
+                Whatever's in that lead-lined box,
+                we can't take any chances.
+                       (beat)
+                We're going to be fine.
+
+                              JACK
+                Yeah, I hear you hardly feel a
+                thing at ground zero.
+
+    They join the others.
+
+                              LOIS
+                You don't think they'd really blow
+                themselves up do you?
+
+                              LUTHOR
+                Terrorists know that the value of
+                one life, even it it's their own,
+                doesn't equal the importance of
+                their cause.
+
+                              CLARK
+                I don't think we need worst case
+                scenarios right now.
+
+                              LUTHOR
+                The point is, it's up to us to stop
+                them.
+
+                              CLARK
+                It's up to us to stay alive anyway
+                we can.
+
+    Luthor and Clark are in each others faces now, voices
+    raised.
+
+                              LUTHOR
+                Then what do you suggest, Mister 
+                Kent?  That we just sit here, let 
+                them do whatever they want, then 
+                wait for them to kill us?
+
+                              CLARK
+                       (frustrated)
+                No, I have no choice!  If I try 
+                to get to the bomb, one of the 
+                others might kill any one of you.
+                              (MORE)
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                13.  
+
+
+5D  CONTINUED:  2                                               5D 
+
+                              CLARK (cont'd)
+                And, if that's a hair trigger under
+                his finger, it could go off faster
+                than I could stop it.  I can't take
+                that risk.
+
+    Everyone is surprised at Clark's outburst.
+
+                              LOIS
+                Clark, take it easy.  You're not
+                Superman.
+
+                              CLARK
+                I know, but even if I was, I
+                couldn't --
+
+                              LOIS
+                Superman would find a way to save
+                us, I know he would.  I know he
+                _will_
+
+    Off Clark's pensive face we...
+
+                                                 TIME FADE TO:
+
+ 6  LATER - SAME                                                 6 
+
+    Our prisoners have settled in, more comfortable but far
+    from relaxed.  Lois pours herself a glass of water from a
+    pitcher and drinks it down.  Clark studies Fuentes            *
+    through the glass.
+
+                              JACK
+                I wonder if they'll let us go to
+                the bathroom?
+
+    Lois looks at her empty water glass, suddenly wishing she
+    hadn't.  Clark uses his _MICRO VISION_ to get a closer
+    look at...
+
+
+ 7  FUENTES                                                      7*
+
+    ...who is still going over some papers, the nuclear
+    device never leaving his hand. We can't really get a good
+    look at what he's reading because the angle is wrong.
+
+   8                                                             8 
+THRU OMITTED                                                  THRU 
+   9                                                             9 
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                14.  
+
+
+10  BACK TO CONFERENCE ROOM                                     10 
+
+    ... where Clark is definitely hatching a plan. Meanwhile
+    Lois looks uncomfortable.
+
+                              LOIS
+                I have to go.
+
+                              JACK
+                Okay, see you tomorrow.
+
+                              LOIS
+                No, I mean, I have to _go_.
+
+                              JACK
+                All of a sudden?
+
+                              LOIS
+                No! Just since you mentioned it,
+                thank you very much.
+
+                              LUTHOR
+                They have to provide us with the
+                means to sustain basic human needs.
+
+                              LOIS
+                I don't think anyone told _them_
+                that.
+
+                              PERRY
+                I think you should tell Miss                      *
+                Congeniality out there that it's                  *
+                her responsibility to escort you                  *
+                to the facilities.                                *
+
+                              LUTHOR
+                Or you can hold it. Indefinitely.                 *
+
+    Meanwhile, Clark hasn't been listening to them. Instead,
+    he eyes the...
+
+
+11  AUTO SPRINKLER HEAD                                         11 
+
+    ... on the ceiling above Fuentes.                             *
+
+
+
+12  BACK TO CLARK                                               12 
+
+                              CLARK
+                       (to himself)
+                Just a few seconds...
+
+    He lowers his glasses and aims his eyes at the sprinkler
+    head.  At the last second, a loud TAPPING distracts him.
+    He turns his head to see Lois knocking on the glass,
+    getting her captor's attention.  Clark sighs, his
+    opportunity lost as Remy enters, weapon poised.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                15.  
+
+
+12  CONTINUED:                                                   12
+
+                              LOIS
+                I have to go to the bathroom.
+
+                              REMY
+                Too bad.
+
+                              LOIS
+                You can't treat us like this.
+
+    Everyone tenses as Fuentes walks over.                        *
+
+                              FUENTES
+                I thought I told you not to make
+                trouble.
+
+                              LOIS
+
+                Evidently my bladder didn't hear
+                you.
+
+    Fuentes thinks about it.                                      *
+
+                              FUENTES
+                       (to Remy)
+                Take her.  I'll watch them.
+
+    He takes his gun as he walks back to his work.  Remy walks 
+    Lois roughly across the pit.  Clark and Luthor watch 
+    closely as they disappear into the Ladies' Room.  Fuentes     *
+    goes back to his computer, the device never leaving his 
+    hand.
+
+    Clark goes back to watching Fuentes while Luthor stays        *
+    near the door.  He glances surreptitiously toward a red 
+    EXIT sign over a doorway about thirty yards from him.  
+    Then he looks at Fuentes who is emersed in in his work.       *
+    Meanwhile Clark is ready to try his sprinkler trick again.
+
+                              CLARK
+                       (to himself)
+                Stay in there, Lois.
+
+    He lowers his glasses and turns his _HEAT VISION_ toward 
+    the sprinkler head.  It begins to spray water on top of 
+    Fuentes.  He recoils, dropping the nuclear device.            *
+
+                                                                  *
+
+    Meanwhile, Luthor makes a run for the Exit.  Fuentes          *
+    spots him, manages to pull his gun out and fire off 
+    several rounds.  Clark, turns to see where the bullets are 
+    headed.  Lex stumbles, just a few feet from the Exit door. 
+    Fuentes, no longer hampered by the blast of air reaches       *
+    the device easily.  Clark runs toward Luthor, followed by 
+    the others.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Green Revision   2/15/94                 16.  
+
+
+12  CONTINUED:  2                                               12 
+
+                              CLARK
+                Luthor!
+
+    Luthor stands slowly, out of breath.  He holds his 
+    shoulder.  Lois and Remy enter.
+
+                              LOIS
+                Lex!
+
+                              LUTHOR
+                It's nothing.  I'm fine.
+
+    Fuentes stands extremely angry, pointing his gun.
+
+                              FUENTES
+                No second chances.
+
+13  INT. LOBBY - NIGHT                                          13 
+
+    Willie, the security guard, is sitting at the desk talking 
+    on a direct security line.
+
+                              WILLIE
+                Fire?  No, there's no fire.  No                   *
+                need to send a truck over.  Must be 
+                a busted sprinkler head.  I'll 
+                check it out when I make my rounds.  
+                Yup, pretty quiet night.  
+                Thanks for checking.
+
+    He hangs up, checks his pocket watch, then picks up an old
+    paperback and settles in.
+
+
+14  CLOSE ON HANDCUFFS                                          14 
+
+    ... as they are snapped onto a man and woman's hand.  PULL 
+    BACK to reveal Lois and Luthor being cuffed together, as
+    are Clark and Jack.  Perry is handcuffed to a chair with 
+    wheels.  The five prisoners sit on the floor of the
+    newsroom.
+
+                              FUENTES
+                We're now operating under the buddy
+                system.  If one of you is missing
+                or tries anything heroic, your buddy
+                dies.
+
+    We PAN across the frightened faces sitting on the floor 
+    and end on Clark.
+
+                              PERRY
+                       (to the empty chair)
+                No heroics, buddy.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                17.  
+
+
+14  CONTINUED:                                                  14 
+
+    Clark looks at Jack and knows his hands are truly tied.
+
+                                                 FADE OUT.
+
+                            _END ACT ONE_
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                18.  
+
+
+                           _ACT TWO_
+
+    FADE IN:
+15  INT. DAILY PLANET - NIGHT                                   15 
+
+    Remy and Fuentes try to salvage their papers and computer     *
+    from the water damage.  The nuclear device is now strapped
+    to his chest by a shoulder harness.  Our prisoners are
+    still sitting oh the floor in pairs, as they were cuffed.
+    Some time has passed.  Everyone seems more resigned to the
+    situation.  Everyone but Jack, that is.  Clark HEARS 
+    a CLICK.  He and Jack talk in low whispers.
+
+                              CLARK
+                What was that?
+
+                              JACK
+                We're out.  I picked the lock with
+                a paper clip I found on the floor.
+
+                              CLARK
+                Put them back on.
+
+                              JACK
+                Don't worry.
+
+                              CLARK
+                Jack, listen to me.  Don't you
+                think I've gone over all the 
+                possibilites already?  The timing,
+                the position, the speed, I've
+                calculated it all.  But even if I
+                made it, they could kill you or the
+                others.  And anything might make
+                him trigger that bomb.  Even
+                Superman wouldn't take that kind of
+                chance right now.
+
+                              JACK
+                But --
+
+                              CLARK
+                I won't let you do it.                            *
+
+    Clark snaps the cuffs back on them.
+
+                              JACK
+                       (disillusioned)
+                I guess Luthor was right about you.
+
+                              CLARK
+                Jack, it's more complicated than
+                that.
+
+                              JACK
+                Guess we can't all be heroes.
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                19.  
+
+
+15A INT. AIR CONDITIONING DUCT - NIGHT                         15A 
+
+    Jimmy is crawling through, talking to himself.
+
+                              JIMMY
+                       (mimicking Perry)
+                'Kid, you mind coming to the office               *
+                on a Saturday night?  Help me
+                spring clean?'  Sure, boss, I'll do
+                anything.  I'm an all-purpose
+                moron.
+
+    He keeps crawling.
+
+
+15B BACK TO THE PIT                                            15B 
+
+    Clark knows he's done the right thing, but he's beginning
+    to wonder if what Jack says is true.  How long will it
+    take before he must reveal his secret in order to save
+    their lives?  Meanwhile, Lois talks to Luthor a few feet
+    away from them.
+
+                              LOIS
+                       (quietly excited)
+                This is going to make an incredible
+                story.  I mean, how many
+                journalists have had this kind of
+                opportunity?  To be in the belly of
+                the beast, _part_ of the event, not
+                just a casual observer.  Just like
+                those guys in the Bagdhad Hotel.
+
+    While she has been talking, Luthor has slowly slumped down
+    beside her. His head now falls on her shoulder, eyes
+    closed.
+
+                              LOIS (Cont'd)
+                Okay, so we don't share the same
+                enthusiasm, you don't have to fall
+                asleep.
+
+    But he doesn't wake up.
+
+                              LOIS (Cont'd)
+                Lex?
+
+    She shakes him.
+
+                              LOIS (Cont'd)
+                       (worried)
+                Lex?
+
+    His jacket opens and she sees that his shirt is soaked
+    with blood near the shoulder.
+
+                              LOIS (Cont'd)
+                Oh my God, someone help him.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                20.  
+
+
+15B CONTINUED:                                                 15B 
+
+    He lapses in and out of consciousness as the others move
+    closer to see what's going on.
+
+                              LOIS (Cont'd)
+                He's really hurt.
+
+    Clark and Jack get his jacket off with their free hands,
+    then open his shirt.  Clark inspects the wound.
+
+                              CLARK
+                The bullet went straight through,
+                but he's losing a lot of blood.
+
+                                                                  *
+
+                              PERRY
+                We have to close his wound.                       *
+
+                              LOIS
+                How?
+
+    Clark looks over, spots the coffee station, then addresses
+    the others.
+
+                              CLARK
+                I'm going to need three tea bags, a
+                cup, an orange and a pack of gum.
+
+                              LOIS
+                For what?
+
+                              CLARK
+                A remedy I learned from a Bornean
+                medicine man.  It should stop the
+                bleeding.
+
+    Perry gathers the items.
+
+                              LOIS
+                Clark, this is no time for voodoo.
+
+                              CLARK
+                Lois, we have no choice.
+
+    Perry brings the stuff over.
+
+                              CLARK
+                       (to Perry)
+                Open the tea bags and combine the
+                leaves.
+                       (to Jack)
+                Chew as many sticks of gum as you
+                can.
+                       (to Lois)
+                Squeeze some orange juice into the
+                cup.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                21.  
+
+
+15B CONTINUED:  2                                              15B 
+
+                              LOIS
+                This is ridiculous.
+
+                              CLARK
+                The oils and tannen from the tea
+                leaves, combined with the
+                peppermint from the gum and the
+                ascorbic acid from the orange juice
+                form a very potent healing mixture.
+                Lois, there's no time.
+
+    Flustered, she begins to peel the orange.  As everyone's
+    attention is diverted to their tasks, Clark begins the
+    real remedy.  He finds the bullet hole and, using his
+    _HEAT VISION_, he cauterizes the wound.  Luthor comes to.     *
+
+                              LUTHOR
+                Kent?
+
+                              CLARK
+                Don't worry, you're probably a
+                little dizzy but you'll be fine.
+                       (to the others)
+                Is it ready?
+
+    Lois holds the cup out.  Perry puts in the tea leaves and
+    Jack puts in a wad of gum.  Clark takes Luthor's 
+    handkerchief out of his pocket, wets it with the placebo 
+    mixture, then places it on Luthor's shoulder.
+
+                              CLARK (Cont'd)
+                       (to Luthor)
+                Careful, this could sting.
+
+    Luthor winces.  Clark removes the handkerchief revealing a 
+    nicely healed shoulder.
+
+                              PERRY
+                Well, I'll be damned.
+
+    Lois, too, is amazed.  She looks at Clark.
+
+                              LOIS
+                       (sincerely)
+                Thank you.
+
+                              LUTHOR
+                Lois, help me up.  I'm fine...
+
+    Before he can finish, they are all shaken by a huge jolt.
+
+                              LOIS
+                What was that?
+
+                              JACK
+                An earthquake.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                22.  
+
+
+15B CONTINUED:  3                                               15B
+
+    It happens again.  Clark looks over at Fuentes who pulls
+    out a walkie talkie, looking annoyed.
+
+                              CLARK
+                I don't think so.
+
+    The shaking continues.  Clark X-RAYS through the floor.
+
+
+15C BELOW                                                      15C*
+
+    ... the other three terrorists use jackhammers and a          *
+    battering ram to break through walls and the floor.
+
+
+15D BACK TO C                                                  15D*
+
+                              CLARK
+                They must be using that machinery
+                we saw them bring in here.
+
+                              PERRY
+                For what? Why would they come in
+                here and destroy the Daily Planet?
+
+    Fuentes talks angrily into the walkie talkie.                 *
+
+                              FUENTES
+                I told you to wait for my
+                instructions.  I'm still studying
+                the plans.
+
+    Clark monitors them with his _X-RAY VISION_.                  *
+
+
+15E BELOW                                                      15E*
+
+    ... they search the rubble, dissatisfied.                     *
+
+
+15F BACK TO SCENE                                              15F*
+
+                              CLARK
+                I don't think they're trying to
+                destroy the Planet, Chief. I think
+                they're looking for something.
+
+    Fuentes slams the walkie talkie down.                         *
+
+                              FUENTES
+                There's nothing there!  Get that
+                thing working again.
+
+    Remy looks up from their computer that she has been trying
+    to fix.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                23.  
+
+
+15F CONTINUED:                                                  15F
+
+                              REMY
+                There's no way.  Too much water
+                damage.
+
+    Fuentes aims his gun at the computer and fires.  He then      *
+    flings the water-soaked papers aside.
+
+                              CLARK
+                Guess they didn't find it.
+
+    Fuentes and Remy argue quietly.  Clark uses _SUPER
+    HEARING_ once again.                                          *
+
+                              REMY
+                So that's it?  A machine breaks and
+                we just give up?
+
+                              FUENTES
+                I have no blueprints.  Dragonetti's
+                office isn't where we thought it
+                was.  What am I supposed to do?
+
+    He clutches the detonator tightly, frustration building.
+
+                              CLARK
+                       (to himself)
+                Dragonetti?
+
+                              LOIS
+                Dragon what?
+
+                              CLARK
+                They said Dragonetti.
+
+                              LOIS
+                How do you know?  You read lips
+                now?
+
+                              CLARK
+                Well, as a matter of fact --
+
+                              PERRY
+                Dragonetti?  Well, I'll be damned.
+                I haven't heard that name in years.
+
+                              LOIS
+                You know him, Chief?
+
+                              PERRY
+                Know of him.  Pino 'Pretty Face'
+                Dragonetti.  One of the fiercest 
+                gangsters in Metropolis during the 
+                Prohibition era, as ruthless as he
+                was handsome.
+
+                          ---page break---
+    FLY HARD  (#18)  White Revision   2/18/94                 24.  
+
+
+16  EXT. DAILY PLANET - BLACK AND WHITE FLASHBACK - NIGHT       16 
+
+    Perry continues his.story over a gangster era flashback
+    with our people in starring roles.  Dragonetti (Luthor)
+    walks under a theater marquis announcing "The Jazz Singer"
+    and turns the corner into an alley.
+
+                              PERRY (V.0.)
+                Dragonetti actually built this
+                place.  He and a consortium of
+                other high profile gangsters.  They
+                hid behind a dummy corporation and
+                tried to launder their gin money
+                through the real estate market.
+                This was before the Daily Planet
+                moved in, of course.  Anyway,
+                Dragonetti used this as his
+                headquarters.  There was even a
+                speakeasy in the basement, right
+                where the cafeteria is now.
+
+    Dragonetti goes to a nondescript door near some garbage
+    cans.  He knocks, and an eye hole slides open.  The door
+    opens immediately and we move into...
+
+
+17  INT. SPEAKEASY - NIGHT                                      17 
+
+    The music is loud, the gin flows and everybody shakes
+    Dragonetti's hand.  The cigarette girl (Cat) flashes him a
+    smile and he winks at her as the Maitre'd (Jimmy) comes up
+    to him, looking slick in a dinner jacket.
+
+                              MAITRE'D/JIMMY
+                Evening, P.D.  Good crowd.
+
+                              DRAGONETTI/LUTHOR
+                Who've we got tonight?
+
+                              MAITRE'D/JIMMY
+                The mayor's brother, that actress
+                from the coast, Lieutenant Moore                  *
+                at the bar and Bud Robertson
+                waiting for you at your table with
+                Lily.
+
+    The cigarette girl crosses the floor.
+
+                              CIGARETTE GIRL/CAT
+                Cigars, cigarettes, tiparillos...
+
+    The Maitre'd falls back as Dragonetti approaches a man at
+    the bar.
+
+                              DRAGONETTI/LUTHOR
+                Lieutenant?
+
+    The man turns around.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  White Revision   2/18/94                 25.  
+
+
+17  CONTINUED:                                                  17 
+
+                              LT. MOORE/PERRY
+                Pretty Face.                                      *
+
+                              DRAGONETTI/LUTHOR
+                Enjoying yourself?
+
+                              LT. MOORE/PERRY
+                As always.                                        *
+
+                              DRAGONETTI/LUTHOR
+                About that little problem my trucks
+                ran into in the Hobs River
+                precint...
+
+                              LT. MOORE/PERRY
+                All taken care of.                                *
+
+                              DRAGONETTI/LUTHOR
+                       (smiling)
+                Who says you can't find a cop when
+                you need one?
+
+    Dragonetti crosses to a table where Bill (Clark) and
+    Lily (Lois) are deep in private conversation.
+
+                              DRAGONETTI/LUTHOR (Cont'd)
+                I didn't realize your share of the 
+                business entitled you to fifty 
+                percent of my personal assets 
+                as well.
+
+    Lily and Bill part quickly.  Lily, dressed in white,
+    stands and cuddles up to Dragonetti.
+
+                              LILY/LOIS
+                Pino, I missed you.
+
+                              DRAGONETTI/LUTHOR
+                I can see that.  Now, beat it.
+                I've got business with Bill.
+
+                              LILY/LOIS
+                Your business is my business, you
+                big lug.
+
+                              DRAGONETTI/LUTHOR
+                Later, baby.
+
+    She looks at them both, blows Pino a kiss, then leaves.
+
+                              DRAGONETTI/LUTHOR (Cont'd)
+                So, what's the emergency?
+
+                              BILL/CLARK
+                It's Murphy.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                26.  
+
+
+17  CONTINUED:  2                                                17
+
+    Bud and Dragonetti look across the room at Murphy
+    (Fuentes), who sits with the rest of his gang.                *
+
+                              BILL/CLARK (Cont'd)
+                He's making a play for our action
+                down by the Wharf.
+
+
+                              DRAGONETTI/LUTHOR
+                Is that so?
+
+    Murphy sees Bud and Dragonetti and walks over to their
+    table.  He looks down at them.
+
+                              MURPHY/FUENTES
+                Gentlemen, what a lovely
+                establishment you have here.
+
+                              BILL/CLARK
+                You've got a lot of nerve, Murphy.
+
+                              DRAGONETTI/LUTHOR
+                But, fortunately for us, not too
+                many brains.  We've got the wharf
+                locked up.
+
+
+18  BACK TO THE PRESENT                                         18 
+
+    Fuentes has crossed the room and stands over the 
+    hostages.
+
+                              FUENTES
+                I said the system's locked up.  Now
+                who can get me on-line with the 
+                computer?
+
+    Lois is about to speak but Clark cuts her off.
+
+                              CLARK
+                I can help you.  What file do you
+                need?
+
+                              FUENTES
+                That's not your concern.
+
+    Remy starts to unlock his cuffs.
+
+                              FUENTES (Cont'd)
+                Just get me onto the Metro-Comp
+                data base.
+
+    Lois pipes up.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                27.  
+
+
+18  CONTINUED:                                                   18
+
+                              LOIS
+                Metro-Comp?  That's the old system.
+                We updated three years ago.  He
+                won't know how to use it.
+
+    She raises her cuffed hand, cutting off Clark's protest.
+
+                              LOIS (Cont'd)
+                You'll have to take me.
+
+    Fuentes nods.  Remy re-cuffs Clark and releases Lois          *
+    instead.  Luthor looks worried as they cuff him to Clark.
+
+                              LUTHOR
+                       (to Lois)
+                Be careful.
+
+                              LOIS
+                Don't worry.
+                       (to Clark)
+                _Somebody's_ got to find out what
+                they're doing here.
+
+    Before Clark can say a word, Fuentes drags Lois into...       *
+
+
+19  PERRY'S OFFICE                                              19 
+
+    Fuentes points at the computer behind the desk.
+
+                              FUENTES
+                       (to Lois)
+                Sit down.
+
+                              LOIS
+                I'd prefer to...
+
+                              FUENTES
+                Sit.
+
+    She does.  Fuentes begins to walk around.                     *
+
+                              FUENTES (Cont'd)
+                All right, give me your access
+                code.
+
+
+20  BACK TO CLARK AND LUTHOR                                    20 
+
+    ... trying to see into Perry's office.
+
+                              LUTHOR
+                       (still weak)
+                How could you let her go in there?
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                28.  
+
+
+20  CONTINUED:                                                  20 
+
+                              CLARK
+                It wasn't exactly my plan.
+
+                              LUTHOR
+                If anything happens to her I'll...
+
+    They HEAR Lois SCREAM. Clark immediately uses his _X-RAY
+    VISION_ and _SUPER HEARING_.
+
+                              LUTHOR (Cont'd)
+                What's he doing to her?
+
+                              CLARK
+                Shhh.
+
+    Clark sees Fuentes holding Lois by the hair.
+
+                              FUENTES
+                Now, Miss Lane, I've spent the
+                last eight months planning for this
+                night.  Your life means less than
+                nothing to me right now, so if you
+                don't give me the _correct_ access
+                code I'm going to break your lovely
+                little neck.
+
+    Clark looks to Jack an his left, Luthor an his right. But
+    not even his secret identity is more important than Lois'
+    life.
+
+
+21  BACK TO LOIS AND FUENTES                                    21*
+
+                              LOIS
+                       (meekly)
+                Superman.
+
+22  CLARK                                                        22
+
+    ... starts to stand.
+
+                              CLARK
+                I'm coming.
+
+    Remy walks over, her gun poised.
+
+
+23  BACK TO LOIS AND FUENTES                                    23*
+
+                              FUENTES
+                Superman can't help you now.
+
+    He tightens his grip.
+
+                              LOIS
+                Superman is my _access_ _code_!
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                29.  
+
+
+24  CLARK                                                        24
+
+    ... relaxes as he sees Fuentes release her and sit her        *
+    behind the computer. He lets Remy stare him back
+    down but Luthor, still weak, starts to stand.
+
+                              LUTHOR
+                       (dazed)
+                I'm going in there.
+
+                                                                  *
+
+    Luthor falls back down.  Clark lifts up his hand to           *
+    straighten his glasses but Luthor yanks it away.  Neither
+    one is used to the cuff's yet.
+
+                              CLARK (Cont'd)
+                May I?
+
+    Luthor reluctantly lets his arm be guided up to Clark's 
+    face.  The two rivals just glare at each other.
+
+                                                                  *
+
+
+ 24A                                                           24A 
+THRU OMITTED                                                  THRU 
+ 24F                                                           24F 
+
+                                                                  *
+
+25  BACK TO LOIS                                                 25
+
+    on the computer. Fuentes leans over her shoulder.             *
+
+                              FUENTES
+                The file is named...
+                       (spelling)
+                D-P-B-L-P-R-N-T.
+
+    Lois enters the letters.
+
+                              LOIS
+                       (confirming as she goes)
+                D-P-B-L-P-R-N-T.
+                       (deciphering)
+                Daily Planet... blueprint?
+
+                              FUENTES
+                Just call it up.
+
+                              LOIS
+                So you must be interested in                      *
+                architecture. I always found this                 *
+                building particularly fascinating
+                myself.                                           *
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                30.  
+
+
+25  CONTINUED:                                                  25 
+
+                              FUENTES
+                There it is.  Bring it up.
+
+                              LOIS
+                Yes, sir.  Daily Planet Blueprint.
+
+    Fuentes smiles as we see the document appear.  Sure           *
+    enough, it's page after page of blueprints on the screen.
+
+                              FUENTES
+                Find the floor below us.
+
+                              LOIS
+                Hmm.  I think that's the 
+                advertising department.  Thinking
+                about placing a personal?
+
+    Again, he ignores her as he studies the screen.  He looks
+    pleased.
+
+                              FUENTES
+                Now, show me the plans to this
+                floor.
+
+    Fuentes smiles as he talks into the walkie talkie.            *
+
+                              FUENTES (Cont'd)
+                Bring the equipment up here.
+
+                              LOIS
+                Now, what could possibly be here in
+                the Daily Planet newsroom that
+                would be worth risking your lives
+                and the lives of everyone in
+                Metropolis?
+
+                              FUENTES
+                What else has man sought after
+                without pity or remorse since the
+                dawn of time?
+
+                              LOIS
+                Inner peace?
+
+                              FUENTES
+                Cold, hard, cash.
+
+                              LOIS
+                       (nervous)
+                Oh.
+
+                              FUENTES
+                Now print me out those plans.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                31.  
+
+
+25  CONTINUED:  2                                                25
+
+                              LOIS
+                Sure.  But they'll come Out over
+                there.
+
+    She points into to a printer outside the office.
+
+                              FUENTES
+                Fine.  Do it.    
+
+    She enters some more commands.  We HEAR the printer BUZZ.
+
+                              LOIS
+                Well, since I've already been so
+                helpful, how about giving me an
+                exclusive interview?
+
+                              FUENTES
+                We'll discuss the future later,
+                Miss Lane.
+
+    He exits.  Lois knows she can' t get up but she's got to do
+    _something_.  Eyeing Fuentes, she quietly types on the        *
+    computer.  The screen now reads...
+
+    "WELCOME TO THE COMPU-LINK E-MAIL SYSTEM.  WOULD YOU LIKE 
+    TO:  A) RECIEVE MESSAGES?  B) REVIEW MESSAGES?  C) SEND 
+    NEW MESSAGES?"
+
+    Lois clicks the cursor to the last option as Fuentes          *
+    re-enters.  She smiles at him, innocently.  He sits on the 
+    other side of the desk, and begins to make notations on 
+    the plans.  Lois' eyes wander back to the screen.  It now 
+    reads... "WHAT IS YOUR MESSAGE?"
+
+    She can barely breathe.  She creeps her hand back to the 
+    keyboard and we see her message appear as Fuentes sits        *
+    just inches away: "S.O.S."
+
+    Off Lois' nervous face.
+
+                                                 FADE OUT.
+                          _END ACT TWO_
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                32.  
+
+
+                            _ACT THREE_
+
+    FADE IN:
+
+26  INT. DAILY PLANET - PERRY'S OFFICE - NIGHT                  26 
+
+    Lois hasn't moved a muscle. She eyes Fuentes who is
+    still engrossed in his work. Her finger moves over to the
+    "ENTER" button and presses down.  The words "Sending
+    Message" flash on and off and she is visibly relieved.
+    Until the computer BEEPS.  Fuentes looks up. She smiles.
+
+
+  27                                                            27 
+THRU OMITTED                                                  THRU 
+  28                                                            28 
+
+
+29  BACK TO THE PIT                                              29
+
+    Luthor winces as he puts weight on his wounded arm.
+
+                              CLARK
+                How's your shoulder?
+
+                              LUTHOR
+                Oh, please, no false sympathy,
+                Kent.
+
+                              JACK
+                Hey, you'd still be bleeding to
+                death if it wasn't for him.
+
+                              LUTHOR
+                       (surprised)
+                Is that so?
+
+                              CLARK
+                Don't ask me if I'd do it again.
+
+    Clark who looks toward...                                     *
+
+
+30  PERRY'S OFFICE                                              30 
+
+    Another BEEP. This time Fuentes is suspicious. Lois'          *
+    confidence is melting away. Fuentes stands and quickly        *
+    comes around the desk to read the computer screen. His
+    finger pushes the "ESCAPE" key.  The words "Message
+    Interrupted: Retry?" appear.
+
+                              FUENTES
+                You've got a lot of nerve, Miss
+                Lane.  Not good judgement, but a
+                lot of nerve.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                33.  
+
+
+30  CONTINUED:                                                   30
+
+    He grabs her by the arm and drags her out of the office,
+    but not before she grabs one of the small pieces of paper
+    he has been making notes on.  She stuffs it into her
+    pocket during their scuffle out the door.
+
+
+30A INT. AIR CONDITIONING DUCT                                 3OA*
+
+    Jimmy scuttles along on his hands and knees fantasizing.      *
+
+                              JIMMY
+                The intrepid cub reporter
+                stealthily worked his way through
+                the dark maze of tunnels knowing
+                that certain death could lurk
+                around every corner.  Yet he 
+                continued on... He was their only 
+                hope.  He was Olsen, Jimmy Olsen.
+
+
+31  BACK TO THE PIT                                              31
+
+    ... as Fuentes brings Lois back to the group.
+
+                              FUENTES
+                       (to Remy)
+                I'm beginning to think you were
+                right about our uninvited guests.
+
+    They re-cuff Lois and Luthor together, separating him from 
+    Clark, who watches as Lois is comforted by Luthor's arms.
+
+                              LUTHOR
+                Thank God you're all right.
+
+                              FUENTES
+                       (to Remy)
+                I've found it.  They're bringing
+                the equipment back up but time is
+                definitely a factor now so get down
+                there and help.
+
+                              REMY
+                       (re hostages)
+                What about them?
+
+                              FUENTES
+                If anyone tries anything, we shoot
+                to kill.
+
+    Satisfied, Remy walks off.  Fuentes looks straight at         *
+    Lois.
+
+                              FUENTES (Cont'd)
+                _Anyone_.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                34.  
+
+
+31  CONTINUED:                                                  31 
+
+    He goes back to his papers in Perry's office, keeping the
+    group within eyesight.
+
+                              CLARK
+                       (to Lois)
+                What did you do in there?
+
+                              LOIS
+                       (talking fast)
+                He had me pull up the architectural
+                plans for the building.  They're
+                looking for money.
+
+    Lois carefully removes the paper from her pocket.
+
+                              LOIS (Cont'd)
+                Look, I stole this from him..
+
+    She passes it around.
+
+                              CLARK
+                It's a diagram of these offices.
+
+                              LUTHOR
+                And a very familiar name.
+
+
+32  INT. PERRY@S OFFICE - BLACK AND WHITE FLASHBACK - NIGHT     32 
+
+                              BILL/CLARK
+                Dragonetti, you double crossing son
+                of a --
+
+    Dragonetti stands up to face Bill across his desk.  Lily      *
+    lounges on the couch reading a magazine.
+
+                              LILY/LOIS
+                Bill, now why would Pino double                   *
+                cross you?  You're partners.                      *
+
+                              BILL/CLARK
+                Word on the street is you're
+                dealing with Murphy.
+
+                              DRAGONETTI/LUTHOR
+                And you trust that word more than
+                mine?
+
+    It's a stand-off.  Bill blinks first.                         *
+
+                              BILL/CLARK
+                No.
+
+                              DRAGONETTI/LUTHOR
+                Good.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                35.  
+
+
+32  CONTINUED:                                                   32
+
+                              LILY/LOIS
+                Friends again, you silly boys?
+
+    Dragonetti sits back down.
+
+                              BILL/CLARK
+                Look, maybe it's time I cashed out,
+                took my share and just said goodbye
+                to this town and this life.
+
+                              DRAGONETTI/LUTHOR
+                I don't think so.
+
+                              BILL/CLARK
+                Half of what's in that vault is
+                rightfully mine.
+
+                              DRAGONETTI/LUTHOR
+                And if I let you take it, then the
+                whole operation will only be worth 
+                half as much.  Sorry, Bill.  In                   *
+                for a penny, in for a pound.  Isn't 
+                that right, Lily?
+
+    Lily looks nervously from her magazine.  She and Bill         *
+    share a worried look.  Bill takes a key chain out of his      *
+    pocket and tosses it in his hand.
+
+                              BILL/CLARK
+                Just remember, it takes two keys to
+                open the vault, and I've got one of
+                them.
+
+    He JINGLES the keys again.
+
+
+33  BACK TO PRESENT                                              33
+
+    Clark's _SUPER HEARING_ picks up a faraway JINGLE just 
+    like in the flashback.  Then some faint CLICKS.
+
+                              LOIS
+                So you think Dragonetti's vault is
+                still here in the building?
+
+                              PERRY
+                Well, I always thought it was one
+                of those tall stories, you know, 
+                like that mess Geraldo got himself 
+                into?  But maybe there's some merit 
+                to it after all.
+
+    Another JINGLE.  He _X-RAYS_ through the ceiling this time 
+    and sees...                                                   *
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                36.  
+
+
+33A TWO FLOORS UP                                              33A*
+
+    Willie, the nightwatchman, conscientiously making his         *
+    rounds.  His long key chain TINGLES as he walks down the      *
+    linoleum hallway, CLICK, CLICK.                               *
+
+
+33B BACK TO SCENE                                              33B*
+
+                              CLARK
+                       (worried)
+                Willie...
+
+                              LOIS
+                Willie! He's  still making his
+                rounds.  He'll save us.  He's a
+                security guard.
+
+                              PERRY
+                He's an octogenarian.
+
+                              LOIS
+                He has a gun.
+
+                              PERRY
+                He has a hernia.
+
+                              JACK
+                We've got to get to him before they
+                do.  He can go for help.
+
+                              LUTHOR
+                And how do you propose we do that?
+
+    Luthor gestures with the hand cuff. Before anyone can
+    answer, we HEAR a CLICK.
+
+                              JACK
+                       (to Clark)
+                Don't worry, buddy, I'll be back
+                before they know I'm gone.
+
+                              CLARK
+                Jack, no
+
+    And with that he's off toward the exit door, silent and
+    low to the ground, leaving Clark with an empty handcuff
+    hanging from his wrist. He's angry at Jack, but more
+    angry at himself for letting it happen. Clark looks at
+    Fuentes, who's too busy to notice. He knows what he's         *
+    got to do.
+
+                              CLARK (Cont'd)
+                I can't let him go alone.
+
+    He looks at Lois, still holding onto Luthor's arm. She
+    meets his gaze.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                37.  
+
+
+33B CONTINUED:                                                 33B 
+
+                              LOIS
+                Be careful, Clark.
+
+                              PERRY
+                Hurry back, son.
+
+    With one last look at Fuentes, Clark follows Jack through     *
+    the exit door and into a...
+
+
+34  STAIRWELL                                                    34
+
+    Clark races up two flights at _SUPER SPEED_ and catches up
+    with Jack as he enters...
+
+
+35  A HALLWAY                                                    35
+
+    Jack jumps when he sees Clark.
+
+                              JACK
+                What did you do, fly up here?
+
+                              CLARK
+                I tried not to make any noise.
+
+    They see Willie shuffling down the hall, checking doors.
+    They make their way toward him. He turns around to find
+    them and nearly has a heart attack.
+
+                              WILLIE
+                Mr. Kent... wh-what are you doing
+                up here?
+
+                              CLARK
+                Willie, we need your help.
+
+    Off Willie's perplexed face.
+
+
+36  BACK TO THE NEWSROOM                                        36 
+
+    ... where the elevator doors open and Remy, Schumak, and
+    the Blackman remove the machinery once again. Fuentes         *
+    goes over to meet them, plans in hand.
+
+                              FUENTES
+                I think I've found the best way in.
+                       (remembering)
+                Schumak, check the prisoners.
+
+    Schumak walks across the pit toward...
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                38.  
+
+
+37  THE OTHERS                                                   37
+
+... who are sitting in a line, protecting something behind them.
+
+                              SCHUMAK
+                What's going on?
+
+                              LOIS
+                We're getting tired.
+
+                              LUTHOR
+                So we're taking shift's sleeping.
+
+                              PERRY
+                You got a problem with that?
+
+    Schumak looks through them.  There are two figures under
+    blankets.  A pair of old shoes peaks out from one end.
+    After a seemingly endless beat, Schumak is satisfied.
+
+                              SCHUMAK
+                No, no problem.  Better for us you
+                all go to sleep.
+
+    He laughs and goes back to help the others. The three
+    cohorts breathe a sigh of relief.
+
+
+38  REVERSE ANGLE                                                38
+
+    ...shows the decoys, none other than Elvira and the GOP       *
+    elephant underneath a blanket that says "I Saw Halley's
+    Comet, 1985."
+
+                              PERRY
+                And they wanted me to throw this
+                stuff away.
+
+
+39  BACK TO THE HALLWAY                                          39
+
+    ... where Clark and Jack talk to Willie.
+
+                              WILLIE
+                I'll get the cops.  But you boys
+                get yourselves back down there
+                before they find out you're gone.
+                You don't know what they might do.
+
+                              CLARK
+                Thanks, Willie.  We're counting on
+                you.
+
+    Willie hurries toward the elevators.  Meanwhile...
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                39.  
+
+
+40  LOIS AND LUTHOR                                             40 
+
+    ... have gotten closer, resting on each other now.  Luthor
+    looks weaker.
+
+                              LUTHOR
+                Now that I know it's money they                   *
+                want, all I need is five minutes                  *
+                alone with their leader.                          *
+
+                              LOIS
+                I don't think they'll go for it,                  *
+                Lex.  They have no reason to trust                *
+                you, and they've already got a                    *
+                bird in the hand.                                 *
+
+                              LUTHOR
+                It's worth a try.  As soon as Kent                *
+                and the kid get back I'll begin to                *
+                negotiate.                                        *
+                       (beat)
+                It's only money, Lois.                            *
+
+                              LOIS
+                A _lot_ of money.                                 *
+
+                              LUTHOR
+                But what is it really worth?  It                  *
+                can't buy a perfect blue sky, the                 *
+                symphony of waves crashing against                *
+                a rocky shore, a hand to hold when                *
+                you're alone.                                     *
+
+    He takes her cuffed hand in his, brings it to his lips and 
+    kisses it tenderly.  She sees something new in him.  
+    Something sincere.  And she likes it.
+
+    By now, the terrorists are all in Perry's office so they 
+    don't notice the elevator DING.  But Lois does.
+
+                              LOIS
+                We're saved!
+
+    Luthor and Perry look over to see Cat enter the the Pit 
+    and head straight for her desk.
+
+                              LOIS (Cont'd)
+                Ca --
+
+    Perry stops her.
+
+                              PERRY
+                Shhh.  Don't draw their attention
+                to her.
+
+    Perry, Luthor and Lois all.start waving frantically at Cat 
+    who is busy pulling lingerie out of her desk drawer, 
+    trying to make a decision.  She sees them waving.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                40.  
+
+
+40  CONTINUED:                                                  40 
+
+    She waves back and holds up one of the teddys for their
+    approval.  She mistakes their desperate gestures for a
+    "yes," smiles, waves goodbye then disappears back into the
+    elevator.
+
+                              LOIS
+                If I'm alive on Monday morning, she
+                won't be.
+
+
+41  THE STAIRWELL                                               41 
+
+    ... as Clark and Jack make their way down to their floor.
+    Jack is ahead of Clark and almost to the door when
+    Newberry, the fifth terrorist, makes his way up the stairs
+    from the floor below.  Jack freezes.  Newberry spots him.
+    He aims his gun at Jack and fires.  Clark has no time to
+    think.  He pushes Jack down, and instinctively places         *
+    himself between Jack and the bullet.  It bounces off his      *
+    chest.  Clark then hops the railing and tackles Newberry.     *
+
+
+42  CLOSE ON LOIS                                               42 
+
+    ... as she reacts to the shot.
+
+                              LOIS
+                Did you hear something?
+
+                              LUTHOR
+                Faintly.
+
+    Lois looks toward the group in Perry's office, still          *
+    unloading.  They didn't hear it. Back to...
+
+
+43  THE STAIRWELL                                               43 
+
+    ... as Clark takes a nearby fire hose and ties Newberry
+    tightly.  He takes the man's cap off and stuffs it in his
+    mouth so he won't make noise when he comes to.  Meanwhile,
+    Jack has rejoined Clark.                                      *
+
+                              JACK
+                       (confused)
+                What happened?
+
+                              CLARK
+                       (simply)
+                He missed.
+
+    Jack looks at Clark's shirt. A bullet hole, but no            *
+    blood, no wound.                                              *
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                41.  
+
+
+43  CONTINUED:                                                  43 
+
+                              JACK
+                Oh... I...
+                       (beat)                                     *
+                ... you sure you're all right.                    *
+
+                              CLARK
+                Fine.
+
+    Clark starts for the door.
+
+                              JACK
+                Hey, Clark?
+
+    Clark turns to face him.
+
+                              JACK (Cont'd)
+                Luthor was wrong about you.
+
+    Clark smiles, then he and Jack duck and enter...
+
+
+44  THE NEWSROOM                                                44 
+
+    ... where they go, one at a time, across the open space
+    toward the others.  Lois looks visibly relieved as Clark
+    sits down next to her and snaps the cuffs back on to his
+    hand, then to Jack's.  Clark looks at the decoys, then
+    smiles at Lois.
+
+                              JACK
+                Did you find Willie?
+
+                              CLARK
+                Help's on its way.  What have they
+                been doing?
+
+                              PERRY
+                Futzing around with those fancy
+                tools.
+
+    They watch as Schumak and Blackman carry jackhammers
+    inside Perry's office.  Remy and Fuentes follow with          *
+    chain saws and picks.
+
+                              PERRY (Cont'd)
+                What the...
+
+
+44A PERRY'S OFFICE                                             44A 
+
+    Fuentes and Schumak drag Perry's desk across the room,        *
+    not caring what they damage in the process.
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                42.  
+
+
+44B BACK TO THE OTHERS                                         44B 
+
+                              PERRY
+                Not the Elvis box!
+
+    They are all startled by the loud ROAR of a motor.
+
+                              PERRY (Cont'd)
+                They're not doin' what I think
+                they're doin' ...
+
+
+44C JACKHAMMERS                                                44C 
+
+    ... start to tear apart the floor in Perry's office. The
+    noise and the dust are overwhelming.
+
+
+44D BACK TO THE OTHERS                                         44D 
+
+                              CLARK
+                Looks like they've found
+                Dragonetti's vault.
+
+                              JACK
+                And it's been there all the time.
+                Right under the chief's...
+
+    Perry's look makes him choose his words wisely.
+
+                              JACK (Cont'd)
+                ... nose.
+
+    off their looks as Perry's office gets demolished.
+
+                                                 FADE OUT.
+
+                          _END ACT THREE_
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Yellow      2/24/94               43.  
+
+
+                              _ACT FOUR_
+
+    FADE IN:
+
+45  INT. DAILY PLANET - SAME NIGHT                              45 
+
+    The hostage group is on its feet now, staring at the
+    carnage in Parry's office.  They hear the sound of metal
+    hitting metal and a few sparks fly from within.  The
+    machinery noise grinds to a halt.
+
+
+45A OMITTED                                                    45A 
+
+
+45B INT. DAILY PLANET - AIR DUCT - NIGHT                       45B*
+
+                              JIMMY
+                Olsen was tired, hungry, and                      *
+                sore-kneed.  But his unquenchable                 *
+                spirit drove him onward.  Until...                *
+                There!  An opening!  A light at                   *
+                the end of the tunnel.                            *
+                       (reaches the opening)                      *
+                An... M-16.                                       *
+                       (beat)                                     *
+                Uh-oh.                                            *
+
+
+46  OMITTED                                                      46
+
+
+47  CLOSE ON A BLOWTORCH                                         47
+
+    ... as it is lit. It moves out of frame, revealing Perry,
+    his face incredulous.  Fuentes now addresses the hostages
+    as the blowtorch is brought into Perry's office.
+
+                              FUENTES
+                As you can see, we found what we
+                were looking for...
+
+                              CLARK
+                Dragonetti's vault.
+
+                              LUTHOR
+                I'll double the amount in that safe
+                if you release us unharmed.
+
+                              FUENTES
+                From what I've heard, I'd be better
+                off out there with the cops on my
+                tail than you, Mr. Luthor.
+
+    Remy comes out.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Yellow Revision   2/24/94        43A.  
+
+
+47  CONTINUED:                                                  47 
+
+                              REMY
+                We're close.
+
+                Good.  I think it's only fitting
+                that after all the trouble he's
+                gone to, I allow the mastermind of
+                this plan to do the actual
+                unveiling, don't you all agree.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                44.  
+
+
+47  CONTINUED:                                                  47 
+
+                              LOIS
+                       (to Clark)
+                I knew he wasn't smart enough to
+                think of this on his own.
+
+                              FUENTES
+                Besides, I know you'll all enjoy
+                meeting him.
+                       (into walkie-talkie)
+                We're ready for you, sir.
+
+    As if on cue, the elevator DINGS.  All heads turn as the 
+    doors open, revealing...
+
+                              ALL
+                Jimmy?                                            *
+
+    Jimmy enters with his hands up, behind him Willie slowly      *
+    makes his way down to them, holding Jimmy at gunpoint.        *
+
+                              ALL
+                Willie!?                                          *
+
+                              LOIS
+                But this means --
+
+                              FUENTES
+                Help is _not_ on its way.
+
+                              PERRY
+                Willie, how could you?  Why, I
+                recommended you for this job.
+
+                              WILLIE
+                Would you have recommended me if
+                you knew I had a prison record?
+
+                              LOIS
+                Willie, just because you did 
+                something bad in the past doesn't 
+                mean you have to turn to a life of 
+                crime in your sunset years..
+
+                              WILLIE
+                I just got out ten months ago.
+
+                              LOIS
+                Oh.  Well, nothing you did could 
+                possibly be as bad as armed robbery 
+                and kidnapping.
+
+                              WILLIE
+                Murder One.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Pink Pink Revision   2/23/94             45.  
+
+
+47  CONTINUED:  2                                               47 
+
+                              LOIS
+                       (swallowing)
+                Oh.
+
+                              JACK
+                You killed someone?
+
+                              WILLIE
+                Of course not!  Don't be
+                ridiculous.  I couldn't hurt a fly.
+
+                              CLARK
+                Then why were you in prison?
+
+    Willie looks around. His eyes settle on Perry's office.
+
+
+48  FADE TO BLACK AND WHITE                                     48 
+
+    Bill enters the darkened office.
+
+                              BILL/CLARK
+                Dragonetti?  You wanted to see me?
+
+    Lily steps out of the shadows, again dressed all in white.
+
+                              LILY/LOIS
+                No, I did. I couldn't stand it any
+                more. I couldn't be away from you.
+
+    Bud crosses the room, takes her in his arms and kisses her
+    passionately.
+
+                              BILL/CLARK
+                I'm going to get us out of this, I
+                swear.  There's thirty million in                 *
+                here and half of it's mine, fair
+                and square.  I'll just wait 'til he
+                gets here.
+
+    Bill takes out a gun.  The door opens.  A figure stands in
+    the doorway.  We HEAR a SHOT and the figure goes down.
+
+                              BILL/CLARK (Cont'd)
+                       (confused)
+                Dragonetti?
+
+    Dragonetti steps out of the shadows behind Bill, a smoking
+    gun in his hand.
+
+                              DRAGONETTI/LUTHOR
+                Sorry, Bill.  There's no such thing
+                as fair and square.
+
+    Bill looks at the body on the floor.  It's Murphy.
+
+                                                 (CONTINUED)
+                          ---page break---
+    FLY HARD  (#18)  White Revision   2/18/94                 46.  
+
+
+48  CONTINUED:                                                  48 
+
+                              BILL/CLARK
+                Murphy!
+
+                              DRAGONETTI/LUTHOR
+                I realized this was becoming a one
+                man operation and the two of you
+                conveniently complied.
+
+                              BILL/CLARK
+                If you think you can get rid of me
+                that easily --
+
+                              DRAGONETTI/LUTHOR
+                Lieutenant Moore, arrest this man                 *
+                for the murder of Mr. Murphy.
+
+    Lieutenant Moore enters and takes Bill's gun. Dragonetti
+    hands him his gun as well.
+
+                              LT. MOORE/PERRY
+                I'll probably need these guns for                 *
+                evidence. I guess you wrestled
+                that one out of his hand.
+
+                              DRAGONETTI/LUTHOR
+                Yes, that's it, thank you.
+
+                              BILL/CLARK
+                You won't get away with this.
+                Lily, tell him what really
+                happened.
+
+    Lily crosses to Dragonetti, double-crossing Bill.
+
+                              LILY/LOIS
+                It's just like Pino said. You
+                killed him.
+
+                              BILL/CLARK
+                Not you, Lily...
+
+                              LILY/LOIS
+                There's a sucker born every minute.
+
+
+49  FADE BACK TO WILLIE                                         49 
+
+    ... lost in his memories.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Green Revision   2/15/94                 47.  
+
+
+49  CONTINUED:                                                  49 
+
+                              WILLIE
+                Anyone but you.
+                       (beat)
+                I lost a lifetime because of
+                Dragonetti and I swore, if I ever
+                got out, I'd come back for what
+                belonged to me.
+                       (beat)                                     *
+                Dragonetti got his due, though.                   *
+                He was gunned down a week after I                 *
+                went to prison.                                   *
+
+    The others are engrossed in his story.
+
+                              CLARK
+                Willie, they're going to send you
+                right back to prison for what
+                you've done to us.
+
+                              WILLIE
+                But you weren't supposed to be
+                here!
+                       (to Fuentes)
+                And you broke your promise.  You
+                said no guns.
+
+                              FUENTES
+                I lied.
+                       (beat)
+                About a lot of things.
+
+    Fuentes grabs Willie and cuffs him to the other side of
+    Perry.
+
+                              WILLIE
+                Fuentes, what do you think you're
+                doing?
+
+                              FUENTES
+                Sorry, Pops.  You're a liability.
+
+                              WILLIE
+                But I'm the one who told you about
+                the vault in the first place.
+
+                              FUENTES
+                And I'll always remember you fondly
+                for it.  But we've got to make a
+                clean getaway and you're not
+                exactly at your physical peak.
+
+    Remy sticks her head out of the office.
+
+                              REMY
+                We're in.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Green Revision   2/15/94                47A.  
+
+
+49  CONTINUED:  2                                               49 
+
+                              FUENTES
+                Good.  Load the bags.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                48.  
+
+
+49  CONTINUED:  2                                               49 
+
+                              LOIS
+                What about us?
+
+                              FUENTES
+                Remy!
+
+    She comes over, carrying two bags.
+
+                              FUENTES (Cont'd)
+                I believe I've come around to your
+                way of thinking. We'll take these
+                up and meet you at the chopper.
+                They're all yours.
+                       (beat)
+                Except her.
+
+    Fuentes unlocks Lois' cuff.                                   *
+
+                              FUENTES (Cont'd)
+                We may need a hostage if anything
+                goes wrong.
+
+    Luthor tries to jump Fuentes but he's too weak.  Remy         *
+    easily wards him off with a sharp blow.  Lois is at a
+    loss.
+
+                              LOIS
+                You can't just kill them.
+
+                              FUENTES
+                You'd be surprised what you can do
+                for a hundred million dollars.
+
+    Remy points her weapon at the group.
+
+                              REMY
+                Get him up.  Let's go.
+
+    Clark helps Luthor to his feet and carries him,
+    half-conscious, toward the elevators.
+
+                              LOIS
+                       (weakly, to Fuentes)                       *
+                I suppose this means I can't have
+                the interview.
+
+
+  50                                                            50 
+THRU OMITTED                                                  THRU 
+  53                                                            53 
+
+
+54  STAIRWELL                                                   54 
+
+    ... as they begin to descend. Jack looks nervously at
+    Clark who is still uncertain what he knows.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                49.  
+
+
+54  CONTINUED:                                                  54 
+
+                              CLARK
+                       (re Luthor)
+                Hold him.
+
+    Jack nods and as he is busy taking Luthor's weight, Clark,
+    his back to the others, aims his _HEAT VISION_ at the
+    light fixture.  SPARKS fly, the lights flicker, then off
+    all together.
+
+
+55  OVER BLACK                                                  55 
+
+    We HEAR a short scuffle, then Jack opens a door
+    letting light into the stairwell.  He looks at the cuffs
+    dangling from his wrist.  Clark's is broken open.  He
+    hides it from the others as they see Remy now unconscious
+    and tied up next to Newberry.
+
+                              JIMMY
+                Hey, where's C.K.?
+
+  56                                                            56 
+THRU OMITTED THRU
+  57                                                            57 
+
+
+
+58  EXT. ROOF - NIGHT                                           58 
+
+    Lois, Fuentes, Schumak and Blackman come out onto the         *
+    roof.  They look around, confused.
+
+                              FUENTES
+                Where's the chopper?
+
+                              SCHUMAK
+                I don't know.
+
+                              FUENTES
+                Newberry!
+
+                              BLACKMAN
+                He can't even drive a car.
+
+                              FUENTES
+                Then who took it?
+
+    Lois smiles, figuring it out.
+
+                              LOIS
+                Superman.
+
+    Fuentes angrily pulls her back inside followed by the         *
+    others.
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                50.  
+
+
+59  INT. DAILY PLANET HALLWAY - NIGHT                           59 
+
+    The terrorists and Lois race back toward the elevator.
+
+                              FUENTES
+                Down to the garage.  We'll take the
+                van.
+
+    But before they reach the button, they are plunged into
+    darkness.  Lois SCREAMS.
+
+                              LOIS
+                Superman! We're up here.
+
+                              FUENTES
+                Shut up or I push the button.
+
+
+60  CLARK                                                       60 
+
+    ... steps away from the main power box where he has just
+    thrown the switch.
+
+                              CLARK
+                Hang on, Lois.
+
+    He takes off at _SUPER-SPEED_.
+
+
+61  BACK TO LOIS AND FUENTES                                    61*
+
+    Fuentes holds a small flashlight.
+
+                              FUENTES
+                Shumak!?
+
+    No answer.
+
+                              FUENTES (Cont'd)
+                Blackman!?
+
+    Nowhere to be found. Fuentes is nervous now.                  *
+
+                              LOIS
+                I told you. It's Superman.
+
+                              FUENTES
+                And I told you unless I make it
+                out of here with the money, the
+                whole city goes.
+
+    He drags her back out onto...
+
+
+62  THE ROOF                                                    62 
+
+    They head for the ledge.
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                51.  
+
+
+63  BACK IN THE HALLWAY                                          63
+
+    Clark is about to go out on the roof when Jack bursts
+    through the stairwell door, huffing and puffing.
+
+                              CLARK
+                What are you doing?
+
+                              JACK
+                Helping you.
+
+    They HEAR Lois SCREAM.
+
+                              CLARK
+                Go back.
+
+    But Clark has no time to waste. He goes out onto...
+
+
+64  THE ROOF                                                     64
+
+    where he sees Lois and Fuentes go over the side.              *
+
+                              LOIS
+                Clark!
+
+    Clark and Jack race to the edge. Fuentes and Lois are on      *
+    a window washer's scaffold that hangs off the side of the
+    building.  Fuentes still has the bomb in one hand which       *
+    hinders his movement but he is above Lois preventing her
+    from climbing back up.
+
+                              CLARK
+                Jack, quick, get the police.                      *
+
+    Jack takes off.                                               *
+
+                              FUENTES
+                I'm going and I'm taking you all                  *
+                with me.                                          *
+
+    Lois grabs his loose arm and fights for the device. In
+    their struggle one end of the scaffold becomes untied and
+    Lois falls off.  Clark jumps after her.                       *
+
+
+64A ANGLE JACK                                                 64A 
+
+    looking back, the roof is empty.                              *
+
+
+65  EXT. DAILY PLANET - NIGHT                                   65 
+
+    SUPERMAN stands under the globe and catches Lois.
+
+                              LOIS
+                I knew you'd come.
+
+                          ---page break---
+    FLY HARD  (#18)  Blue Blue Revision  2/22/94              52.  
+
+
+65A BACK TO THE SCAFFOLD                                       65A 
+
+    ... as Fuentes' finger moves toward the button, still in
+    his hand. The other end of the scaffold gives out before
+    he can push it and he, too, plummets to the ground.
+
+
+65B SUPERMAN                                                   65B 
+
+    catches Fuentes, grabs his wrist.  Fuentes involuntarily
+    drops the device.  Lois catches it.
+
+                              LOIS
+                       (disgustedly)
+                Other women catch bouquets, I catch
+                bombs.
+
+                              SUPERMAN
+                       (smiling)
+                That's what makes you so special,
+                Lois.
+
+                              LOIS
+                       (smiling back proudly)
+                Oh.
+
+    He takes the bomb from her as we HEAR SIRENS pull up.
+
+                              SUPERMAN
+                Tell them there's one tied up in
+                the west stairwell and two more on
+                the roof.
+                       (re bomb)
+                I'll take care of this.
+
+    He flies off as the police grab Fuentes.  Perry, Jimmy,
+    Willie and Luthor come out of the main doors.
+
+                              PERRY
+                Hey!  We've got an injured man over
+                here!
+
+    Lois rushes over to Luthor's side as two paramedics lead      *
+    him to an ambulance and sit him down.                         *
+
+                              LUTHOR
+                Lois?  Are you all right?
+
+                              LOIS
+                I'm fine.
+
+                              LUTHOR
+                What an experience.  At least I got
+                to spend the night with you.  I
+                didn't know you were that type of
+                woman.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Blue Blue Revision  2/22/94             52A.  
+
+
+65B CONTINUED:                                                   65B
+
+                              LOIS
+                Hey, I'm full of surprises.
+
+    He takes her hand.  The paramedics interrupt them and         *
+    then guide Luthor into the ambulance.  Meanwhile, Clark       *
+    and Jack come out of the building.                            *
+
+                              CLARK
+                Amazing night...                                  *
+
+                              JACK
+                Pretty unbelievable.                              *
+
+                              CLARK
+                Yeah, you could say that.                         *
+
+                              JACK
+                I mean, if I ever told anybody                    *
+                about it they'd think I was crazy,                *
+                right?                                            *
+
+                              CLARK
+                Probably.                                         *
+
+                              JACK
+                You know, you still owe me a                      *
+                movie.                                            *
+
+                              CLARK
+                Next weekend.                                     *
+
+                              JACK
+                You're on.                                        *
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Blue Blue Revision  2/22/94              53.  
+
+
+65B CONTINUED:  2                                              65B 
+
+    Clark slaps Jack oh the back, walks toward Lois.  She         *
+    throws her arms around Clark, relieved.  They part.           *
+    She's slightly embarrassed at her outburst of emotion.        *
+
+                              LOIS
+                I told you Superman wouldn't let us
+                down.
+
+                              CLARK
+                I'm sure he always had his eye on                 *
+                us.                                               *
+
+                              LOIS
+                Well, just another Saturday night                 *
+                in Metropolis.                                    *
+
+                              CLARK
+                Yeah, the fun never stops.                        *
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Blue Blue Revision  2/22/94              54.  
+
+
+65B CONTINUED:  3                                               65B
+
+                              LOIS
+                You know, it's times like these I                 *
+                think maybe I should get a regular                *
+                boring job, settle down with a guy                *
+                who sells insurance and have                      *
+                two-point-four kids.                              *
+
+    Beat.
+
+                  LOIS                         CLARK
+          Nah.                            Nah.                    *
+
+                              LOIS
+                Well, I guess I should ride with                  *
+                Lex.                                              *
+
+                              CLARK
+                Lois?                                             *
+
+                              LOIS
+                Yes?                                              *
+
+                              CLARK
+                Be careful with Luthor.  You don't                *
+                know him like I do.                               *
+
+    She turns and walks to the ambulance where she takes          *
+    Luthor's outstretched hand.  Clark watches, feeling           *
+    suddenly alone amid the flurry of activity.                   *
+
+
+66  INT. DAILY PLANET - (DAY #2)                                66 
+
+    Monday morning and the newsroom is buzzing, mostly with
+    people trying to see into Perry's boarded-up office.
+    Perry stands with Jimmy.
+
+                                                 (CONTINUED)
+
+                          ---page break---
+    FLY HARD  (#18)  Yellow Revision   2/14/94                55.  
+
+
+66  CONTINUED:                                                   66
+
+                              PERRY
+                Oh well, I guess the place needed a
+                lift.
+
+    Lois and Clark sit at their desks.  A messenger brings a
+    flower arrangement over.  She opens the card.  It
+    reads: "Love, Lex." She looks at Clark who just keeps         *
+    working.  CAT enters, her bubbly self.
+
+                              CAT
+                _What_ at a weekend.  I know he may
+                not look it, but under that plain,
+                mild-mannered facade, George is a
+                wild man.
+                       (confidentially)
+                I spent most of the weekend in
+                handcuffs.  So, what did you guys
+                do this weekend?
+
+    By this time, Lois, Clark, Jimmy and Perry are all just 
+    glaring at her.  Lois starts to move toward her.
+
+                              CAT (Cont'd)
+                Gee, sorry I asked.
+
+                                                 FADE OUT.
+                         _END ACT FOUR_
+
+

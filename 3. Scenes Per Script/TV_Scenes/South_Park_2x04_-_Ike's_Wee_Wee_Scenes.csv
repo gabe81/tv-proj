@@ -1,0 +1,40 @@
+1,               EXT SOUTH PARK ELEMENTARY  DAY,17
+2,               INT CLASSROOM  DAY,159
+3,               INT PRINCIPALS OFFICE,60
+4,               EXT BUSSTOP  DAY,17
+5,               INT MR GARRISONS LIVINGROOM,11
+6,               EXT SOUTH PARK AVENUE,160
+7,               EXT BAR  DAY,36
+8,               INT SOUTH PARK BREW PUB,59
+9,               EXT SOUTH PARK,56
+10,               EXT SOUTH PARK AVENUE,65
+11,               EXT KYLES HOUSE  NIGHT,4
+12,               INT KYLES HOUSE  NIGHT,77
+13,               INT KYLES ROOM,38
+14,               EXT ALLEY  SOUTH PARK  NIGHT,56
+15,               EXT SOUTH PARK TRAIN STATION  DAY,87
+16,               EXT WOODS,72
+17,               EXT BUSSTOP  DAY,88
+18,               EXT NEBRASKA TRAIN STATION,15
+19,               INT KYLES HOUSE  NIGHT,76
+20,               EXT CEMETERY  DAY,82
+21,               EXT SOUTH PARK  DAY,53
+22,               EXT NEBRASKA  DAY,55
+23,               EXT HAPS BAR  NEBRASKA,4
+24,               INT HAPS BAR  NEBRASKA,24
+25,               EXT SOUTH PARK,4
+26,               EXT SOMEBODYS HOUSE  NIGHT,27
+27,               EXT KYLES HOUSE  NIGHT,4
+28,               INT KYLES HOUSE  NIGHT,24
+29,               EXT INDIA  DAY,38
+30,               INT CAR  INDIA,34
+31,               EXT KYLES HOUSE  DAY,8
+32,               INT KYLES HOUSE  DAY,46
+33,               INT KYLES ROOM,50
+34,               EXT BETTY FORD CLINIC,4
+35,               INT BETTY FORD CLINIC,51
+36,               INT KYLES HOUSE  DAY,40
+37,               INT KYLES ROOM,81
+38,               EXT BETTY FORD CLINIC,28
+39,               INT KYLES HOUSE  DAY,64
+40,               EXT SOUTH PARK ELEMENTARY  DAY,4
