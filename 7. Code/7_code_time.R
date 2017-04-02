@@ -1,13 +1,14 @@
 ## TIME Ratio Generator
 ## Same as int/ext loop, but now aware of temporal categories
 ## loop to calculate all int/ext/weighted ratios for all shows
+library(dplyr)
 
-setwd("~/Dropbox/1_Research/tv-final/3. Scenes Per Script/Film_Scenes/")
-files <- list.files(path="~/Dropbox/1_Research/tv-final/3. Scenes Per Script/Film_Scenes")
+setwd("~/Dropbox/1_Research/tv-final/3. Scenes Per Script/TV_Scenes/")
+files <- list.files(path="~/Dropbox/1_Research/tv-final/3. Scenes Per Script/TV_Scenes")
 time <- data.frame()
 weight.ratios <- data.frame()
 
-domdict <- read.csv("~/Dropbox/1_Research/tv-final/5. Plot Tables/INT-EXT Labels by Space Type/Film_MFW_INT.csv", header = F)
+domdict <- read.csv("~/Dropbox/1_Research/tv-final/5. Plot Tables/INT-EXT Labels by Space Type/TV_MFW_INT.csv", header = F)
 domestic <- domdict[which(domdict$V5=='domestic'),]
 dommatch <- domestic$V2
 
@@ -16,7 +17,7 @@ workmatch <- workplace$V2
 
 avg.int = 0
 avg.ext = 0
-
+i = 1
 for (i in 1:length(files)){
   print(files[i])
   space<-as.matrix(read.csv(files[i], header=F))
@@ -38,6 +39,7 @@ for (i in 1:length(files)){
   
   space.split = split(space, rep(1:4, each = ceiling(nrow(space)/4)))
   space.one <- data.frame(space.split[1])
+  
   space.two <- data.frame(space.split[2])
   space.three <- data.frame(space.split[3])
   space.four <- data.frame(space.split[4])

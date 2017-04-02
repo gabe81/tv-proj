@@ -3,7 +3,7 @@ library(ggplot2)
 library(reshape2)
 library(plyr)
 #count unique shows
-setwd("~/Dropbox/1_Research/tv-final/2. Metadata/")
+setwd("~/Dropbox/1_Research/tv-final/5. Plot Tables/TIME Table")
 
 master.tv <- read.csv("TV_Time_Master.csv")
 master.film <- read.csv("Film_Time_Master.csv")
@@ -28,7 +28,7 @@ for (i in 1:nrow(tv.int)) {
   temp$variable <- c("title", "X0.0~0.25", "X0.25~0.50", "X0.50~0.75", "X0.75~1.0")
   title <- temp[1,2]
   temp <- temp[2:5,]
-  ggobj <- ggplot(temp, aes(x=variable,y=as.numeric(value), group=1)) + geom_line(stat = "identity") + geom_point() + stat_smooth(method = "lm", formula = y ~ poly(x, 2), size = 1) + ggtitle(title) + labs(x="Script Time", y="INT Percentage") + scale_y_continuous(limits=c(0, 1)) 
+  ggobj <- ggplot(temp, aes(x=variable,y=as.numeric(value), group=1)) + geom_line(stat = "identity") + geom_point() + ggtitle(title) + labs(x="Script Time", y="INT Percentage") + scale_y_continuous(limits=c(0, 1)) 
   print(ggobj)
   setwd("~/Dropbox/1_Research/tv-final/9. Appendix/TV_All_Time_Plots/")
   ggsave(ggobj,filename=paste(title,"_Space-Time.pdf",sep=""))
@@ -123,18 +123,18 @@ title_all = "INT Scene Labels by Domestic or Workplace"
 film.post <- subset(master.film, date>1989 & date<2016)
 film.all <- film.post[,12:29]
 film.all$title <- "film"
-film.all$int.mean <- rowMeans(subset(film.all, select = c(int.0.0.0.25, int.0.25.0.50, int.0.50.0.75, int.0.75.1.0 )), na.rm = TRUE)
+#film.all$int.mean <- rowMeans(subset(film.all, select = c(int.0.0.0.25, int.0.25.0.50, int.0.50.0.75, int.0.75.1.0 )), na.rm = TRUE)
 film.all$dom.mean <- rowMeans(subset(film.all, select = c(dom.0.0.0.25, dom.0.25.0.50, dom.0.50.0.75, dom.0.75.1.0 )), na.rm = TRUE)
 film.all$work.mean <- rowMeans(subset(film.all, select = c(work.0.0.0.25, work.0.25.0.50, work.0.50.0.75, work.0.75.1.0 )), na.rm = TRUE)
-film.bar <- film.all[,19:22]
+film.bar <- film.all[,19:21]
 
 tv.post <- subset(master.tv, date>1989 & date<2016)
 tv.all <- tv.post[,12:29]
 tv.all$title <- "tv"
-tv.all$int.mean <- rowMeans(subset(tv.all, select = c(int.0.0.0.25, int.0.25.0.50, int.0.50.0.75, int.0.75.1.0 )), na.rm = TRUE)
+#tv.all$int.mean <- rowMeans(subset(tv.all, select = c(int.0.0.0.25, int.0.25.0.50, int.0.50.0.75, int.0.75.1.0 )), na.rm = TRUE)
 tv.all$dom.mean <- rowMeans(subset(tv.all, select = c(dom.0.0.0.25, dom.0.25.0.50, dom.0.50.0.75, dom.0.75.1.0 )), na.rm = TRUE)
 tv.all$work.mean <- rowMeans(subset(tv.all, select = c(work.0.0.0.25, work.0.25.0.50, work.0.50.0.75, work.0.75.1.0 )), na.rm = TRUE)
-tv.bar <- tv.all[,19:22]
+tv.bar <- tv.all[,19:21]
 
 
 all <- rbind(film.bar, tv.bar)
@@ -147,8 +147,8 @@ shapiro.test(tv.int$int.percent)
 
 boxplot.medium <- ggplot(all.melt, aes(title, value))
 boxplot.medium + geom_boxplot(outlier.shape = NA, aes(fill=variable)) + 
-  scale_fill_brewer(palette="Pastel2") + 
-  ggtitle("Percentage of Scenes Labelled as Domestic or Workplace") + 
+  scale_fill_manual(values = c("mediumspringgreen", "mediumslateblue")) + 
+  ggtitle("Percentage of INT Scenes Labelled as Domestic or Workplace") + 
   theme(axis.title.x=element_blank(),
         axis.title.y=element_blank(),
         axis.ticks.x=element_blank())

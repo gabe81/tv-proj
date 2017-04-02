@@ -68,17 +68,17 @@ ggplot(short.int, aes(x = reorder(words, perc), y=perc, fill=medium)) +
   ylab("Percentage of Total Scenes") + 
   ggtitle("Top 10 Words in INT Scene Directions") +
   coord_flip() +
-  scale_fill_brewer(palette="Pastel2") 
+  scale_fill_manual(values = c("springgreen3", "dodgerblue3")) 
 
 short.ext <- read.csv("Short_EXT.csv", header= TRUE)
-#top 10 int
+#top 10 ext
 ggplot(short.ext, aes(x = reorder(words, perc), y=perc, fill=medium)) + 
   geom_bar(stat="identity", position=position_dodge()) +
   xlab("") + 
   ylab("Percentage of Total Scenes") + 
   ggtitle("Top 10 Words in EXT Scene Directions") +
   coord_flip() +
-  scale_fill_brewer(palette="Pastel2") 
+  scale_fill_manual(values = c("springgreen3", "dodgerblue3"))
 
 
 #figure 7 -- int by building
@@ -90,7 +90,7 @@ ggplot(bar.mfw.int, aes(factor(type1), y=perc, fill=medium)) +
   xlab("") +
   ggtitle("INT Words by Type of Building") +
   coord_flip() +
-  scale_fill_brewer(palette="Pastel2")
+  scale_fill_manual(values = c("dodgerblue3", "springgreen3"))
 
 #Figure 7 -- ext by type
 bar.mfw.ext$type1 <- factor(bar.mfw.ext$type1, levels = bar.mfw.ext$type1[order(bar.mfw.ext$perc, decreasing = FALSE)])
@@ -99,8 +99,9 @@ ggplot(bar.mfw.ext, aes(reorder(type1, -perc), y=perc, fill=medium)) +
   geom_bar(stat="identity", position=position_dodge()) +
   ylab("Percentage of Total Scenes") +
   xlab("") +
+  ggtitle("EXT Words by Type of Building") +
   coord_flip() +
-  scale_fill_brewer(palette="Pastel2")
+  scale_fill_manual(values = c("dodgerblue3", "springgreen3"))
 
 #figure 8 - domestic v work
 
@@ -113,10 +114,9 @@ domvwork <- data.frame(medium, type, perc)
 
 ggplot(domvwork, aes(type, perc, fill=medium)) + 
   geom_bar(stat="identity", position= position_dodge()) +
-  ylab("Percentage of Total Scenes") + 
+  ylab("Percentage of Total Scenes") +
   xlab("") +
-  coord_flip() +
-  scale_fill_brewer(palette="Pastel2") 
+  scale_fill_manual(values = c("springgreen3","dodgerblue3"))
 
 
 

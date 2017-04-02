@@ -15,6 +15,11 @@ film.int <- subset(all.film, date>1989 & date<2016, select=c(medium, title, genr
 shapiro.test(film.int$int.percent)
 shapiro.test(tv.int$int.percent)
 
+#not normal
+sd(film.int$int.percent)
+sd(tv.int$int.percent)
+t.test(film.int$int.percent,tv.int$int.percent,alternative="less", var.equal=TRUE)
+
 hist(film.int$int.percent)
 hist(tv.int$int.percent)
 
@@ -36,7 +41,7 @@ boxplot.genre <- ggplot(mydata, aes(factor(genre), int.percent))
 
 #boxplot total tv v film
 boxplot.medium + geom_boxplot(outlier.shape = NA, aes(fill=factor(medium))) + 
-  scale_fill_brewer(palette="Pastel2") + 
+  scale_fill_manual(values = c("springgreen3", "dodgerblue3")) + 
   ggtitle(title_all) + 
   guides(fill=FALSE) +
   stat_summary(geom = "crossbar", width=0.65, fatten=0, color="white", 
@@ -52,7 +57,7 @@ boxplot.medium + geom_boxplot(outlier.shape = NA, aes(fill=factor(medium))) +
 
 ## BOXPLOTS IN EMAIL
 boxplot.genre + geom_boxplot(outlier.shape = NA, aes(fill=factor(medium))) + 
-  scale_fill_brewer(palette="Pastel2") + 
+  scale_fill_manual(values = c("springgreen3", "dodgerblue3")) + 
   ggtitle(title_genre) +
   theme(axis.title.x=element_blank(),
         axis.title.y=element_blank(),
